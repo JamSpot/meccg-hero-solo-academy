@@ -1,3 +1,3 @@
-# Test
+# Academy Draft
 
-Academy draft.
+This page is a placeholder for the next teaching module.
