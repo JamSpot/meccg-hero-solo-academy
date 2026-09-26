@@ -1,0 +1,8 @@
+title: MECCG Hero Solo Academy
+description: A practical solo-learning system for Hero play in Middle-earth CCG
+theme: minima
+baseurl: /meccg-hero-solo-academy
+url: https://jamspot.github.io
+markdown: kramdown
+plugins:
+  - jekyll-feed
