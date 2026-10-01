@@ -1,6 +1,6 @@
-# Hero Solo Academy — Movement, Route & Hazard Draft
+# Hero Solo Academy — Movement, Route, Hazard & Practice Draft
 
-## Research baseline — 30 September 2026
+## Research baseline — 1 October 2026
 
 This chapter separates three things that are often confused:
 
@@ -217,6 +217,57 @@ Route A is safer but leaves the company badly positioned for the next objective.
 **Question:** Which route is better?
 
 **Lesson:** Position value is part of route value.
+
+## 11. New practice scenarios — Hero/Hazard interaction
+
+### Scenario 9 — The Hazard Budget
+The Hero company has already suffered one wound and has two key characters tapped.
+
+**Question:** Should the Hazard player spend a strong creature now, or preserve it for a later movement where its keying is better?
+
+**Lesson:** Hazard cards have timing value. A legal play now is not necessarily the best use of the card.
+
+### Scenario 10 — The False Target
+A high-prowess character appears to be the obvious target, but removing a lower-prowess character would prevent the company from meeting an important requirement.
+
+**Question:** Which target changes the expedition more?
+
+**Lesson:** Evaluate consequences, not headline statistics.
+
+### Scenario 11 — The Recovery Window
+The company has reached a safe destination but several characters are tapped.
+
+**Question:** Is the immediate objective more valuable than restoring the company before moving again?
+
+**Lesson:** Recovery is part of movement planning.
+
+### Scenario 12 — The Overloaded Company
+The company has acquired its objective but is carrying several unresolved risks.
+
+**Question:** Is adding another objective worth delaying consolidation?
+
+**Lesson:** Objective value must be balanced against accumulated expedition risk.
+
+### Scenario 13 — The Route Reveal
+Two routes have equal travel length, but one exposes a region type that the Hazard deck strongly exploits.
+
+**Question:** What information should influence the movement declaration?
+
+**Lesson:** Know the complementary Hazard deck well enough to recognise dangerous exposure before committing.
+
+### Scenario 14 — The Empty Hand
+The Hero player has few useful cards remaining in hand.
+
+**Question:** Does a safe site become more valuable even if it produces fewer immediate points?
+
+**Lesson:** Resource recovery can outweigh short-term scoring.
+
+### Scenario 15 — The Failed Expedition
+The company has lost too much value to continue safely.
+
+**Question:** What does a good Captain do?
+
+**Lesson:** Aborting an expedition can preserve campaign value. Not every objective must be completed on the first attempt.
 
 ## Academy summary
 
