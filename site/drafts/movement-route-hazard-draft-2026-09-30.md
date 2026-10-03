@@ -1,12 +1,12 @@
 # Hero Solo Academy — Movement, Route, Hazard & Practice Draft
 
-## Research baseline — 1 October 2026
+## Research baseline — 3 October 2026
 
 This chapter separates three things that are often confused:
 
 **Movement route ≠ site path ≠ Hazard exposure.**
 
-The current rules support teaching movement as a decision system rather than as a simple map exercise.
+The Academy uses the historical Pallando Dwarven Quest Challenge Deck as a benchmark, but does not require copying its full 110-card list. The historical player aid identifies Thorin II controlling Dori and Kili, Gloin controlling Oin, and the core acceleration package of Bounty of the Hoard, Lucky Search and Thror's Map. It also describes Fellowship for corruption protection, early avoidance, and a creature-swarm Hazard strategy. 
 
 ## 1. The six-gate movement decision
 
@@ -25,31 +25,23 @@ Before moving a company, ask:
 
 ## 2. Region Movement: the four-region drill
 
-Under the normal Region Movement limitation, a company may lay down no more than four region cards. Both the origin and destination count.
+Under normal Region Movement, a company may lay down no more than four region cards. Both the origin and destination count.
 
-Therefore:
+**A → B → C → D = four regions.**
 
-**A → B → C → D** = four regions.
+**A → B → C → D → E = five regions and is not a normal legal Region Movement path.**
 
-**A → B → C → D → E** = five regions and is not a normal legal Region Movement path.
-
-A repeated region is also not a valid way to stretch the route.
-
-The Academy drill is simple: physically count the region cards, not the number of arrows on a map.
+A repeated region is not a valid way to stretch the route.
 
 ## 3. Maps are aids, not authority
 
-The Council of Elrond's current Official Tournament Policies state that region-card text takes precedence over maps. A pair of regions that appears adjacent on a map is not necessarily adjacent for game purposes.
+Current official rules/policies make region-card text authoritative when it differs from a map.
 
 **Captain's habit:** when a route matters, verify the region cards rather than trusting the picture.
 
 ## 4. Site path is information
 
-For Region Movement, the region cards laid down define the region types available for creature keying. This means route selection changes the Hazard player's legal options.
-
-That creates a second cost to movement:
-
-**information cost.**
+For Region Movement, the declared region path changes the creature-keying information available to the Hazard player.
 
 Two routes can reach the same destination while presenting different Hazard exposure.
 
@@ -60,8 +52,6 @@ The Hazard Limit is a ceiling, not a requirement to spend every available card.
 The Hazard procedure is:
 
 **LEGALITY → CRITICAL CHARACTER → DISRUPTION → SEQUENCING → PRESSURE BUDGET**
-
-### Critical-character test
 
 Ask:
 
@@ -77,206 +67,163 @@ The Apprentice Hero Resource deck is taught in seven functions:
 
 **MOVE → AVOID → SURVIVE → FIGHT → ACQUIRE → COMPRESS → DEVELOP**
 
-The important question is not “What does this card do?”
-
-It is:
+The important question is:
 
 > **What expedition problem does this card solve, and what future value am I spending to solve it now?**
 
-### Stored value
+### Core teaching package
 
-A card such as Thror's Map can have strategic value while remaining unplayed. The Academy therefore teaches students to recognise **stored value** rather than equating “played” with “useful.”
+The first physical deck should prioritise:
 
-### Expedition compression
+- **Book of Mazarbul** — objective transformation.
+- **Fellowship** — corruption management and future protection.
+- **Concealment / Not at Home** — avoidance and preservation of future turns.
+- **Marvels Told** — hazard interaction and timing.
+- **Great-road** — movement efficiency.
+- **Bounty of the Hoard** — expedition/resource compression.
+- **Lucky Search** — site-specific opportunity and risk/reward.
+- **Thror's Map** — stored value and route/resource planning.
+- **A Friend or Three** — company development.
+- **Smoke Rings** — flexibility and future options.
+- **Risky Blow** — combat decision-making.
 
-Cards such as Bounty of the Hoard and Lucky Search are taught as tools for making one expedition accomplish more than one useful job.
+The historical player guide specifically describes Bounty of the Hoard, Lucky Search and Thror's Map as the Dwarven deck's acceleration package and warns that Thror's Map should not be casually discarded.
 
 ## 7. Complementary Hazard deck
 
-The Hazard deck should create pressure that teaches the Hero player to improve rather than simply punish them randomly.
+The first Hazard deck should teach rather than simply maximise kills.
 
-The progression is:
+### Creature teaching core
 
-**frequency → amplification → sequencing → strategic disruption**
+Use a manageable creature package based on the historical Dwarven Quest philosophy:
 
-A good solo Hazard decision is not necessarily the attack that kills a character. It is the play that most reduces the company's ability to complete its objective.
+- Cave Worm
+- Giant Spiders
+- Lesser Spiders
+- Wargs
+- Watcher in the Water
+
+### Amplification
+
+- Full of Froth and Rage
+- Wake of War
+
+### Non-creature pressure
+
+- River
+- Despair of the Heart
+- Seized by Terror
+- Twilight
+
+The lesson is to sequence pressure rather than automatically spend every legal Hazard.
 
 ## 8. Route example: Rivendell → Moria
 
-**Objective:** Acquire the Book of Mazarbul.
+**Objective:** acquire Book of Mazarbul.
 
-**Start:** Rivendell.
+Evaluate:
 
-**Destination:** Moria.
+**Legality → exposure → arrival condition → combat risk → recovery → next objective**
 
-**Movement:** Region Movement where available.
+After acquiring the Book, stop and recalculate.
 
-**Teaching questions:**
-
-- What is the legal route?
-- What regions will be exposed?
-- Which creatures become legal?
-- Who is the critical character?
-- Is entering Moria worth the current risk?
-- What is the recovery plan?
-- What is the next objective after the Book is acquired?
-
-The final question is deliberately the most important.
-
-### Objective transformation
-
-The expedition changes when the Book is acquired.
-
-Before acquisition:
+The expedition changes from:
 
 **ACQUIRE**
 
-After acquisition:
+to:
 
-**SECURE / CONSOLIDATE**
-
-A player who continues following the original plan without reassessing has failed an important Academy test.
+**SECURE → CONSOLIDATE → REPOSITION**
 
 ## 9. Route example: same destination, different exposure
 
-When two legal routes reach the same destination, compare them on:
+When two legal routes reach the same site, compare:
 
 | Factor | Route A | Route B |
 |---|---|---|
 | Legality | ✓ | ✓ |
-| Destination value | Same | Same |
-| Region exposure | Lower | Higher |
+| Length | Equal | Equal |
 | Creature exposure | Lower | Higher |
-| Future position | Better | Worse |
-| Recovery options | Better | Worse |
+| Recovery | Better | Worse |
+| Next objective | Strong | Weak |
+| Immediate danger | Lower | Higher |
 
-The answer is not automatically “take the safer route.”
-
-The answer is:
+Do not memorise “always take the safe route.”
 
 > **Choose the route whose total expedition value is highest.**
 
 ## 10. Practice scenarios
 
 ### Scenario 1 — Four Means Four
-You propose a route using five region cards.
+Five region cards are proposed.
 
-**Question:** Is it legal under normal Region Movement?
-
-**Lesson:** Count cards, including origin and destination.
+**Lesson:** count cards, including origin and destination.
 
 ### Scenario 2 — The Map Trap
-The map appears to show two regions touching.
+The map suggests adjacency but region-card text differs.
 
-**Question:** What decides adjacency?
+**Lesson:** use the authoritative region rule.
 
-**Lesson:** Region-card text takes precedence over the map.
+### Scenario 3 — Stored Value
+Thror's Map is playable but has little immediate value.
 
-### Scenario 3 — Same Destination
-Two routes reach the same site.
+**Lesson:** a card can be valuable while remaining unplayed.
 
-Route A exposes two useful region types to the Hazard player.
+### Scenario 4 — Avoidance
+A strong creature attacks a vulnerable company.
 
-Route B exposes four.
+**Lesson:** compare avoidance, combat and post-combat state.
 
-**Question:** Which has lower information cost?
+### Scenario 5 — Hazard Budget
+Five Hazard cards are legal.
 
-**Lesson:** A route has an exposure cost.
+**Lesson:** five legal cards do not imply five good plays.
 
-### Scenario 4 — Five Hazards
-You have five legal Hazard cards and a Hazard Limit of five.
+### Scenario 6 — Critical Character
+The strongest fighter is not required for the next objective.
 
-**Question:** Must you play all five?
+**Lesson:** objective importance can beat raw prowess.
 
-**Lesson:** No. Hazard Limit is a ceiling. Maximise disruption, not card expenditure.
+### Scenario 7 — Objective Transformation
+Book of Mazarbul is acquired.
 
-### Scenario 5 — The Critical Character
-Your strongest fighter is safe, but the character who controls the key ally is vulnerable.
+**Lesson:** re-plan immediately.
 
-**Question:** Who is the real target?
+### Scenario 8 — Recovery
+The company can press on or recover.
 
-**Lesson:** Importance beats raw prowess.
+**Lesson:** compare immediate gain with future-turn risk.
 
-### Scenario 6 — The Book Changes Everything
-The company acquires the Book of Mazarbul.
+### Scenario 9 — Compression
+Two MP-producing opportunities can be combined.
 
-**Question:** What should be reassessed immediately?
+**Lesson:** look for plays that make one expedition accomplish multiple jobs.
 
-**Lesson:** Objective transformation. Recalculate route, risk, recovery and next position.
+### Scenario 10 — Abort
+The company has wounds, tapped characters and poor cards.
 
-### Scenario 7 — One More Site
-The company can recover now or attempt one more productive site.
+**Lesson:** controlled retreat can preserve campaign value.
 
-**Question:** What determines the answer?
+## 11. Physical-card acquisition tiers
 
-**Lesson:** Compare expected expedition value against the risk and recovery cost.
+### Tier 1 — Play immediately
+Prioritise the Dwarven starting company, the chosen Hero/Wizard teaching setup, Book of Mazarbul, core movement/avoidance resources, a small creature Hazard package, and the sites/regions needed for the first route.
 
-### Scenario 8 — The Safe Dead End
-Route A is safer but leaves the company badly positioned for the next objective. Route B is slightly more dangerous but creates a much stronger follow-up.
+### Tier 2 — Strongly recommended
+Add Bounty of the Hoard, Lucky Search, Thror's Map, Fellowship, Marvels Told, Great-road, Not at Home, A Friend or Three, Smoke Rings and combat support.
 
-**Question:** Which route is better?
+### Tier 3 — Campaign expansion
+Add more Dwarves, item options, allies/factions and alternate routes.
 
-**Lesson:** Position value is part of route value.
+### Tier 4 — Advanced
+Introduce Dragons and more sophisticated Hazard interactions after the first expedition is reliable.
 
-## 11. New practice scenarios — Hero/Hazard interaction
+## Academy stopping rule
 
-### Scenario 9 — The Hazard Budget
-The Hero company has already suffered one wound and has two key characters tapped.
+Do not delay Game 1 while collecting the complete historical Challenge Deck.
 
-**Question:** Should the Hazard player spend a strong creature now, or preserve it for a later movement where its keying is better?
+The target is a **minimum playable teaching pool** first. Once that pool is physically assembled, play begins and the deck evolves through actual games.
 
-**Lesson:** Hazard cards have timing value. A legal play now is not necessarily the best use of the card.
+## Research basis
 
-### Scenario 10 — The False Target
-A high-prowess character appears to be the obvious target, but removing a lower-prowess character would prevent the company from meeting an important requirement.
-
-**Question:** Which target changes the expedition more?
-
-**Lesson:** Evaluate consequences, not headline statistics.
-
-### Scenario 11 — The Recovery Window
-The company has reached a safe destination but several characters are tapped.
-
-**Question:** Is the immediate objective more valuable than restoring the company before moving again?
-
-**Lesson:** Recovery is part of movement planning.
-
-### Scenario 12 — The Overloaded Company
-The company has acquired its objective but is carrying several unresolved risks.
-
-**Question:** Is adding another objective worth delaying consolidation?
-
-**Lesson:** Objective value must be balanced against accumulated expedition risk.
-
-### Scenario 13 — The Route Reveal
-Two routes have equal travel length, but one exposes a region type that the Hazard deck strongly exploits.
-
-**Question:** What information should influence the movement declaration?
-
-**Lesson:** Know the complementary Hazard deck well enough to recognise dangerous exposure before committing.
-
-### Scenario 14 — The Empty Hand
-The Hero player has few useful cards remaining in hand.
-
-**Question:** Does a safe site become more valuable even if it produces fewer immediate points?
-
-**Lesson:** Resource recovery can outweigh short-term scoring.
-
-### Scenario 15 — The Failed Expedition
-The company has lost too much value to continue safely.
-
-**Question:** What does a good Captain do?
-
-**Lesson:** Aborting an expedition can preserve campaign value. Not every objective must be completed on the first attempt.
-
-## Academy summary
-
-The player is learning to stop asking:
-
-> “Can I get there?”
-
-and start asking:
-
-> “What does getting there do to my whole campaign?”
-
-That is the transition from rules competence to Captain-level play.
+The Council of Elrond official rules/card database remains the rules authority. The historical MECCG Challenge Deck player aid is the strategic benchmark. The MECCG community card database is used for card/set verification.
