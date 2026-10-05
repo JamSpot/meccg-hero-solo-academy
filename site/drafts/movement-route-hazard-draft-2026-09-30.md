@@ -6,7 +6,7 @@ This chapter separates three things that are often confused:
 
 **Movement route ≠ site path ≠ Hazard exposure.**
 
-The Academy uses the historical Pallando Dwarven Quest Challenge Deck as a benchmark, but does not require copying its full 110-card list. The historical player aid identifies Thorin II controlling Dori and Kili, Gloin controlling Oin, and the core acceleration package of Bounty of the Hoard, Lucky Search and Thror's Map. It also describes Fellowship for corruption protection, early avoidance, and a creature-swarm Hazard strategy. citeturn0search22
+The Academy uses the historical Pallando Dwarven Quest Challenge Deck as a benchmark, but does not require copying its full 110-card list. The historical player aid identifies Thorin II controlling Dori and Kili, Gloin controlling Oin, and the core acceleration package of Bounty of the Hoard, Lucky Search and Thror's Map. It also describes Fellowship for corruption protection, early avoidance, and a creature-swarm Hazard strategy.
 
 ## 1. The six-gate movement decision
 
@@ -29,7 +29,7 @@ The Academy uses **free movement** as a teaching phrase for movement where the H
 
 It does **not** mean unlimited movement.
 
-The normal Region Movement rule is still a maximum of four consecutive regions, including both the origin and destination, with no repeated region. The current Council rules explicitly define this limit. citeturn1search0
+The normal Region Movement rule is still a maximum of four consecutive regions, including both the origin and destination, with no repeated region. The current Council rules explicitly define this limit.
 
 So:
 
@@ -45,9 +45,9 @@ This distinction is central to the Academy.
 
 ### Starter Movement
 
-Starter Movement is the structured route between sites based on the nearest-haven relationships printed on the site cards. The current rules allow it when the appropriate haven relationship is listed, or when both sites are havens with a listed site path to one another. citeturn1search0
+Starter Movement is the structured route between sites based on the nearest-haven relationships printed on the site cards. The current rules allow it when the appropriate haven relationship is listed, or when both sites are havens with a listed site path to one another.
 
-For beginners, Starter Movement has an important advantage: its company site path normally identifies only the origin and destination region names, rather than naming every intervening region. The Council explicitly describes this as typically safer for beginners. citeturn1search1
+For beginners, Starter Movement has an important advantage: its company site path normally identifies only the origin and destination region names, rather than naming every intervening region. The Council explicitly describes this as typically safer for beginners.
 
 ### Region Movement
 
@@ -57,7 +57,7 @@ But that freedom creates a cost:
 
 > **Every named region in the Region Movement path is information available to the Hazard player.**
 
-The current rules state that the Region Movement site path contains the types **and names of all regions being moved through**. citeturn1search1
+The current rules state that the Region Movement site path contains the types **and names of all regions being moved through**.
 
 ### Academy rule of thumb
 
@@ -96,7 +96,7 @@ This is an important advanced rule.
 
 The site path is used to determine what Hazards may key to the company. It does not physically move the company across the map.
 
-For Region Movement, the declared site path can be different from the site's printed site path, provided the declared route was legal when movement was declared. citeturn1search1
+For Region Movement, the declared site path can be different from the site's printed site path, provided the declared route was legal when movement was declared.
 
 This produces a useful Academy distinction:
 
@@ -108,7 +108,7 @@ The two concepts interact, but they are not identical.
 
 ## 7. Hazard exposure
 
-Creature Hazards can key to matching region types/names in the company's site path or to the new site's type/name. Multiple matching region symbols can require multiple occurrences of that region type. citeturn1search1
+Creature Hazards can key to matching region types/names in the company's site path or to the new site's type/name. Multiple matching region symbols can require multiple occurrences of that region type.
 
 Therefore, route planning must include a Hazard forecast:
 
@@ -124,7 +124,7 @@ Therefore, route planning must include a Hazard forecast:
 
 The Hazard Limit is a ceiling, not a requirement to spend every available card.
 
-The base Hazard Limit is set when the company's Movement/Hazard Phase begins: company size or two, whichever is greater, rounded up. If the Hazard player accessed the sideboard during that turn's untap phase, the base limit is halved, rounded up. The limit then remains fixed for that phase even if the company changes size. citeturn1search1
+The base Hazard Limit is set when the company's Movement/Hazard Phase begins: company size or two, whichever is greater, rounded up. If the Hazard player accessed the sideboard during that turn's untap phase, the base limit is halved, rounded up. The limit then remains fixed for that phase even if the company changes size.
 
 The Academy Hazard procedure is:
 
@@ -165,7 +165,7 @@ The first physical deck should prioritise:
 - **Smoke Rings** — flexibility and future options.
 - **Risky Blow** — combat decision-making.
 
-The historical player guide specifically describes Bounty of the Hoard, Lucky Search and Thror's Map as the Dwarven deck's acceleration package and warns that Thror's Map should not be casually discarded. citeturn0search1turn0search22
+The historical player guide specifically describes Bounty of the Hoard, Lucky Search and Thror's Map as the Dwarven deck's acceleration package and warns that Thror's Map should not be casually discarded.
 
 ## 10. Complementary Hazard deck
 
@@ -193,7 +193,7 @@ Use a manageable creature package based on the historical Dwarven Quest philosop
 - Seized by Terror
 - Twilight
 
-The historical deck's Hazard strategy was explicitly based around Animals and Wolves, with Full of Froth and Rage and Wake of War as amplifiers. citeturn0search22
+The historical deck's Hazard strategy was explicitly based around Animals and Wolves, with Full of Froth and Rage and Wake of War as amplifiers.
 
 For the Academy, however, the Hazard deck is deliberately treated as a **teaching opponent**, not as an attempt to recreate the most oppressive possible tournament Hazard deck.
 
