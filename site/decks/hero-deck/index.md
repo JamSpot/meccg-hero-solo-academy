@@ -5,37 +5,141 @@ title: Hero Deck Construction
 
 # Hero Deck Construction — Beginner Guide
 
+## The exact teaching card list
+
+For **Game 1 and the first Academy lessons**, use the historical **Dwarven Quest (Pallando) Challenge Deck C** as our verified teaching baseline.
+
+This is a genuine-card list: **no proxies are intended**. If you do not own a card, mark it as a card to obtain rather than substituting a random card.
+
+### 30 Hero resource cards
+
+| Quantity | Card |
+|---:|---|
+| 2 | A Friend or Three |
+| 1 | Book of Mazarbul |
+| 1 | Bounty of the Hoard |
+| 1 | Bow of Dragon-horn |
+| 3 | Concealment |
+| 1 | Durin's Axe |
+| 1 | Enruned Shield |
+| 2 | Fellowship |
+| 1 | Gollum |
+| 1 | Great-road |
+| 1 | Hauberk of Bright Mail |
+| 1 | Hundreds of Butterflies |
+| 1 | Iron Hill Dwarves |
+| 1 | Lucky Search |
+| 1 | Magical Harp |
+| 1 | Marvels Told |
+| 1 | Men of Dorwinion |
+| 2 | Not at Home |
+| 1 | Quickbeam |
+| 1 | Risky Blow |
+| 1 | Smoke Rings |
+| 2 | The Dwarves Are Upon You! |
+| 1 | Thror's Map |
+| 1 | Wormsbane |
+| **30** | **Total** |
+
+**Important correction:** an earlier version of this page described this as a 30-card package but the written list accidentally counted 31 because *Men of Dorwinion* was duplicated. The verified Challenge Deck list contains **one** copy, making the resource deck exactly 30 cards.
+
+## Starting company
+
+Start at **Rivendell**:
+
+- Thorin II — with Cram
+- Dori
+- Kíli
+- Glóin
+- Óin — with Cram
+
+Control relationships:
+
+- Thorin II controls Dori and Kíli.
+- Glóin controls Óin.
+
+## Other characters
+
+The historical Challenge Deck character pool contains:
+
+- Balin
+- Boromir II
+- Celeborn
+- Fíli
+- Gildor Inglorion
+- Pallando ×3
+
+For the Academy, these are introduced gradually rather than all being put into the starting company.
+
+## 15 site cards
+
+Use these sites for the historical teaching deck:
+
+1. Blue Mountain Dwarf-hold
+2. Buhr Widu
+3. Caves of Ûlund
+4. Dead Marshes
+5. Goblin-gate
+6. Grey Havens
+7. Iron Hill Dwarf-hold
+8. Lórien
+9. Moria
+10. Ovir Hollow
+11. Rivendell
+12. Sarn Goriwing
+13. Shrel-Kain
+14. The Lonely Mountain
+15. Wellinghall
+
+Keep the Location deck separate from the shuffled Hero resource deck.
+
+## Sideboard
+
+The historical deck also has a 20-card sideboard. We will **not** need the whole sideboard for Game 1.
+
+### Resources
+
+- Blue Mountain Dwarves
+- Gates of Morning ×2
+- Marvels Told ×2
+- Not at Home
+- Promptings of Wisdom ×2
+- The Old Thrush
+
+### Hazards
+
+- Covetous Thoughts ×2
+- Foolish Words ×2
+- Ghosts ×3
+- Lost in Free-domains
+- Muster Disperses
+- Twilight
+
+### Backup Wizard
+
+- Saruman
+
+The Academy will teach sideboarding later. Do not mix these cards into the 30-card Hero resource deck.
+
+---
+
 ## First: what you are actually building
 
 For the Academy, think of the Hero setup as **several separate components**, not one giant deck.
 
 1. **Location deck** — sites available for movement.
-2. **Hero play deck** — resources plus characters/avatar as required.
-3. **Sideboard** — advanced reserve cards.
-4. **Character pool** — possible starting/recruitable characters.
+2. **Hero play deck** — the 30 Hero resources for the teaching game.
+3. **Character pool** — possible starting/recruitable characters.
+4. **Sideboard** — advanced reserve cards.
 5. **Hero discard pile** — cards that leave the play deck during the game.
 
-The location deck is separate from the shuffled play deck. Official rules allow one copy of each non-Haven site and any number of Haven sites in a Wizard player's location deck. The play deck normally contains 30–50 resources, an equal number of hazards, up to 10 non-avatar characters and up to three avatars, subject to the detailed construction restrictions.
+The location deck is separate from the shuffled play deck.
 
-For **Game 1**, ignore the full construction burden and use the Academy's 30-resource teaching package and specified starting company.
+For **Game 1**, do not add cards just because you own them. Use the exact teaching list above so the lessons and examples match what is on the table.
 
-## Physical layout
+## What the teaching deck is trying to do
 
-Put the Hero deck on the left side of your playing area.
-
-Place the Hero discard immediately beside it.
-
-Place the current company in the centre.
-
-Keep the Location deck above the company.
-
-Keep the sideboard and character pool off to the side, clearly labelled.
-
-Do not mix any of these piles.
-
-## What the 30-resource teaching deck is trying to do
-
-The historical Dwarven package is used because it gives us a coherent teaching curve:
+The deck gives us a coherent learning curve:
 
 **MOVE → AVOID → SURVIVE → FIGHT → ACQUIRE → COMPRESS → DEVELOP**
 
@@ -81,19 +185,32 @@ The point is that you can explain **why every card is present**.
 
 ## How to physically construct it
 
-1. Find the required cards.
-2. Check each card's quantity.
-3. Put all Hero resources into one pile.
-4. Add the required characters/avatar according to the setup.
-5. Check that you have not accidentally included Hazard cards.
-6. Shuffle the Hero play deck.
-7. Keep the Location deck separate.
-8. Keep the sideboard separate.
-9. Keep the unused collection away from the table.
+1. Find the 30 resource cards listed above.
+2. Check every quantity.
+3. Put those Hero resources into one pile.
+4. Keep the starting characters separate until setup.
+5. Keep the other characters separate.
+6. Assemble the 15 site cards as the Location deck.
+7. Keep the sideboard separate.
+8. Check that no Hazard cards have been mixed into the Hero resource deck.
+9. Shuffle the 30-card Hero resource deck.
+10. Do **not** shuffle the Location deck.
 
-Do not shuffle the Location deck.
+## Physical table layout
 
-Do not shuffle the sideboard into the play deck.
+Put the Hero resource deck on the left.
+
+Place the Hero discard immediately beside it.
+
+Place the current company in the centre.
+
+Keep the Location deck above the company.
+
+Keep the character pool and sideboard off to the side.
+
+Keep the Hazard deck and Hazard discard on the opposite side of the table.
+
+Do not mix any of these piles.
 
 ## Hand management
 
@@ -105,15 +222,15 @@ Before discarding a card, ask:
 
 > Is this card useless now, or merely not useful yet?
 
-This is particularly important for cards such as **Thror's Map**, whose value can be future expedition compression.
+This is particularly important for cards such as **Thror's Map**, whose value may be future expedition compression.
 
-## Starting company versus deck
+## Starting company versus character pool
 
-Do not confuse the **starting company** with the entire character portion of your deck.
+Do not confuse the **starting company** with the entire character portion of the deck.
 
 The company is the group actually beginning the game.
 
-Your pool and remaining character cards represent future recruitment/development options.
+The remaining characters are future recruitment/development options.
 
 That distinction becomes important as soon as the Academy moves beyond Game 1.
 
@@ -121,7 +238,7 @@ That distinction becomes important as soon as the Academy moves beyond Game 1.
 
 Do not buy a card simply because it is “good.”
 
-Buy it because it fills a known role in the Academy:
+Buy it because it fills a known Academy role:
 
 - required for Game 1;
 - improves the core Hero deck;
@@ -131,19 +248,36 @@ Buy it because it fills a known role in the Academy:
 
 This keeps genuine-card acquisition focused and prevents the collection from becoming the project.
 
-## Construction checklist
+## Game 1 acquisition checklist
 
-Before Game 1:
+### Hero resources
 
-- [ ] 30 Hero resources assembled
-- [ ] Starting company assembled
-- [ ] Location cards assembled
-- [ ] Hero discard area marked
-- [ ] Character pool separated
-- [ ] Sideboard separated
-- [ ] No Hazard cards mixed in
-- [ ] Hero deck shuffled
+- [ ] All 30 resource cards assembled
+- [ ] Quantities checked against the table above
+- [ ] No duplicate Men of Dorwinion
+- [ ] Hero resource deck shuffled
+
+### Characters
+
+- [ ] Thorin II
+- [ ] Dori
+- [ ] Kíli
+- [ ] Glóin
+- [ ] Óin
+- [ ] Cram for Thorin II
+- [ ] Cram for Óin
+
+### Locations
+
+- [ ] 15 site cards assembled
+- [ ] Location deck kept separate
 - [ ] Location deck not shuffled
-- [ ] Hazard deck separate
 
-When all ten boxes are checked, you are ready to play.
+### Other
+
+- [ ] Character pool separate
+- [ ] Sideboard separate
+- [ ] Hazard deck separate
+- [ ] Hero discard area marked
+
+When these boxes are checked, you have the actual physical card set needed to begin Game 1.
