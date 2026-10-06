@@ -5,6 +5,32 @@ title: Hazard Deck Construction
 
 # Hazard Deck Construction — Beginner Guide
 
+## The exact teaching Hazard list
+
+For **Game 1 and the first Academy lessons**, use the verified 30-card Hazard portion of the historical **Dwarven Quest (Pallando) Challenge Deck C**.
+
+Again, these are genuine physical cards. **No proxies are intended.**
+
+### 30 Hazard cards
+
+| Quantity | Card |
+|---:|---|
+| 3 | Cave Worm |
+| 3 | Despair of the Heart |
+| 3 | Full of Froth and Rage |
+| 3 | Giant Spiders |
+| 3 | Lesser Spiders |
+| 2 | Neeker-breekers |
+| 2 | River |
+| 2 | Seized by Terror |
+| 2 | Twilight |
+| 2 | Wake of War |
+| 2 | Wargs |
+| 3 | Watcher in the Water |
+| **30** | **Total** |
+
+This is the complete teaching Hazard deck. There are no missing cards from the 30-card list.
+
 ## What the Hazard deck is
 
 The Hazard deck is the opponent's toolbox.
@@ -31,65 +57,61 @@ in their own clearly marked areas.
 
 Never mix the Hazard discard with the Hero discard.
 
-## The 30-card Training Hazard deck
+## Why this particular Hazard mix?
 
-### Creatures
+The historical Dwarven Quest strategy is deliberately straightforward:
 
-- Cave Worm ×3
-- Giant Spiders ×3
-- Lesser Spiders ×3
-- Neeker-breekers ×2
-- Wargs ×2
-- Watcher in the Water ×3
+- frequent creature attacks;
+- Spider and Watcher pressure;
+- amplification with **Full of Froth and Rage** and **Wake of War**;
+- roadblock effects from cards such as **River**;
+- enough event cards to teach disruption rather than simply throwing creatures at the company.
 
-### Events
-
-- Despair of the Heart ×3
-- Full of Froth and Rage ×3
-- River ×2
-- Seized by Terror ×2
-- Twilight ×2
-- Wake of War ×2
-
-This 30-card teaching package follows the historical Dwarven Quest approach while deliberately remaining readable for a new solo player.
+This gives the beginner repeated practice at deciding **what matters most**, rather than learning a random collection of unrelated Hazards.
 
 ## The full-game construction rule
 
-For standard Wizard deck construction, the play deck contains an equal number of resources and Hazards, with 30–50 of each. The Hazard portion must also contain at least 12 creatures under the official creature-counting rules.
+For the Academy's first lessons, use the exact 30-card list above.
 
-The Academy starts at **30 Hazards** so that the first solo games remain compact.
+Later, when we build a larger general-purpose Wizard Hazard deck, we will cover the standard construction rules and the reasons for increasing the deck size.
+
+Do not change the deck before Game 1 just to make it “stronger.”
+
+The purpose of Game 1 is to learn the system.
 
 ## How to physically construct it
 
 1. Find the 30 listed Hazard cards.
-2. Check quantities.
-3. Put them in one pile.
-4. Confirm there are at least 12 qualifying creatures for the teaching format.
-5. Shuffle thoroughly.
-6. Put the Hazard discard beside it.
-7. Keep the Hazard sideboard separate.
-8. Do not reveal the deck order.
+2. Check every quantity.
+3. Put them into one pile.
+4. Shuffle thoroughly.
+5. Put the Hazard discard beside it.
+6. Keep any sideboard cards separate.
+7. Keep the Hero deck on the opposite side of the table.
+8. Do not reveal or pre-arrange the deck order.
 
 ## How to play the Hazard deck in solo mode
 
 When the Hero company moves:
 
-1. Determine what Hazards are available under the solo procedure.
+1. Determine the solo Hazard draw.
 2. Draw the required number.
-3. Separate playable from unplayable cards.
-4. Identify the company's critical vulnerability.
-5. Play the strongest **legal and strategically meaningful** combination.
-6. Stop when the relevant Hazard Limit has been reached.
-7. Discard the unused drawn Hazards as required by the solo rules.
+3. Identify which cards are legally playable.
+4. Identify the company's most important vulnerability.
+5. Choose a strategically meaningful sequence.
+6. Respect the Hazard Limit.
+7. Discard the remaining cards as required by the solo rules.
+
+The Hazard player is trying to make the Hero expedition **less successful**, not simply to kill a character at every opportunity.
 
 ## Do not play like an AI trying to win at all costs
 
 The teaching Hazard player should not:
 
 - exploit information the Hero player could not reasonably have;
-- deliberately choose nonsensical timing simply because it is technically legal;
+- choose nonsensical timing simply because it is technically legal;
 - automatically target the strongest character;
-- spend every possible Hazard just because it can;
+- spend every possible Hazard merely because it can;
 - introduce advanced sideboard tricks before they are taught.
 
 Instead ask:
@@ -122,7 +144,7 @@ This is how Hazard play becomes strategic rather than random.
 
 ## Later Hazard construction
 
-Once Game 1–3 are comfortable, the Academy will expand the Hazard deck into:
+Once Games 1–3 are comfortable, the Academy will expand the Hazard deck into:
 
 **frequency → amplification → sequencing → route punishment → site punishment → corruption pressure → campaign disruption**
 
@@ -130,9 +152,8 @@ Dragons are deliberately reserved for later lessons.
 
 ## Hazard construction checklist
 
-- [ ] 30 teaching Hazards assembled
-- [ ] Creature package complete
-- [ ] Events complete
+- [ ] All 30 teaching Hazards assembled
+- [ ] Quantities checked
 - [ ] Hazard discard marked
 - [ ] Hazard sideboard separate
 - [ ] Deck shuffled
@@ -140,3 +161,9 @@ Dragons are deliberately reserved for later lessons.
 - [ ] Solo draw procedure understood
 
 Then the Hazard deck is ready.
+
+## Source and verification note
+
+The exact 30-card lists on this page and the Hero page were checked against published MECCG Challenge Deck C (Dwarven Quest / Pallando) card lists.
+
+The Academy is using this historical deck as a **teaching baseline**, not claiming it is the only or best modern Hero solo deck.
