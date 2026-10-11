@@ -1,0 +1,24 @@
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+    <nav class="site-nav" aria-label="Main navigation">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+      <label for="nav-trigger">
+        <span class="menu-icon">
+          <svg viewBox="0 0 18 15" width="18px" height="15px" aria-hidden="true">
+            <path d="M18,1.484H0V0h18v1.484z M18,8.008H0V6.523h18v1.485z M18,14.531H0v-1.484h18V14.531z" fill="currentColor"></path>
+          </svg>
+        </span>
+      </label>
+      <div class="trigger">
+        <a class="page-link" href="{{ '/academy/' | relative_url }}">Start here</a>
+        <a class="page-link" href="{{ '/games/game-1/' | relative_url }}">Game 1</a>
+        <a class="page-link" href="{{ '/decks/hero-deck/' | relative_url }}">Hero deck</a>
+        <a class="page-link" href="{{ '/decks/hazard-deck/' | relative_url }}">Hazard deck</a>
+        <a class="page-link" href="{{ '/reference/free-movement/' | relative_url }}">Movement</a>
+        <a class="page-link" href="{{ '/reference/solo-ruleset/' | relative_url }}">Solo rules</a>
+        <a class="page-link" href="{{ '/scenarios/' | relative_url }}">Practice</a>
+      </div>
+    </nav>
+  </div>
+</header>
