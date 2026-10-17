@@ -7,25 +7,30 @@ title: MECCG Hero Solo Academy
 
 **Learn to think like the Captain.**
 
-A practical solo academy for Hero play in Middle-earth: The Wizards CCG, built around genuine physical cards, guided practice games and repeatable decision drills.
+A practical solo-learning course for Hero play in Middle-earth: The Wizards CCG, using genuine physical cards, guided practice games and repeatable decision drills.
 
-## Follow this path
+## Choose where to go
 
-Work through these steps in order. You do not need to read the whole site first.
+Use the navigation links above from any page. You can also jump straight into any section here:
 
-1. **Set up the table:** [Start here — The Academy](academy/).
-2. **Build the teaching decks:** [Hero Resource deck](decks/hero-deck/) and [Training Hazard deck](decks/hazard-deck/).
-3. **Play your first expedition:** [Game 1 — First Expedition](games/game-1/).
-4. **Learn movement:** [Free / Player-Directed Movement](reference/free-movement/).
-5. **Plan a route:** use the [Route Atlas](routes/) and [Movement & Route Planning](reference/movement/).
-6. **Understand the solo procedure:** [Which Solo Rules Are We Using?](reference/solo-ruleset/).
-7. **Practise and review:** [Practice Scenarios](scenarios/) and [Academy Learning Path](academy/learning-path.html).
+- **[Start here — set up your table]({{ '/academy/' | relative_url }})**
+- **[Play Game 1 — Rivendell to Moria]({{ '/games/game-1/' | relative_url }})**
+- **[Build the Hero Resource deck]({{ '/decks/hero-deck/' | relative_url }})**
+- **[Build the Training Hazard deck]({{ '/decks/hazard-deck/' | relative_url }})**
+- **[Learn free / player-directed movement]({{ '/reference/free-movement/' | relative_url }})**
+- **[Plan routes with the Route Atlas]({{ '/routes/' | relative_url }})**
+- **[Understand the solo rules used here]({{ '/reference/solo-ruleset/' | relative_url }})**
+- **[Practise with the scenario workbooks]({{ '/scenarios/' | relative_url }})**
+- **[Follow the complete Academy Learning Path]({{ '/academy/learning-path.html' | relative_url }})**
 
-## Quick reference
+## Recommended learning order
 
-- [Hazard Player](reference/hazard-player/)
-- [Route Atlas](routes/)
-- [Practice Scenarios](scenarios/)
+1. Set up the table and separate the card zones.
+2. Assemble the 30-card Hero Resource and 30-card Hazard teaching decks.
+3. Play Game 1 one decision at a time.
+4. Learn movement legality and how a route changes Hazard exposure.
+5. Practise the route and Hazard decisions with the workbooks.
+6. Reassess after acquiring Book of Mazarbul; the next expedition should have a new purpose.
 
 > **Captain's rule:** Never travel without purpose.
 
