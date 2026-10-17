@@ -1,24 +1,74 @@
 <header class="site-header" role="banner">
+  <style>
+    .site-header .wrapper {
+      display: flex;
+      flex-direction: column;
+      align-items: stretch;
+      gap: 10px;
+      padding-top: 12px;
+      padding-bottom: 12px;
+    }
+    .site-header .site-title {
+      display: block;
+      max-width: 100%;
+      font-weight: 700;
+      line-height: 1.25;
+      margin: 0;
+    }
+    .site-header .academy-nav {
+      display: flex !important;
+      flex-direction: row;
+      flex-wrap: wrap;
+      align-items: stretch;
+      gap: 8px;
+      width: 100%;
+      margin: 0;
+      padding: 10px 0 0;
+      border-top: 1px solid #d7dce2;
+    }
+    .site-header .academy-nav a {
+      display: inline-flex !important;
+      align-items: center;
+      justify-content: center;
+      min-height: 38px;
+      box-sizing: border-box;
+      padding: 7px 12px;
+      border: 1px solid #c7ced6;
+      border-radius: 6px;
+      background: #f5f7f9;
+      color: #17212b !important;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 1.3;
+      text-decoration: none;
+      white-space: normal;
+    }
+    .site-header .academy-nav a:hover,
+    .site-header .academy-nav a:focus {
+      background: #e5edf5;
+      text-decoration: underline;
+      outline-offset: 2px;
+    }
+    @media (max-width: 600px) {
+      .site-header .academy-nav a {
+        flex: 1 1 40%;
+        text-align: center;
+      }
+    }
+  </style>
   <div class="wrapper">
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
-    <nav class="site-nav" aria-label="Main navigation">
-      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-      <label for="nav-trigger">
-        <span class="menu-icon">
-          <svg viewBox="0 0 18 15" width="18px" height="15px" aria-hidden="true">
-            <path d="M18,1.484H0V0h18v1.484z M18,8.008H0V6.523h18v1.485z M18,14.531H0v-1.484h18V14.531z" fill="currentColor"></path>
-          </svg>
-        </span>
-      </label>
-      <div class="trigger">
-        <a class="page-link" href="{{ '/academy/' | relative_url }}">Start here</a>
-        <a class="page-link" href="{{ '/games/game-1/' | relative_url }}">Game 1</a>
-        <a class="page-link" href="{{ '/decks/hero-deck/' | relative_url }}">Hero deck</a>
-        <a class="page-link" href="{{ '/decks/hazard-deck/' | relative_url }}">Hazard deck</a>
-        <a class="page-link" href="{{ '/reference/free-movement/' | relative_url }}">Movement</a>
-        <a class="page-link" href="{{ '/reference/solo-ruleset/' | relative_url }}">Solo rules</a>
-        <a class="page-link" href="{{ '/scenarios/' | relative_url }}">Practice</a>
-      </div>
+    <nav class="academy-nav" aria-label="Main navigation">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/academy/' | relative_url }}">Start here</a>
+      <a href="{{ '/academy/learning-path.html' | relative_url }}">Learning path</a>
+      <a href="{{ '/games/game-1/' | relative_url }}">Game 1</a>
+      <a href="{{ '/decks/hero-deck/' | relative_url }}">Hero deck</a>
+      <a href="{{ '/decks/hazard-deck/' | relative_url }}">Hazard deck</a>
+      <a href="{{ '/reference/free-movement/' | relative_url }}">Free movement</a>
+      <a href="{{ '/routes/' | relative_url }}">Route atlas</a>
+      <a href="{{ '/reference/solo-ruleset/' | relative_url }}">Solo rules</a>
+      <a href="{{ '/scenarios/' | relative_url }}">Practice</a>
     </nav>
   </div>
 </header>
