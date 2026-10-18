@@ -6,13 +6,14 @@ permalink: /navigation/
 
 # All Pages — Academy Site Map
 
-This is the complete directory of the learning pages currently published in the repository. Use the navigation bar at the top of every page to return here or move to another section.
+This is the directory of the learning pages currently published in the repository. Use the navigation bar at the top of every page to return here or move to another section.
 
 ## Start learning
 
 - [The Academy — start here]({{ '/academy/' | relative_url }})
 - [Academy Learning Path]({{ '/academy/learning-path.html' | relative_url }})
 - [Game 1 — First Expedition]({{ '/games/game-1/' | relative_url }})
+- [Game 1 teaching script]({{ '/games/game-1/teaching-script/' | relative_url }})
 - [Games and lessons]({{ '/games/' | relative_url }})
 
 ## Build and check the decks
@@ -41,6 +42,9 @@ This is the complete directory of the learning pages currently published in the 
 
 - [Practice Scenarios]({{ '/scenarios/' | relative_url }})
 - [First Session Practice Workbook]({{ '/scenarios/first-session/' | relative_url }})
+- [First Session answer key]({{ '/scenarios/first-session/answer-key/' | relative_url }})
+- [Route Lab workbook]({{ '/scenarios/route-lab/' | relative_url }})
+- [Route Lab answer key]({{ '/scenarios/route-lab/answer-key/' | relative_url }})
 
 ## Return to the homepage
 
@@ -48,4 +52,4 @@ This is the complete directory of the learning pages currently published in the 
 
 ---
 
-**Navigation rule:** if you arrive on any page and feel stuck, use the visible **All pages** link in the header. If a link returns a 404, use the [repository issue tracker](https://github.com/JamSpot/meccg-hero-solo-academy/issues) to report the exact link.
+**Navigation rule:** if you arrive on any page and feel stuck, use the visible **All pages** link in the header. If a link returns a 404, report the exact link in the [repository issue tracker](https://github.com/JamSpot/meccg-hero-solo-academy/issues).

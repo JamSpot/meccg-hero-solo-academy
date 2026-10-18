@@ -183,6 +183,34 @@ The point is not that every future Hero deck needs these exact cards.
 
 The point is that you can explain **why every card is present**.
 
+## Pilot's guide — what to learn from the 30-card list
+
+Keep the verified 30-card list unchanged for the first lessons. Use the functions below as a learning aid, not as a replacement for the printed card text.
+
+| Function | Cards to notice | Decision to practise |
+|---|---|---|
+| Avoid an unnecessary fight | Concealment; Not at Home; Hundreds of Butterflies | Is preserving the company more valuable than fighting this attack? |
+| Protect the expedition | Fellowship; Marvels Told | What danger matters now, and what can this resource legally answer? |
+| Improve movement or future options | Great-road; Thror's Map; Smoke Rings | Does playing this now improve the current trip or preserve a stronger later option? |
+| Make one expedition count | Bounty of the Hoard; Lucky Search | Is the opportunity worth the risk and the resources spent to reach it? |
+| Fight when the objective demands it | Risky Blow; The Dwarves Are Upon You!; the weapon and armour items | Which character should take the risk, and what happens if the fight goes badly? |
+| Build long-term value | Book of Mazarbul; Iron Hill Dwarves; Men of Dorwinion; allies and items | What does this acquisition contribute to the mission and the campaign? |
+| Recruit and develop | A Friend or Three | Can the company legally and usefully add a character without weakening the current plan? |
+
+### The hand-management test
+
+Before discarding a card, classify it as one of three things:
+
+1. **Needed now:** supports the next movement, site attempt or defence.
+2. **Needed later:** depends on a future site, company state or objective.
+3. **Low value for this plan:** unlikely to help the current campaign line.
+
+Do not discard a card just because it is not playable this turn. Equally, do not keep every card indefinitely: the next expedition should determine what is worth holding.
+
+### Deck integrity rule
+
+The list remains the historical Challenge Deck C teaching baseline. Do not quietly replace cards or quantities while using Game 1 and its workbook; otherwise the scripted examples stop matching the physical deck. Record any future alternative as a separate revision with its own list and test games.
+
 ## How to physically construct it
 
 1. Find the 30 resource cards listed above.

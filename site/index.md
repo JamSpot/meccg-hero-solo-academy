@@ -24,8 +24,9 @@ The navigation bar above stays visible on desktop and mobile. Choose **All pages
 - **[Reference library]({{ '/reference/' | relative_url }})**
 - **[Learn free / player-directed movement]({{ '/reference/free-movement/' | relative_url }})**
 - **[Plan routes with the Route Atlas]({{ '/routes/' | relative_url }})**
+- **[Practise with the First Session workbook]({{ '/scenarios/first-session/' | relative_url }})**
+- **[Practise with the Route Lab]({{ '/scenarios/route-lab/' | relative_url }})**
 - **[Understand the solo rules used here]({{ '/reference/solo-ruleset/' | relative_url }})**
-- **[Practise with the scenario workbook]({{ '/scenarios/' | relative_url }})**
 - **[Open the complete site map]({{ '/navigation/' | relative_url }})**
 
 ## Recommended learning order
@@ -34,7 +35,7 @@ The navigation bar above stays visible on desktop and mobile. Choose **All pages
 2. Assemble the 30-card Hero Resource and 30-card Hazard teaching decks.
 3. Play Game 1 one decision at a time.
 4. Learn movement legality and how a route changes Hazard exposure.
-5. Practise route and Hazard decisions with the workbook.
+5. Practise route and Hazard decisions with the workbooks.
 6. Reassess after acquiring Book of Mazarbul; the next expedition should have a new purpose.
 
 > **Captain's rule:** Never travel without purpose.

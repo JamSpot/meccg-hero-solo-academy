@@ -5,11 +5,13 @@ title: Practice Scenarios
 
 # Practice Scenarios
 
-Start with the [First Session Practice Workbook]({{ '/scenarios/first-session/' | relative_url }}). It contains ten exercises covering route legality, Hazard draw versus Hazard Limit, Hazard choices and sequencing, reassessing an objective, and deciding when to recover.
+Start with the [First Session Practice Workbook]({{ '/scenarios/first-session/' | relative_url }}). It contains ten foundation exercises, with a separate [answer key]({{ '/scenarios/first-session/answer-key/' | relative_url }}).
+
+Then use the [Route Lab workbook]({{ '/scenarios/route-lab/' | relative_url }}) and its [model answers]({{ '/scenarios/route-lab/answer-key/' | relative_url }}) to practise movement timing, site-path declaration, Hazard exposure, route legality and expedition reassessment.
 
 ## Curriculum
 
-The next scenario sets will build progressively through Foundation, Movement, Hazard, Combat, Expedition, Compression, Position, Corruption, Abort, Campaign and Masterclass. Only completed and published exercises will be counted as part of the practice bank.
+The practice bank will build progressively through Foundation, Movement, Hazard, Combat, Expedition, Compression, Position, Corruption, Abort, Campaign and Masterclass. Only completed and published exercises are counted as part of the bank.
 
 For each exercise, state the mission, identify legal options, explain exposure, identify the critical character, choose a plan, explain what would change it, and record the lesson.
 

@@ -7,11 +7,9 @@ title: Hazard Deck Construction
 
 ## The exact teaching Hazard list
 
-For **Game 1 and the first Academy lessons**, use the verified 30-card Hazard portion of the historical **Dwarven Quest (Pallando) Challenge Deck C**.
+For Game 1 and the first Academy lessons, use the 30-card Hazard portion of the historical **Dwarven Quest / Pallando Challenge Deck C**. This is a teaching baseline, not a claim that it is the strongest possible Hazard deck.
 
-Again, these are genuine physical cards. **No proxies are intended.**
-
-### 30 Hazard cards
+These are genuine physical cards. No proxies are intended.
 
 | Quantity | Card |
 |---:|---|
@@ -29,128 +27,88 @@ Again, these are genuine physical cards. **No proxies are intended.**
 | 3 | Watcher in the Water |
 | **30** | **Total** |
 
-This is the complete teaching Hazard deck. There are no missing cards from the 30-card list.
+Keep this Hazard deck separate from the Hero Resource deck, Hero discard pile, Location deck and sideboard.
 
-## What the Hazard deck is
+## What the Hazard deck teaches
 
-The Hazard deck is the opponent's toolbox.
+The Hazard deck is the opponent's toolbox. In solo play, you control it during the Hero company's Movement/Hazard Phase. Your task is to choose the most effective **legal** pressure, not to invent extra rules or target something merely because it looks dramatic.
 
-In solo play, **you control it yourself**.
+The Challenge Deck C mix gives repeated practice with:
 
-That does not mean you should use perfect information to destroy your own Hero company.
+- **Creature legality and keying:** Cave Worm, Giant Spiders, Lesser Spiders, Neeker-breekers, Wargs and Watcher in the Water.
+- **Attack amplification:** Full of Froth and Rage and Wake of War, subject to their exact card text and timing.
+- **Disruption and roadblocks:** Despair of the Heart, River and Seized by Terror.
+- **Environment interaction:** Twilight.
+- **Sequencing:** deciding which legal card should be played first and what should follow.
 
-The Academy's Hazard deck is a teaching opponent. Its job is to make you learn:
+This is a teaching structure, not a substitute for reading the printed wording of an individual card.
 
-**LEGALITY → TARGET → DISRUPTION → SEQUENCING → PRESSURE**
+## Three numbers and rules that must not be confused
 
-## Physical layout
+### 1. Solo Hazard draw
 
-Put the Hazard deck on the opposite side of the table from the Hero deck.
+The Academy uses the solo procedure described on the [Solo Rules page]({{ '/reference/solo-ruleset/' | relative_url }}): draw **2 + twice the normal Hazard draw number for the destination site**.
 
-Keep:
+For Moria, the relevant site number is 3, so the solo draw is:
 
-- Hazard deck
-- Hazard discard
-- Hazard sideboard
+**2 + (2 × 3) = 8 Hazard cards.**
 
-in their own clearly marked areas.
+This tells you how many cards are available to the solo Hazard player for that company's Movement/Hazard Phase.
 
-Never mix the Hazard discard with the Hero discard.
+### 2. Base Hazard Limit
 
-## Why this particular Hazard mix?
+The normal base Hazard Limit is the company's size or two, whichever is greater, rounded up. It is set for that company's Movement/Hazard Phase and remains fixed for that phase.
 
-The historical Dwarven Quest strategy is deliberately straightforward:
+For a company of five characters, the base Hazard Limit is **5**.
 
-- frequent creature attacks;
-- Spider and Watcher pressure;
-- amplification with **Full of Froth and Rage** and **Wake of War**;
-- roadblock effects from cards such as **River**;
-- enough event cards to teach disruption rather than simply throwing creatures at the company.
+### 3. The solo procedure for playing the drawn Hazards
 
-This gives the beginner repeated practice at deciding **what matters most**, rather than learning a random collection of unrelated Hazards.
+The solo procedure directs you to play **as many of the drawn Hazards as you can within the Hazard Limit**, choosing the combination that is most disadvantageous for your Hero company. Eight cards drawn does not mean eight cards played: with a base limit of five, no more than five Hazard cards that count against that limit can be played in the phase.
 
-## The full-game construction rule
+Do not automatically play the first five cards. Check legality and sequence, then choose the strongest legal combination. Do not deliberately leave a useful legal slot empty merely because a card seems less dramatic. If you are pausing for a teaching discussion, pause before committing the play and explain the competing choices.
 
-For the Academy's first lessons, use the exact 30-card list above.
+## The seven-step Hazard decision
 
-Later, when we build a larger general-purpose Wizard Hazard deck, we will cover the standard construction rules and the reasons for increasing the deck size.
+1. **Legality:** can the card be played against this company, its site path, destination site or another legal target?
+2. **Key:** if it is a creature, which region type, region name, site type or site name is being used to key it?
+3. **Objective:** what is the company trying to achieve this expedition?
+4. **Critical character:** whose disruption would most damage that objective?
+5. **Sequence:** does the wording of another card make this play stronger before or after it?
+6. **Limit:** how many Hazard cards that count against the limit have already been declared?
+7. **Best combination:** which legal set of plays creates the greatest disadvantage within the remaining limit?
 
-Do not change the deck before Game 1 just to make it “stronger.”
+For double-region keying, check that the company site path contains the required number of matching regions; matching regions need not be consecutive. Check the actual card text and current official rulings before resolving an unusual case.
 
-The purpose of Game 1 is to learn the system.
+## Worked example — Moria
 
-## How to physically construct it
+The Hero company of five characters moves to Moria.
 
-1. Find the 30 listed Hazard cards.
-2. Check every quantity.
-3. Put them into one pile.
-4. Shuffle thoroughly.
-5. Put the Hazard discard beside it.
-6. Keep any sideboard cards separate.
-7. Keep the Hero deck on the opposite side of the table.
-8. Do not reveal or pre-arrange the deck order.
+- Solo Hazard draw: **8 cards**.
+- Base Hazard Limit: **5**.
+- Available plays: only cards that are legal and meet their printed requirements.
+- Selection: choose the most disadvantageous legal combination, respecting sequencing and the five-card limit.
 
-## How to play the Hazard deck in solo mode
+A card that cannot be legally keyed is not an option, however powerful it looks. A legal event may be more damaging to the expedition than a creature, depending on the company's current state and the card wording. Do not decide by attack prowess alone.
 
-When the Hero company moves:
+## Physical construction
 
-1. Determine the solo Hazard draw.
-2. Draw the required number.
-3. Identify which cards are legally playable.
-4. Identify the company's most important vulnerability.
-5. Choose a strategically meaningful sequence.
-6. Respect the Hazard Limit.
-7. Discard the remaining cards as required by the solo rules.
+1. Find the 30 listed Hazard cards and check each quantity.
+2. Shuffle them thoroughly.
+3. Place the Hazard deck on the opposite side of the table from the Hero deck.
+4. Mark a separate Hazard discard pile.
+5. Keep any Hazard sideboard cards separate.
+6. Do not reveal or pre-arrange the draw order.
+7. During each solo Movement/Hazard Phase, draw according to the selected solo procedure, then apply the normal Hazard Limit and card legality.
 
-The Hazard player is trying to make the Hero expedition **less successful**, not simply to kill a character at every opportunity.
+## Solo play: a fair test, not an easy test
 
-## Do not play like an AI trying to win at all costs
-
-The teaching Hazard player should not:
-
-- exploit information the Hero player could not reasonably have;
-- choose nonsensical timing simply because it is technically legal;
-- automatically target the strongest character;
-- spend every possible Hazard merely because it can;
-- introduce advanced sideboard tricks before they are taught.
-
-Instead ask:
-
-> **What would a competent human Hazard player do with this hand?**
-
-That is the skill the Academy is teaching.
-
-## Hazard sequencing exercise
-
-Suppose you draw:
-
-- a creature;
-- Full of Froth and Rage;
-- another creature;
-- Twilight.
-
-Do not immediately play the first creature.
-
-Ask:
-
-1. Which cards are legal?
-2. Which creature is most dangerous?
-3. Does Full of Froth and Rage improve the attack?
-4. Should the amplifier be played first?
-5. Does Twilight change anything important?
-6. Is there a reason to save a card?
-
-This is how Hazard play becomes strategic rather than random.
+The learner controls both sides, so use a consistent rule: the Hazard side should make the strongest legal choices available under the selected solo procedure. Do not give the Hero side hidden assistance or use knowledge that is not available from the rules and revealed cards. If a decision is unclear, stop and check the card text or rules before resolving it.
 
 ## Later Hazard construction
 
-Once Games 1–3 are comfortable, the Academy will expand the Hazard deck into:
+Once Games 1–3 are comfortable, the Academy can move beyond the historical teaching list and build a larger Hazard strategy around creature frequency, amplification, route punishment, site punishment, corruption pressure and campaign disruption. Dragons remain optional advanced material; the first deck is not dragon-heavy.
 
-**frequency → amplification → sequencing → route punishment → site punishment → corruption pressure → campaign disruption**
-
-Dragons are deliberately reserved for later lessons.
-
-## Hazard construction checklist
+## Checklist
 
 - [ ] All 30 teaching Hazards assembled
 - [ ] Quantities checked
@@ -158,12 +116,10 @@ Dragons are deliberately reserved for later lessons.
 - [ ] Hazard sideboard separate
 - [ ] Deck shuffled
 - [ ] Hero and Hazard cards physically separated
-- [ ] Solo draw procedure understood
-
-Then the Hazard deck is ready.
+- [ ] Solo draw rule understood
+- [ ] Base Hazard Limit understood
+- [ ] “Most disadvantageous legal combination” understood
 
 ## Source and verification note
 
-The exact 30-card lists on this page and the Hero page were checked against published MECCG Challenge Deck C (Dwarven Quest / Pallando) card lists.
-
-The Academy is using this historical deck as a **teaching baseline**, not claiming it is the only or best modern Hero solo deck.
+The card list is based on the published [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf). The Academy combines that historical card-list baseline with normal MECCG rules and the explicitly identified solo draw procedure. These are separate layers; the page does not claim the historical Challenge Deck was originally built for this exact solitaire procedure.

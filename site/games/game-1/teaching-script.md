@@ -11,7 +11,7 @@ Use this page while the cards are actually on the table.
 
 **Acquire Book of Mazarbul.**
 
-Start at **Rivendell**. Travel to **Moria**.
+Start at **Rivendell**. Destination: **Moria**.
 
 ## Before moving
 
@@ -27,96 +27,91 @@ Put out:
 - Location deck
 - separate Hero and Hazard discards
 
-Thorin controls Dori and Kíli. Glóin controls Óin.
+Thorin II controls Dori and Kíli. Glóin controls Óin.
 
-## Stop 1 — Destination
+## Stop 1 — Destination and movement declaration
 
 Say:
 
 > My destination is Moria because Book of Mazarbul is my mission.
 
-Do not choose the route yet.
+During Organization, declare movement to Moria and check that the chosen movement type can be legal.
 
-## Stop 2 — Movement
-
-Use Region Movement for this lesson.
-
-Teaching example:
+For this lesson, use Region Movement. Plan the route:
 
 **Rhudaur → Hollin → Redhorn Gate**
 
-Check:
+Check all three regions against the region cards: correct endpoints, legal adjacency, no repeated region and three regions total. The origin and destination count toward the four-region limit.
 
-- no repeated region;
-- no more than four regions;
-- origin and destination counted;
-- route is deliberate.
+## Stop 2 — Reveal and declare the site path
 
-## Stop 3 — Hazard player
+During the Movement/Hazard Phase, reveal Moria. Then declare the Region Movement site path. For this route it contains Rhudaur, Hollin and Redhorn Gate; each is a Wilderness region.
 
-Moria has site number 3.
+The route is not merely a way to move. Its region types and names affect which creature Hazards can legally be keyed. A double-Wilderness creature may be eligible only if its printed requirements and the rest of the rules are satisfied.
 
-For the teaching solitaire rule, draw:
+## Stop 3 — Draw the solo Hazards
+
+Moria has site number 3. The Academy solo procedure draws:
 
 **2 + (2 × 3) = 8 Hazard cards.**
 
 Now become the Hazard player.
 
-For each card ask:
+A five-character company has a base Hazard Limit of **5**. The draw of eight cards and the limit of five are different numbers.
+
+For each drawn card ask:
 
 1. Is it legal?
-2. What is the company's vulnerability?
-3. Which legal card has the most impact?
-4. Does sequencing matter?
-5. Should I stop rather than spend every available card?
+2. What can it target or key to?
+3. What is the company's vulnerability?
+4. Which legal combination is most damaging?
+5. Does the printed wording affect sequencing?
+6. How many Hazard slots remain?
 
-Eight cards available does not mean eight must be played. Hazard Limit still applies.
+Under the selected solo procedure, play as many of the drawn Hazards as possible within the limit, choosing the most disadvantageous legal combination. Do not play all eight simply because they were drawn, and never exceed the limit.
 
-## Stop 4 — Arrival
+## Stop 4 — Arrival and site entry
 
-The company reaches Moria.
-
-Do not automatically rush into the site.
+Arriving at Moria and entering the site are separate decisions.
 
 Ask:
 
-> Can this company still accomplish the mission?
+> Can this company still accomplish the mission after the Hazards and the site's automatic attack are considered?
 
-If yes, resolve the site normally and attempt Book of Mazarbul when legal.
+Resolve the site and its automatic attack normally. Attempt Book of Mazarbul only when the rules and the company's state permit it.
 
 ## Stop 5 — Reassess
 
 If the Book is acquired, the mission changes.
 
-Before:
+Before: **ACQUIRE**  
+After: **SECURE → CONSOLIDATE → REPOSITION**
 
-**ACQUIRE**
-
-After:
-
-**SECURE → CONSOLIDATE → REPOSITION**
+Do not assume that Blue Mountain Dwarf-hold is reachable from Moria in one Region Movement. The direct route through Redhorn Gate, Hollin, Rhudaur, Arthedain and Númeriador is five regions. Plan a legal intermediate stop; see the [Route Atlas]({{ '/routes/' | relative_url }}).
 
 ## Stop 6 — Press or recover
 
 ### Press on when
-- the company is strong;
+- the company remains strong;
 - the next destination has meaningful value;
-- the hand supports the expedition.
+- the hand supports the expedition;
+- a legal route and sensible Hazard forecast exist.
 
 ### Recover when
-- key characters are wounded;
-- too many characters are tapped;
-- defensive resources are depleted;
-- the next reward is not worth the risk.
+- critical characters are wounded or too many are tapped;
+- key defensive resources are spent;
+- the next reward is not urgent;
+- recovering preserves more future value than another risky site attempt.
 
 Recovery is a strategic decision, not an automatic failure.
 
 ## Game 1 is successful if you can explain
 
 - why you chose the destination;
-- why you chose the route;
+- why the movement was legal;
+- when and how you declared the site path;
 - what the route exposed;
-- which Hazard mattered most;
+- why you chose those Hazards;
 - why you entered or stopped;
 - why you pressed on or recovered.
 
