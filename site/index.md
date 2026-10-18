@@ -9,19 +9,24 @@ title: MECCG Hero Solo Academy
 
 A practical solo-learning course for Hero play in Middle-earth: The Wizards CCG, using genuine physical cards, guided practice games and repeatable decision drills.
 
-## Choose where to go
+## Find your way around
 
-Use the navigation links above from any page. You can also jump straight into any section here:
+The navigation bar above stays visible on desktop and mobile. Choose **All pages** for the complete site map, or use these starting points:
 
 - **[Start here — set up your table]({{ '/academy/' | relative_url }})**
+- **[Follow the Academy Learning Path]({{ '/academy/learning-path.html' | relative_url }})**
+- **[Games and lessons]({{ '/games/' | relative_url }})**
 - **[Play Game 1 — Rivendell to Moria]({{ '/games/game-1/' | relative_url }})**
+- **[Decks overview]({{ '/decks/' | relative_url }})**
 - **[Build the Hero Resource deck]({{ '/decks/hero-deck/' | relative_url }})**
 - **[Build the Training Hazard deck]({{ '/decks/hazard-deck/' | relative_url }})**
+- **[Sideboard guide]({{ '/decks/sideboard/' | relative_url }})**
+- **[Reference library]({{ '/reference/' | relative_url }})**
 - **[Learn free / player-directed movement]({{ '/reference/free-movement/' | relative_url }})**
 - **[Plan routes with the Route Atlas]({{ '/routes/' | relative_url }})**
 - **[Understand the solo rules used here]({{ '/reference/solo-ruleset/' | relative_url }})**
-- **[Practise with the scenario workbooks]({{ '/scenarios/' | relative_url }})**
-- **[Follow the complete Academy Learning Path]({{ '/academy/learning-path.html' | relative_url }})**
+- **[Practise with the scenario workbook]({{ '/scenarios/' | relative_url }})**
+- **[Open the complete site map]({{ '/navigation/' | relative_url }})**
 
 ## Recommended learning order
 
@@ -29,7 +34,7 @@ Use the navigation links above from any page. You can also jump straight into an
 2. Assemble the 30-card Hero Resource and 30-card Hazard teaching decks.
 3. Play Game 1 one decision at a time.
 4. Learn movement legality and how a route changes Hazard exposure.
-5. Practise the route and Hazard decisions with the workbooks.
+5. Practise route and Hazard decisions with the workbook.
 6. Reassess after acquiring Book of Mazarbul; the next expedition should have a new purpose.
 
 > **Captain's rule:** Never travel without purpose.
@@ -37,3 +42,5 @@ Use the navigation links above from any page. You can also jump straight into an
 ## The Hero Loop
 
 **Prepare → Travel → Marshal → Grow Stronger → Travel Further → Recover → Repeat**
+
+If you ever feel stuck, choose **All pages** in the navigation bar to return to the full directory.
