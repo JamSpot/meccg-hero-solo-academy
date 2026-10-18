@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Game 1 Teaching Script
+permalink: /games/game-1/teaching-script/
 ---
 
 # Game 1 Teaching Script
