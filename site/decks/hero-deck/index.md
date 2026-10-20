@@ -309,3 +309,7 @@ This keeps genuine-card acquisition focused and prevents the collection from bec
 - [ ] Hero discard area marked
 
 When these boxes are checked, you have the actual physical card set needed to begin Game 1.
+
+## Source and verification
+
+The historical Challenge Deck C card identities and quantities are cross-checked against the published [Challenge Decks Player's Guide card list (PDF)](https://assets.cardgamegeek.com/public/library/meccg/Challenge_Decks_PG.pdf). The Academy keeps that historical list separate from its solo procedures and teaching adaptations. Before buying missing cards, use the checklist above and verify the physical card's title and quantity.
