@@ -6,7 +6,7 @@ permalink: /games/game-1/teaching-script/
 
 # Game 1 Teaching Script
 
-Use this page while the cards are actually on the table.
+Use this page while the cards are actually on the table. For a fill-in record of each decision, open the [Game 1 Turn Workbook]({{ '/games/game-1/turn-workbook/' | relative_url }}).
 
 ## Mission
 
