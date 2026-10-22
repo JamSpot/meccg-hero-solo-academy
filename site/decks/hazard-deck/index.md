@@ -127,3 +127,8 @@ Once Games 1–3 are comfortable, the Academy can move beyond the historical tea
 ## Source and verification note
 
 The card list is based on the published [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf). The Academy combines that historical card-list baseline with normal MECCG rules and the explicitly identified solo draw procedure. These are separate layers; the page does not claim the historical Challenge Deck was originally built for this exact solitaire procedure.
+
+
+## Next: research hazard combinations
+
+Use the [Hazard Combination Lab]({{ '/decks/hazard-combos/' | relative_url }}) to compare creature families, site-path support and tactical combinations. These are candidate archetypes, not a replacement for the verified 30-card teaching list.
