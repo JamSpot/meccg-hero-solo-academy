@@ -137,6 +137,10 @@ The location deck is separate from the shuffled play deck.
 
 For **Game 1**, do not add cards just because you own them. Use the exact teaching list above so the lessons and examples match what is on the table.
 
+## Test before changing the list
+
+Use the [Solo Playtest Protocol]({{ '/scenarios/solo-playtest/' | relative_url }}) for three repeatable games before changing card quantities. A card not drawn is not evidence that it is weak; record when it is useful, situational or genuinely unusable.
+
 ## What the teaching deck is trying to do
 
 The deck gives us a coherent learning curve:

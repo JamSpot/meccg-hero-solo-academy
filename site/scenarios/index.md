@@ -16,3 +16,7 @@ The practice bank will build progressively through Foundation, Movement, Hazard,
 For each exercise, state the mission, identify legal options, explain exposure, identify the critical character, choose a plan, explain what would change it, and record the lesson.
 
 The Academy uses a labelled teaching hybrid. See [Which Solo Rules Are We Using?]({{ '/reference/solo-ruleset/' | relative_url }}) before combining procedures from different solitaire systems.
+
+## Test the teaching decks
+
+Use the [Solo Playtest Protocol]({{ '/scenarios/solo-playtest/' | relative_url }}) to test the Hero and Hazard lists over three repeatable sessions before changing card quantities. It includes a route comparison scorecard, a recovery drill and a three-game log.

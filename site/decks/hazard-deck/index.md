@@ -67,6 +67,10 @@ The solo procedure directs you to play **as many of the drawn Hazards as you can
 
 Do not automatically play the first five cards. Check legality and sequence, then choose the strongest legal combination. Do not deliberately leave a useful legal slot empty merely because a card seems less dramatic. If you are pausing for a teaching discussion, pause before committing the play and explain the competing choices.
 
+## Test the Hazard deck consistently
+
+Use the [Solo Playtest Protocol]({{ '/scenarios/solo-playtest/' | relative_url }}) to record legal plays, unused cards, Hazard Limit usage and whether the route made particular creatures legal. Keep the list fixed during baseline games so results are comparable.
+
 ## The seven-step Hazard decision
 
 1. **Legality:** can the card be played against this company, its site path, destination site or another legal target?
