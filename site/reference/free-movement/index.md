@@ -51,33 +51,37 @@ This timing distinction matters:
 
 1. **During Organization:** choose the destination and declare movement. Check that the movement can be legal.
 2. **During the Movement/Hazard Phase:** reveal the new site. If using Region Movement, declare the actual sequence of regions for the company's site path.
-3. The declared Region Movement site path may differ from the destination site's printed site path, but the movement must have been legal when it was declared during Organization.
+3. The chosen Region Movement route must be legal and the declared site path must match the regions actually used.
 
 If the movement proves illegal when the new site is revealed, it is negated and the company remains at its origin, although it still conducts its Movement/Hazard Phase.
 
 ## 5. Movement route ≠ site path ≠ Hazard exposure
 
 ### Movement route
+
 The legal sequence of regions the company uses to travel from its origin region to its destination region.
 
 ### Company's site path
+
 The sequence used during the Movement/Hazard Phase to determine which creature Hazards can be keyed to the moving company.
 
-With **Starter Movement**, the site path follows the relevant printed site-path information and identifies the origin and destination region names, but not the names of intervening regions.
-
-With **Region Movement**, the site path includes the types and names of all regions in the declared sequence.
+- With **Starter Movement**, use the site-path information printed on the relevant site card. The printed path shows **region types**, not the names of all intervening regions; you do not choose a different route through named regions.
+- With **Region Movement**, the region cards you declare determine the region types used for ordinary creature keying. Their names can also matter when a particular Hazard is specifically keyed to a named region.
 
 ### Hazard exposure
+
 The practical result: which creature Hazards can legally be keyed to the site path or the new site, and what other legal Hazard effects can target the company.
 
-For example, the teaching route **Rhudaur → Hollin → Redhorn Gate** from Rivendell to Moria passes through three Wilderness regions. That can satisfy a creature's double-Wilderness keying requirement if its own card text and all other conditions permit it. Always check the actual Hazard card.
+For example, the teaching route **Rhudaur → Hollin → Redhorn Gate** from Rivendell to Moria passes through three Wilderness regions. That can satisfy a creature's double-Wilderness keying requirement if its own card text and all other conditions permit it. A creature keyed to a specific named region requires that region to be part of the declared Region Movement route and must meet the card's other requirements.
+
+The site path does not direct movement by itself. It tells you which region types are exposed to creature keying, with named-region card text checked separately.
 
 ## 6. A legal route is not automatically a good route
 
 When comparing two legal routes, ask:
 
 - Which region types are exposed?
-- Which region names are exposed?
+- Which named regions are exposed to cards keyed to a specific region?
 - What creatures could now be legally keyed?
 - What does the destination let me attempt?
 - How damaged or tapped might the company be when it arrives?
@@ -130,9 +134,10 @@ If you cannot explain the destination's purpose or the next step, reconsider the
 2. **Five is too many:** A → B → C → D → E.
 3. **No repeats:** A → B → C → B → D.
 4. **Three Wilderness regions:** identify what a double-Wilderness creature could key to, then check the actual card.
-5. **Two routes, one destination:** compare exposure and future position.
-6. **A long journey:** plan an intermediate stop rather than declaring an illegal five-region route.
-7. **After the objective:** recalculate the next expedition instead of blindly pressing on.
+5. **Named-region key:** check whether the named region is in the declared Region Movement route.
+6. **Two routes, one destination:** compare exposure and future position.
+7. **A long journey:** plan an intermediate stop rather than declaring an illegal five-region route.
+8. **After the objective:** recalculate the next expedition instead of blindly pressing on.
 
 ## The rule to remember
 
