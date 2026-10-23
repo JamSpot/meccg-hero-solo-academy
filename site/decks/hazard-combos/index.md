@@ -6,118 +6,117 @@ permalink: /decks/hazard-combos/
 
 # Hazard Combination Lab
 
-This lab studies **packages of hazards that reinforce one another**, rather than treating every hazard as an isolated threat. It is a research draft for the Hero Solo Academy. Before using a package in the physical teaching deck, check every card's exact text, edition, legality, and interaction in the chosen ruleset.
+This lab studies **packages of Hazards that reinforce one another**, rather than treating every card as an isolated threat. It is a research draft for the Hero Solo Academy. Check the physical card's exact wording, edition, timing, target, and legal key before using any interaction.
 
 ## The core principle: build a plan, not a pile
 
-A coherent hazard strategy usually needs four parts:
+A coherent Hazard strategy needs four parts:
 
-1. **Keying plan** — which region types or site types make your creatures playable?
-2. **Payoff creatures** — which creatures become easier to play when that plan is active?
-3. **Support events** — which events change the site path, strengthen attacks, or make the company’s task harder?
-4. **Redundancy and balance** — enough creatures and support to draw them together, without hands full of cards that do nothing alone.
+1. **Keying plan** — which region types, region names, or sites make the creatures playable?
+2. **Payoff threats** — which creatures become more likely to be legal on the routes the Hero company actually takes?
+3. **Support events** — which events improve an attack or make the expedition harder?
+4. **Redundancy and balance** — enough threats to draw together, without filling the deck with support that does nothing on its own.
 
-The standard Hazard Limit is normally two or the company's size, whichever is greater (with special counting rules). Each declared hazard uses limit unless its text/rules say otherwise. A card that is strategically strong but cannot legally be keyed is not a useful play. See the [official rules reference](https://councilofelrond.org/rules/) and the [MECCG rules summary](https://meccg.com/rules/by-expansion/meccg-rules-summary/).
+The normal Hazard Limit still applies. A powerful card that cannot legally be keyed or whose play conditions are not met is not an option. Use the [Council of Elrond official rules](https://councilofelrond.org/rules/) and [MECCG rules summary](https://meccg.com/rules/by-expansion/meccg-rules-summary/) when checking legality.
 
-## Candidate packages to test
+## Priority 1 — Test the actual Dwarven Quest teaching deck
 
-These are established strategic patterns described in Mark's MECCG deck-building notes. They are **archetypes to test, not finished 30-card lists**.
+The published Challenge Deck C player aid describes this Hazard strategy as **swarming the opponent with creature attacks**, specifically calling out **Full of Froth and Rage** and **Wake of War** as attack boosters. It also mentions a roadblock subtheme for blind spots against Ringwraith opponents. That last point is historical deck context, not a reason to add cards to the Hero-solo teaching deck without testing them. See the [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf).
 
-### A. Wilderness predators
+### The 30-card teaching list, grouped by test role
 
-**Package:** Wolf, Spider and Animal creatures, supported by a site-path strategy that increases Wilderness exposure.
+| Test group | Cards in the historical list | What to test |
+|---|---|---|
+| Creature threats | Cave Worm ×3; Giant Spiders ×3; Lesser Spiders ×3; Neeker-breekers ×2; Wargs ×2; Watcher in the Water ×3 | How often is at least one creature legally playable on the declared path or at the destination? Check each card's own keying. |
+| Named attack-support pair | Full of Froth and Rage ×3; Wake of War ×2 | When either is drawn with a creature, does its wording permit a useful play, and what timing or target restrictions apply? |
+| Other pressure / disruption | Despair of the Heart ×3; River ×2; Seized by Terror ×2 | What condition, target, or timing does each require? Does it affect this expedition's immediate objective? |
+| Flexible event | Twilight ×2 | Check the printed text and the current board state before deciding whether it has a useful legal role. |
 
-**Support direction:** *Doors of Night* with *Withered Lands*, or the alternative *Gates of Morning* with *Fog*, depending on the exact package and desired site-path result.
+The quantities above total **30 Hazards**. The group labels are a playtesting aid, not an alternative card text or a claim that every card in a group works with every other card.
 
-**Why the pieces fit:** the creature families share a broad keying plan, so the deck can concentrate on making the relevant region type appear more often. A coherent keying plan is usually more reliable than mixing unrelated creatures that need different site paths.
+### Combination A — Creature first, then check the boosters
 
-**Risks to test**
-- Does the route actually contain the required region symbols?
-- Does a creature with repeated Wilderness symbols require multiple Wilderness regions?
-- Are support events useful when no matching creature is in hand?
-- Does the plan still pressure the Hero company at sites where it stops?
+**Test hypothesis:** the creature attack is the core threat; Full of Froth and Rage and Wake of War are the named support cards to investigate alongside it.
 
-**Test question:** over five sample movement phases, how often can the hazard player legally spend most of the available Hazard Limit?
+For every sample hand:
 
-### B. Undead, Nazgûl and Corruption pressure
+1. Identify each creature that is legally keyed to the actual site path or destination.
+2. Read the support card's full text. Check when it can be played, what it targets, and whether its requirements are met.
+3. Count every card that uses Hazard Limit.
+4. Compare the best legal sequence with the best legal alternative; do not assume the two support cards can always be stacked on the same attack.
+5. Record whether the combination changes the Hero player's decision, not just whether it looks powerful.
 
-**Package:** Undead and Nazgûl creatures with Corruption pressure; consider *Doors of Night* alongside *Morgul Night* or *Choking Shadows* as a site-path support direction.
+**Pass condition:** the package creates a meaningful, legal threat in repeated tests without relying on a route the Hero company rarely uses.
 
-**Why the pieces fit:** the package aims to make the route and the characters' ability to withstand Corruption interact with the creature threats. It pressures the Hero player to consider both combat survival and character safety.
+### Combination B — Route makes the creature
 
-**Risks to test**
-- Is the company actually vulnerable to Corruption, or is the package relying on a threat the characters can easily ignore?
-- Are the chosen creatures keyed to the declared path or destination?
-- Does the support package consume too many hazard slots compared with threats?
-- Is there a plan against a company that avoids the expected sites?
+**Test hypothesis:** route planning and Hazard construction must be tested together.
 
-**Test question:** does the package create meaningful decisions even when it does not eliminate a character?
+Use the Academy's teaching route from Rivendell to Moria: **Rhudaur → Hollin → Redhorn Gate**. It contains three Wilderness regions. A creature requiring matching region types may become a legal candidate, but only if its own printed keying and every other condition are satisfied.
 
-### C. Orc and Troll pressure
+Repeat the same exercise with a different legal route from your physical region cards. Record which creatures become legal or cease to be legal. Do not infer legality from a creature's name or artwork.
 
-**Package:** Orc creatures and Troll creatures with site-path support such as *Doors of Night* plus *Morgul Night* or *Choking Shadows*.
+**Pass condition:** the Hazard deck has credible threats on more than one plausible route, or the Hero player has a clear strategic choice about which exposure to accept.
 
-**Why the pieces fit:** the deck concentrates on a related family of combat threats and tries to improve the conditions under which those threats can be played.
+### Combination C — Pressure the objective, not just the strongest fighter
 
-**Risks to test**
-- Creature mix may be too expensive in card slots if the Hero company can avoid the relevant site path.
-- Large attacks can be wasted if played without checking prowess, body, strike count, and modifiers.
-- Support cards need to be evaluated by how often they enable a legal creature or materially worsen a site decision.
+**Test hypothesis:** a Hazard can be valuable when it disrupts the character or action the Hero mission depends on, even if it does not create the largest attack.
 
-**Test question:** can the deck present a threat and a meaningful follow-up within the Hazard Limit, rather than spending the entire phase on setup?
+Use a real Game 1 state. Identify the mission, the character most important to completing it, and the current condition of the company. Then compare the legal Hazard plays by:
+- immediate risk to the company;
+- impact on the objective;
+- resource and Hazard Limit cost;
+- whether the company can recover or change its plan.
 
-### D. Dragons and Drakes — advanced module
+This is a decision test, not permission to ignore the target and timing requirements on the cards.
 
-**Package:** Dragon and Drake creatures with *Doors of Night* as a possible support card.
+### Combination D — Roadblock plus site-attack pressure (advanced test)
 
-**Why the pieces fit:** these creatures can reward a focused plan that makes their keying conditions more likely to occur.
+The Challenge Deck C aid mentions a roadblock subtheme in its original multiplayer context. Treat this as a **separate advanced hypothesis**, not a confirmed package for the beginner solo list.
 
-**Academy caution:** the beginner Hazard deck should **not** become Dragon-heavy. The user's stated preference is for Dragons to be available as an occasional theme, not to dominate every game. Keep this as an optional advanced module until the base Hero and Hazard decks are stable.
+Before testing it, identify the exact roadblock card, its effect and duration, the relevant site, and the precise automatic-attack modifier. Confirm that the modifier can legally affect that attack at that time. If any step depends on an assumption, the combination is not yet verified.
 
-**Test question:** does adding a Dragon/Drake module improve variety and route decisions without making the beginner game swingy or dependent on rare cards?
+## Lower-priority archetypes for later experiments
 
-### E. Men and a contrasting site-path plan
+These patterns appear in wider MECCG deck-building discussions, but they are **not the first change to make to the verified 30-card teaching list**.
 
-**Package:** Men creatures with a *Gates of Morning* direction and other events that make the site path more favourable to the creatures' keying.
+### Wilderness predators
+Wolf, Spider, and Animal creatures can be explored as a focused keying family. Historical notes discuss alternative site-path support directions such as Doors of Night with Withered Lands, or Gates of Morning with Fog. Test the exact card text and interactions before including either package.
 
-**Why the pieces fit:** it demonstrates that hazard construction is not only about making a route darker or more dangerous; the support must fit the creature family and the paths the Hero player actually takes.
+### Undead, Nazgûl, and Corruption
+This is a separate pressure strategy. Test whether the Hero company is actually vulnerable to Corruption, whether the creatures are legal on its routes, and whether the support consumes too many slots. It should not be mixed into the teaching deck merely because the cards are thematically related.
 
-**Test question:** is this a genuinely different package from the wilderness or shadow-focused options, or does it dilute a more consistent plan?
+### Orcs and Trolls
+A combat-focused family can be coherent if its creature keys and support match the routes being played. Avoid importing a generic package without checking the card pool and the target environment.
 
-### F. Roadblock plus automatic-attack enhancement
+### Dragons and Drakes — optional advanced module
+Keep this optional. The Academy's beginner Hazard deck should not become Dragon-heavy. Test a small module only after the core Hero/Hazard lists and routes are stable.
 
-**Package:** a Roadblock effect combined with hazards that enhance an automatic-attack.
+### Men and contrasting site-path plans
+A Men-based package can illustrate a different keying plan, but it should be tested as its own strategy rather than used to dilute the main creature package.
 
-**Why the pieces fit:** one piece constrains the company's options or timing while the other attempts to make the attack it faces more dangerous. This is a tactical combination rather than a creature-family strategy.
+## Combination test record
 
-**Rules check:** verify the exact Roadblock card text and the timing/target restrictions of the chosen automatic-attack modifier. Do not assume a modifier can be revealed on-guard or played at every point in the turn; check the specific rules and card text.
-
-**Test question:** can the Hero player make a sensible alternative decision, or is the combination only effective when the company has already made a mistake?
-
-## A practical scoring sheet
-
-For each package, record ten movement/hazard phases. Do not change the deck during the ten-phase sample.
+Use the [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }}) to run the exercises below. For each ten-phase sample, record:
 
 | Measure | What to record |
 |---|---|
-| Legal threat rate | Phases in which at least one creature was legally keyed |
-| Hazard Limit use | Hazards declared and how much limit was spent |
-| Combo rate | Phases where two or more cards genuinely reinforced one another |
-| Dead support | Support cards drawn but not useful during the phase |
+| Legal threat rate | Phases with at least one legally playable creature |
+| Hazard Limit use | Hazards declared and limit spent |
+| Support availability | How often a support card was drawn with a relevant threat |
+| Verified combination rate | Phases where card text confirms a useful interaction |
+| Dead support | Support drawn but with no useful legal role |
 | Pressure type | Combat, Corruption, movement disruption, site pressure, or mixed |
-| Hero counterplay | Whether route choice, company composition, or site choice offered a sensible response |
-| Variety | Whether games created different decisions instead of repeating one script |
+| Hero counterplay | Whether route, company, or site choice offered a sensible response |
+| Variety | Whether repeated tests produced meaningful decisions rather than one script |
 
-A combo should not be judged only by whether it kills a character. Also note whether it forces a route change, drains resources, causes a site attempt to be delayed, or makes the Hero player choose between competing priorities.
+Do not judge a combination only by whether it eliminates a character. A good test also records whether it forced a route change, drained resources, delayed a site attempt, or made the Hero player choose between competing priorities.
 
-## How this informs the Academy's Hazard deck
+## Research sources
 
-The beginner deck should start with **one primary keying plan and a small, deliberate secondary plan**, not six half-built archetypes. Keep Dragon/Drake threats as an optional module. Before finalizing card counts, verify each card against the physical collection and selected edition, then test legal keying against the actual routes used in Game 1.
+- [Council of Elrond — Official Game Rules](https://councilofelrond.org/rules/) — movement, keying, Hazard Limit, timing, and legal card play.
+- [MECCG Rules Summary](https://meccg.com/rules/by-expansion/meccg-rules-summary/) — concise rules reference.
+- [Challenge Deck C player aid (PDF)](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf) — the historical 30-card list and its stated Hazard strategy.
+- [Mark's MECCG Notes (PDF)](https://assets.cardgamegeek.com/public/library/meccg/Marks_MECCG_Notes_v.1.1.pdf) — broader deck-building patterns to investigate later.
 
-### Research sources
-
-- [Council of Elrond — Official Game Rules](https://councilofelrond.org/rules/) — primary reference for keying, Hazard Limit, timing, and card interactions.
-- [MECCG Rules Summary](https://meccg.com/rules/by-expansion/meccg-rules-summary/) — concise explanation of movement/hazard phases and creature keying.
-- [Mark's MECCG Notes (PDF)](https://assets.cardgamegeek.com/public/library/meccg/Marks_MECCG_Notes_v.1.1.pdf) — deck-building discussion with examples of hazard strategies that work in harmony.
-
-**Status:** research framework. These are candidate packages; no final physical-card list should be considered verified until each card and count is checked against the Academy's card inventory and solo ruleset.
+**Status:** research draft. The Challenge Deck C list is sourced; the combination tests are hypotheses until exact card text, legal timing, and repeated playtests confirm each interaction.
