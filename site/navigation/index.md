@@ -6,7 +6,7 @@ permalink: /navigation/
 
 # All Pages — Academy Site Map
 
-Use the visible header menu on every page to return home or switch sections. This map also links directly to the main learning materials.
+Use the visible header menu on every page to switch sections. This map also links directly to the main learning materials. If the header is missing on the published site, use this page as the navigation fallback and report that the live build needs checking.
 
 ## Start learning
 - [The Academy — start here]({{ '/academy/' | relative_url }})
@@ -43,10 +43,11 @@ Use the visible header menu on every page to return home or switch sections. Thi
 - [First Session answer key]({{ '/scenarios/first-session/answer-key/' | relative_url }})
 - [Route Lab workbook]({{ '/scenarios/route-lab/' | relative_url }})
 - [Route Lab answer key]({{ '/scenarios/route-lab/answer-key/' | relative_url }})
+- [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }})
 - [Solo Playtest Protocol]({{ '/scenarios/solo-playtest/' | relative_url }})
 
 ## Return to the homepage
 - [MECCG Hero Solo Academy home]({{ '/' | relative_url }})
 
 ---
-**Navigation rule:** use **All pages** in the site header whenever you feel stuck. Report any broken link with its exact destination in the [repository issue tracker](https://github.com/JamSpot/meccg-hero-solo-academy/issues).
+**Navigation rule:** use **All pages** in the site header whenever you feel stuck. If a published link fails, record the exact destination and whether the menu or the page itself is missing in the [repository issue tracker](https://github.com/JamSpot/meccg-hero-solo-academy/issues).
