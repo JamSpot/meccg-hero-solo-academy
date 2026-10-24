@@ -82,15 +82,18 @@ jobs:
                   parsed = urlsplit(href)
                   if parsed.scheme or parsed.netloc or not parsed.path:
                       continue
-                  resolved = urlsplit(urljoin(rel_page, href))
-                  path = unquote(resolved.path)
-                  if path == base:
-                      path = "/"
-                  elif path.startswith(base + "/"):
-                      path = path[len(base):]
-                  elif path.startswith("/"):
-                      problems.append(f"{page.relative_to(root)}: root link missing baseurl: {href}")
-                      continue
+                  if parsed.path.startswith("/"):
+                      path = unquote(parsed.path)
+                      if path == base:
+                          path = "/"
+                      elif path.startswith(base + "/"):
+                          path = path[len(base):]
+                      else:
+                          problems.append(f"{page.relative_to(root)}: root link missing baseurl: {href}")
+                          continue
+                  else:
+                      resolved = urlsplit(urljoin(rel_page, href))
+                      path = unquote(resolved.path)
 
                   candidate = root / path.lstrip("/")
                   if path.endswith("/"):
@@ -105,7 +108,7 @@ jobs:
                       problems.append(f"{page.relative_to(root)}: broken internal link {href} -> {candidate.relative_to(root) if candidate.is_relative_to(root) else candidate}")
 
           if problems:
-              print("\\n".join(problems))
+              print("\n".join(problems))
               raise SystemExit(f"Found {len(problems)} broken internal link(s).")
           print("Internal anchor links resolve to generated pages.")
           PY
