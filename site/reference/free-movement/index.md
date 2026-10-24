@@ -5,203 +5,142 @@ title: Free / Player-Directed Movement
 
 # Free / Player-Directed Movement
 
-The Academy uses “free movement” as a beginner-friendly phrase.
-
-The formal rules term is **Region Movement**.
-
-It does **not** mean unrestricted movement.
+The Academy uses “free movement” as a beginner-friendly phrase. The formal rules term is **Region Movement**. It gives you more choice than relying only on the printed Starter Movement network, but it is not unrestricted movement.
 
 ## The Captain's movement algorithm
 
-**DESTINATION → MOVEMENT TYPE → LEGALITY → ROUTE → SITE PATH → EXPOSURE → REWARD → NEXT POSITION**
+**MISSION → DESTINATION → MOVEMENT TYPE → LEGALITY → SITE PATH → EXPOSURE → ARRIVAL → NEXT POSITION**
 
-Do not start by asking “How do I get there?”
+Start with this question:
 
-Start by asking:
+> Where am I going, and what will that expedition achieve?
 
-> **Where am I going, and why?**
+Do not start by moving a piece across a map and only afterwards deciding why.
 
-## 1. Choose the destination
+## 1. Choose a destination
 
 The destination is the site card the company intends to reach.
 
-For example:
+Example: **Rivendell → Moria**, because the mission is to acquire **Book of Mazarbul**.
 
-**Rivendell → Moria**
-
-The reason might be:
-
-**Book of Mazarbul**
-
-Only after choosing the destination should you plan the route.
+The destination is selected during the Organization Phase. The movement must be legal for the movement type you intend to use.
 
 ## 2. Choose the movement type
 
-For normal Hero play, the important beginner choices are:
+For the Academy's Hero lessons, learn these in order:
 
-- Starter Movement
-- Region Movement
-- later, Under-deeps and Special Movement
+- **Starter Movement:** uses the permitted nearest-Haven relationships and printed site-path information.
+- **Region Movement:** lets you choose a legal sequence of adjacent regions.
+- **Under-deeps Movement and Special Movement:** advanced lessons; their own rules and effects apply.
 
-Region Movement is the Academy's main player-directed movement lesson.
+Starter Movement is not a universal route to every site. Check the actual site cards.
 
 ## 3. Check Region Movement legality
 
-Normal Region Movement allows a maximum of **four consecutive regions**.
+For normal Region Movement, the route must include the region containing the origin and the region containing the destination. It must follow legal adjacency, contain no repeated region, and use no more than **four consecutive regions**. Both endpoints count.
 
-Both the region containing the current site and the region containing the destination count.
+- **A → B → C → D:** four regions; potentially legal if all connections and endpoints are correct.
+- **A → B → C → D → E:** five regions; too long for normal Region Movement.
+- **A → B → C → B → D:** illegal because B repeats.
 
-A region may not be repeated.
+A map is a useful aid, but the region-card adjacency text is the authority when a map and card appear to disagree. Special card effects can change the normal limit; do not assume an exception unless the effect says so.
 
-So:
+## 4. Planning the route and declaring the site path are related, but not identical
 
-**A → B → C → D**
+This timing distinction matters:
 
-can be legal.
+1. **During Organization:** choose the destination and declare movement. Check that the movement can be legal.
+2. **During the Movement/Hazard Phase:** reveal the new site. If using Region Movement, declare the actual sequence of regions for the company's site path.
+3. The chosen Region Movement route must be legal and the declared site path must match the regions actually used.
 
-But:
+If the movement proves illegal when the new site is revealed, it is negated and the company remains at its origin, although it still conducts its Movement/Hazard Phase.
 
-**A → B → C → D → E**
-
-is too long for normal Region Movement.
-
-And:
-
-**A → B → C → B → D**
-
-repeats a region and is illegal.
-
-The route must also follow the legal adjacency of the region cards/map rules.
-
-## 4. Movement route is not the site path
-
-This distinction is essential.
+## 5. Movement route ≠ site path ≠ Hazard exposure
 
 ### Movement route
 
-The regions the company is actually using to travel.
+The legal sequence of regions the company uses to travel from its origin region to its destination region.
 
-### Site path
+### Company's site path
 
-The path declared for the company's Movement/Hazard Phase. It determines the region types and names available for creature-Hazard keying.
+The sequence used during the Movement/Hazard Phase to determine which creature Hazards can be keyed to the moving company.
+
+- With **Starter Movement**, use the site-path information printed on the relevant site card. The printed path shows **region types**, not the names of all intervening regions; you do not choose a different route through named regions.
+- With **Region Movement**, the region cards you declare determine the region types used for ordinary creature keying. Their names can also matter when a particular Hazard is specifically keyed to a named region.
 
 ### Hazard exposure
 
-The practical consequence of that site path: which creatures and other Hazards can legally target the company.
+The practical result: which creature Hazards can legally be keyed to the site path or the new site, and what other legal Hazard effects can target the company.
 
-The same destination can therefore be reached through different legal routes with different strategic consequences.
+For example, the teaching route **Rhudaur → Hollin → Redhorn Gate** from Rivendell to Moria passes through three Wilderness regions. That can satisfy a creature's double-Wilderness keying requirement if its own card text and all other conditions permit it. A creature keyed to a specific named region requires that region to be part of the declared Region Movement route and must meet the card's other requirements.
 
-## 5. Route planning example
+The site path does not direct movement by itself. It tells you which region types are exposed to creature keying, with named-region card text checked separately.
 
-Mission:
+## 6. A legal route is not automatically a good route
 
-**Acquire Book of Mazarbul.**
-
-Current site:
-
-**Rivendell**
-
-Destination:
-
-**Moria**
-
-Teaching route:
-
-**Rhudaur → Hollin → Redhorn Gate**
-
-Before moving, say:
-
-> “I am going to Moria because I want Book of Mazarbul.”
-
-Then:
-
-> “I am using this route because it is legal and gives me an acceptable risk/reward balance.”
-
-Finally:
-
-> “When I arrive, I expect my company to be able to attempt the objective.”
-
-That last sentence is important. A legal route is not necessarily a good route.
-
-## 6. Route planning is not shortest-path planning
-
-Compare two legal routes by asking:
+When comparing two legal routes, ask:
 
 - Which region types are exposed?
-- Which named regions are exposed?
-- What creature Hazards become legal?
-- What is the site's value?
-- What condition will the company have when it arrives?
-- Where will the company be positioned afterwards?
-- Can the same expedition accomplish another useful task?
+- Which named regions are exposed to cards keyed to a specific region?
+- What creatures could now be legally keyed?
+- What does the destination let me attempt?
+- How damaged or tapped might the company be when it arrives?
+- Where can the company go next?
+- Does the next objective justify the risk?
+- Is there a better recovery or consolidation plan?
 
-The best route is the one that produces the best **whole-expedition result**, not necessarily the fewest regions.
+The shortest route is not always best. A longer legal route might improve future position; a safer route might preserve the company for a more valuable expedition. Compare the whole expedition, not one movement in isolation.
 
-## 7. Havens and the beginner shortcut
+## 7. Route example — Rivendell to Moria
 
-Starter Movement is commonly useful when moving to or from Havens.
+**Mission:** acquire Book of Mazarbul.  
+**Origin region:** Rhudaur (Rivendell).  
+**Destination region:** Redhorn Gate (Moria).  
+**Teaching Region Movement route:** Rhudaur → Hollin → Redhorn Gate.
 
-That is not a contradiction of the Academy's Region Movement lessons.
+Before moving, check:
 
-Learn Region Movement deliberately so you understand route control. Then learn when Starter Movement is the safer or simpler choice.
-
-## 8. Route drill
-
-For each proposed movement, physically write the route down.
-
-### Drill A
-
-**A → B → C → D**
-
-Check:
-- four regions or fewer;
+- three regions, including origin and destination;
+- each adjacency against the region cards;
 - no repeated region;
-- each adjacency legal.
+- the objective and likely site danger;
+- the route's three Wilderness regions and resulting creature exposure.
 
-### Drill B
+During the Movement/Hazard Phase, reveal Moria and declare the Region Movement site path. The site path is used for Hazard keying; it does not itself move the company.
 
-**A → B → C → D → E**
+## 8. Route example — the Blue Mountain trap
 
-Answer:
+Do not assume that because a destination is important, it is reachable in one movement. Moria is in Redhorn Gate, while Blue Mountain Dwarf-hold is in Númeriador. The direct sequence through Hollin, Rhudaur and Arthedain is five regions:
 
-> Illegal under the normal four-region limit.
+**Redhorn Gate → Hollin → Rhudaur → Arthedain → Númeriador**
 
-### Drill C
+That is too long for one normal Region Movement. Find a legal intermediate site and plan a second leg. Rivendell is one known teaching option: Moria → Rivendell can use Redhorn Gate → Hollin → Rhudaur, then Rivendell → Blue Mountain Dwarf-hold can use Rhudaur → Arthedain → Númeriador. This is an example, not a rule that every expedition must return to a Haven; use another intermediate site if its location and route have been verified.
 
-**A → B → C → B → D**
-
-Answer:
-
-> Illegal because B is repeated.
-
-### Drill D
-
-Two routes reach the same destination.
-
-Route 1 is safer.
-
-Route 2 exposes an extra region type but puts the company in a better position for the next objective.
-
-Answer:
-
-> There is no automatic winner. Compare the whole expedition.
-
-## 9. Captain's route test
+## 9. The four-part route declaration
 
 Before moving, say:
 
-> **I am going to ______ because ______.**
-
-> **I am travelling through ______ because ______.**
-
-> **I expect ______ to be my main Hazard concern.**
-
+> **I am going to ______ because ______.**  
+> **I am using ______ Movement.**  
+> **My legal route is ______.**  
+> **I expect the main Hazard concern to be ______.**  
 > **When I arrive, I want to ______.**
 
-If you cannot answer the last question, reconsider the expedition.
+If you cannot explain the destination's purpose or the next step, reconsider the expedition.
 
-## 10. The rule to remember
+## 10. Practice drills
 
-**Destination first. Route second. Hazards third.**
+1. **Four means four:** A → B → C → D. Count the endpoints.
+2. **Five is too many:** A → B → C → D → E.
+3. **No repeats:** A → B → C → B → D.
+4. **Three Wilderness regions:** identify what a double-Wilderness creature could key to, then check the actual card.
+5. **Named-region key:** check whether the named region is in the declared Region Movement route.
+6. **Two routes, one destination:** compare exposure and future position.
+7. **A long journey:** plan an intermediate stop rather than declaring an illegal five-region route.
+8. **After the objective:** recalculate the next expedition instead of blindly pressing on.
 
-Do not let the map choose your expedition for you.
+## The rule to remember
+
+**Destination first. Legality second. Site path third. Hazard forecast fourth.**
+
+References: [Council of Elrond Official Game Rules](https://www.councilofelrond.org/rules/) (movement declaration, Region Movement, site-path declaration and creature keying); [MECCG rules by expansion](https://meccg.com/rules/by-expansion/the-wizards/).

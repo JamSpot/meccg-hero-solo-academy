@@ -22,11 +22,17 @@ This is a **teaching hybrid**. It is not a claim that the historical Challenge D
 
 The Academy starter procedure adopts the draw rule in Simon Cogan's 2019 *Solo Variant Rules*:
 
-**2 + (2 × the number printed on the destination Site card)**
+**2 + (2 × the number normally drawn for the destination Site card)**
 
-For Moria, whose site number is 3, that is **8 Hazard cards**.
+For Moria, whose normal Hazard draw number is 3, that is **8 Hazard cards**.
 
 The normal two-player rules instead tell the Hazard player how many cards they may draw based on the site's darker box. Do not confuse that normal draw with the solitaire procedure above.
+
+### The solo play instruction is important
+
+The selected solo procedure directs the player to play **as many of the drawn Hazards as possible within the company's Hazard Limit**, choosing the combination most disadvantageous to the Hero company. It is not enough to draw the cards and then use normal two-player discretion to stop early just because a remaining legal card looks less dramatic.
+
+The Hazard Limit still applies. For a five-character company, the normal base Hazard Limit is five; drawing eight cards does not permit eight Hazard plays that count against that limit.
 
 ## Why not silently switch to a different solo system?
 
@@ -40,9 +46,10 @@ The Academy does not override the official rules for:
 
 - legal movement types and adjacency;
 - the four-region limit for normal Region Movement;
-- site-path declaration and creature-Hazard keying;
+- when a movement is declared and when a Region Movement site path is declared;
+- creature-Hazard keying and legal targets;
 - the base Hazard Limit;
-- card text, timing and legal targets;
+- card text, timing and resolution;
 - site and combat resolution.
 
 The Council of Elrond rules explain that Region Movement includes the origin and destination regions, forbids repeated regions, and uses a declared site path to determine which creature Hazards can be keyed. The base Hazard Limit is set at the beginning of the company's Movement/Hazard Phase and remains fixed for that phase.
@@ -50,6 +57,8 @@ The Council of Elrond rules explain that Region Movement includes the origin and
 ## References
 
 - [Council of Elrond — Official Game Rules](https://www.councilofelrond.org/rules/)
+- [Simon Cogan — My Solo Rules](https://meccg.wordpress.com/my-solo-rules/)
+- [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf)
 - [BoardGameGeek MECCG files archive — Solo Variant Rules and The Road Goes Ever On](https://boardgamegeek.com/files/thing/1915)
 
 ## Future decision

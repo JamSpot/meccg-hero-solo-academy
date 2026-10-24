@@ -49,6 +49,20 @@
       text-decoration: underline;
       outline-offset: 2px;
     }
+    .site-header .skip-link {
+      position: absolute;
+      left: -9999px;
+      top: 0;
+      z-index: 1000;
+      padding: 8px 12px;
+      background: #fff;
+      color: #17212b;
+      border: 2px solid #17212b;
+    }
+    .site-header .skip-link:focus {
+      left: 12px;
+      top: 12px;
+    }
     @media (max-width: 600px) {
       .site-header .academy-nav a {
         flex: 1 1 40%;
@@ -68,6 +82,7 @@
       <a href="{{ '/decks/' | relative_url }}">Decks</a>
       <a href="{{ '/decks/hero-deck/' | relative_url }}">Hero deck</a>
       <a href="{{ '/decks/hazard-deck/' | relative_url }}">Hazard deck</a>
+      <a href="{{ '/decks/hazard-combos/' | relative_url }}">Hazard combos</a>
       <a href="{{ '/reference/' | relative_url }}">Reference</a>
       <a href="{{ '/reference/free-movement/' | relative_url }}">Free movement</a>
       <a href="{{ '/routes/' | relative_url }}">Routes</a>

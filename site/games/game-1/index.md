@@ -17,6 +17,8 @@ The first game is deliberately small. Its purpose is not to teach every rule. It
 
 The follow-up is to secure the Book, with **Blue Mountain Dwarf-hold** as the historical consolidation destination.
 
+Use the new [Game 1 Turn Workbook]({{ '/games/game-1/turn-workbook/' | relative_url }}) beside the physical cards to record route, Hazard, entry and recovery decisions.
+
 ## Starting company
 
 - Thorin II
@@ -58,7 +60,7 @@ Do not start moving until you know what the expedition is trying to achieve.
 
 Use **Region Movement** for the teaching game.
 
-Example declared route/site path:
+Example route/site path:
 
 **Rhudaur → Hollin → Redhorn Gate**
 
@@ -73,7 +75,7 @@ Before moving, say these aloud:
 3. **Route:** Rhudaur → Hollin → Redhorn Gate.
 4. **No repeated region:** confirmed.
 5. **Region count:** three.
-6. **Site path:** declared.
+6. **Site path:** declare it during the Movement/Hazard Phase, after revealing the new site.
 7. **Exposure:** consider what the named regions allow the Hazard player to key.
 
 The lesson is that choosing a destination is only the beginning of movement planning.
@@ -90,18 +92,16 @@ Moria has a 3, so:
 
 Draw eight cards from the Hazard deck.
 
-Do not automatically play all eight.
-
 The normal Hazard Limit is a separate rules concept. With five characters, the company's base Hazard Limit is **5**.
 
-For the teaching game, keep the distinction clear:
+Keep the distinction clear:
 
 - **Solo draw** determines how many Hazard cards are available to the solitaire Hazard player.
 - **Hazard Limit** determines the normal limit on Hazard play.
 
 ## Step 4 — Become the Hazard player
 
-Look at the eight drawn cards.
+Look at the eight drawn cards and assess the full draw before choosing plays.
 
 For every card ask:
 
@@ -115,17 +115,21 @@ Who is the most important character to affect?
 
 ### DISRUPTION
 
-Would wounding, tapping, exhausting, corrupting or otherwise disrupting that character actually change the expedition?
+Would wounding, tapping, exhausting, corrupting or otherwise disrupting that character change the expedition?
 
 ### SEQUENCING
 
-Is this card stronger before another card, or should it be saved?
+Is this card stronger before another card, or does its wording require a particular order?
 
-### PRESSURE BUDGET
+### LIMIT
 
-You do not have to spend every legal card.
+How many Hazard plays that count against the limit have already been declared?
 
-The goal is to create a meaningful challenge, not to kill the company.
+### COMBINATION
+
+Which legal combination creates the greatest disadvantage within the limit?
+
+**Important solo rule:** the selected procedure directs the Hazard side to play as many of the drawn Hazards as possible within the Hazard Limit, choosing the most disadvantageous legal combination. Do not deliberately leave a useful legal slot empty just because a card looks less dramatic. Equally, never play an illegal card or ignore its requirements.
 
 ## Step 5 — Decide whether to enter Moria
 
@@ -139,9 +143,7 @@ Then:
 
 > What is my worst reasonable outcome?
 
-If the company is already badly compromised, recovery may be better than forcing the site.
-
-For Game 1, however, the normal teaching objective is to attempt Moria unless the company has been seriously damaged.
+If the company is already badly compromised, recovery may be better than forcing the site. Resolve Moria's effects and automatic attack normally; attempt Book of Mazarbul only if the company and rules permit it.
 
 ## Step 6 — Resolve the site
 
@@ -206,47 +208,37 @@ The lesson is:
 
 ## Game 1 decision points
 
-The instructor should pause at these moments and ask the learner to decide before explaining the answer.
+Pause at these moments and decide before reading the lesson.
 
 ### Decision A — Route
 
 **Question:** Why use Region Movement rather than simply following the safest familiar route?
 
-**Lesson:** Region Movement gives greater destination and route control, but exposes more information to the Hazard player.
+**Lesson:** Region Movement gives more destination and route control, but the declared site path can create additional Hazard-keying opportunities. Choose with both effects in mind.
 
 ### Decision B — Hazard
 
 **Question:** Which drawn Hazard is the most dangerous, and why?
 
-Do not answer based only on attack strength.
-
-Consider:
-
-- critical character;
-- current wounds/taps;
-- corruption;
-- immediate objective;
-- recovery options.
+Do not answer based only on attack strength. Consider the critical character, current wounds/taps, corruption, immediate objective and recovery options. Then follow the solo instruction to choose the most disadvantageous legal combination within the limit.
 
 ### Decision C — Entry
 
 **Question:** Do you enter Moria immediately?
 
-**Lesson:** arriving at a site does not force an immediate site attempt.
+**Lesson:** arriving at a site does not itself force an immediate site attempt.
 
 ### Decision D — The Book
 
 **Question:** Once Book of Mazarbul is acquired, has the expedition's purpose changed?
 
-**Answer:** Yes.
-
-**Acquire** becomes **Secure/Consolidate**.
+**Answer:** Yes. **Acquire** becomes **Secure/Consolidate**.
 
 ### Decision E — Recovery
 
 **Question:** Is one more productive site worth the risk?
 
-This is the first time the learner should explicitly compare immediate Marshaling Point gain with future campaign value.
+Compare immediate Marshaling Point gain with future campaign value.
 
 ## Game 1 success condition
 
@@ -259,9 +251,7 @@ For the first lesson, success means:
 5. Acquire Book of Mazarbul if the company is capable.
 6. Make an explicit press-on-or-recover decision.
 
-Winning efficiently is **not** the objective of Game 1.
-
-Learning to make the decisions is.
+Winning efficiently is **not** the objective of Game 1. Learning to make the decisions is.
 
 ## After Game 1
 
@@ -277,9 +267,7 @@ Record:
 - whether the company recovered or pressed on;
 - what you would change next time.
 
-Then replay Game 1 once.
-
-The second play should not be about trying a completely different deck. It should be about making **better decisions with the same teaching pool**.
+Use the [Game 1 Turn Workbook]({{ '/games/game-1/turn-workbook/' | relative_url }}) for the full debrief, then replay Game 1 once. The second play should not be about trying a completely different deck. It should be about making **better decisions with the same teaching pool**.
 
 ## Captain's question
 
