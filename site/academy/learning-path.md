@@ -33,7 +33,7 @@ Learn the basic expedition loop without trying to master every rule.
 Learn Region Movement and why route choice affects Hazard exposure.
 
 ### 3. Route Planning
-Compare routes by legality, exposure, reward, arrival condition and future position.
+Compare routes by legality, exposure, reward, arrival condition and future position. Practise the full sequence in the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }}), including its separate model answers.
 
 ### 4. Hazard Player
 Learn:
