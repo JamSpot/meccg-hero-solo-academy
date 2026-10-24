@@ -139,7 +139,7 @@ For **Game 1**, do not add cards just because you own them. Use the exact teachi
 
 ## Test before changing the list
 
-Use the [Solo Playtest Protocol]({{ '/scenarios/solo-playtest/' | relative_url }}) for three repeatable games before changing card quantities. A card not drawn is not evidence that it is weak; record when it is useful, situational or genuinely unusable.
+Use the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }}) to practise choosing and retaining resources for a real expedition. Then use the [Solo Playtest Protocol]({{ '/scenarios/solo-playtest/' | relative_url }}) for three repeatable games before changing card quantities. A card not drawn is not evidence that it is weak; record when it is useful, situational or genuinely unusable.
 
 ## What the teaching deck is trying to do
 
