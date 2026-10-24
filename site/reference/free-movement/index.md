@@ -139,6 +139,8 @@ If you cannot explain the destination's purpose or the next step, reconsider the
 7. **A long journey:** plan an intermediate stop rather than declaring an illegal five-region route.
 8. **After the objective:** recalculate the next expedition instead of blindly pressing on.
 
+For a complete practice run that joins route legality, Hazard exposure, Hero hand management and the decision to enter a site, use the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }}).
+
 ## The rule to remember
 
 **Destination first. Legality second. Site path third. Hazard forecast fourth.**
