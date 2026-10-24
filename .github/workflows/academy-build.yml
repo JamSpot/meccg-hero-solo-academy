@@ -52,3 +52,60 @@ jobs:
           grep -q '/meccg-hero-solo-academy/navigation/' /tmp/academy-site/index.html
           grep -q '/meccg-hero-solo-academy/academy/learning-path/' /tmp/academy-site/index.html
           ! grep -R -q 'academy/learning-path.html' site
+
+      - name: Audit internal page links
+        run: |
+          python - <<'PY'
+          from html.parser import HTMLParser
+          from pathlib import Path
+          from urllib.parse import urljoin, urlsplit, unquote
+
+          root = Path("/tmp/academy-site")
+          base = "/meccg-hero-solo-academy"
+
+          class AnchorParser(HTMLParser):
+              def __init__(self):
+                  super().__init__()
+                  self.links = []
+              def handle_starttag(self, tag, attrs):
+                  if tag == "a":
+                      href = dict(attrs).get("href")
+                      if href:
+                          self.links.append(href)
+
+          problems = []
+          for page in root.rglob("*.html"):
+              parser = AnchorParser()
+              parser.feed(page.read_text(encoding="utf-8"))
+              rel_page = "/" + page.relative_to(root).as_posix()
+              for href in parser.links:
+                  parsed = urlsplit(href)
+                  if parsed.scheme or parsed.netloc or not parsed.path:
+                      continue
+                  resolved = urlsplit(urljoin(rel_page, href))
+                  path = unquote(resolved.path)
+                  if path == base:
+                      path = "/"
+                  elif path.startswith(base + "/"):
+                      path = path[len(base):]
+                  elif path.startswith("/"):
+                      problems.append(f"{page.relative_to(root)}: root link missing baseurl: {href}")
+                      continue
+
+                  candidate = root / path.lstrip("/")
+                  if path.endswith("/"):
+                      candidate = candidate / "index.html"
+                  elif not candidate.exists():
+                      if (candidate / "index.html").exists():
+                          candidate = candidate / "index.html"
+                      elif candidate.suffix == "":
+                          candidate = candidate.with_suffix(".html")
+
+                  if not candidate.exists():
+                      problems.append(f"{page.relative_to(root)}: broken internal link {href} -> {candidate.relative_to(root) if candidate.is_relative_to(root) else candidate}")
+
+          if problems:
+              print("\\n".join(problems))
+              raise SystemExit(f"Found {len(problems)} broken internal link(s).")
+          print("Internal anchor links resolve to generated pages.")
+          PY
