@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Academy Learning Path
+permalink: /academy/learning-path/
 ---
 
 # Academy Learning Path
