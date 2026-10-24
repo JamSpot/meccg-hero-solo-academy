@@ -10,7 +10,7 @@ Use the visible header menu on every page to switch sections. This map also link
 
 ## Start learning
 - [The Academy — start here]({{ '/academy/' | relative_url }})
-- [Academy Learning Path]({{ '/academy/learning-path.html' | relative_url }})
+- [Academy Learning Path]({{ '/academy/learning-path/' | relative_url }})
 - [Game 1 — First Expedition]({{ '/games/game-1/' | relative_url }})
 - [Game 1 teaching script]({{ '/games/game-1/teaching-script/' | relative_url }})
 - [Games and lessons]({{ '/games/' | relative_url }})
