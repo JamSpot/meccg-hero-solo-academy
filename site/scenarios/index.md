@@ -9,7 +9,7 @@ Start with the [First Session Practice Workbook]({{ '/scenarios/first-session/' 
 
 Then use the [Route Lab workbook]({{ '/scenarios/route-lab/' | relative_url }}) and its [model answers]({{ '/scenarios/route-lab/answer-key/' | relative_url }}) to practise movement timing, site-path declaration, Hazard exposure, route legality, and expedition reassessment.
 
-Use the new [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }}) when you are ready to test how the actual Dwarven Quest Hazard cards interact. It focuses on legality, timing, keying, support cards, and repeatable evidence rather than assumed combos.
+Use the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }}) to combine Hero hand management, route legality, Hazard exposure, site-entry decisions, and campaign planning. It includes a separate model-answer page.\n\nUse the [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }}) when you are ready to test how the actual Dwarven Quest Hazard cards interact. It focuses on legality, timing, keying, support cards, and repeatable evidence rather than assumed combos.
 
 ## Curriculum
 
