@@ -144,4 +144,5 @@ Copy these prompts into a notebook after each practice game:
 - [Free / Player-Directed Movement]({{ '/reference/free-movement/' | relative_url }})
 - [Route Atlas]({{ '/routes/' | relative_url }})
 - [Route Lab workbook]({{ '/scenarios/route-lab/' | relative_url }})
+- [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }})
 - [Solo rules used by the Academy]({{ '/reference/solo-ruleset/' | relative_url }})
