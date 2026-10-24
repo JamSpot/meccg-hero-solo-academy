@@ -38,12 +38,17 @@ jobs:
         run: |
           test -f /tmp/academy-site/index.html
           test -f /tmp/academy-site/navigation/index.html
+          test -f /tmp/academy-site/academy/learning-path/index.html
           test -f /tmp/academy-site/decks/hero-deck/index.html
           test -f /tmp/academy-site/decks/hazard-deck/index.html
           test -f /tmp/academy-site/decks/hazard-combos/index.html
           test -f /tmp/academy-site/reference/free-movement/index.html
           test -f /tmp/academy-site/routes/expedition-planner/index.html
           test -f /tmp/academy-site/scenarios/hazard-combo-lab/index.html
+          test -f /tmp/academy-site/scenarios/expedition-decision-lab/index.html
+          test -f /tmp/academy-site/scenarios/expedition-decision-lab/answer-key/index.html
           grep -q 'academy-nav' /tmp/academy-site/index.html
           grep -q 'academy-nav' /tmp/academy-site/navigation/index.html
           grep -q '/meccg-hero-solo-academy/navigation/' /tmp/academy-site/index.html
+          grep -q '/meccg-hero-solo-academy/academy/learning-path/' /tmp/academy-site/index.html
+          ! grep -R -q 'academy/learning-path.html' site
