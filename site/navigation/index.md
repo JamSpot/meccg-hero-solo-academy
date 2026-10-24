@@ -43,7 +43,7 @@ Use the visible header menu on every page to switch sections. This map also link
 - [First Session answer key]({{ '/scenarios/first-session/answer-key/' | relative_url }})
 - [Route Lab workbook]({{ '/scenarios/route-lab/' | relative_url }})
 - [Route Lab answer key]({{ '/scenarios/route-lab/answer-key/' | relative_url }})
-- [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }})
+- [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }})\n- [Expedition Decision Lab answer key]({{ '/scenarios/expedition-decision-lab/answer-key/' | relative_url }})\n- [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }})
 - [Solo Playtest Protocol]({{ '/scenarios/solo-playtest/' | relative_url }})
 
 ## Return to the homepage
