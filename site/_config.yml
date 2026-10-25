@@ -6,3 +6,6 @@ url: https://jamspot.github.io
 markdown: kramdown
 plugins:
   - jekyll-feed
+exclude:
+  - drafts/
+  - guide/test.md
