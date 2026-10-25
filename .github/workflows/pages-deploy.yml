@@ -1,0 +1,79 @@
+name: Build and deploy Academy website
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+
+      - name: Install Jekyll and site dependencies
+        run: |
+          gem install jekyll -v 3.10.0
+          gem install minima -v 2.5.1
+          gem install jekyll-feed -v 0.17.0
+          gem install kramdown-parser-gfm
+
+      - name: Build the actual website from site/
+        run: jekyll build --source site --destination _site
+
+      - name: Verify homepage, navigation, and core learning pages
+        run: |
+          test -f _site/index.html
+          test -f _site/navigation/index.html
+          test -f _site/academy/index.html
+          test -f _site/academy/learning-path/index.html
+          test -f _site/decks/hero-deck/index.html
+          test -f _site/decks/hazard-deck/index.html
+          test -f _site/decks/hazard-combos/index.html
+          test -f _site/reference/free-movement/index.html
+          test -f _site/routes/expedition-planner/index.html
+          test -f _site/scenarios/index.html
+          grep -q 'academy-nav' _site/index.html
+          grep -q 'academy-nav' _site/navigation/index.html
+          grep -q 'href="/meccg-hero-solo-academy/navigation/"' _site/index.html
+
+      - name: Upload built site for GitHub Pages
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
