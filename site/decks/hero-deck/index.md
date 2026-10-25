@@ -93,6 +93,38 @@ Use these sites for the historical teaching deck:
 
 Keep the Location deck separate from the shuffled Hero resource deck.
 
+## Resource-to-site plan — what the deck is travelling to do
+
+The Challenge Deck C player aid gives the following suggested destinations for its key resources. Treat these as a **target map**, not a mandatory route: check the physical site card, its automatic attack, the resource's printed play conditions, and the company's current condition before committing to a trip.
+
+| Resource objective | Suggested site(s) in the historical player aid | Captain's planning note |
+|---|---|---|
+| **Book of Mazarbul** | **Moria** | This is the Game 1 objective. The follow-up campaign can aim to store it at Blue Mountain Dwarf-hold, but that is a later expedition. |
+| **Bow of Dragon-horn** | **Ovir Hollow**, or the player aid's Bounty of the Hoard line | Check the exact conditions and compare the site's danger with the benefit of the item. |
+| **Magical Harp** | **Ovir Hollow**, or the player aid's Bounty of the Hoard line | Do not make the trip just because the card is in hand; decide whether it improves the current mission. |
+| **Durin's Axe** | **Sarn Goriwing** or **Buhr Widu** | Compare both legal destinations against route exposure and company condition. |
+| **Hauberk of Bright Mail** | **Sarn Goriwing** or **Buhr Widu** | Armour may help later, but reaching it while already weakened can defeat the purpose. |
+| **Enruned Shield** | **Caves of Ûlund** or **The Lonely Mountain** | Check the site's automatic attack and whether the company can still attempt the item. |
+| **Gollum** | **Goblin-gate** | Treat this as a separate objective; don't divert from the Book mission without a reason. |
+| **Iron Hill Dwarves** | **Iron Hill Dwarf-hold** | Faction attempts need their own influence and site-entry plan. |
+| **Men of Dorwinion** | **Shrel-Kain** | This is a later campaign option, not a reason to abandon the opening objective. |
+| **Quickbeam** | **Wellinghall** | The ally's value depends on the company and campaign plan. |
+| **Wormsbane** | **Dead Marshes**, **Caves of Ûlund**, or **The Lonely Mountain** | A specialist weapon is valuable only if the route and expected threats justify the detour. |
+| **Blue Mountain Dwarves** (sideboard) | **Blue Mountain Dwarf-hold** | Advanced objective: the card is in the sideboard, so sideboard access and the Book-storing plan must be taught first. |
+
+**Source note:** these target sites are taken from the published Challenge Deck C player aid. It describes the historical deck's plan as a campaign involving the Book, Dwarf items, allies and factions; it is not a requirement to visit every site in one game. See the [Challenge Decks Player's Guide (PDF)](https://assets.cardgamegeek.com/public/library/meccg/Challenge_Decks_PG.pdf).
+
+## The first campaign arc
+
+| Stage | Mission | Route lesson | Do not assume |
+|---|---|---|---|
+| **Game 1** | Reach Moria and acquire Book of Mazarbul. | Rivendell → Moria via Rhudaur → Hollin → Redhorn Gate is a legal three-region teaching route, after checking adjacency. | Arriving at Moria does not mean the company must enter regardless of wounds and taps. |
+| **Reassess** | Decide whether to recover, consolidate, or continue. | Judge the actual arrival state before declaring another destination. | The original plan does not automatically remain best after the objective changes. |
+| **Later campaign** | Store the Book at Blue Mountain Dwarf-hold and consider the faction. | The direct Moria-to-Blue-Mountain sequence has five regions, so split it into legal legs unless a specific effect changes the limit. | Do not treat the sideboard faction as if it were already in the Hero play deck. |
+| **Optional side objective** | Collect another item or ally. | Compare its site, route exposure, reward, and next position with the main mission. | A card in hand is not a command to travel to its site immediately. |
+
+This keeps the Hero deck practical: first learn one complete expedition, then use the historical resource map to choose the next objective deliberately.
+
 ## Sideboard
 
 The historical deck also has a 20-card sideboard. We will **not** need the whole sideboard for Game 1.
