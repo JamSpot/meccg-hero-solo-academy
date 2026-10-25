@@ -30,10 +30,11 @@ jobs:
 
       - name: Install Jekyll and site dependencies
         run: |
-          gem install jekyll -v 3.10.0
-          gem install minima -v 2.5.1
-          gem install jekyll-feed -v 0.17.0
-          gem install kramdown-parser-gfm
+          gem install jekyll -v 3.10.0 --no-document
+          gem install minima -v 2.5.1 --no-document
+          gem install jekyll-feed -v 0.17.0 --no-document
+          gem install kramdown-parser-gfm --no-document
+          gem list --local '^kramdown-parser-gfm$'
 
       - name: Build the actual website from site/
         run: jekyll build --source site --destination _site
