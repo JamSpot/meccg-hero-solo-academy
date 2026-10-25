@@ -13,7 +13,8 @@ permissions:
   contents: read
 
 concurrency:
-  group: github-pages
+  # Share GitHub Pages' deployment group so the correct site/ artifact wins over the legacy branch build.
+  group: pages
   cancel-in-progress: true
 
 jobs:
