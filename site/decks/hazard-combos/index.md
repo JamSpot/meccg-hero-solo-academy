@@ -47,7 +47,7 @@ The two cards named by the Challenge Deck C player aid have distinct, testable e
 
 - A normal fixed-strike **Spider or Animal attack** receives **+3 prowess and +1 strike**, provided both effects legally apply to that attack.
 - A **Wolf attack** receives Wake of War's **+1 strike and +1 prowess**; Full of Froth and Rage does not apply to Wolves. If Doors of Night is also active, Wake of War instead gives the Wolf attack **+2 strikes and +2 prowess**.
-- **Watcher in the Water is a special case:** its text makes each character face one strike. A ruling in the MECCG Rulings Digest says that an effect which increases the number of strikes by a number does not add extra strikes to an attack worded this way. Do not turn “one strike per character” into “two strikes per character”; check the ruling and the card's prowess modifiers separately.
+- **Watcher in the Water and Neeker-breekers are special cases:** their attack text says each character faces one strike. The MECCG Rulings Digest says effects that increase the number of strikes by a fixed number do not add extra strikes to attacks worded this way. Do not turn “one strike per character” into “two strikes per character”; resolve applicable prowess modifiers separately and follow each card's special text.
 
 These effects are not a reason to add Doors of Night to the 30-card teaching list: it is not in that list. Treat it as a later experiment. Also distinguish an event's ongoing effect from the timing and Hazard Limit rules governing when the event itself may be played.
 
