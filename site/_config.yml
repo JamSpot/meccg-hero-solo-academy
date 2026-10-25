@@ -7,5 +7,15 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .sass-cache/
+  - .jekyll-cache/
+  - .jekyll-metadata
   - drafts/
   - guide/test.md
