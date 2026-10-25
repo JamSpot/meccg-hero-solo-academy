@@ -94,6 +94,21 @@ The Hero company of five characters moves to Moria.
 
 A card that cannot be legally keyed is not an option, however powerful it looks. A legal event may be more damaging to the expedition than a creature, depending on the company's current state and the card wording. Do not decide by attack prowess alone.
 
+## Route-keying audit — why Moria is a serious test
+
+On the teaching route **Rivendell → Moria** using **Rhudaur → Hollin → Redhorn Gate**, the route and destination make much of the Challenge Deck C creature suite worth checking. This is a legality audit, not a promise that every card will be in the Hazard hand or can all be played in one phase.
+
+| Creature | Why it may be legal on this expedition | Check before playing |
+|---|---|---|
+| **Cave Worm** | Its printed named-region key includes **Redhorn Gate**, which is in the declared site path. | Confirm the named-region key and all printed conditions. |
+| **Giant Spiders** | It can be keyed to **double Wilderness**; this route contains three Wilderness regions. | Confirm the actual site path and the creature's exact key. |
+| **Lesser Spiders** | Its key includes Wilderness. | Confirm that the route exposes Wilderness and that timing and limit permit the play. |
+| **Wargs** | Its key includes Wilderness. | Check the Wolf attack text and whether Wake of War is active. |
+| **Neeker-breekers** | Its key includes Wilderness among its listed region/site types. | Read the special strike wording; do not assume every strike modifier changes the number of strikes. |
+| **Watcher in the Water** | Its card text permits play at **Moria**; it also has a double-Wilderness key. | Check its special attack wording and the ruling on attacks where each character faces one strike. |
+
+The lesson is important: **route choice is also Hazard-deck choice**. Rhudaur → Hollin → Redhorn Gate exposes Wilderness and names Redhorn Gate; arriving at Moria adds a site-specific option. The Hazard player must still obey the actual card text, timing, target restrictions and Hazard Limit. See the [official rules]({{ '/reference/solo-ruleset/' | relative_url }}) and [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf).
+
 ## Physical construction
 
 1. Find the 30 listed Hazard cards and check each quantity.
