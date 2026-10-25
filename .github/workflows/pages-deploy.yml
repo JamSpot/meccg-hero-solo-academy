@@ -13,7 +13,8 @@ permissions:
   contents: read
 
 concurrency:
-  # Share GitHub Pages' deployment group so the correct site/ artifact wins over the legacy branch build.
+  # Serialize this workflow's own deployments. The repository's branch-based Pages build is separate;
+  # switch the Pages source to GitHub Actions to remove that competing deployment.
   group: pages
   cancel-in-progress: true
 
