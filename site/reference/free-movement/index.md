@@ -108,6 +108,9 @@ Before moving, check:
 
 During the Movement/Hazard Phase, reveal Moria and declare the Region Movement site path. The site path is used for Hazard keying; it does not itself move the company.
 
+**Now forecast the Hazard exposure.** This path contains three Wilderness regions and explicitly names Redhorn Gate; the destination is Moria. In the Challenge Deck C teaching Hazard list, that can make several different creature cards potential candidates: Giant Spiders can use a double-Wilderness key, Cave Worm is keyed to Redhorn Gate, Wargs/Lesser Spiders/Neeker-breekers include Wilderness among their keys, and Watcher in the Water may be played at Moria. These are **potential legal plays**, not a promise that every card can be played at once: check each physical card, timing, target conditions and the remaining Hazard Limit. The [Hazard Deck Construction guide]({{ '/decks/hazard-deck/' | relative_url }}) contains the full route-keying audit.
+
+
 ## 8. Route example — the Blue Mountain trap
 
 Do not assume that because a destination is important, it is reachable in one movement. Moria is in Redhorn Gate, while Blue Mountain Dwarf-hold is in Númeriador. The direct sequence through Hollin, Rhudaur and Arthedain is five regions:
