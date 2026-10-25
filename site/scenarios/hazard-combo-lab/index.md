@@ -32,7 +32,7 @@ Both named support cards are in the drawn Hazard hand, along with a creature.
 
 **Task:** Before playing anything, check whether either support card is legal now, what it affects, its timing, and whether both can legally affect the same attack or phase. Count Hazard Limit use.
 
-**Model principle:** Full of Froth and Rage gives Spider and Animal attacks +2 prowess; Wake of War gives Wolf, Spider and Animal attacks +1 strike and +1 prowess (or Wolves +2 strikes and +2 prowess if Doors of Night is active). When both effects apply to a fixed-strike Spider/Animal attack, the combined modifier is +3 prowess and +1 strike. Full of Froth and Rage does not boost Wolves. Watcher in the Water is a special case: because each character faces one strike, the ruling digest says strike-increase effects do not add extra strikes to that attack. Check the printed cards and ruling before resolving the example.
+**Model principle:** Full of Froth and Rage gives Spider and Animal attacks +2 prowess; Wake of War gives Wolf, Spider and Animal attacks +1 strike and +1 prowess (or Wolves +2 strikes and +2 prowess if Doors of Night is active). When both effects apply to a fixed-strike Spider/Animal attack, the combined modifier is +3 prowess and +1 strike. Full of Froth and Rage does not boost Wolves. Watcher in the Water and Neeker-breekers are special cases: their text says each character faces one strike, so the ruling digest says fixed strike-increase effects do not add extra strikes to those attacks. Check the printed cards and ruling before resolving the example.
 
 ## Drill 4 — A powerful creature with an invalid key
 
