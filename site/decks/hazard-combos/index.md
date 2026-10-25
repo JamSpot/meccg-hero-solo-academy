@@ -34,6 +34,25 @@ The published Challenge Deck C player aid describes this Hazard strategy as **sw
 
 The quantities above total **30 Hazards**. The group labels are a playtesting aid, not an alternative card text or a claim that every card in a group works with every other card.
 
+### Verified interaction — Full of Froth and Rage + Wake of War
+
+The two cards named by the Challenge Deck C player aid have distinct, testable effects. Check the printed cards before play; the table below is a rules-study aid, not a substitute for their wording.
+
+| Active effect | Verified effect to apply |
+|---|---|
+| **Full of Froth and Rage** | Spider and Animal attacks receive **+2 prowess**. Discard it if a Spider or Animal attack is defeated. It cannot be duplicated. |
+| **Wake of War** | Wolf, Spider and Animal attacks receive **+1 strike and +1 prowess**. Wolf attacks instead receive **+2 strikes and +2 prowess** if Doors of Night is in play. It cannot be duplicated. |
+
+**Practical results when both effects are active:**
+
+- A normal fixed-strike **Spider or Animal attack** receives **+3 prowess and +1 strike**, provided both effects legally apply to that attack.
+- A **Wolf attack** receives Wake of War's **+1 strike and +1 prowess**; Full of Froth and Rage does not apply to Wolves. If Doors of Night is also active, Wake of War instead gives the Wolf attack **+2 strikes and +2 prowess**.
+- **Watcher in the Water is a special case:** its text makes each character face one strike. A ruling in the MECCG Rulings Digest says that an effect which increases the number of strikes by a number does not add extra strikes to an attack worded this way. Do not turn “one strike per character” into “two strikes per character”; check the ruling and the card's prowess modifiers separately.
+
+These effects are not a reason to add Doors of Night to the 30-card teaching list: it is not in that list. Treat it as a later experiment. Also distinguish an event's ongoing effect from the timing and Hazard Limit rules governing when the event itself may be played.
+
+**Sources for verification:** [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf); [Council of Elrond official rules](https://councilofelrond.org/rules/); [MECCG Rulings Digests (PDF)](https://meccg.es/meta/rules/MeCCG%20Rulings%20Digests%20v1.0.pdf); [card-text spoiler reference](https://www.scribd.com/document/765888091/CardSpoiler-MECCG).
+
 ### Combination A — Creature first, then check the boosters
 
 **Test hypothesis:** the creature attack is the core threat; Full of Froth and Rage and Wake of War are the named support cards to investigate alongside it.
