@@ -112,7 +112,7 @@ The Challenge Deck C player aid gives the following suggested destinations for i
 | **Wormsbane** | **Dead Marshes**, **Caves of Ûlund**, or **The Lonely Mountain** | A specialist weapon is valuable only if the route and expected threats justify the detour. |
 | **Blue Mountain Dwarves** (sideboard) | **Blue Mountain Dwarf-hold** | Advanced objective: the card is in the sideboard, so sideboard access and the Book-storing plan must be taught first. |
 
-**Source note:** these target sites are taken from the published Challenge Deck C player aid. It describes the historical deck's plan as a campaign involving the Book, Dwarf items, allies and factions; it is not a requirement to visit every site in one game. See the [Challenge Decks Player's Guide (PDF)](https://assets.cardgamegeek.com/public/library/meccg/Challenge_Decks_PG.pdf).
+**Source note:** these target sites are taken from the historical *Challenge Decks Player's Guide* (Birk Pinker, last updated May 2011), which lists the suggested sites for Dwarven Quest / Challenge Deck C. The separate [three-page Challenge Decks player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf) confirms the deck list and broad strategy. These are planning aids, not a requirement to visit every site in one game. See the [Challenge Decks Player's Guide (PDF)](https://assets.cardgamegeek.com/public/library/meccg/Challenge_Decks_PG.pdf).
 
 ## The first campaign arc
 
