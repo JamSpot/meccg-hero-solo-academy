@@ -60,6 +60,9 @@ jobs:
           test -f _site/scenarios/hazard-combo-lab/index.html
           test -f _site/scenarios/expedition-decision-lab/index.html
           test -f _site/scenarios/expedition-decision-lab/answer-key/index.html
+          test ! -f _site/academy/learning-path.html
+          test ! -e _site/drafts
+          test ! -f _site/guide/test.html
           grep -q 'academy-nav' _site/index.html
           grep -q 'academy-nav' _site/navigation/index.html
           grep -q 'href="/meccg-hero-solo-academy/navigation/"' _site/index.html
