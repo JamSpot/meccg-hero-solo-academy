@@ -22,9 +22,9 @@ A five-character company moves from Rivendell to Moria. Under the Academy's sele
 
 The company declares Region Movement on the teaching route **Rhudaur → Hollin → Redhorn Gate**.
 
-**Task:** Count the regions and identify the region types. Which creatures in the actual hand might now be legal?
+**Task:** Count the regions and identify the region types. Check the actual Challenge Deck C creature cards against the route and destination.
 
-**Model principle:** all three regions are Wilderness. Check each creature's exact keying, any double-symbol requirement, the destination, and all additional conditions. A matching region type is not a guarantee that every creature can be played.
+**Model principle:** all three regions are Wilderness, and the destination is Moria. Cave Worm can be keyed to the named region Redhorn Gate; Giant Spiders can use the double-Wilderness key; Lesser Spiders, Wargs and Neeker-breekers have Wilderness among their keys; Watcher in the Water may also be played at Moria. These are potential legal candidates, not automatic plays: verify the printed card, the declared path, timing and remaining Hazard Limit.
 
 ## Drill 3 — Full of Froth and Rage plus Wake of War
 
@@ -32,7 +32,7 @@ Both named support cards are in the drawn Hazard hand, along with a creature.
 
 **Task:** Before playing anything, check whether either support card is legal now, what it affects, its timing, and whether both can legally affect the same attack or phase. Count Hazard Limit use.
 
-**Model principle:** the Challenge Deck C player aid identifies these cards as attack boosters, but that summary is not a substitute for the printed card text. Do not assume they stack or can be played in any order. Record the exact wording/ruling used to resolve the test.
+**Model principle:** Full of Froth and Rage gives Spider and Animal attacks +2 prowess; Wake of War gives Wolf, Spider and Animal attacks +1 strike and +1 prowess (or Wolves +2 strikes and +2 prowess if Doors of Night is active). When both effects apply to a fixed-strike Spider/Animal attack, the combined modifier is +3 prowess and +1 strike. Full of Froth and Rage does not boost Wolves. Watcher in the Water is a special case: because each character faces one strike, the ruling digest says strike-increase effects do not add extra strikes to that attack. Check the printed cards and ruling before resolving the example.
 
 ## Drill 4 — A powerful creature with an invalid key
 
