@@ -14,7 +14,7 @@ A practical solo-learning course for Hero play in Middle-earth: The Wizards CCG,
 The navigation bar appears on every page. Choose **All pages** for the complete site map, or start with any of these:
 
 - **[Start here — set up your table]({{ '/academy/' | relative_url }})**
-- **[Follow the Academy Learning Path]({{ '/academy/learning-path.html' | relative_url }})**
+- **[Follow the Academy Learning Path]({{ '/academy/learning-path/' | relative_url }})**
 - **[Games and lessons]({{ '/games/' | relative_url }})**
 - **[Play Game 1 — Rivendell to Moria]({{ '/games/game-1/' | relative_url }})**
 - **[Build the Hero Resource deck]({{ '/decks/hero-deck/' | relative_url }})**
