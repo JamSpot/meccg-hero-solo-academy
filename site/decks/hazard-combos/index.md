@@ -51,7 +51,7 @@ The two cards named by the Challenge Deck C player aid have distinct, testable e
 
 These effects are not a reason to add Doors of Night to the 30-card teaching list: it is not in that list. Treat it as a later experiment. Also distinguish an event's ongoing effect from the timing and Hazard Limit rules governing when the event itself may be played.
 
-**Sources for verification:** [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf); [Council of Elrond official rules](https://councilofelrond.org/rules/); [MECCG Rulings Digests (PDF)](https://meccg.es/meta/rules/MeCCG%20Rulings%20Digests%20v1.0.pdf); [card-text spoiler reference](https://www.scribd.com/document/765888091/CardSpoiler-MECCG).
+**Sources for verification:** [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf); [Council of Elrond official rules](https://councilofelrond.org/rules/); [MECCG Ruling Digests](https://meccg.com/rules/ruling-digests/); [Council of Elrond Official Card Database](https://www.councilofelrond.org/cards/).
 
 ### Combination A — Creature first, then check the boosters
 
