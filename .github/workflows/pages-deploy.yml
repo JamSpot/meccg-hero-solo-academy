@@ -62,6 +62,10 @@ jobs:
           test -f _site/scenarios/hazard-combo-lab/index.html
           test -f _site/scenarios/expedition-decision-lab/index.html
           test -f _site/scenarios/expedition-decision-lab/answer-key/index.html
+          test -f _site/scenarios/route-risk-workshop/index.html
+          test -f _site/scenarios/route-risk-workshop/answer-key/index.html
+          grep -q 'route-risk-workshop' _site/index.html
+          grep -q 'route-risk-workshop' _site/navigation/index.html
           test ! -f _site/academy/learning-path.html
           test ! -e _site/drafts
           test ! -f _site/guide/test.html
