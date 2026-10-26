@@ -43,3 +43,15 @@ Moria has site number 3, so the Academy's solo procedure draws eight Hazard card
 - **What did I learn?** Would a different legal sequence have been more damaging?
 
 References: [Council of Elrond Official Game Rules](https://www.councilofelrond.org/rules/) and the [Academy solo ruleset]({{ '/reference/solo-ruleset/' | relative_url }}).
+
+---
+
+<div class="next-lesson">
+
+**NEXT: Lesson 7 — Make the Expedition Decisions**
+
+Test your movement, Hazard choices and site-entry decisions together. Answer each scenario before opening its model answer.
+
+[Open the Expedition Decision Lab →]({{ '/scenarios/expedition-decision-lab/' | relative_url }})
+
+</div>
