@@ -49,20 +49,19 @@
       text-decoration: underline;
       outline-offset: 2px;
     }
-    .site-header .skip-link {
-      position: absolute;
-      left: -9999px;
-      top: 0;
-      z-index: 1000;
-      padding: 8px 12px;
-      background: #fff;
+    .course-steps li {
+      margin: 0 0 1rem;
+      padding-left: .25rem;
+    }
+    .next-lesson {
+      margin: 1.5rem 0;
+      padding: 1rem 1.2rem;
+      border: 2px solid #687b8c;
+      border-radius: 8px;
+      background: #f5f7f9;
       color: #17212b;
-      border: 2px solid #17212b;
     }
-    .site-header .skip-link:focus {
-      left: 12px;
-      top: 12px;
-    }
+    .next-lesson p:last-child { margin-bottom: 0; }
     @media (max-width: 600px) {
       .site-header .academy-nav a {
         flex: 1 1 40%;
@@ -73,21 +72,13 @@
   <div class="wrapper">
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
     <nav class="academy-nav" aria-label="Main navigation">
-      <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="{{ '/navigation/' | relative_url }}">All pages</a>
-      <a href="{{ '/academy/' | relative_url }}">Start here</a>
-      <a href="{{ '/academy/learning-path/' | relative_url }}">Learning path</a>
-      <a href="{{ '/games/' | relative_url }}">Games</a>
-      <a href="{{ '/games/game-1/' | relative_url }}">Game 1</a>
-      <a href="{{ '/decks/' | relative_url }}">Decks</a>
-      <a href="{{ '/decks/hero-deck/' | relative_url }}">Hero deck</a>
-      <a href="{{ '/decks/hazard-deck/' | relative_url }}">Hazard deck</a>
-      <a href="{{ '/decks/hazard-combos/' | relative_url }}">Hazard combos</a>
-      <a href="{{ '/reference/' | relative_url }}">Reference</a>
-      <a href="{{ '/reference/free-movement/' | relative_url }}">Free movement</a>
-      <a href="{{ '/routes/' | relative_url }}">Routes</a>
-      <a href="{{ '/reference/solo-ruleset/' | relative_url }}">Solo rules</a>
+      <a href="{{ '/' | relative_url }}">Course Home</a>
+      <a href="{{ '/academy/' | relative_url }}">1. Start Here</a>
+      <a href="{{ '/academy/learning-path/' | relative_url }}">Course Path</a>
+      <a href="{{ '/games/game-1/' | relative_url }}">2. Play Game 1</a>
+      <a href="{{ '/decks/hero-deck/' | relative_url }}">Decks</a>
       <a href="{{ '/scenarios/' | relative_url }}">Practice</a>
+      <a href="{{ '/navigation/' | relative_url }}">All Pages / Reference</a>
     </nav>
   </div>
 </header>
