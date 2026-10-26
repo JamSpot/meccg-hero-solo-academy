@@ -83,6 +83,20 @@ Use the [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | re
 
 For double-region keying, check that the company site path contains the required number of matching regions; matching regions need not be consecutive. Check the actual card text and current official rulings before resolving an unusual case.
 
+## Route-first Hazard hand audit
+
+Before selecting a combination, put the declared site path beside the drawn Hazard hand. Sort candidates into these groups, then check the printed wording:
+
+| Group | First check | Decision to make |
+|---|---|---|
+| **Named-region / site threats** | Is the required region name or destination site actually part of this company's situation? | Keep only if the printed key and every other condition are satisfied. |
+| **Region-type creatures** | Does the declared site path contain the required region type(s), including the required count for double/triple keys? | Count the actual path; do not count a region merely because it appears on a map nearby. |
+| **Events and support** | Is the target, timing window, condition and duration valid now? | Determine whether it disrupts the mission or improves a legal attack, rather than assuming it combines with every creature. |
+
+For the Academy's Rivendell → Moria example, the Region Movement path Rhudaur → Hollin → Redhorn Gate contains three Wilderness regions and names Redhorn Gate; Moria is the destination site. That makes several cards in the teaching list worth checking, but it does not make every card automatically legal. The [Route Risk Workshop]({{ '/scenarios/route-risk-workshop/' | relative_url }}) gives you a repeatable way to compare routes and record what the actual Hazard hand permits.
+
+After legality, compare impact and sequence. Count each play against the Hazard Limit according to the normal rules and the card's exact wording, and respect any explicit exception. If you cannot prove an interaction from the physical text or a current ruling, mark it **unverified** and do not rely on it for the play.
+
 ## Worked example — Moria
 
 The Hero company of five characters moves to Moria.
