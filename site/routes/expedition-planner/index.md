@@ -146,3 +146,15 @@ Copy these prompts into a notebook after each practice game:
 - [Route Lab workbook]({{ '/scenarios/route-lab/' | relative_url }})
 - [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }})
 - [Solo rules used by the Academy]({{ '/reference/solo-ruleset/' | relative_url }})
+
+---
+
+<div class="next-lesson">
+
+**NEXT: Lesson 6 — Run the Hazard Side**
+
+Use the route you just planned. Now examine the Hazard hand and decide what can legally be played, which target matters, and what order gives the strongest result within the Hazard Limit.
+
+[Open the Hazard Player guide →]({{ '/reference/hazard-player/' | relative_url }})
+
+</div>
