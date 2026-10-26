@@ -158,6 +158,19 @@ Once Games 1–3 are comfortable, the Academy can move beyond the historical tea
 The card list is based on the published [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf). The Academy combines that historical card-list baseline with normal MECCG rules and the explicitly identified solo draw procedure. These are separate layers; the page does not claim the historical Challenge Deck was originally built for this exact solitaire procedure.
 
 
-## Next: research hazard combinations
+## Optional advanced module — Hazard combinations
 
-Use the [Hazard Combination Lab]({{ '/decks/hazard-combos/' | relative_url }}) to compare creature families, site-path support and tactical combinations. These are candidate archetypes, not a replacement for the verified 30-card teaching list.
+After you have completed Game 1 and the core course, use the [Hazard Combination Lab]({{ '/decks/hazard-combos/' | relative_url }}) to compare creature families, site-path support and tactical combinations. This is optional advanced research, not a step you need before your first game.
+
+
+---
+
+<div class="next-lesson">
+
+**NEXT: Play Game 1**
+
+Both teaching decks are ready. Do not begin advanced Hazard-combination research yet. Use the prepared lists in the guided Rivendell → Moria expedition.
+
+[Start Game 1 — First Expedition →]({{ '/games/game-1/' | relative_url }})
+
+</div>
