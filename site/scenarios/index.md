@@ -11,6 +11,8 @@ Then use the [Route Lab workbook]({{ '/scenarios/route-lab/' | relative_url }}) 
 
 Use the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }}) to combine Hero hand management, route legality, Hazard exposure, site-entry decisions, and campaign planning. It includes a separate model-answer page.
 
+Use the new [Route Risk Workshop]({{ '/scenarios/route-risk-workshop/' | relative_url }}) and its [model answers]({{ '/scenarios/route-risk-workshop/answer-key/' | relative_url }}) to compare legal routes, account for the actual Hazard hand, weigh arrival condition and future position, and log evidence across three games.
+
 Use the [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }}) when you are ready to test how the actual Dwarven Quest Hazard cards interact. It focuses on legality, timing, keying, support cards, and repeatable evidence rather than assumed combos.
 
 ## Curriculum
