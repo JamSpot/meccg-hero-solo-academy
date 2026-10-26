@@ -181,3 +181,17 @@ The aim is not to make the Hazard side win every encounter. Apply the strongest 
 
 - [Council of Elrond — Official Game Rules](https://www.councilofelrond.org/rules/)
 - [Simon Cogan — My Solo Rules](https://meccg.wordpress.com/my-solo-rules/)
+
+---
+
+<div class="next-lesson">
+
+**CORE COURSE COMPLETE**
+
+You have now set up the table, played the first expedition, practised movement and Hazard decisions, and reviewed repeatable results.
+
+Choose the next skill in the [Games and Lessons course sequence →]({{ '/games/' | relative_url }}). Keep advanced modules such as Hazard combinations and sideboarding as optional branches rather than prerequisites.
+
+[Return to the full Learning Path →]({{ '/academy/learning-path/' | relative_url }})
+
+</div>
