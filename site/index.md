@@ -21,6 +21,7 @@ The navigation bar appears on every page. Choose **All pages** for the complete 
 - **[Build the training Hazard deck]({{ '/decks/hazard-deck/' | relative_url }})**
 - **[Research Hazard combinations]({{ '/decks/hazard-combos/' | relative_url }})**
 - **[Practise Hazard combinations]({{ '/scenarios/hazard-combo-lab/' | relative_url }})**
+- **[Route Risk Workshop — compare legal expeditions]({{ '/scenarios/route-risk-workshop/' | relative_url }})**
 - **[Sideboard guide]({{ '/decks/sideboard/' | relative_url }})**
 - **[Reference library]({{ '/reference/' | relative_url }})**
 - **[Learn free / player-directed movement]({{ '/reference/free-movement/' | relative_url }})**
@@ -37,7 +38,7 @@ The navigation bar appears on every page. Choose **All pages** for the complete 
 2. Assemble the 30-card Hero Resource and 30-card Hazard teaching decks.
 3. Play Game 1 one decision at a time.
 4. Learn movement legality and how a route changes Hazard exposure.
-5. Practise route and Hazard decisions with the workbooks.
+5. Compare legal route options in the Route Risk Workshop and record the trade-offs.
 6. Test Hazard combinations only after checking their exact card text and timing.
 7. Reassess after acquiring Book of Mazarbul; the next expedition should have a new purpose.
 
