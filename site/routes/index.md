@@ -10,6 +10,7 @@ The Route Atlas treats each trip as a decision, not just a line on a map.
 - [Rivendell → Moria](rivendell-moria/) — the first objective route and its three-Wilderness exposure.
 - [Moria → Blue Mountain Dwarf-hold](moria-blue-mountain/) — why the direct route is five regions and how to plan a legal intermediate stop.
 - [Expedition Planner — table worksheet](expedition-planner/) — a reusable pre-move checklist, three worked decision patterns and a post-game debrief.
+- [Route Risk Workshop]({{ '/scenarios/route-risk-workshop/' | relative_url }}) — compare legal routes using mission value, Hazard exposure, arrival condition, future position and fallback options.
 - [Route Workshop]({{ '/reference/route-workshop/' | relative_url }}) — reusable route scorecard and legality drills.
 - [Free / Player-Directed Movement]({{ '/reference/free-movement/' | relative_url }}) — the movement and site-path rules behind the examples.
 
@@ -21,5 +22,6 @@ For normal Region Movement, count the origin and destination regions. Four is th
 
 1. Read the route example that matches your current expedition.
 2. Complete the [Expedition Planner](expedition-planner/) before moving.
-3. Check any uncertain adjacency against the physical region cards.
-4. After the Movement/Hazard Phase, record the company's actual condition and reassess before entering the site.
+3. Use the [Route Risk Workshop]({{ '/scenarios/route-risk-workshop/' | relative_url }}) to compare the full expedition, not only the immediate movement.
+4. Check any uncertain adjacency against the physical region cards.
+5. After the Movement/Hazard Phase, record the company's actual condition and reassess before entering the site.
