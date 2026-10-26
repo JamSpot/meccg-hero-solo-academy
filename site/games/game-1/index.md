@@ -276,3 +276,15 @@ At the end of the game, answer:
 > **Did I choose my route because it was legal, or because it was good for the whole expedition?**
 
 That question is the bridge from learning the rules to actually learning to play Hero Arda.
+
+---
+
+<div class="next-lesson">
+
+**NEXT: Lesson 3 — Check What You Learned**
+
+Before changing either deck, answer the [First Session Practice Workbook]({{ '/scenarios/first-session/' | relative_url }}). Try the questions from memory, then check the [answer key]({{ '/scenarios/first-session/answer-key/' | relative_url }}).
+
+[Continue to Lesson 3 →]({{ '/scenarios/first-session/' | relative_url }})
+
+</div>
