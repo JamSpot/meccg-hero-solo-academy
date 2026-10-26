@@ -35,6 +35,19 @@ For the Academy's Hero lessons, learn these in order:
 
 Starter Movement is not a universal route to every site. Check the actual site cards.
 
+### Starter Movement or Region Movement?
+
+| Question | Starter Movement | Region Movement |
+|---|---|---|
+| **When is it available?** | Only when the site-card / nearest-Haven conditions allow it. Check the actual site cards. | Normally between sites within four consecutive regions, including origin and destination, with no repeated region and legal adjacency. |
+| **Who determines the path?** | The permitted path information comes from the relevant site card(s). | The resource player declares a legal sequence of regions for the site path during the Movement/Hazard Phase. |
+| **Which names are exposed?** | The site path includes the origin and destination region names, but not the names of every intervening region. | The site path includes the names and types of all regions in the declared sequence. |
+| **Why choose it?** | It can be a straightforward choice when the permitted printed path fits the mission. | It gives more route choice, but the named regions can also matter for Hazard keying. |
+
+Neither option is universally safer. Starter Movement can reduce exposure to creatures keyed to a particular **intervening region name**, but its printed region types still matter. Region Movement can let you choose a useful legal route, but all named regions in that declared path are relevant to cards that key to those names. Check the actual Hazard cards rather than assuming one movement type is always best.
+
+A useful beginner habit is to check Starter Movement first when moving to or from a Haven, then compare Region Movement if it is legal and offers a meaningful advantage. This is a decision aid, not permission to use Starter Movement when its site-card conditions are not met.
+
 ## 3. Check Region Movement legality
 
 For normal Region Movement, the route must include the region containing the origin and the region containing the destination. It must follow legal adjacency, contain no repeated region, and use no more than **four consecutive regions**. Both endpoints count.
