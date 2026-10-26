@@ -1,21 +1,24 @@
 ---
 layout: page
-title: Games 1–10
+title: Games and Lessons — Course Order
+permalink: /games/
 ---
 
-# Games 1–10
+# Games and Lessons — Course Order
 
-| Game | Lesson |
-|---|---|
-| 1 | First Expedition — expedition loop and phase separation |
-| 2 | Reading the Route — route exposure |
-| 3 | Don't Fight Everything — avoidance and card opportunity cost |
-| 4 | Combat ROI — combat judgement |
-| 5 | The Hoard Expedition — expedition compression |
-| 6 | Build the Company — development and influence |
-| 7 | Position — planning the next expedition |
-| 8 | Corruption — long-term resource pressure |
-| 9 | Abort — sunk-cost avoidance |
-| 10 | The Captain's Expedition — integration |
+Play these in order. Each game introduces one new skill; do not jump to Game 10 before the core loop is familiar.
 
-Start with [Game 1](game-1/).
+1. **Game 1 — First Expedition:** learn the expedition loop. [Start Game 1 →]({{ '/games/game-1/' | relative_url }})
+2. **Game 2 — Reading the Route:** understand route exposure. Complete the [Free Movement lesson]({{ '/reference/free-movement/' | relative_url }}) first.
+3. **Game 3 — Don't Fight Everything:** learn avoidance and opportunity cost. Complete the [Hazard Player guide]({{ '/reference/hazard-player/' | relative_url }}) first.
+4. **Game 4 — Combat ROI:** choose fights using the actual attack and character state.
+5. **Game 5 — The Hoard Expedition:** combine objectives without overloading the route.
+6. **Game 6 — Build the Company:** learn development and influence.
+7. **Game 7 — Position:** plan the next expedition before ending the current one.
+8. **Game 8 — Corruption:** understand long-term resource pressure.
+9. **Game 9 — Abort:** practise stopping before an expedition collapses.
+10. **Game 10 — The Captain's Expedition:** combine the skills into a full campaign decision.
+
+**Do not start Game 2 until you have played Game 1 and completed the [First Session Workbook]({{ '/scenarios/first-session/' | relative_url }}).**
+
+[Return to the course path →]({{ '/academy/learning-path/' | relative_url }})
