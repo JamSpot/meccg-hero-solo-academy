@@ -162,3 +162,15 @@ For a complete practice run that joins route legality, Hazard exposure, Hero han
 **Destination first. Legality second. Site path third. Hazard forecast fourth.**
 
 References: [Council of Elrond Official Game Rules](https://www.councilofelrond.org/rules/) (movement declaration, Region Movement, site-path declaration and creature keying); [MECCG rules by expansion](https://meccg.com/rules/by-expansion/the-wizards/).
+
+---
+
+<div class="next-lesson">
+
+**NEXT: Lesson 5 — Plan the Expedition**
+
+Now apply movement rules to a real decision. Choose the destination, verify a legal route, forecast the Hazard exposure, and decide what condition the company should be in when it arrives.
+
+[Open the Expedition Planner →]({{ '/routes/expedition-planner/' | relative_url }})
+
+</div>
