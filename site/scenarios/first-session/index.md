@@ -38,3 +38,15 @@ The company acquires Book of Mazarbul but is weakened. Another site offers some 
 What rule did you forget? Which decision was hardest? What would you change on your next expedition?
 
 The Academy uses a labelled teaching hybrid: the historical Dwarven Quest / Pallando Challenge Deck C card baseline, normal MECCG movement and Hazard rules, and the identified solo procedure on the [solo-rules page]({{ '/reference/solo-ruleset/' | relative_url }}). Use the [official rules](https://www.councilofelrond.org/rules/) and card text for exact rulings.
+
+---
+
+<div class="next-lesson">
+
+**NEXT: Lesson 4 — Free Movement**
+
+Once you have checked your answers, learn how Starter Movement and Region Movement change the site path and Hazard exposure.
+
+[Continue to Free Movement →]({{ '/reference/free-movement/' | relative_url }})
+
+</div>
