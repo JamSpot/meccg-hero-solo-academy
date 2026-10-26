@@ -5,47 +5,34 @@ title: MECCG Hero Solo Academy
 
 # MECCG Hero Solo Academy
 
-**Learn to think like the Captain.**
+**A guided course: start here, finish each step, then follow the next link.**
 
-A practical solo-learning course for Hero play in Middle-earth: The Wizards CCG, using genuine physical cards, guided practice games, and repeatable decision drills.
+This Academy teaches solo Hero play in Middle-earth: The Wizards CCG using genuine physical cards. You do not need to read the whole website or choose your own learning order.
 
-## Find your way around
+## Start here
 
-The navigation bar appears on every page. Choose **All pages** for the complete site map, or start with any of these:
+<ol class="course-steps">
+  <li><strong>Set up your table.</strong> Separate your Hero deck, Hazard deck, site cards, character pool and discard piles. <a href="{{ '/academy/' | relative_url }}">Open Lesson 1: Table Setup →</a></li>
+  <li><strong>Build the two teaching decks.</strong> Use the fixed starter lists before changing cards. <a href="{{ '/decks/hero-deck/' | relative_url }}">Hero deck →</a> · <a href="{{ '/decks/hazard-deck/' | relative_url }}">Hazard deck →</a></li>
+  <li><strong>Play your first expedition.</strong> Follow the Rivendell-to-Moria lesson one phase at a time. <a href="{{ '/games/game-1/' | relative_url }}">Lesson 2: Game 1 →</a></li>
+  <li><strong>Practise the rules you just used.</strong> Complete the short workbook before reading its answers. <a href="{{ '/scenarios/first-session/' | relative_url }}">Lesson 3: First Session Workbook →</a></li>
+  <li><strong>Learn movement properly.</strong> Compare Starter Movement with Region Movement, then practise legal paths. <a href="{{ '/reference/free-movement/' | relative_url }}">Lesson 4: Free Movement →</a></li>
+  <li><strong>Plan safer expeditions.</strong> Forecast the route, reward, threats and recovery options. <a href="{{ '/routes/expedition-planner/' | relative_url }}">Lesson 5: Expedition Planner →</a></li>
+  <li><strong>Learn to run the Hazard side.</strong> Check legality, target, timing, sequencing and Hazard Limit. <a href="{{ '/reference/hazard-player/' | relative_url }}">Lesson 6: Hazard Player →</a></li>
+  <li><strong>Practise making decisions.</strong> Compare options, explain your choice, then check the answer key. <a href="{{ '/scenarios/expedition-decision-lab/' | relative_url }}">Lesson 7: Decision Lab →</a></li>
+  <li><strong>Review a full run and improve one thing.</strong> Record results before adding advanced cards. <a href="{{ '/scenarios/solo-playtest/' | relative_url }}">Lesson 8: Playtest and Debrief →</a></li>
+</ol>
 
-- **[Start here — set up your table]({{ '/academy/' | relative_url }})**
-- **[Follow the Academy Learning Path]({{ '/academy/learning-path/' | relative_url }})**
-- **[Games and lessons]({{ '/games/' | relative_url }})**
-- **[Play Game 1 — Rivendell to Moria]({{ '/games/game-1/' | relative_url }})**
-- **[Build the Hero Resource deck]({{ '/decks/hero-deck/' | relative_url }})**
-- **[Build the training Hazard deck]({{ '/decks/hazard-deck/' | relative_url }})**
-- **[Research Hazard combinations]({{ '/decks/hazard-combos/' | relative_url }})**
-- **[Practise Hazard combinations]({{ '/scenarios/hazard-combo-lab/' | relative_url }})**
-- **[Route Risk Workshop — compare legal expeditions]({{ '/scenarios/route-risk-workshop/' | relative_url }})**
-- **[Sideboard guide]({{ '/decks/sideboard/' | relative_url }})**
-- **[Reference library]({{ '/reference/' | relative_url }})**
-- **[Learn free / player-directed movement]({{ '/reference/free-movement/' | relative_url }})**
-- **[Plan routes with the Route Atlas]({{ '/routes/' | relative_url }})**
-- **[Use the Expedition Planner]({{ '/routes/expedition-planner/' | relative_url }})**
-- **[Practise with the First Session workbook]({{ '/scenarios/first-session/' | relative_url }})**
-- **[Practise with the Route Lab]({{ '/scenarios/route-lab/' | relative_url }})**
-- **[Understand the solo rules used here]({{ '/reference/solo-ruleset/' | relative_url }})**
-- **[Open the complete site map]({{ '/navigation/' | relative_url }})**
+## What to do today
 
-## Recommended learning order
+If this is your first session, do **only Steps 1–3**. Do not try to learn every rule, optimise both decks, or read every reference page before playing.
 
-1. Set up the table and separate the card zones.
-2. Assemble the 30-card Hero Resource and 30-card Hazard teaching decks.
-3. Play Game 1 one decision at a time.
-4. Learn movement legality and how a route changes Hazard exposure.
-5. Compare legal route options in the Route Risk Workshop and record the trade-offs.
-6. Test Hazard combinations only after checking their exact card text and timing.
-7. Reassess after acquiring Book of Mazarbul; the next expedition should have a new purpose.
+After Game 1, return to this page and continue with Step 4.
 
-> **Captain's rule:** Never travel without purpose.
+## The campaign loop
 
-## The Hero Loop
+**Prepare → Travel → Face Hazards → Enter the Site → Attempt the Objective → Recover or Continue → Debrief**
 
-**Prepare → Travel → Marshal → Grow Stronger → Travel Further → Recover → Repeat**
+Use the [Academy Learning Path]({{ '/academy/learning-path/' | relative_url }}) for the complete course, including later lessons on combat, influence, corruption and campaign planning.
 
-If you ever feel stuck, choose **All pages** in the navigation bar to return to the full directory.
+**Stuck?** Return to [Start Here]({{ '/academy/' | relative_url }}). Use [All Pages]({{ '/navigation/' | relative_url }}) only when you need to find a particular reference—not as your learning order.
