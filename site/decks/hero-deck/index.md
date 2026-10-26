@@ -298,6 +298,27 @@ The remaining characters are future recruitment/development options.
 
 That distinction becomes important as soon as the Academy moves beyond Game 1.
 
+## Plan the Hero hand by mission stage
+
+The teaching deck is not a pile of cards that are all equally urgent. Before moving, label each useful card by the decision it supports. This is a planning aid; the printed text determines whether a card can actually be played.
+
+| Mission stage | Ask yourself | Common mistake to avoid |
+|---|---|---|
+| **Before movement** | Which card improves this trip, which protects against a likely problem, and which only matters at a later site? | Keeping every card “just in case” without a named future use. |
+| **During movement / Hazards** | Is this resource legal now, and does it address the threat that is actually present? | Spending a defensive resource on a hypothetical threat while ignoring the current state. |
+| **At the destination** | What does the objective require, and what resources or characters are still available after Hazards? | Treating arrival as an instruction to attempt the site regardless of wounds and taps. |
+| **After the objective** | Which cards support the next planned leg, recovery, or a new objective? | Continuing the original route after the mission has changed. |
+
+### The three-question keep test
+
+For each card you are tempted to keep, finish these sentences:
+
+1. **I am keeping this because…**
+2. **I expect to use it when…**
+3. **If that situation does not arise, I will reconsider it when…**
+
+This prevents two opposite errors: discarding a situational card before its use matters, and hoarding cards with no plan. Do not infer a card's effect from its title; check the physical card text and the current rules.
+
 ## Collection-building rule
 
 Do not buy a card simply because it is “good.”
