@@ -26,6 +26,19 @@ Do not treat this as a promise that a particular Hazard will appear or can alway
 
 During Organization, declare Moria as the destination and ensure the movement can be legal. During the Movement/Hazard Phase, reveal Moria and declare the Region Movement site path. The site path determines much of the creature-Hazard exposure; it does not direct movement by itself.
 
+## 3.5 Route-to-Hazard forecast
+
+Before the Hazard player chooses a card, translate the declared path into a short forecast. For the teaching route above:
+
+| Feature of the actual path | What it tells you | What it does **not** prove |
+|---|---|---|
+| Three Wilderness regions | A creature requiring two Wilderness regions may have the required region count. | It does not prove that the creature is in hand, that its other keying conditions are met, or that it should be chosen. |
+| Redhorn Gate is named | A creature keyed to Redhorn Gate is worth checking. | A named-region key does not override any other printed condition. |
+| Destination is Moria | Site-specific threats keyed to Moria are worth checking. | Arrival at Moria does not mean every site-keyed creature is legal against every company state. |
+| Five-character company | The normal base Hazard Limit is five for this phase, unless an applicable effect changes it. | The limit is not the same number as the solo procedure's draw of eight cards. |
+
+Use this forecast before looking for a powerful combination. Then use the [Hazard Combination Lab]({{ '/decks/hazard-combos/' | relative_url }}) to check exact card text and the [Route Risk Workshop]({{ '/scenarios/route-risk-workshop/' | relative_url }}) to practise the full decision. These are candidate checks, not a prediction of which cards will be drawn.
+
 ## 4. The objective and the arrival decision
 
 The route is only the travel plan. After the Hazard phase, inspect the company and then decide whether to enter Moria. Moria has an automatic attack, so arrival is not a promise that the company can safely attempt the objective.
