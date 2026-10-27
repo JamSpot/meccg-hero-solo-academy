@@ -20,7 +20,7 @@ This is the practical route for learning solo Hero play with physical Middle-ear
   <li><strong>Check what you learned.</strong> Complete the short first-session workbook before looking at the answers. <a href="{{ '/scenarios/first-session/' | relative_url }}">Open Step 5: First Session Practice →</a></li>
   <li><strong>Learn movement and route choices.</strong> Only after your first game, study legal movement, free/player-directed movement and route risk. <a href="{{ '/reference/free-movement/' | relative_url }}">Open Step 6: Free Movement →</a> then <a href="{{ '/routes/expedition-planner/' | relative_url }}">the Expedition Planner →</a></li>
   <li><strong>Learn the Hazard side deliberately.</strong> Practise legality, targets, timing, combinations and Hazard Limit. <a href="{{ '/reference/hazard-player/' | relative_url }}">Open Step 7: Hazard Player →</a></li>
-  <li><strong>Repeat and improve.</strong> Complete the decision lab and playtest debrief before changing the deck. <a href="{{ '/scenarios/expedition-decision-lab/' | relative_url }}">Open Step 8: Decision Lab →</a> then <a href="{{ '/scenarios/solo-playtest/' | relative_url }}">Playtest and Debrief →</a></li>
+  <li><strong>Repeat and improve.</strong> Complete the decision lab, compare route risks, and record repeatable tests before changing the deck. <a href="{{ '/scenarios/expedition-decision-lab/' | relative_url }}">Open Step 8A: Decision Lab →</a>, then <a href="{{ '/scenarios/route-risk-workshop/' | relative_url }}">Step 8B: Route Risk Workshop →</a>, then <a href="{{ '/scenarios/solo-playtest/' | relative_url }}">Playtest and Debrief →</a></li>
 </ol>
 
 ## What to do today
