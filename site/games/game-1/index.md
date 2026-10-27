@@ -38,7 +38,7 @@ Separate the two decks:
 - **Hero Resource deck**
 - **Hazard deck**
 
-Keep the Hazard deck face down. The Hazard player is controlled by the learner.
+Use a **5-card hand** for this solo teaching setup, resetting to five during the normal hand-reset step. Keep the Hazard deck face down. The Hazard player is controlled by the learner.
 
 For this first game, do not try to optimise every play. The objective is to learn why a decision is good or bad.
 
@@ -84,9 +84,9 @@ The lesson is that choosing a destination is only the beginning of movement plan
 
 For this teaching variant, the solitaire Hazard draw is:
 
-**2 + (2 × the number on the destination Site card).**
+**2 + (2 × the normal Hazard draw number for the relevant site).**
 
-Moria has a 3, so:
+For this move to non-Haven Moria, the normal Hazard draw number is 3, so:
 
 **2 + (2 × 3) = 8 Hazard cards.**
 
