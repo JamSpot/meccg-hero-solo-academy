@@ -20,6 +20,7 @@ This Academy uses a labelled teaching hybrid: historical Dwarven Quest / Palland
 
 - [ ] 30-card Hero Resource teaching deck assembled and shuffled.
 - [ ] 30-card Training Hazard deck assembled and shuffled separately.
+- [ ] Solo hand size set to 5 for the hand-reset step.
 - [ ] 15 site cards kept as the Location deck; do not shuffle them.
 - [ ] Starting company: Thorin II, Dori, Kíli, Glóin and Óin at Rivendell.
 - [ ] Thorin II controls Dori and Kíli; Glóin controls Óin.
@@ -56,7 +57,7 @@ During Organization, declare the destination and movement. During the Movement/H
 
 ## 3. Keep the solo draw and Hazard Limit separate
 
-The Academy's selected solo procedure draws **2 + (2 × the normal Hazard draw number for the destination site)**. Moria's site number is 3, so the draw is **2 + (2 × 3) = 8 cards**.
+The Academy's selected solo procedure draws **2 + (2 × the normal Hazard draw number for the relevant site)**. For this move to non-Haven Moria, that number is 3, so the draw is **2 + (2 × 3) = 8 cards**. Use a five-card hand for this solo teaching setup.
 
 A five-character company has a base Hazard Limit of **5** under normal rules.
 
