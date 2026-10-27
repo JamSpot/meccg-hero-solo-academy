@@ -14,7 +14,7 @@ Rhudaur → Hollin → Redhorn Gate contains **three regions**, including origin
 
 The path contains three Wilderness regions and names Redhorn Gate. That can make a double-Wilderness creature or a creature keyed to Redhorn Gate a candidate, but only when its exact printed key and all other conditions are met.
 
-Under the Academy's selected solo draw procedure, the Moria site number of 3 gives **2 + (2 × 3) = 8 Hazard cards**. The five-character company's normal base Hazard Limit is **5**. Eight is the number drawn under this solo variant; five is the normal number of Hazard plays that count against the limit for this company and phase, subject to any applicable rule or effect.
+Under the Academy's selected solo draw procedure, Moria's normal Hazard draw number of 3 gives **2 + (2 × 3) = 8 Hazard cards** for this non-Haven destination. The five-character company's normal base Hazard Limit is **5**. Eight is the number drawn under this solo variant; five is the normal number of Hazard plays that count against the limit for this company and phase, subject to any applicable rule or effect.
 
 On arrival, reassess wounds, tapped characters, resources already spent, the site's automatic attack and the value of the objective. A legal route does not force an immediate site attempt.
 
