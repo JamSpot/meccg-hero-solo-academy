@@ -9,7 +9,7 @@ permalink: /games/
 Play these in order. Each game introduces one new skill; do not jump to Game 10 before the core loop is familiar.
 
 1. **Game 1 — First Expedition:** learn the expedition loop. [Start Game 1 →]({{ '/games/game-1/' | relative_url }})
-2. **Game 2 — Reading the Route:** understand route exposure. Complete the [Free Movement lesson]({{ '/reference/free-movement/' | relative_url }}) first.
+2. **Game 2 — Reading the Route:** understand route exposure before choosing a destination. Complete the [Free Movement lesson]({{ '/reference/free-movement/' | relative_url }}), fill in the [Expedition Planner]({{ '/routes/expedition-planner/' | relative_url }}), and practise with the [Route Risk Workshop]({{ '/scenarios/route-risk-workshop/' | relative_url }}).
 3. **Game 3 — Don't Fight Everything:** learn avoidance and opportunity cost. Complete the [Hazard Player guide]({{ '/reference/hazard-player/' | relative_url }}) first.
 4. **Game 4 — Combat ROI:** choose fights using the actual attack and character state.
 5. **Game 5 — The Hoard Expedition:** combine objectives without overloading the route.
