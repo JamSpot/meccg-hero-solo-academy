@@ -19,7 +19,7 @@ After three short sessions, aim to answer:
 
 ## Before you start
 
-Keep separate: the 30-card Hero Resource deck, the 30-card Hazard deck, Location deck, character pool, Hero and Hazard discard piles, and any sideboard. Keep the sideboard out of the beginner test unless the selected rules explicitly call for it.
+Use a **five-card hand** for this solo teaching setup. Keep separate: the 30-card Hero Resource deck, the 30-card Hazard deck, Location deck, character pool, Hero and Hazard discard piles, and any sideboard. Keep the sideboard out of the beginner test unless the selected rules explicitly call for it.
 
 Read [Which Solo Rules Are We Using?]({{ '/reference/solo-ruleset/' | relative_url }}) first. The Academy combines normal MECCG rules for movement, site paths, card legality and Hazard Limits with a separately identified solitaire draw procedure. Do not silently import individual rules from another solo system.
 
@@ -54,7 +54,7 @@ For each drawn Hazard, classify it before choosing plays:
 
 Then choose the strongest legal combination under the Academy's selected solo procedure, respecting the company's Hazard Limit and each card's wording. Do not treat the number drawn as the number that may be played.
 
-For the standard five-character teaching company travelling to Moria, the Academy procedure draws **8** cards (2 + twice Moria's normal Hazard draw number of 3); the normal base Hazard Limit is **5**. These numbers answer different questions.
+For the standard five-character teaching company travelling to non-Haven Moria, the Academy procedure draws **8** cards (2 + twice Moria's normal Hazard draw number of 3); the normal base Hazard Limit is **5**. These numbers answer different questions.
 
 ### Arrival is not site entry
 
