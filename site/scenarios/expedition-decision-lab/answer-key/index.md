@@ -14,7 +14,7 @@ These are model reasoning patterns, not a single mandatory tactical answer. Your
 - Check every adjacent pair against the physical region cards before declaring it.
 - In the teaching example, all three regions are Wilderness, so the route exposes the company to creatures whose printed keying can use the required Wilderness symbols. A particular creature is not automatically legal: check its full key and all conditions.
 - The site path is used for Hazard keying; it does not itself determine movement. Region Movement legality comes from the actual region sequence and adjacency.
-- Under the Academy's labelled solo procedure, Moria's site number of 3 produces a draw of **2 + (2 × 3) = 8**. The five-character company's base Hazard Limit is **5**. Keep these separate.
+- Under the Academy's labelled solo procedure, Moria's normal Hazard draw number of 3 produces a draw of **2 + (2 × 3) = 8** for this non-Haven destination. The five-character company's base Hazard Limit is **5**. Keep these separate.
 - Before attempting Book of Mazarbul, reassess the company's wounds/taps, the resources remaining, the site's automatic attack, and the value of the objective relative to the risk.
 
 **Decision principle:** a legal route can still be strategically expensive. State the likely exposure before you move.
