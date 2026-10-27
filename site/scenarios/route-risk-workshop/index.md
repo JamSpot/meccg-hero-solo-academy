@@ -126,6 +126,26 @@ Before entering, inspect:
 
 Write two possible decisions and the facts that would support each. “Always enter” and “always retreat” are not sufficient answers.
 
+## Drill 7 — Travel between non-Haven sites
+
+After acquiring Book of Mazarbul, you are considering a second objective: Gollum at Goblin-gate. The company is still at Moria.
+
+**Proposed route:** Redhorn Gate → Hollin → Rhudaur → High Pass.
+
+Before you decide, answer:
+
+1. Is Goblin-gate in High Pass, and have you confirmed the site and region cards?
+2. How many regions are in the sequence when you count both endpoints?
+3. Have you checked every adjacency and confirmed there are no repeated regions?
+4. Does this use the normal four-region Region Movement limit?
+5. What does the four-Wilderness site path expose to the Hazard player?
+6. What automatic attack must be faced if you enter Goblin-gate?
+7. What would make a Haven stop worth the extra movement, even though it is not mandatory?
+
+**Do not assume the direct route is best just because it is legal.** Compare the value of the Gollum objective with the Hazard exposure, the Goblin-gate automatic attack and the company's actual wounds, taps and remaining defensive resources.
+
+Reference: the historical Challenge Deck C player aid lists Gollum for Goblin-gate; the full site list identifies Goblin-gate as a Shadow-hold in High Pass with an Orc automatic attack of three strikes at 6 prowess. Verify the physical cards and current rules before play.
+
 ## Three-game route evidence log
 
 Keep both teaching lists unchanged for these three tests.
