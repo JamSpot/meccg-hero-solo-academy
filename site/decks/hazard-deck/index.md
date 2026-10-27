@@ -49,11 +49,11 @@ This is a teaching structure, not a substitute for reading the printed wording o
 
 The Academy uses the solo procedure described on the [Solo Rules page]({{ '/reference/solo-ruleset/' | relative_url }}): draw **2 + twice the normal Hazard draw number for the destination site**.
 
-For Moria, the relevant site number is 3, so the solo draw is:
+For the Game 1 move to Moria, the normal Hazard draw number is 3, so the solo draw is:
 
 **2 + (2 Ã— 3) = 8 Hazard cards.**
 
-This tells you how many cards are available to the solo Hazard player for that company's Movement/Hazard Phase.
+This tells you how many cards are available to the solo Hazard player for that company's Movement/Hazard Phase. First identify the site whose normal draw number applies under the movement rules; for a move to a Haven, normal card draws are based on the site of origin.
 
 ### 2. Base Hazard Limit
 
@@ -132,6 +132,13 @@ The lesson is important: **route choice is also Hazard-deck choice**. Rhudaur â†
 5. Keep any Hazard sideboard cards separate.
 6. Do not reveal or pre-arrange the draw order.
 7. During each solo Movement/Hazard Phase, draw according to the selected solo procedure, then apply the normal Hazard Limit and card legality.
+
+## After each Hazard phase: discard and recycle correctly
+
+- Hazard cards drawn but not played are discarded at the end of that Movement/Hazard Phase.
+- When the Hazard deck is exhausted and more cards must be drawn, shuffle the Hazard discard pile to form a new Hazard deck.
+- In this Book of Mazarbul mission, non-unique defeated creatures go to the Hazard discard so they can return when the deck is recycled. Follow the normal rules for unique creatures; this mission does not award kill MPs as its victory objective.
+- Keep the Hero Resource discard and Hazard discard separate. Never put unplayed drawn Hazards back into the deck immediately unless the selected scenario explicitly tells you to.
 
 ## Solo play: a fair test, not an easy test
 
