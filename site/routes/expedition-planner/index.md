@@ -98,6 +98,26 @@ Do not enter automatically. Check in this order:
 
 There is no universal “always enter” or “always retreat” answer. The correct choice depends on the printed cards, current rules and state of the company.
 
+## Worked plan D — Moria to Goblin-gate without a Haven stop
+
+**Mission:** after acquiring Book of Mazarbul, consider a second objective: Gollum at Goblin-gate. Do this only if the company and campaign plan justify the risk.  
+**Origin:** Moria, Redhorn Gate.  
+**Destination:** Goblin-gate, High Pass.  
+**Proposed Region Movement route:** Redhorn Gate → Hollin → Rhudaur → High Pass.
+
+This is a non-Haven-to-non-Haven journey. It contains four regions including origin and destination, has no repeated region, and is within the normal limit **provided every adjacency is confirmed on the physical Region cards**. Do not declare it until you have checked those connections.
+
+### What you gain and what you risk
+
+- You do not spend a movement returning to Rivendell or another Haven first.
+- The route names all four regions and exposes four Wilderness regions to relevant creature keying.
+- Goblin-gate has an automatic attack of **Orcs — three strikes with 6 prowess**. Resolve that when entering the site; do not confuse it with the Hazard Limit.
+- The Gollum objective is optional. If the company is wounded, tapped or short of defensive resources after Moria, the direct route may be too risky.
+
+**Captain's decision:** choose this route only if the next objective is worth the added exposure and the company can reasonably survive the arrival. If not, recover or choose another legal destination. A Haven stop is not compulsory, but the cost of skipping recovery must be counted.
+
+Source checks: [The Wizards movement rules](https://meccg.com/rules/by-expansion/the-wizards/) and the [MECCG full spoiler list for Goblin-gate](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf). Verify the actual site and region cards before play.
+
 ## Solo Hazard decision worksheet
 
 When you switch to the Hazard side, use the same declared site path and ask:
