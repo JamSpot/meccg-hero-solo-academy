@@ -25,6 +25,7 @@ Put out:
 - Óin with Cram
 - 30-card Hero Resource deck
 - 30-card Training Hazard deck
+- 5-card solo hand size
 - Location deck
 - separate Hero and Hazard discards
 
@@ -52,7 +53,7 @@ The route is not merely a way to move. Its region types and names affect which c
 
 ## Stop 3 — Draw the solo Hazards
 
-Moria has site number 3. The Academy solo procedure draws:
+Moria's normal Hazard draw number is 3. The Academy solo procedure draws:
 
 **2 + (2 × 3) = 8 Hazard cards.**
 
