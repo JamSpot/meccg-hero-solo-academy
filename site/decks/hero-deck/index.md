@@ -7,7 +7,7 @@ title: Hero Deck Construction
 
 ## The exact teaching card list
 
-For **Game 1 and the first Academy lessons**, use the historical **Dwarven Quest (Pallando) Challenge Deck C** as our verified teaching baseline.
+For **Game 1 and the first Academy lessons**, use the historical **Dwarven Quest (Pallando) Challenge Deck C** as our verified teaching baseline. The Academy's solo setup uses a five-card hand; this does not change the 30-card Resource deck list.
 
 This is a genuine-card list: **no proxies are intended**. If you do not own a card, mark it as a card to obtain rather than substituting a random card.
 
