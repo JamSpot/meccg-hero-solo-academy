@@ -55,6 +55,20 @@ There is no automatic answer. A sound response checks the site's printed require
 
 State the evidence behind the decision and what new information would change it.
 
+## Drill 7 — Travel between non-Haven sites
+
+Goblin-gate is in **High Pass**. The proposed sequence is **Redhorn Gate → Hollin → Rhudaur → High Pass**. It contains four regions, including origin and destination. If each adjacency is confirmed on the physical Region cards, it has no repeated region and fits the normal four-region limit for Region Movement.
+
+This is the Academy's concrete example of moving from one non-Haven site to another without returning to a Haven. The route is legal only if the region-card adjacency checks pass; never use the written example as a substitute for checking the actual components.
+
+All four regions are Wilderness. Under Region Movement, their names are included in the declared site path, so check the exact keying of each drawn creature. Do not assume every Wilderness creature can be played: its printed key, target and other conditions still control.
+
+Goblin-gate has an automatic attack of **Orcs — three strikes with 6 prowess**. This is resolved during the site encounter if the company enters. It is not an extra Hazard card and does not count as a Hazard play against the Hazard Limit.
+
+The trip can save a Haven detour, but it does not provide the recovery opportunity a Haven might offer. If the company is weakened, a Haven stop or a different legal destination may be the better strategic choice. The Gollum objective is a reason to consider Goblin-gate, not an obligation to go there immediately.
+
+References: [The Wizards rules](https://meccg.com/rules/by-expansion/the-wizards/), [MECCG full spoiler list](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf), and the [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf).
+
 ## Three-game evidence log
 
 The log is useful only if the setup remains comparable. Keep both 30-card teaching lists unchanged, record the actual route and drawn cards, and distinguish “not drawn” from “drawn but illegal” and “legal but low impact.” One game is not enough to conclude that a card is weak. If you propose a change, name the specific repeated problem, the replacement, the expected benefit and the next test that could disprove your theory.
