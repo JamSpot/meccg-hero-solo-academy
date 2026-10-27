@@ -14,7 +14,7 @@ Do these steps in order. Do not skip ahead to advanced deck tuning.
 
 Prepare these distinct areas:
 
-- **Hero play deck** — the Hero resource cards and the specified teaching-game setup cards.
+- **Hero Resource deck** — the shuffled Hero resource cards for the teaching game.
 - **Hazard deck** — the opposing shuffled deck.
 - **Location deck** — site cards kept separate and available for selecting legal destinations.
 - **Character pool** — characters not yet brought into play.
@@ -24,16 +24,25 @@ Prepare these distinct areas:
 
 For the first lessons, keep the zones physically distinct even though you control both sides of the solo game.
 
-## Step 2 — Build the teaching decks
+## Step 2 — Know which card list this lesson uses
 
-Use the Academy's lists as the starting point. Do not tune them before you have completed a first game and debrief.
+The Academy's first-game baseline is the historical Dwarven Quest / Pallando Challenge Deck C teaching list, combined with an explicitly identified solitaire Hazard-draw procedure. It is a fixed teaching setup to learn the game loop; it is not the entire Arda card pool. The [solo rules page]({{ '/reference/solo-ruleset/' | relative_url }}) explains the distinction.
 
-- [Build the Hero Resource deck →]({{ '/decks/hero-deck/' | relative_url }})
-- [Build the complementary Hazard deck →]({{ '/decks/hazard-deck/' | relative_url }})
+If your goal is to use the full Arda collection as a custom solo Hero/Hazard build, keep the Arda inventory open as a card-pool reference. Do not treat the pool itself as a ready-made shuffled deck: the first-game lists below tell you exactly which cards this particular lesson expects.
 
-Check the card names against the physical cards you own. The Academy is designed for genuine cards, not proxies. If you are missing a card, note it and use the documented fallback or pause to choose a legal replacement; do not silently substitute a different card and assume the list is unchanged.
+## Step 3 — Build the Hero deck first
 
-## Step 3 — Learn the table conventions
+Use the fixed Hero list and check each name against your physical cards. Do not tune it before you have completed a first game and debrief.
+
+[Build the Hero Resource deck →]({{ '/decks/hero-deck/' | relative_url }})
+
+## Step 4 — Build the complementary Hazard deck
+
+Once the Hero list is assembled, build the Hazard deck from its own list. Keep the two decks and discard piles separate.
+
+[Build the Hazard deck →]({{ '/decks/hazard-deck/' | relative_url }})
+
+## Step 5 — Learn the table conventions
 
 - Upright = untapped.
 - Rotated 90° = tapped.
@@ -41,7 +50,7 @@ Check the card names against the physical cards you own. The Academy is designed
 - Keep Hero and Hazard draws and discards separate.
 - Keep the location deck accessible; it is not the normal shuffled play deck.
 
-## Step 4 — Read only the Game 1 mission brief
+## Step 6 — Read the Game 1 mission brief
 
 Your first objective is **Book of Mazarbul at Moria**. The first game teaches the expedition loop, not every rule in MECCG.
 
@@ -49,12 +58,14 @@ Read the mission, starting company and movement plan in the next lesson. Keep th
 
 ## Ready to continue?
 
-<box class="next-lesson">
-  **NEXT: Lesson 2 — First Expedition**
+<div class="next-lesson">
 
-  Your next task is to play the guided Rivendell → Moria game. Follow its steps in order, and record questions rather than stopping to optimise the deck.
+**NEXT: Step 2A — Build the Hero Resource deck**
 
-  [Start Game 1 →]({{ '/games/game-1/' | relative_url }})
-</box>
+Assemble the Hero list first. Then use the link on that page to build the Hazard deck; only after both are ready should you begin Game 1.
 
-If you need to revisit the course sequence at any time, open the [Academy Learning Path →]({{ '/academy/learning-path/' | relative_url }}).
+[Build the Hero deck →]({{ '/decks/hero-deck/' | relative_url }})
+
+</div>
+
+If you need to revisit the sequence, open the [Academy Learning Path →]({{ '/academy/learning-path/' | relative_url }}).
