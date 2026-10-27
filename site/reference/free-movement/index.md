@@ -132,7 +132,29 @@ Do not assume that because a destination is important, it is reachable in one mo
 
 That is too long for one normal Region Movement. Find a legal intermediate site and plan a second leg. Rivendell is one known teaching option: Moria → Rivendell can use Redhorn Gate → Hollin → Rhudaur, then Rivendell → Blue Mountain Dwarf-hold can use Rhudaur → Arthedain → Númeriador. This is an example, not a rule that every expedition must return to a Haven; use another intermediate site if its location and route have been verified.
 
-## 9. The four-part route declaration
+## 9. Route example — Moria to Goblin-gate without returning to a Haven
+
+This is a concrete example of travelling from one non-Haven site to another. It is an optional follow-up after the Book of Mazarbul expedition, not a required part of Game 1.
+
+**Mission:** if the company is fit enough, travel to Goblin-gate to attempt the teaching deck's Gollum objective.  
+**Origin:** Moria, in Redhorn Gate.  
+**Destination:** Goblin-gate, in High Pass.  
+**Proposed Region Movement route:** **Redhorn Gate → Hollin → Rhudaur → High Pass.**
+
+Before declaring movement, check each adjacent pair on the physical region cards. This sequence contains four regions, includes both endpoints, has no repeated region, and is within the normal four-region limit if all adjacencies are confirmed. Neither endpoint is a Haven, so this trip does **not** require a Haven stop.
+
+### Why this is not automatically the best route
+
+- All four named regions are Wilderness, so the route creates substantial exposure to creatures whose printed keys match Wilderness or a required number of Wilderness regions.
+- Because this is Region Movement, the names of all four regions are included in the declared site path. A named-region Hazard such as Cave Worm is therefore worth checking against the actual card text.
+- Goblin-gate has its own automatic attack: **Orcs, three strikes with 6 prowess**. This is a site attack resolved when the company enters the site; it is not a free extra Hazard play.
+- Gollum is listed for Goblin-gate in the historical Challenge Deck C player aid, but you still need to check the actual resource card, site rules and the company's condition before attempting it.
+
+This route demonstrates the principle: **you can move between non-Haven sites when Region Movement is legal**. Returning to a Haven is a strategic option for healing or consolidation, not a mandatory step after every expedition. The trade-off is that a direct route may expose more region names and deliver the company to a dangerous site while already weakened.
+
+Sources: [The Wizards rules — movement and site paths](https://meccg.com/rules/by-expansion/the-wizards/); [MECCG full spoiler list — Goblin-gate site entry](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf); [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf).
+
+## 10. The four-part route declaration
 
 Before moving, say:
 
@@ -144,7 +166,7 @@ Before moving, say:
 
 If you cannot explain the destination's purpose or the next step, reconsider the expedition.
 
-## 10. Practice drills
+## 11. Practice drills
 
 1. **Four means four:** A → B → C → D. Count the endpoints.
 2. **Five is too many:** A → B → C → D → E.
@@ -153,7 +175,8 @@ If you cannot explain the destination's purpose or the next step, reconsider the
 5. **Named-region key:** check whether the named region is in the declared Region Movement route.
 6. **Two routes, one destination:** compare exposure and future position.
 7. **A long journey:** plan an intermediate stop rather than declaring an illegal five-region route.
-8. **After the objective:** recalculate the next expedition instead of blindly pressing on.
+8. **Non-Haven to non-Haven:** check Moria → Goblin-gate via Redhorn Gate → Hollin → Rhudaur → High Pass, then forecast the site-path exposure and Goblin-gate's automatic attack.
+9. **After the objective:** recalculate the next expedition instead of blindly pressing on.
 
 For a complete practice run that joins route legality, Hazard exposure, Hero hand management and the decision to enter a site, use the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }}).
 
