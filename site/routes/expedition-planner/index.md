@@ -108,7 +108,7 @@ When you switch to the Hazard side, use the same declared site path and ask:
 4. **Limit?** Count every Hazard that counts against the current company's limit.
 5. **Best combination?** Under the Academy's selected solo procedure, choose the most disadvantageous legal combination within the limit.
 
-For this Academy's solo draw procedure, draw **two plus twice the normal Hazard draw number for the destination site**. Undrawn or unplayed cards are not extra plays; follow the selected solo rules for discarding and reshuffling. The procedure is a labelled solitaire variant, not the standard multiplayer draw rule. Compare [My Solo Rules](https://meccg.wordpress.com/my-solo-rules/) with the [official MECCG rules](https://www.councilofelrond.org/rules/) rather than blending their procedures silently.
+For this Academy's solo draw procedure, draw **two plus twice the normal Hazard draw number for the relevant site**. First apply the normal movement rule to determine which site's draw number applies: a move to a non-Haven uses the new site, while a move to a Haven normally uses the site of origin. Undrawn or unplayed cards are not extra plays; follow the selected solo rules for discarding and reshuffling. The procedure is a labelled solitaire variant, not the standard multiplayer draw rule. Compare [My Solo Rules](https://meccg.wordpress.com/my-solo-rules/) with the [official MECCG rules](https://www.councilofelrond.org/rules/) rather than blending their procedures silently.
 
 ## Five quick drills
 
