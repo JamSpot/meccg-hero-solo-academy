@@ -57,9 +57,9 @@ This tells you how many cards are available to the solo Hazard player for that c
 
 ### 2. Base Hazard Limit
 
-The normal base Hazard Limit is the company's size or two, whichever is greater, rounded up. It is set for that company's Movement/Hazard Phase and remains fixed for that phase.
+The normal base Hazard Limit is the company's size or two, whichever is greater. **Each Hobbit counts as half a character, with the total rounded up; the minimum limit is two.** It is set for that company's Movement/Hazard Phase and remains fixed for that phase, even if the company later loses a character. Other applicable rules or card effects can modify it; check the chosen scenario before using a special case.
 
-For a company of five characters, the base Hazard Limit is **5**.
+For the five-character starting company in Game 1, the base Hazard Limit is **5**. If you later change the company to include Hobbits, recalculate the limit using the half-character rule instead of simply counting character cards.
 
 ### 3. The solo procedure for playing the drawn Hazards
 
