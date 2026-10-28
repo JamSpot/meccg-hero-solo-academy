@@ -124,6 +124,23 @@ During the Movement/Hazard Phase, reveal Moria and declare the Region Movement s
 **Now forecast the Hazard exposure.** This path contains three Wilderness regions and explicitly names Redhorn Gate; the destination is Moria. In the Challenge Deck C teaching Hazard list, that can make several different creature cards potential candidates: Giant Spiders can use a double-Wilderness key, Cave Worm is keyed to Redhorn Gate, Wargs/Lesser Spiders/Neeker-breekers include Wilderness among their keys, and Watcher in the Water may be played at Moria. These are **potential legal plays**, not a promise that every card can be played at once: check each physical card, timing, target conditions and the remaining Hazard Limit. The [Hazard Deck Construction guide]({{ '/decks/hazard-deck/' | relative_url }}) contains the full route-keying audit.
 
 
+## A crucial comparison — why Rivendell to Moria uses Region Movement
+
+Moria's site card lists **Lórien**, not Rivendell, as its nearest Haven. That means you cannot use Starter Movement to go directly from Rivendell to Moria.
+
+You have two practical plans:
+
+| Plan | Movement | What it means |
+|---|---|---|
+| **Direct teaching route** | Region Movement: **Rhudaur → Hollin → Redhorn Gate** | Three regions including both endpoints. Check each adjacency on the physical Region cards. The declared path names all three regions, so a Hazard keyed to an intervening named region may become legal. |
+| **Starter Movement route** | Rivendell → Lórien, then on a later turn Lórien → Moria | Two movement phases. The first leg uses the Haven-to-Haven site path; the second is allowed because Moria lists Lórien as its nearest Haven. Check each printed site path. |
+
+The direct Region Movement route is not automatically safer or more dangerous in every hand. It is more direct, but the declared region names can create additional named-region Hazard options. Starter Movement uses the printed site path's region types and the origin/destination region names; it does not expose the names of every intervening region. Compare the actual Hazard cards rather than assuming that fewer movement phases always means lower risk.
+
+For the second leg, Moria's printed automatic attack is **Orcs — four strikes with 7 prowess**. This is a site attack to resolve if the company enters; it is not part of the Hazard Limit. Check the physical Moria site card before play.
+
+Sources: [The Wizards movement and site-path rules](https://meccg.com/rules/by-expansion/the-wizards/), [Moria site-card details](https://tolkiengateway.net/wiki/METW%3A_Moria), and the [Council of Elrond official rules](https://www.councilofelrond.org/rules/).
+
 ## 8. Route example — the Blue Mountain trap
 
 Do not assume that because a destination is important, it is reachable in one movement. Moria is in Redhorn Gate, while Blue Mountain Dwarf-hold is in Númeriador. The direct sequence through Hollin, Rhudaur and Arthedain is five regions:
