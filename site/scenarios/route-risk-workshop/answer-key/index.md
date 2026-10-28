@@ -18,6 +18,15 @@ Under the Academy's selected solo draw procedure, Moria's normal Hazard draw num
 
 On arrival, reassess wounds, tapped characters, resources already spent, the site's automatic attack and the value of the objective. A legal route does not force an immediate site attempt.
 
+## Drill 1B — The wrong movement type
+
+Moria lists **Lórien** as its nearest Haven, so Starter Movement cannot take a company directly from Rivendell to Moria. Two valid teaching plans are:
+
+- Use Region Movement directly: **Rhudaur → Hollin → Redhorn Gate**, after checking the adjacency of each pair on the Region cards.
+- Use Starter Movement in two legs: **Rivendell → Lórien**, then **Lórien → Moria** on a later turn.
+
+The distinction matters for both time and Hazard exposure. Starter Movement does not name intervening regions in its printed site path; Region Movement declares the actual region sequence, including its names. Check the relevant card text and the current rules before deciding which route best serves the expedition.
+
 ## Drill 2 — The tempting direct journey
 
 Redhorn Gate → Hollin → Rhudaur → Arthedain → Númeriador has **five regions**. It exceeds the normal four-region limit, so it is not legal as one normal Region Movement.
