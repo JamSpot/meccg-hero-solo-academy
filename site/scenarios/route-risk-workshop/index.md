@@ -56,6 +56,16 @@ Write down:
 
 Do not assume that reaching Moria obliges you to attempt the objective immediately.
 
+**Movement-type check:** Moria lists Lórien as its nearest Haven. Direct Starter Movement from Rivendell to Moria is therefore not legal. For the direct teaching route, use Region Movement; alternatively, travel Rivendell → Lórien and then Lórien → Moria using Starter Movement on the next turn.
+
+## Drill 1B — The wrong movement type
+
+A player chooses Moria as the destination from Rivendell and says, “Moria is close enough, so I will use Starter Movement.”
+
+**Task:** Check Moria's printed nearest Haven. Is the proposed movement type legal? Give two valid plans for reaching Moria.
+
+Do not treat “I can draw a route on the map” as proof that Starter Movement is allowed.
+
 ## Drill 2 — The tempting direct journey
 
 **State:** Book of Mazarbul has been acquired. You are considering Blue Mountain Dwarf-hold as the next objective.
