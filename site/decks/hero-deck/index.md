@@ -319,6 +319,32 @@ For each card you are tempted to keep, finish these sentences:
 
 This prevents two opposite errors: discarding a situational card before its use matters, and hoarding cards with no plan. Do not infer a card's effect from its title; check the physical card text and the current rules.
 
+## Opening-hand practice — plan the mission, not just the cards
+
+Use this short exercise before Game 1, then repeat it after you have played once. Your solitaire hand size is five cards.
+
+**Mission:** start at Rivendell and plan the expedition to acquire Book of Mazarbul at Moria.
+
+1. **Name the objective.** Book of Mazarbul is the reason for this trip; do not let an optional item or ally automatically replace the mission.
+2. **Sort the five-card hand.** Mark each card as (a) movement/planning, (b) avoid or survive a threat, (c) fight if needed, (d) a site-specific or later objective, or (e) uncertain until you read the card.
+3. **Check the actual text.** A card's category does not prove it is playable now. Check its timing, target, site and any conditions.
+4. **Keep a credible fallback.** Do not spend every defensive option on an imagined threat before you know what the Hazard side actually plays; equally, do not save a card that is the correct legal answer to a real threat.
+5. **Plan the next hand.** After movement, site resolution and the normal hand adjustment for the selected solo rules, decide what you need for the next expedition rather than hoarding everything.
+
+### Worked sorting example
+
+Imagine your hand contains **Great-road, Concealment, Book of Mazarbul, Risky Blow, and Lucky Search**. Do not assume all five should be played immediately:
+
+| Card | First question | Planning category |
+|---|---|---|
+| Great-road | Does its printed effect help this declared journey, and can it be played at the correct time? | Movement / planning |
+| Concealment | Is there a legal target and timing window for its avoidance effect? | Threat response |
+| Book of Mazarbul | Is the company at the right site, and can the resource be played under its printed conditions? | Current mission objective |
+| Risky Blow | Is there a relevant attack, and is the risk worth taking for the objective? | Fight only when justified |
+| Lucky Search | Is its printed condition met, and does it serve this expedition or a later one? | Conditional / opportunity |
+
+This is a **card-reading exercise, not a scripted play sequence**. Use the text on your physical cards to decide what is legal. If a card is not useful now, record whether it has a credible later use before discarding it.
+
 ## Collection-building rule
 
 Do not buy a card simply because it is “good.”
