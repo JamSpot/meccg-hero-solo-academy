@@ -56,13 +56,19 @@ If the movement is illegal when the new site is revealed, it is negated; the com
 - Check every adjacency on the physical region cards.
 - Within the normal four-region limit.
 
+### Why this is Region Movement, not direct Starter Movement
+
+Moria's nearest Haven is **Lórien**, so Starter Movement cannot take the company directly from Rivendell to Moria. The Academy uses Region Movement for the direct teaching leg. The alternative is to travel Rivendell → Lórien first, then Lórien → Moria on a later turn using Starter Movement.
+
+This is an important legality check: choosing the correct destination is not enough; the movement type must also be valid. Region Movement names all regions in the declared route, while Starter Movement uses the printed site path's region types and does not name intervening regions. That difference can change which named-region Hazards are available.
+
 ### Exposure and preparation
 
 All three regions on this teaching route are Wilderness. A creature requiring two Wilderness regions may therefore be a legal option for the Hazard player, **if its printed keying and every other requirement are satisfied**. This is not a prediction that a particular creature will be drawn.
 
 Under the Academy's chosen solo procedure, the Moria site number of 3 produces a draw of **2 + (2 × 3) = 8 Hazard cards**. The five-character company has a base Hazard Limit of **5** for its Movement/Hazard Phase. These are different numbers: eight cards are available to consider, but the normal limit still controls how many Hazards may be played.
 
-Before the company enters Moria, check its wounds and taps, the defensive cards still available, and Moria's automatic attack. Reaching the site does not guarantee that attempting the objective is wise.
+Before the company enters Moria, check its wounds and taps, the defensive cards still available, and Moria's automatic attack (**Orcs: four strikes with 7 prowess**). Reaching the site does not guarantee that attempting the objective is wise. The automatic attack is a site encounter, not an extra Hazard play against the Hazard Limit.
 
 **Debrief question:** if the company arrives too weak to attempt the Book, what did the route gain, and what did it cost? Record a concrete lesson rather than assuming the route was good or bad just because the company survived.
 
