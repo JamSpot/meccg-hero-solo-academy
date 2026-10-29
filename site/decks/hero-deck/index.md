@@ -345,6 +345,8 @@ Imagine your hand contains **Great-road, Concealment, Book of Mazarbul, Risky Bl
 
 This is a **card-reading exercise, not a scripted play sequence**. Use the text on your physical cards to decide what is legal. If a card is not useful now, record whether it has a credible later use before discarding it.
 
+Once you have a route in mind, test the other half of the decision: complete the [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}) to see how the route affects the Hazard hand you must face. The aim is to plan a Hero hand that supports a mission while still making honest allowance for the opposition.
+
 ## Collection-building rule
 
 Do not buy a card simply because it is “good.”
