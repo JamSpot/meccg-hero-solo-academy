@@ -43,7 +43,7 @@ The number used for the normal draw depends on the standard rules for that movem
 
 ### Draw is not the Hazard Limit
 
-The base Hazard Limit is the company size or two, whichever is greater; **Hobbits count as half a character, rounded up**. A five-character company of non-Hobbits therefore has a base Hazard Limit of **5** for its Movement/Hazard Phase, unless an applicable rule or effect changes it. The limit is fixed for that phase.
+The base Hazard Limit is the company size or two, whichever is greater; **Hobbits and Orc scouts each count as half a character, rounded up**. A five-character company of non-Hobbits therefore has a base Hazard Limit of **5** for its Movement/Hazard Phase, unless an applicable rule or effect changes it. The limit is fixed for that phase.
 
 - **8 cards drawn:** the cards available for the solo Hazard side to consider under this procedure.
 - **5 Hazard Limit:** the normal maximum number of Hazard plays that count against the limit for this company and phase.
@@ -76,7 +76,7 @@ The Academy does not change the normal rules for:
 - creature-Hazard keying, legal targets and the Hazard Limit;
 - card text, timing, combat and site resolution.
 
-The [Free / Player-Directed Movement guide]({{ '/reference/free-movement/' | relative_url }}) explains the important distinction between the route used to move and the site path used for Hazard keying. The [Expedition Planner]({{ '/routes/expedition-planner/' | relative_url }}) makes you record both before play.
+The [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}) provides a worked hand to practise keying and event timing. The [Free / Player-Directed Movement guide]({{ '/reference/free-movement/' | relative_url }}) explains the important distinction between the route used to move and the site path used for Hazard keying. The [Expedition Planner]({{ '/routes/expedition-planner/' | relative_url }}) makes you record both before play.
 
 ## What this page does not claim
 
