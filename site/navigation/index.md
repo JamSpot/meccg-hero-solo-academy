@@ -47,6 +47,8 @@ Use the visible header menu on every page to switch sections. This map also link
 - [Route Risk Workshop answer key]({{ '/scenarios/route-risk-workshop/answer-key/' | relative_url }})
 - [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }})
 - [Expedition Decision Lab answer key]({{ '/scenarios/expedition-decision-lab/answer-key/' | relative_url }})
+- [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }})
+- [Hazard Legality Workshop — model answers]({{ '/scenarios/hazard-legality-workshop/answer-key/' | relative_url }})
 - [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }})
 - [Solo Playtest Protocol]({{ '/scenarios/solo-playtest/' | relative_url }})
 
