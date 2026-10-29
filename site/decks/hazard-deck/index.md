@@ -69,7 +69,7 @@ Do not automatically play the first five cards. Check legality and sequence, the
 
 ## Test the Hazard deck consistently
 
-Use the [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}) for a complete eight-card hand with model answers, then the [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }}) to practise legality, timing and sequencing, then use the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }}) to connect Hazard choices to the Hero company's objective and condition. Use the [Solo Playtest Protocol]({{ '/scenarios/solo-playtest/' | relative_url }}) to record legal plays, unused cards, Hazard Limit usage and whether the route made particular creatures legal. Keep the list fixed during baseline games so results are comparable.
+Use the [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}) for a complete eight-card hand with model answers. Then use the [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }}) to practise legality, timing and sequencing, followed by the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }}) to connect Hazard choices to the Hero company's objective and condition. Finally, use the [Solo Playtest Protocol]({{ '/scenarios/solo-playtest/' | relative_url }}) to record legal plays, unused cards, Hazard Limit usage and whether the route made particular creatures legal. Keep the list fixed during baseline games so results are comparable.
 
 ## The seven-step Hazard decision
 
