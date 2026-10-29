@@ -43,7 +43,7 @@ The number used for the normal draw depends on the standard rules for that movem
 
 ### Draw is not the Hazard Limit
 
-The base Hazard Limit is the company size or two, whichever is greater; **Hobbits and Orc scouts each count as half a character, rounded up**. A five-character company of non-Hobbits therefore has a base Hazard Limit of **5** for its Movement/Hazard Phase, unless an applicable rule or effect changes it. The limit is fixed for that phase.
+The base Hazard Limit is the company size or two, whichever is greater; **Hobbits and Orc scouts each count as half a character, rounded up**. A five-character company containing no Hobbits or Orc scouts therefore has a base Hazard Limit of **5** for its Movement/Hazard Phase, unless an applicable rule or effect changes it. The limit is fixed for that phase.
 
 - **8 cards drawn:** the cards available for the solo Hazard side to consider under this procedure.
 - **5 Hazard Limit:** the normal maximum number of Hazard plays that count against the limit for this company and phase.
