@@ -13,6 +13,8 @@ Use the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | rel
 
 Use the new [Route Risk Workshop]({{ '/scenarios/route-risk-workshop/' | relative_url }}) and its [model answers]({{ '/scenarios/route-risk-workshop/answer-key/' | relative_url }}) to compare legal routes, account for the actual Hazard hand, weigh arrival condition and future position, and log evidence across three games.
 
+Use the [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}) to sort a fixed eight-card hand against the Rivendell–Moria site path, choose five legal plays, and account for support-event timing. Open its [model answer]({{ '/scenarios/hazard-legality-workshop/answer-key/' | relative_url }}) only after making your decision.
+
 Use the [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }}) when you are ready to test how the actual Dwarven Quest Hazard cards interact. It focuses on legality, timing, keying, support cards, and repeatable evidence rather than assumed combos.
 
 ## Curriculum
