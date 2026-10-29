@@ -126,6 +126,8 @@ Source checks: [The Wizards movement rules](https://meccg.com/rules/by-expansion
 
 ## Solo Hazard decision worksheet
 
+Before resolving the draw, work through the [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}) and its [model answer]({{ '/scenarios/hazard-legality-workshop/answer-key/' | relative_url }}). It demonstrates how the declared path changes creature legality and why support-event timing matters.
+
 When you switch to the Hazard side, use the same declared site path and ask:
 
 1. **Legal?** Check the printed key, target, timing and any other conditions.
