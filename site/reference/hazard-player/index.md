@@ -27,7 +27,7 @@ Compare the actual consequences of each legal Hazard. A disruption that prevents
 Read the exact wording. Check whether a card strengthens another, changes the environment, or must be played before a target is resolved. Never invent a combo from a card's theme alone.
 
 ### 6 — WHAT IS LEFT OF THE LIMIT?
-Each Hazard card that counts against the limit uses one slot. The base limit is the company's size or two, whichever is greater; **Hobbits count as half a character, rounded up**. It is set at the beginning of the company's Movement/Hazard Phase and stays fixed for that phase, even if a character is later eliminated. Applicable rules and card effects may modify the limit.
+Each Hazard card that counts against the limit uses one slot. The base limit is the company's size or two, whichever is greater; **Hobbits and Orc scouts each count as half a character, rounded up**. It is set at the beginning of the company's Movement/Hazard Phase and stays fixed for that phase, even if a character is later eliminated. Applicable rules and card effects may modify the limit.
 
 ### 7 — FILL THE AVAILABLE LEGAL OPPORTUNITY
 Under this Academy's selected solo procedure, play as many of the drawn Hazards as possible within the limit. Do not play illegal cards, exceed the limit or ignore printed timing requirements. If several combinations are legal, choose the most disadvantageous one.
@@ -68,7 +68,7 @@ Before playing a revealed Hazard, ask:
 - Are timing, attack resolution, and Hazard Limit rules satisfied?
 - If it is legal, am I using the most threatening valid option?
 
-If you cannot answer, pause and check the card text and rules rather than automatically ruling in your own favour.
+If you cannot answer, pause and check the card text and rules rather than automatically ruling in your own favour. Then practise with the [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}) and its [model answer]({{ '/scenarios/hazard-legality-workshop/answer-key/' | relative_url }}).
 
 ## Example: eight cards, five slots
 
