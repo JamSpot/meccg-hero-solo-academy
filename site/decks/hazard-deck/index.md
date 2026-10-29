@@ -57,9 +57,9 @@ This tells you how many cards are available to the solo Hazard player for that c
 
 ### 2. Base Hazard Limit
 
-The normal base Hazard Limit is the company's size or two, whichever is greater. **Each Hobbit counts as half a character, with the total rounded up; the minimum limit is two.** It is set for that company's Movement/Hazard Phase and remains fixed for that phase, even if the company later loses a character. Other applicable rules or card effects can modify it; check the chosen scenario before using a special case.
+The normal base Hazard Limit is the company's size or two, whichever is greater. **Each Hobbit or Orc scout counts as half a character, with the total rounded up; the minimum limit is two.** It is set for that company's Movement/Hazard Phase and remains fixed for that phase, even if the company later loses a character. Other applicable rules or card effects can modify it; check the chosen scenario before using a special case.
 
-For the five-character starting company in Game 1, the base Hazard Limit is **5**. If you later change the company to include Hobbits, recalculate the limit using the half-character rule instead of simply counting character cards.
+For the five-character starting company in Game 1, the base Hazard Limit is **5**. If you later change the company to include Hobbits or Orc scouts, recalculate the limit using the half-character rule instead of simply counting character cards.
 
 ### 3. The solo procedure for playing the drawn Hazards
 
@@ -69,7 +69,7 @@ Do not automatically play the first five cards. Check legality and sequence, the
 
 ## Test the Hazard deck consistently
 
-Use the [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }}) to practise legality, timing and sequencing, then use the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }}) to connect Hazard choices to the Hero company's objective and condition. Use the [Solo Playtest Protocol]({{ '/scenarios/solo-playtest/' | relative_url }}) to record legal plays, unused cards, Hazard Limit usage and whether the route made particular creatures legal. Keep the list fixed during baseline games so results are comparable.
+Use the [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}) for a complete eight-card hand with model answers, then the [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }}) to practise legality, timing and sequencing, then use the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }}) to connect Hazard choices to the Hero company's objective and condition. Use the [Solo Playtest Protocol]({{ '/scenarios/solo-playtest/' | relative_url }}) to record legal plays, unused cards, Hazard Limit usage and whether the route made particular creatures legal. Keep the list fixed during baseline games so results are comparable.
 
 ## The seven-step Hazard decision
 
