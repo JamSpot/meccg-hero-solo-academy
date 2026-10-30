@@ -6,7 +6,7 @@ permalink: /games/game-1/turn-workbook/
 
 # Game 1 Turn Workbook — Hero and Hazard Decisions
 
-Use this beside the physical cards. It joins the Hero Resource deck, Training Hazard deck, Region Movement, and the decision to enter, continue or recover.
+Use this beside the physical cards. It joins the complete Hero play deck (30 Resources plus eight character cards), the separate Training Hazard deck, Region Movement, and the decision to enter, continue or recover.
 
 This Academy uses a labelled teaching hybrid: historical Dwarven Quest / Pallando Challenge Deck C lists, normal MECCG rules for movement and card play, and a separately identified solo Hazard-draw procedure. The original Challenge Deck was not designed specifically for this solitaire procedure. Printed card text and official rules take precedence.
 
@@ -18,14 +18,14 @@ This Academy uses a labelled teaching hybrid: historical Dwarven Quest / Palland
 
 ## 1. Set up the table
 
-- [ ] 30-card Hero Resource teaching deck assembled and shuffled.
+- [ ] 38-card Hero play deck assembled and shuffled: 30 Resources plus Balin, Boromir II, Celeborn, Fíli, Gildor Inglorion and Pallando ×3.
 - [ ] 30-card Training Hazard deck assembled and shuffled separately.
 - [ ] Solo hand size set to 5 for the hand-reset step.
 - [ ] 15 site cards kept as the Location deck; do not shuffle them.
 - [ ] Starting company: Thorin II, Dori, Kíli, Glóin and Óin at Rivendell.
 - [ ] Thorin II controls Dori and Kíli; Glóin controls Óin.
-- [ ] Cram placed as specified by the teaching list.
-- [ ] Hero and Hazard discard piles separate; character pool and sideboard separate.
+- [ ] Two Cram items placed as specified by the teaching list.
+- [ ] Hero and Hazard discard piles separate; starting pool and sideboard separate.
 - [ ] Book of Mazarbul identified as the first mission.
 
 If a listed card is missing, record it as needed for the physical collection. Do not silently substitute a card during the scripted lesson.
@@ -66,9 +66,10 @@ A five-character company has a base Hazard Limit of **5** under normal rules.
 | Cards drawn by the Academy solo procedure | 8 |
 | Base Hazard Limit for five characters | 5 |
 | Does drawing eight allow eight ordinary Hazard plays that count against the limit? | No |
+| Does Twilight count against the Hazard Limit? | No. It can be played at any point during either player's turn if it has a legal Environment target. |
 | What does the selected solo procedure direct? | Play as many drawn Hazards as possible within the limit, choosing the most disadvantageous legal combination |
 
-Do not confuse this solo draw formula with the normal two-player draw rule.
+Do not confuse this solo draw formula with the normal two-player draw rule. Also remember that Twilight is a special no-limit Hazard: it cancels one Environment card and does not use one of the ordinary Hazard slots.
 
 ## 4. Audit the Hazard draw
 
