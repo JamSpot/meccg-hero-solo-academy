@@ -183,6 +183,37 @@ This route demonstrates the principle: **you can move between non-Haven sites wh
 
 Sources: [The Wizards rules — movement and site paths](https://meccg.com/rules/by-expansion/the-wizards/); [MECCG full spoiler list — Goblin-gate site entry](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf); [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf).
 
+## 9A. Moria to Goblin-gate — a complete non-Haven forecast
+
+After the Book of Mazarbul expedition, the company can consider Goblin-gate without first returning to a Haven.
+
+**Region Movement route:** Redhorn Gate → Hollin → Rhudaur → High Pass. All four regions are Wilderness. The route is legal only after you verify each adjacency on the physical Region cards; it includes both endpoints, repeats no region and uses the full four-region allowance.
+
+For this move:
+
+- Goblin-gate's normal Hazard draw number is **2**, so the Academy's solo procedure draws **2 + (2 × 2) = 6** Hazard cards.
+- A five-character company still has a base Hazard Limit of **5**.
+- Goblin-gate's site automatic attack is **Orcs — three strikes with 6 prowess**. This is resolved at the site, not counted as a Hazard card.
+- The four Wilderness regions can key the Wilderness creatures in the Challenge Deck C Hazard list. Cave Worm can also be keyed by the named Redhorn Gate region.
+- **Seized by Terror is not legal on this route.** It requires a Shadow-land [{s}] or Dark-domain [{d}] region in the site path. Goblin-gate's site type is Shadow-hold [{S}], which is a different symbol and a different rule.
+
+This is the difference between planning a route and simply choosing a destination: the route determines the creature keys, the destination determines its own site attack and normal Hazard draw, and the company condition determines whether entering is sensible.
+
+## Great-road is not the free-movement rule
+
+**Region Movement** is the normal movement option that lets a company travel between sites—including non-Haven sites—when the region sequence is legal. You do not have to return to a Haven after every expedition.
+
+**Great-road** is a separate Resource short-event. It can be played at the end of the Organization Phase on a company at a Haven. It allows the opponent to draw up to twice the normal number of cards for that company during the Movement/Hazard Phase; at the end of the turn the company may return to the Haven where it began, with no second Movement/Hazard Phase.
+
+Therefore:
+
+- Great-road is a special return-to-origin option, not a general permission to move anywhere.
+- The company must still make a legal movement to its destination.
+- The extra Hazard draw is a serious cost.
+- The published solitaire formula does not explicitly explain how to combine Great-road's doubled normal draw with the solo **2 + twice-normal** draw. Until that interaction is resolved, leave Great-road out of the Academy's baseline Game 1.
+
+Do not confuse **not needing a Haven stop** with **using Great-road**. The former comes from legal Region Movement; the latter is a specific card with a substantial Hazard-side drawback.
+
 ## 10. The four-part route declaration
 
 Before moving, say:
@@ -209,7 +240,7 @@ For a complete worked example that joins route declaration, creature keying, sup
 8. **Non-Haven to non-Haven:** check Moria → Goblin-gate via Redhorn Gate → Hollin → Rhudaur → High Pass, then forecast the site-path exposure and Goblin-gate's automatic attack.
 9. **After the objective:** recalculate the next expedition instead of blindly pressing on.
 
-For a complete practice run that joins route legality, Hazard exposure, Hero hand management and the decision to enter a site, use the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }}).
+For a complete practice run that joins route legality, Hazard exposure, Hero hand management and the decision to enter a site, use the [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practice/' | relative_url }}) and the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }}).
 
 ## The rule to remember
 
