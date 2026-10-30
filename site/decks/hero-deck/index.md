@@ -194,63 +194,51 @@ Use the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | rel
 
 ## What the teaching deck is trying to do
 
-The deck gives us a coherent learning curve:
+The 30 Resources are not interchangeable. Learn who can use them, when they can be played, and what price or restriction comes with the effect. The same card can be excellent on one expedition and irrelevant on another.
 
-**MOVE → AVOID → SURVIVE → FIGHT → ACQUIRE → COMPRESS → DEVELOP**
+### Starting-company skill map
 
-### Move
+The five starting Dwarves have a useful spread of skills. All five are Warriors; two are Scouts; one is a Ranger; none is a Sage.
 
-- Great-road
-
-### Avoid
-
-- Concealment
-- Not at Home
-
-### Survive
-
-- Fellowship
-- Marvels Told
-
-### Fight
-
-- Risky Blow
-- The Dwarves Are Upon You!
-
-### Acquire
-
-- Book of Mazarbul
-- Items
-- Allies
-- Factions
-
-### Compress
-
-- Bounty of the Hoard
-- Lucky Search
-- Thror's Map
-
-### Develop
-
-- A Friend or Three
-
-The point is not that every future Hero deck needs these exact cards.
-
-The point is that you can explain **why every card is present**.
-
-## Pilot's guide — what to learn from the 30-card list
-
-Keep the verified 30-card list unchanged for the first lessons. Use the functions below as a learning aid, not as a replacement for the printed card text.
-
-| Function | Cards to notice | Decision to practise |
+| Starting character | Skills | What this means in play |
 |---|---|---|
-| Avoid an unnecessary fight | Concealment; Not at Home; Hundreds of Butterflies | Is preserving the company more valuable than fighting this attack? |
-| Protect the expedition | Fellowship; Marvels Told | What danger matters now, and what can this resource legally answer? |
-| Improve movement or future options | Great-road; Thror's Map; Smoke Rings | Does playing this now improve the current trip or preserve a stronger later option? |
-| Make one expedition count | Bounty of the Hoard; Lucky Search | Is the opportunity worth the risk and the resources spent to reach it? |
-| Fight when the objective demands it | Risky Blow; The Dwarves Are Upon You!; the weapon and armour items | Which character should take the risk, and what happens if the fight goes badly? |
-| Build long-term value | Book of Mazarbul; Iron Hill Dwarves; Men of Dorwinion; allies and items | What does this acquisition contribute to the mission and the campaign? |
-| Recruit and develop | A Friend or Three | Can the company legally and usefully add a character without weakening the current plan? |
+| **Thorin II** | Warrior / Scout / Diplomat | Can use Warrior-only combat resources and Scout-only actions such as Concealment or Lucky Search. |
+| **Dori** | Warrior | Can use Warrior-only combat resources; his own card text helps against Orcs but penalises faction influence. |
+| **Kíli** | Warrior / Scout | Your second starting Scout; can use Concealment or Lucky Search when their conditions are met. |
+| **Glóin** | Warrior / Diplomat | Can use Warrior-only combat resources and has useful Dwarf-influence bonuses. |
+| **Óin** | Warrior / Ranger | Can use Warrior-only combat resources and can use Ranger actions, including cancelling River if he is able to tap at the start of the site phase. |
+
+**Important:** the starting company has no Sage. Do not plan to use Marvels Told until a Sage is actually in the company. A Wizard or later character is not automatically in the starting group just because a copy is in the play deck.
+
+### Card roles, timing and limitations
+
+| Card | What it actually does | What to check before using it |
+|---|---|---|
+| **A Friend or Three** | Gives one influence check **or** one corruption check by a character in the company +1 for each character in that company. With the five starting Dwarves, that is +5. | It modifies one check, not every check. Save it for a check that matters. |
+| **Fellowship** | At a Haven, during the Organization Phase, it can be played on a company with at least four characters and allies. It gives all of them +1 prowess and +1 to corruption checks. | It is discarded if a character or ally joins or leaves that company. The five Dwarves qualify at Rivendell, but adding a new member later breaks the Fellowship. |
+| **Concealment** | Scout only: tap the Scout to cancel one attack against his company. | Thorin II and Kíli are the starting Scouts. It cancels one attack, not every attack in the phase; tapping the Scout is a real cost. |
+| **Not at Home** | Cancels one Dragon, Drake or Troll attack if it is an automatic attack or keyed to a site. Alternatively, if Gates of Morning is in play, it reduces the strikes of any automatic attack by two, to a minimum of one. | It is not a universal attack-cancel card. Moria's automatic attack is Orcs, so Not at Home cannot cancel it. Gates of Morning is in the sideboard, not the 30-card main Resource list. |
+| **The Dwarves Are Upon You!** | When a company containing Dwarves faces an attack, all Dwarves in that company receive +2 prowess and -1 body against that attack. | It helps the whole Dwarf company, but the -1 body is a real risk. It cannot be duplicated against the same attack. |
+| **Risky Blow** | Warrior only, against one strike: +3 prowess and -1 body. | All five starting Dwarves are Warriors. This modifies one strike, not the whole attack; the lower body can make a successful strike more dangerous. |
+| **Hundreds of Butterflies** | During a moving character's Movement/Hazard Phase, it untaps that character and increases the Hazard Limit against the company by one. | It does **not** reduce the Hazard draw. With a base limit of five, it can allow the Hazard side a sixth limit-counting play. Use it only when readying the character is worth giving the opposition that extra slot. |
+| **Marvels Told** | Sage only: tap a Sage to discard a Hazard non-Environment permanent-event or long-event; the Sage then makes a corruption check modified by -2. | No starting Dwarf is a Sage. It can answer effects such as Full of Froth and Rage or Wake of War, but not short-events such as River or Seized by Terror, and not an Environment card. |
+| **Lucky Search** | Scout only, during the site phase, at a tapped or untapped Shadow-hold or Dark-hold. Reveal play-deck cards until a non-special item is found or the deck ends; the Scout takes control of it if found, then faces one uncancellable strike with prowess 3 plus the number of cards revealed. | Moria and Goblin-gate are Shadow-holds, so the site condition can be met there. The item is discarded if the Scout is wounded. Book of Mazarbul is a Special Item, so Lucky Search is not a way to find the Book. |
+| **Bounty of the Hoard** | During the site phase, it allows one minor or major item to be played at a tapped site that contains a hoard. | A tapped site is not automatically a hoard site. Check the site and item conditions; this is an extra item opportunity, not deck compression. |
+| **Thrór's Map** | A unique minor item that can be discarded to untap a site with a Dragon automatic attack. | It is a site-untap tool, not card draw. Moria and Goblin-gate have Orc automatic attacks, not Dragon attacks, so the Map does not help at either site. |
+| **Great-road** | A short-event played at the end of the Organization Phase on a company at a Haven. The opponent may draw up to twice the normal number of cards for that company during its Movement/Hazard Phase; at the end of the turn the company may return to the Haven where it began, with no second Movement/Hazard Phase. | This is a special return-to-Haven effect, **not** the general Region Movement rule and not a way to ignore route legality. The published solitaire draw formula does not spell out how Great-road's doubled draw interacts with its own 2 + twice-normal formula, so keep it out of the baseline Game 1 until that interaction is resolved. |
+| **Smoke Rings** | Moves one Resource or Character from the sideboard or discard pile into the play deck, then shuffles. | It puts the card into the deck, not directly into your hand. Use it as recovery/selection for a later draw. |
+
+### The actual learning sequence
+
+**PLAN → PREPARE → AVOID → FIGHT → ACQUIRE → RECOVER → REASSESS**
+
+- **Plan:** choose the mission and route before committing to a site.
+- **Prepare:** use Haven-only resources such as Fellowship at the correct time.
+- **Avoid:** preserve a Scout and Concealment for a genuinely dangerous attack; do not assume Not at Home works against every creature.
+- **Fight:** use the Dwarf-wide bonus or a one-strike bonus only when the actual attack justifies the body risk.
+- **Acquire:** attempt the Book, item, ally or faction that supports the current mission.
+- **Recover:** use site-specific item effects and Smoke Rings only when their conditions are met.
+- **Reassess:** after the site phase, decide whether to recover, continue or change the next objective.
 
 ### The hand-management test
 
@@ -265,6 +253,10 @@ Do not discard a card just because it is not playable this turn. Equally, do not
 ### Deck integrity rule
 
 The list remains the historical Challenge Deck C teaching baseline. Do not quietly replace cards or quantities while using Game 1 and its workbook; otherwise the scripted examples stop matching the physical deck. Record any future alternative as a separate revision with its own list and test games.
+
+### Practice the card decisions
+
+Use the new [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practice/' | relative_url }}) to practise the starting-company skills, Haven timing, Scout-only actions, the Moria automatic attack, item-search risks and the difference between Great-road and normal Region Movement. Attempt the questions before opening its separate model answer.
 
 ## How to physically construct it
 
@@ -350,15 +342,15 @@ Imagine your hand contains **Great-road, Concealment, Book of Mazarbul, Risky Bl
 
 | Card | First question | Planning category |
 |---|---|---|
-| Great-road | Does its printed effect help this declared journey, and can it be played at the correct time? | Movement / planning |
-| Concealment | Is there a legal target and timing window for its avoidance effect? | Threat response |
+| Great-road | Is the company at a Haven at the end of Organization, and is the extra Hazard draw worth a special return to that Haven? | Special return-to-Haven option; not general free movement |
+| Concealment | Is a Scout available to tap to cancel one attack? Thorin II and Kíli are Scouts. | One-attack response; tapping the Scout is the cost |
 | Book of Mazarbul | Is the company at the right site, and can the resource be played under its printed conditions? | Current mission objective |
 | Risky Blow | Is there a relevant attack, and is the risk worth taking for the objective? | Fight only when justified |
-| Lucky Search | Is its printed condition met, and does it serve this expedition or a later one? | Conditional / opportunity |
+| Lucky Search | Is the company at a Shadow-hold or Dark-hold, and is the Scout worth risking on its uncancellable search strike? | Risky site-phase item search; it cannot find the Special Item Book |
 
 This is a **card-reading exercise, not a scripted play sequence**. Use the text on your physical cards to decide what is legal. If a card is not useful now, record whether it has a credible later use before discarding it.
 
-Once you have a route in mind, test the other half of the decision: complete the [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}) to see how the route affects the Hazard hand you must face. The aim is to plan a Hero hand that supports a mission while still making honest allowance for the opposition.
+Once you have a route in mind, test the other half of the decision: complete the [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practice/' | relative_url }}) and then the [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}) to see how the route affects the Hazard hand you must face. The aim is to plan a Hero hand that supports a mission while still making honest allowance for the opposition.
 
 ## Collection-building rule
 
