@@ -60,7 +60,7 @@ Read the mission, starting company and movement plan in the next lesson. Keep th
 
 <div class="next-lesson">
 
-**NEXT: Step 2A — Build the Hero Resource deck**
+**NEXT: Step 2A — Build the 38-card Hero play deck**
 
 Assemble the Hero list first. Then use the link on that page to build the Hazard deck; only after both are ready should you begin Game 1.
 
