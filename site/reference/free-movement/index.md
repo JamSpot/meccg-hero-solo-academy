@@ -187,7 +187,7 @@ Sources: [The Wizards rules — movement and site paths](https://meccg.com/rules
 
 After the Book of Mazarbul expedition, the company can consider Goblin-gate without first returning to a Haven.
 
-**Region Movement route:** Redhorn Gate → Hollin → Rhudaur → High Pass. All four regions are Wilderness. The route is legal only after you verify each adjacency on the physical Region cards; it includes both endpoints, repeats no region and uses the full four-region allowance.
+**Region Movement route:** Redhorn Gate → Hollin → Rhudaur → High Pass. All four regions are Wilderness. The Region cards confirm each adjacency: Redhorn Gate connects to Hollin; Hollin connects to Rhudaur; Rhudaur connects to High Pass. The route includes both endpoints, repeats no region and uses the full four-region allowance. Check those same connections on your physical cards before declaring it.
 
 For this move:
 
@@ -198,6 +198,39 @@ For this move:
 - **Seized by Terror is not legal on this route.** It requires a Shadow-land [{s}] or Dark-domain [{d}] region in the site path. Goblin-gate's site type is Shadow-hold [{S}], which is a different symbol and a different rule.
 
 This is the difference between planning a route and simply choosing a destination: the route determines the creature keys, the destination determines its own site attack and normal Hazard draw, and the company condition determines whether entering is sensible.
+
+### Use Goblin-gate as a waypoint without entering it
+
+The Site Phase does not force you to explore every site. You may choose **not** to enter and explore Goblin-gate. If you do:
+
+- the company does not face Goblin-gate's automatic attack;
+- it may not take other actions or play cards during that Site Phase;
+- it remains at Goblin-gate and may enter it on a later turn.
+
+That means you can use Goblin-gate as a non-Haven waypoint instead of attempting Gollum. You still resolve the Movement/Hazard Phase and draw six solo Hazards on the way there. If you choose to enter Goblin-gate to play Gollum, you must face its three Orc strikes with 6 prowess first.
+
+## 9B. Goblin-gate to Blue Mountain Dwarf-hold — finish the Book mission without a Haven
+
+From Goblin-gate, the company can continue directly to Blue Mountain Dwarf-hold by Region Movement:
+
+**High Pass → Rhudaur → Arthedain → Númeriador.**
+
+The Region cards confirm each adjacency, and all four regions are Wilderness. This is a second legal four-region journey from one non-Haven site to another. Blue Mountain Dwarf-hold's nearest Haven is Grey Havens, but that matters to Starter Movement—not to this Region Movement route.
+
+For the second leg:
+
+- Blue Mountain Dwarf-hold's normal Hazard draw is **1**, so the Academy solo draw is **4**.
+- The five-character company's base Hazard Limit is **5**.
+- Blue Mountain Dwarf-hold has **no automatic attack**.
+- Wilderness-keyed creatures remain relevant; Cave Worm can also key to the named High Pass region.
+- Seized by Terror remains illegal because the four regions contain no Shadow-land or Dark-domain.
+
+The site is named **Blue Mountain Dwarf-hold**, but its printed site-type symbol is Free-hold [{F}]. Do not confuse a site-type symbol with the name of the site. Book of Mazarbul says it may be stored at a Dwarf-hold, and this is the Dwarf-hold in your Location deck.
+
+During the Organization Phase while the company is at Blue Mountain Dwarf-hold, the Book's bearer may store it. The bearer must make the normal corruption check for storing an item. If successful, the Book goes to the marshalling-point pile for its **5 MP storage value**; do not add its one-point in-play value to that total. The check is meaningful because the Book has two corruption points.
+
+This is the clearest example in the Academy of why Region Movement matters: **Moria → Goblin-gate → Blue Mountain Dwarf-hold** reaches the Dwarf-hold in two legal legs without returning to Rivendell, Lórien or Grey Havens. It is not risk-free; it replaces a Haven recovery stop with two Wilderness-heavy Hazard phases.
+
 
 ## Great-road is not the free-movement rule
 
@@ -237,8 +270,10 @@ For a complete worked example that joins route declaration, creature keying, sup
 5. **Named-region key:** check whether the named region is in the declared Region Movement route.
 6. **Two routes, one destination:** compare exposure and future position.
 7. **A long journey:** plan an intermediate stop rather than declaring an illegal five-region route.
-8. **Non-Haven to non-Haven:** check Moria → Goblin-gate via Redhorn Gate → Hollin → Rhudaur → High Pass, then forecast the site-path exposure and Goblin-gate's automatic attack.
-9. **After the objective:** recalculate the next expedition instead of blindly pressing on.
+8. **Non-Haven to non-Haven:** check Moria → Goblin-gate via Redhorn Gate → Hollin → Rhudaur → High Pass; decide whether to enter Goblin-gate or use it as a waypoint.
+9. **Continue without a Haven:** check Goblin-gate → Blue Mountain Dwarf-hold via High Pass → Rhudaur → Arthedain → Númeriador, then store Book of Mazarbul at the Dwarf-hold.
+10. **After the objective:** recalculate the next expedition instead of blindly pressing on.
+
 
 For a complete practice run that joins route legality, Hazard exposure, Hero hand management and the decision to enter a site, use the [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practice/' | relative_url }}) and the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }}).
 
@@ -246,7 +281,7 @@ For a complete practice run that joins route legality, Hazard exposure, Hero han
 
 **Destination first. Legality second. Site path third. Hazard forecast fourth.**
 
-References: [Council of Elrond Official Game Rules](https://www.councilofelrond.org/rules/) (movement declaration, Region Movement, site-path declaration and creature keying); [MECCG rules by expansion](https://meccg.com/rules/by-expansion/the-wizards/).
+References: [Council of Elrond Official Game Rules](https://www.councilofelrond.org/rules/) (movement declaration, Region Movement, site-path declaration and creature keying); [MECCG rules by expansion](https://meccg.com/rules/by-expansion/the-wizards/) (site-entry choice and storing items).
 
 ---
 
