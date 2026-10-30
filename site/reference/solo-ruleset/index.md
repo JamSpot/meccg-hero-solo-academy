@@ -17,9 +17,10 @@ The historical Challenge Deck was not designed specifically for this exact teach
 
 | Topic | Academy choice |
 |---|---|
-| Hero Resource deck | Use the fixed 30-card teaching list. |
+| Hero play deck | Shuffle **38 cards**: the fixed 30-card Resource list plus the eight additional character cards listed on the Hero Deck page. No Hazards go in this deck. |
 | Hazard deck | Use the separate fixed 30-card teaching list; shuffle it. |
 | Location deck | Keep the 15 site cards separate. Do not shuffle them as a play deck. |
+| Starting pool / setup | Use the five starting Dwarves and two Cram items specified by Challenge Deck C. The eight additional character cards are in the Hero play deck, not this starting group. |
 | Hand size | Use the standard solitaire hand size of **5** when the hand is reset. Do not use the normal multiplayer hand size of 8 for this teaching setup. |
 | Movement and card play | Follow the normal MECCG rules and current card text. |
 | Hazard draw | Use the solitaire formula below, not the normal multiplayer draw alone. |
@@ -30,6 +31,12 @@ The historical Challenge Deck was not designed specifically for this exact teach
 | First-game objective | Complete the teaching expedition to acquire Book of Mazarbul at Moria, then record the arrival and recovery decision. This is a tutorial mission, not a claim that the full generic solo campaign victory condition has been played. |
 
 If a card's printed wording or a current ruling differs from a shorthand explanation on an Academy page, use the card and rules.
+
+## Why the Hero play deck contains 38 cards
+
+The 30-card list on the Hero Deck page is the **Resource list**, not the complete shuffled play deck. Normal MECCG play decks contain resources, hazards and character cards. The published solitaire procedure moves all Hazards into their own shuffled deck and says the play deck contains no Hazards and has at least 30 cards. For this Challenge Deck C setup, the 30 Resources are joined by the eight additional character cards (Balin, Boromir II, Celeborn, Fíli, Gildor Inglorion and Pallando ×3), giving a **38-card Hero play deck**.
+
+The five starting Dwarves and two Cram items are set up separately as the starting company and its starting equipment. This preserves the historical Challenge Deck C card zones instead of accidentally omitting the additional characters from the shuffled play deck.
 
 ## The solo Hazard draw
 
@@ -89,7 +96,8 @@ Likewise, this 30-card teaching setup does not automatically use the generic sol
 - [Council of Elrond — Official Game Rules](https://www.councilofelrond.org/rules/) — normal movement, site paths, card play and Hazard Limits.
 - [The Lidless Eye rules — solitaire rules section](https://meccg.com/rules/by-expansion/the-lidless-eye/) — published solitaire draw and Hazard-play procedure.
 - [Simon Cogan / Dragoncymru — My Solo Rules](https://meccg.wordpress.com/my-solo-rules/) — a scenario-based solo adaptation using a separate Hazard deck, recycling and mission-specific objectives.
-- [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf) — historical card lists and broad deck strategy.
+- [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf) — historical card lists, including 30 Resources and eight additional characters.
+- [The Lidless Eye rules — solitaire rules section](https://meccg.es/reglas/por-expansion/the-lidless-eye/) — separate Hazard deck, five-card hand and solitaire draw procedure.
 - [BoardGameGeek MECCG files archive](https://boardgamegeek.com/files/thing/1915) — alternative solo systems, including *The Road Goes Ever On*.
 
 ---
