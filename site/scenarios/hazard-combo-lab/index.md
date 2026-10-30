@@ -8,7 +8,7 @@ permalink: /scenarios/hazard-combo-lab/
 
 Use this workbook with the physical Dwarven Quest / Pallando Challenge Deck C Hazard list. The aim is to learn how to identify the strongest **legal** combination, not to invent interactions from card names. Keep the 30-card list unchanged during the baseline tests.
 
-Before each exercise, read the printed text of every relevant card and check the [official rules](https://councilofelrond.org/rules/). If the answer depends on wording you have not checked, mark it **unverified** rather than guessing.
+Before each exercise, read the printed text of every relevant card and check the [official rules](https://councilofelrond.org/rules/). If the answer depends on wording you have not checked, mark it **unverified** rather than guessing. Complete the [Site-Keying Workshop]({{ '/scenarios/site-keying-workshop/' | relative_url }}) first if lowercase region types and uppercase site types are still easy to confuse.
 
 ## Drill 1 — Eight cards, five slots
 
@@ -34,6 +34,8 @@ Both named support cards are in the drawn Hazard hand, along with a creature.
 
 **Model principle:** Full of Froth and Rage gives Spider and Animal attacks +2 prowess; Wake of War gives Wolf, Spider and Animal attacks +1 strike and +1 prowess (or Wolves +2 strikes and +2 prowess if Doors of Night is active). When both effects apply to a fixed-strike Spider/Animal attack, the combined modifier is +3 prowess and +1 strike. Full of Froth and Rage does not boost Wolves. Watcher in the Water and Neeker-breekers are special cases: their text says each character faces one strike, so the ruling digest says fixed strike-increase effects do not add extra strikes to those attacks. Check the printed cards and ruling before resolving the example.
 
+**Limit reminder:** Twilight is the fixed list's special exception. It may be played at any point during either player's turn and does not count against the Hazard Limit, but it must have a legal Environment card to cancel. It is not a general extra attack.
+
 ## Drill 4 — A powerful creature with an invalid key
 
 A creature looks like the strongest play in the hand, but the declared path or destination does not satisfy its printed key.
@@ -42,7 +44,15 @@ A creature looks like the strongest play in the hand, but the declared path or d
 
 **Model principle:** no. An unused Hazard Limit slot does not override creature keying. Choose among the remaining legal cards.
 
-## Drill 5 — Watcher at Moria
+## Drill 5 — Moria is a Shadow-hold, not a Ruins & Lairs site
+
+The Moria site card has site type **Shadow-hold [{S}]**. It is not a Ruins & Lairs [{R}] site.
+
+**Task:** Lesser Spiders and Neeker-breekers both include a Ruins & Lairs site key. Can you use that key at Moria? If they are legal on the Rhudaur → Hollin → Redhorn Gate route, identify the actual key that makes them legal.
+
+**Model principle:** not via the site type. Moria is {S}, not {R}; the cards are candidates here through the route's Wilderness [{w}] region key. Watcher in the Water is different because its own text explicitly permits play at Moria.
+
+## Drill 6 — Watcher at Moria
 
 The company is moving to Moria and Watcher in the Water is in the drawn hand.
 
@@ -50,7 +60,7 @@ The company is moving to Moria and Watcher in the Water is in the drawn hand.
 
 **Model principle:** do not decide from the card's name or theme. Verify the exact key, timing, target, and any other conditions. If legal, compare the actual consequence with the other available plays.
 
-## Drill 6 — Disruption versus creature attack
+## Drill 7 — Disruption versus creature attack
 
 Despair of the Heart, River, and Seized by Terror appear in a hand with a creature.
 
@@ -58,7 +68,7 @@ Despair of the Heart, River, and Seized by Terror appear in a hand with a creatu
 
 **Model principle:** these are not interchangeable cards. Evaluate each according to its own text and the current company state. Do not claim a combo until you have identified a real interaction or a clear sequence of separate pressures.
 
-## Drill 7 — Company does not move
+## Drill 8 — Company does not move
 
 The company remains at its current site for the turn.
 
@@ -66,7 +76,7 @@ The company remains at its current site for the turn.
 
 **Model principle:** a company that does not move still has a Movement/Hazard Phase, but there is no newly declared region site path. Use the current site and official rules to determine which plays are legal.
 
-## Drill 8 — Same destination, different route
+## Drill 9 — Same destination, different route
 
 Two legal routes reach the same destination. Route A exposes a region type that makes a creature legal; Route B provides a better next position but has a different exposure.
 
@@ -74,7 +84,7 @@ Two legal routes reach the same destination. Route A exposes a region type that 
 
 **Model principle:** there is no universal answer. Compare objective value, route legality, creature keying, company condition, and the position after arrival. A route can be legal yet strategically poor.
 
-## Drill 9 — Roadblock and automatic attack
+## Drill 10 — Roadblock and automatic attack
 
 A roadblock effect and an automatic-attack modifier are both available.
 
@@ -82,7 +92,7 @@ A roadblock effect and an automatic-attack modifier are both available.
 
 **Model principle:** do not assume a card can be played on-guard or at any point in the phase. Confirm both texts and the relevant rule before treating this as a combo.
 
-## Drill 10 — Three-game evidence
+## Drill 11 — Three-game evidence
 
 Run the same Hero route three times with the same 30-card Hazard list. Do not change quantities mid-test.
 
