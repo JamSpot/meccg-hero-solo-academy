@@ -15,6 +15,8 @@ Use the new [Route Risk Workshop]({{ '/scenarios/route-risk-workshop/' | relativ
 
 Use the [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}) to sort a fixed eight-card hand against the Rivendell–Moria site path, choose five legal plays, and account for support-event timing. Open its [model answer]({{ '/scenarios/hazard-legality-workshop/answer-key/' | relative_url }}) only after making your decision.
 
+Use the new [Site-Keying Workshop]({{ '/scenarios/site-keying-workshop/' | relative_url }}) to distinguish lowercase region-type keys from uppercase site-type keys. It uses Moria to demonstrate why a card can be legal through the route's Wilderness regions even though Moria is not the Ruins & Lairs site type printed on the Hazard.
+
 Use the [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }}) when you are ready to test how the actual Dwarven Quest Hazard cards interact. It focuses on legality, timing, keying, support cards, and repeatable evidence rather than assumed combos.
 
 ## Curriculum
