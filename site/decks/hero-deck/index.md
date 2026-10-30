@@ -114,6 +114,25 @@ The Challenge Deck C player aid gives the following suggested destinations for i
 
 **Source note:** these target sites are taken from the historical *Challenge Decks Player's Guide* (Birk Pinker, last updated May 2011), which lists the suggested sites for Dwarven Quest / Challenge Deck C. The separate [three-page Challenge Decks player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf) confirms the deck list and broad strategy. These are planning aids, not a requirement to visit every site in one game. See the [Challenge Decks Player's Guide (PDF)](https://assets.cardgamegeek.com/public/library/meccg/Challenge_Decks_PG.pdf).
 
+## Book of Mazarbul — what the expedition is actually securing
+
+The current card database gives Book of Mazarbul these important facts:
+
+- **Unique Special Item**, with **2 corruption points**.
+- **Only playable at Moria**.
+- Worth **1 marshalling point while in play**.
+- It may be stored at a **Dwarf-hold for 5 marshalling points**.
+- If its bearer is a **Sage**, you may tap it during your Organization Phase to increase your hand size by one until your next Untap Phase.
+
+The five starting Dwarves in this teaching company have Warrior, Scout, Ranger and Diplomat skills, but **none is a Sage**. Do not plan on using the Book's hand-size ability during Game 1. That ability becomes relevant only if a Sage later bears the Book and you can legally use its effect.
+
+This creates two distinct objectives:
+
+1. **Game 1 — ACQUIRE:** reach Moria and play Book of Mazarbul if the company can safely complete the site attempt.
+2. **Later campaign — STORE:** move the Book to a Dwarf-hold, such as Blue Mountain Dwarf-hold, to realise its 5 MP stored value.
+
+The second objective is a new expedition, not an automatic continuation of the first. The direct Moria-to-Blue-Mountain route contains five regions, so plan a legal intermediate stop.
+
 ## The first campaign arc
 
 | Stage | Mission | Route lesson | Do not assume |
