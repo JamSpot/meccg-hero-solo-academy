@@ -66,7 +66,7 @@ Then choose the five-card combination that creates the greatest disadvantage for
 
 **Do not assume the strongest-looking creature must be played.** A support event can improve several attacks, but only if its own conditions are met and its effect remains in play. Compare the whole legal sequence, not just printed prowess.
 
-When you have committed to a five-card plan, open the [model answer and reasoning →]({{ '/scenarios/hazard-legality-workshop/answer-key/' | relative_url }}).
+When you have committed to a five-card plan, open the [model answer and reasoning →]({{ '/scenarios/hazard-legality-workshop/answer-key/' | relative_url }}). If the difference between a region key and a site key is unclear, complete the [Site-Keying Workshop]({{ '/scenarios/site-keying-workshop/' | relative_url }}) first.
 
 ## Rules references
 
