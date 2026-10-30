@@ -91,7 +91,7 @@ Use these sites for the historical teaching deck:
 14. The Lonely Mountain
 15. Wellinghall
 
-Keep the Location deck separate from the shuffled Hero resource deck.
+Keep the Location deck separate from the shuffled 38-card Hero play deck.
 
 ## Resource-to-site plan — what the deck is travelling to do
 
@@ -260,7 +260,7 @@ The list remains the historical Challenge Deck C teaching baseline. Do not quiet
 
 ## Physical table layout
 
-Put the Hero resource deck on the left.
+Put the 38-card Hero play deck on the left.
 
 Place the Hero discard immediately beside it.
 
@@ -268,7 +268,7 @@ Place the current company in the centre.
 
 Keep the Location deck above the company.
 
-Keep the character pool and sideboard off to the side.
+Keep the starting pool and sideboard off to the side.
 
 Keep the Hazard deck and Hazard discard on the opposite side of the table.
 
