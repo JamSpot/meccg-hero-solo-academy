@@ -120,9 +120,13 @@ This is a non-Haven-to-non-Haven journey. It contains four regions including ori
 - Goblin-gate has an automatic attack of **Orcs — three strikes with 6 prowess**. Resolve that when entering the site; do not confuse it with the Hazard Limit.
 - The Gollum objective is optional. If the company is wounded, tapped or short of defensive resources after Moria, the direct route may be too risky.
 
+**Solo draw and entry choice:** Goblin-gate's normal Hazard draw is **2**, so the Academy solo procedure draws **6**. The five-character company's base Hazard Limit is **5**. If the company enters Goblin-gate to attempt Gollum, it faces the automatic attack of three Orc strikes with 6 prowess. If it chooses not to enter, it does not face that automatic attack and may not take any other site-phase actions or play cards; it remains at Goblin-gate and can move again next turn.
+
+**A second non-Haven leg:** from Goblin-gate, the company can move to Blue Mountain Dwarf-hold via **High Pass → Rhudaur → Arthedain → Númeriador**. This is another four-region route, all Wilderness. Blue Mountain Dwarf-hold has a normal Hazard draw of **1**, so the solo draw is **4**; it has no automatic attack. At the site, store Book of Mazarbul during the Organization Phase after the bearer's corruption check. The site-type symbol is Free-hold [{F}], but the site is the named Dwarf-hold required by the Book's text.
+
 **Captain's decision:** choose this route only if the next objective is worth the added exposure and the company can reasonably survive the arrival. If not, recover or choose another legal destination. A Haven stop is not compulsory, but the cost of skipping recovery must be counted.
 
-Source checks: [The Wizards movement rules](https://meccg.com/rules/by-expansion/the-wizards/) and the [MECCG full spoiler list for Goblin-gate](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf). Verify the actual site and region cards before play.
+Source checks: [The Wizards movement and site-entry rules](https://meccg.com/rules/by-expansion/the-wizards/) and the [MECCG card database](https://www.councilofelrond.org/cards/). The Region cards confirm Redhorn Gate–Hollin–Rhudaur–High Pass and High Pass–Rhudaur–Arthedain–Númeriador. Verify the same adjacency on your physical Region cards before play.
 
 ## Solo Hazard decision worksheet
 
