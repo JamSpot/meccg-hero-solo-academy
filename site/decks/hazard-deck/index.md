@@ -74,13 +74,16 @@ The list is a mixture of creatures, ongoing attack support and disruption. Read 
 | Journey | Normal Hazard draw | Solo draw | Base Hazard Limit | Site automatic attack |
 |---|---:|---:|---:|---|
 | Rivendell → Moria | 3 | **8** | **5** | Orcs — four strikes with 7 prowess |
-| Moria → Goblin-gate | 2 | **6** | **5** | Orcs — three strikes with 6 prowess |
+| Moria → Goblin-gate | 2 | **6** | **5** | Orcs — three strikes with 6 prowess if the company enters |
+| Goblin-gate → Blue Mountain Dwarf-hold | 1 | **4** | **5** | None |
 
 The solo draw is **2 + twice the normal Hazard draw**. The Hazard Limit remains separate. The site automatic attack is also separate from the Hazard plays.
 
 On **Rivendell → Moria** (Rhudaur → Hollin → Redhorn Gate), all three regions are Wilderness and Redhorn Gate is named. That makes Cave Worm, Giant Spiders, Lesser Spiders, Wargs, Neeker-breekers and Watcher in the Water candidates under their respective printed keys; Despair of the Heart and River have their own target rules. Seized by Terror is **not** legal on this route because there is no Shadow-land or Dark-domain region.
 
-On **Moria → Goblin-gate** (Redhorn Gate → Hollin → Rhudaur → High Pass), all four regions are Wilderness. The route still makes the Wilderness-keyed creatures candidates and includes Redhorn Gate for Cave Worm. Watcher in the Water can use its double-Wilderness key, but its special permission to be played at Moria does not apply at Goblin-gate. Seized by Terror is still illegal: Goblin-gate's site type is Shadow-hold [{S}], not a Shadow-land region [{s}].
+On **Moria → Goblin-gate** (Redhorn Gate → Hollin → Rhudaur → High Pass), all four regions are Wilderness. The route still makes the Wilderness-keyed creatures candidates and includes Redhorn Gate and High Pass for Cave Worm. Watcher in the Water can use its double-Wilderness key; its special permission to be played at Moria does not apply because Goblin-gate is the new site. Seized by Terror is still illegal: Goblin-gate's site type is Shadow-hold [{S}], not a Shadow-land region [{s}].
+
+On **Goblin-gate → Blue Mountain Dwarf-hold** (High Pass → Rhudaur → Arthedain → Númeriador), all four regions are also Wilderness. The Wilderness-keyed creatures remain candidates, and Cave Worm can be keyed to High Pass. The normal Hazard draw for Blue Mountain Dwarf-hold is one, so the solo draw is four. The site has no automatic attack. The company may choose not to enter Goblin-gate on the previous turn and use it as a waypoint; if it does, it still faces the six-card Hazard draw on arrival, but does not face Goblin-gate's automatic attack or take any site-phase actions.
 
 This is the practical test of fair solo play: the Hazard side should exploit every legal key and target, but must not treat a Shadow-hold site as a Shadow-land region or play a card whose condition is absent.
 
