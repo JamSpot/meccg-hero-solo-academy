@@ -14,10 +14,10 @@ Do these steps in order. Do not skip ahead to advanced deck tuning.
 
 Prepare these distinct areas:
 
-- **Hero Resource deck** — the shuffled Hero resource cards for the teaching game.
-- **Hazard deck** — the opposing shuffled deck.
-- **Location deck** — site cards kept separate and available for selecting legal destinations.
-- **Character pool** — characters not yet brought into play.
+- **Hero play deck** — shuffle the 30 Hero Resources and eight additional character cards together: **38 cards total**, with no Hazards.
+- **Hazard deck** — the separate 30-card opposing deck.
+- **Location deck** — the 15 site cards, kept separate and not shuffled.
+- **Starting company/setup cards** — the five starting Dwarves and two Cram items.
 - **Hero discard** and **Hazard discard** — kept separate.
 - **Sideboard** — separate and unused in Game 1.
 - **Company area** — characters, followers, items and other cards currently associated with the company.
@@ -30,11 +30,11 @@ The Academy's first-game baseline is the historical Dwarven Quest / Pallando Cha
 
 If your goal is to use the full Arda collection as a custom solo Hero/Hazard build, keep the Arda inventory open as a card-pool reference. Do not treat the pool itself as a ready-made shuffled deck: the first-game lists below tell you exactly which cards this particular lesson expects.
 
-## Step 3 — Build the Hero deck first
+## Step 3 — Build the Hero play deck first
 
-Use the fixed Hero list and check each name against your physical cards. Do not tune it before you have completed a first game and debrief.
+Assemble the 30-card Resource list and the eight additional character cards. Shuffle them together to make the **38-card Hero play deck**. Keep the starting company and its two Cram items separate until setup. Do not tune the list before you have completed a first game and debrief.
 
-[Build the Hero Resource deck →]({{ '/decks/hero-deck/' | relative_url }})
+[Build the Hero play deck →]({{ '/decks/hero-deck/' | relative_url }})
 
 ## Step 4 — Build the complementary Hazard deck
 
