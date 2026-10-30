@@ -16,10 +16,11 @@ Follow these lessons **in order**. Each lesson has one main job. Finish it, then
   <li><strong>Play Game 1: First Expedition.</strong> Take the company from Rivendell toward Moria and learn the turn sequence. <a href="{{ '/games/game-1/' | relative_url }}">Open Lesson 2 →</a></li>
   <li><strong>Check your understanding.</strong> Answer the first-session questions before opening the answer key. <a href="{{ '/scenarios/first-session/' | relative_url }}">Open Lesson 3 →</a></li>
   <li><strong>Learn movement.</strong> Understand Starter Movement, Region Movement, legal site paths and Hazard exposure. <a href="{{ '/reference/free-movement/' | relative_url }}">Open Lesson 4 →</a></li>
-  <li><strong>Plan the route.</strong> Use the Expedition Planner, then compare trade-offs in the Route Risk Workshop. <a href="{{ '/routes/expedition-planner/' | relative_url }}">Open Lesson 5 →</a> · <a href="{{ '/scenarios/route-risk-workshop/' | relative_url }}">Practice →</a></li>
-  <li><strong>Play the Hazard side deliberately.</strong> Check legality, target, disruption, sequencing and Hazard Limit. <a href="{{ '/reference/hazard-player/' | relative_url }}">Open Lesson 6 →</a></li>
-  <li><strong>Practise expedition decisions.</strong> Complete the scenarios before reading the model answers. <a href="{{ '/scenarios/expedition-decision-lab/' | relative_url }}">Open Lesson 7 →</a></li>
-  <li><strong>Debrief and repeat.</strong> Record what happened, change one variable, and compare the next run. <a href="{{ '/scenarios/solo-playtest/' | relative_url }}">Open Lesson 8 →</a></li>
+  <li><strong>Practise the actual Hero Resources.</strong> Check the five Dwarves' skills, card timing, Not at Home, Marvels Told, Lucky Search, Hundreds of Butterflies and Great-road. <a href="{{ '/scenarios/hero-resource-practice/' | relative_url }}">Open Lesson 5 →</a> · <a href="{{ '/scenarios/hero-resource-practice/answer-key/' | relative_url }}">Model answers →</a></li>
+  <li><strong>Plan the route.</strong> Compare Haven recovery with the Moria → Goblin-gate → Blue Mountain non-Haven route. <a href="{{ '/routes/expedition-planner/' | relative_url }}">Open Lesson 6 →</a> · <a href="{{ '/scenarios/route-risk-workshop/' | relative_url }}">Practice →</a></li>
+  <li><strong>Play the Hazard side deliberately.</strong> Check legality, target, disruption, sequencing and Hazard Limit. <a href="{{ '/reference/hazard-player/' | relative_url }}">Open Lesson 7 →</a></li>
+  <li><strong>Practise expedition decisions.</strong> Complete the scenarios before reading the model answers. <a href="{{ '/scenarios/expedition-decision-lab/' | relative_url }}">Open Lesson 8 →</a></li>
+  <li><strong>Debrief and repeat.</strong> Record what happened, change one variable, and compare the next run. <a href="{{ '/scenarios/solo-playtest/' | relative_url }}">Open Lesson 9 →</a></li>
 </ol>
 
 ## After the core course
