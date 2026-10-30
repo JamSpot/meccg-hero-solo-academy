@@ -110,6 +110,28 @@ The complete no-Haven campaign line is therefore:
 
 This avoids a Haven return, but it does not avoid Hazard exposure. Both legs contain four Wilderness regions.
 
+## Drill 10 — Item power versus corruption
+
+| Item | MPs | CP | Correct use |
+|---|---:|---:|---|
+| **Durin's Axe** | 4 when held by a Dwarf | 3 when held by a Dwarf | +4 prowess to a maximum of 9 for a Dwarf. All five starting characters are Dwarves, so use the Dwarf values. |
+| **Bow of Dragon-horn** | 2 | 2 | Warrior only; tap to reduce the strikes of one Hazard creature attack not keyed to a site by one, minimum one. It cannot reduce Moria's site automatic attack. |
+| **Enruned Shield** | 3 | 2 | +3 body to a maximum of 10; a Warrior may tap it to make one strike against its bearer ineffectual. |
+| **Hauberk of Bright Mail** | 2 | 1 | Warrior only; +2 body to a maximum of 9. |
+| **Magical Harp** | 2 | 2 | Tap to cancel effects for the rest of the turn that discard a target character in the bearer's company; the bearer makes a corruption check. It is not a general attack cancel. |
+| **Wormsbane** | 4 | 2 | +2 prowess to a maximum of 9; against a Dragon or Drake strike, +4 to a maximum of 12 and -2 to the strike's body. It has no special Orc bonus. |
+| **Thrór's Map** | — | 1 | Discard to untap a site with a Dragon automatic attack. It has no printed MP value and does not work at Moria or Goblin-gate, which have Orc automatic attacks. |
+
+1. **Durin's Axe** gives a Dwarf +4 prowess (to a maximum of 9), but it also gives the Dwarf 3 CP.
+2. **Enruned Shield** and **Hauberk of Bright Mail** can help against Moria's Orc automatic attack. Enruned Shield can make one strike against its bearer ineffectual; Hauberk increases the bearer's body. Durin's Axe can increase the prowess of a Dwarf facing a strike. Magical Harp may protect a character from a discard effect, but it does not cancel the Orc attack itself.
+3. **Bow of Dragon-horn** only modifies a Hazard creature attack that is not keyed to a site. Moria's Orc automatic attack is a site automatic attack, not a Hazard creature attack.
+4. **Wormsbane's** special bonus applies against Dragon and Drake strikes. Orcs are neither, so only its ordinary +2 prowess applies.
+5. **Thrór's Map** has no printed MP value; it is a utility item that can be discarded to untap a site with a Dragon automatic attack.
+6. Durin's Axe held by a Dwarf gives **3 CP**; Book of Mazarbul gives **2 CP**. Together they contribute **5 CP** to that bearer's total before other items or corruption cards.
+7. Fellowship's +1 is a **corruption-check modifier**, not a corruption point. The official *The Wizards* rules example uses two Fellowship cards to add +2 to corruption checks while leaving the character's CP total unchanged.
+
+The important habit is to separate **MP value**, **corruption points**, **prowess/body bonuses**, and **the exact target of an item's special ability**. They are not interchangeable.
+
 ## Final checklist
 
 - [ ] I matched each Resource to the skill of a character who can use it.
