@@ -119,9 +119,9 @@ Arrival and site entry are separate decisions. Do not use this worksheet to waiv
 
 ## 6. After Book of Mazarbul
 
-If acquired, the mission changes from **ACQUIRE** to **SECURE → CONSOLIDATE → REPOSITION**. Do not automatically continue just because another site is reachable.
+If acquired, the mission changes from **ACQUIRE** to **SECURE → CONSOLIDATE → REPOSITION**. Book of Mazarbul is worth 1 MP while in play and can be stored at a Dwarf-hold for **5 MPs**. It has 2 corruption points. Its hand-size ability only works if its bearer is a Sage; none of the five starting Dwarves is a Sage, so that bonus is not available during Game 1.
 
-The direct Moria-to-Blue-Mountain route via Redhorn Gate → Hollin → Rhudaur → Arthedain → Númeriador contains five regions. It is too long for one normal Region Movement. Plan a legal intermediate stop and verify adjacency against the region cards. See the [Route Atlas]({{ '/routes/' | relative_url }}).
+The direct Moria-to-Blue-Mountain route via Redhorn Gate → Hollin → Rhudaur → Arthedain → Númeriador contains five regions. It is too long for one normal Region Movement. Plan a legal intermediate stop and verify adjacency against the region cards. See the [Moria → Blue Mountain Dwarf-hold route example]({{ '/routes/moria-blue-mountain/' | relative_url }}) and the [Route Atlas]({{ '/routes/' | relative_url }}).
 
 **Next destination:** ........................................................................
 
