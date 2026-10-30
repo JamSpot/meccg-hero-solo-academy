@@ -40,6 +40,43 @@ Three regions; check adjacency and endpoints before declaring movement.
 
 This example uses a Haven stop, but it does not mean every trip must return to a Haven. If another site in your Location deck provides a legal intermediate stop, compare its site value, route legality, Hazard exposure and recovery options before choosing it.
 
+## A non-Haven alternative — use Goblin-gate as the waypoint
+
+The 15-site teaching Location deck gives you a second legal route that does **not** return to a Haven:
+
+### Leg 1 — Moria to Goblin-gate
+
+**Redhorn Gate → Hollin → Rhudaur → High Pass**
+
+- Four regions, all Wilderness; the Region cards confirm every adjacency.
+- Goblin-gate's normal Hazard draw is **2**, so the Academy solo draw is **6**.
+- The five-character company's base Hazard Limit is **5**.
+- Goblin-gate's automatic attack is **Orcs — three strikes with 6 prowess**, but only if the company chooses to enter and explore the site.
+
+You may choose **not** to enter Goblin-gate. If you do, the company avoids the site automatic attack, but it cannot take other site-phase actions or play cards there; it remains at Goblin-gate and may enter on a later turn. This makes it a genuine non-Haven waypoint. If you want to attempt Gollum, you must enter and face the Orc attack first.
+
+### Leg 2 — Goblin-gate to Blue Mountain Dwarf-hold
+
+**High Pass → Rhudaur → Arthedain → Númeriador**
+
+- Four regions, all Wilderness; the Region cards confirm every adjacency.
+- Blue Mountain Dwarf-hold's normal Hazard draw is **1**, so the Academy solo draw is **4**.
+- The site has **no automatic attack**.
+- The five-character company's base Hazard Limit remains **5**.
+
+Blue Mountain Dwarf-hold's nearest Haven is Grey Havens, but that nearest-Haven relationship does not restrict a legal Region Movement route. The site's printed type symbol is Free-hold [{F}], while its name identifies it as a Dwarf-hold. Book of Mazarbul's text allows storage at a Dwarf-hold, so this site qualifies.
+
+During the Organization Phase while the company is at Blue Mountain Dwarf-hold, store the Book after its bearer makes the required corruption check. The Book's two corruption points make that check important. A successful storage scores the **5 MP storage value**, replacing its one-point in-play value.
+
+### Which route should you choose?
+
+| Route | What it gives you | What it costs |
+|---|---|---|
+| **Moria → Rivendell → Blue Mountain** | A Haven recovery stop; characters can heal during a later Untap Phase at Rivendell. | Two Hazard phases; you spend a turn at the Haven and use the Haven route. |
+| **Moria → Goblin-gate → Blue Mountain** | Two legal non-Haven legs; no forced Haven return; Goblin-gate can be used without entering. | Six solo Hazards on the first leg and four on the second; no Haven healing between legs. If you enter Goblin-gate for Gollum, face its Orc automatic attack. |
+
+The non-Haven route is not automatically superior. Choose it when the company is healthy enough to continue and the campaign benefits from keeping its position. Choose the Haven route when healing and consolidation are worth the extra turn.
+
 ## Why the second expedition is different
 
 Before acquiring the Book, the mission was **ACQUIRE**. After acquisition, reassess:
