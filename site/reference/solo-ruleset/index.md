@@ -48,6 +48,8 @@ For the Game 1 journey to Moria, the normal Hazard draw number is **3**, so:
 
 The number used for the normal draw depends on the standard rules for that movement. For example, when moving to a non-Haven site, the draw is normally based on the new site; when moving to a Haven, the normal rules use the site of origin. Apply the normal rule first, then double that number and add two for the solo draw.
 
+**Twilight exception:** the Challenge Deck C Hazard list contains two Twilight cards. Twilight can be played at any point during either player's turn, cancels one Environment card in play or declared earlier in the same chain of effects, and does **not** count against the Hazard Limit. It is otherwise a Hazard, and it can also be played as a Resource. It still needs a legal Environment target.
+
 ### Draw is not the Hazard Limit
 
 The base Hazard Limit is the company size or two, whichever is greater; **Hobbits and Orc scouts each count as half a character, rounded up**. A five-character company containing no Hobbits or Orc scouts therefore has a base Hazard Limit of **5** for its Movement/Hazard Phase, unless an applicable rule or effect changes it. The limit is fixed for that phase.
