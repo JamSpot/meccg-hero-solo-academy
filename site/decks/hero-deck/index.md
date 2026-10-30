@@ -131,7 +131,7 @@ This creates two distinct objectives:
 1. **Game 1 — ACQUIRE:** reach Moria and play Book of Mazarbul if the company can safely complete the site attempt.
 2. **Later campaign — STORE:** move the Book to a Dwarf-hold, such as Blue Mountain Dwarf-hold, to realise its 5 MP stored value.
 
-The second objective is a new expedition, not an automatic continuation of the first. The direct Moria-to-Blue-Mountain route contains five regions, so plan a legal intermediate stop.
+The second objective is a new expedition, not an automatic continuation of the first. The direct Moria-to-Blue-Mountain route contains five regions, so it cannot be completed in one turn under the normal four-region limit. You do **not** have to use a Haven as the intermediate stop: the fixed 15-site deck contains Goblin-gate, allowing a two-leg non-Haven route (Moria → Goblin-gate → Blue Mountain Dwarf-hold).
 
 ## The first campaign arc
 
@@ -139,10 +139,10 @@ The second objective is a new expedition, not an automatic continuation of the f
 |---|---|---|---|
 | **Game 1** | Reach Moria and acquire Book of Mazarbul. | Rivendell → Moria via Rhudaur → Hollin → Redhorn Gate is a legal three-region teaching route, after checking adjacency. | Arriving at Moria does not mean the company must enter regardless of wounds and taps. |
 | **Reassess** | Decide whether to recover, consolidate, or continue. | Judge the actual arrival state before declaring another destination. | The original plan does not automatically remain best after the objective changes. |
-| **Later campaign** | Store the Book at Blue Mountain Dwarf-hold and consider the faction. | The direct Moria-to-Blue-Mountain sequence has five regions, so split it into legal legs unless a specific effect changes the limit. | Do not treat the sideboard faction as if it were already in the Hero play deck. |
+| **Later campaign** | Store the Book at Blue Mountain Dwarf-hold and consider the faction. | Use two legal non-Haven legs: Moria → Goblin-gate (Redhorn Gate → Hollin → Rhudaur → High Pass), then Goblin-gate → Blue Mountain Dwarf-hold (High Pass → Rhudaur → Arthedain → Númeriador). Each leg is four Wilderness regions. | Goblin-gate can be a waypoint without being entered. If you enter to attempt Gollum, face its three Orc strikes at 6 prowess; if you do not enter, you avoid the site automatic attack but cannot play cards or take other site-phase actions there. |
 | **Optional side objective** | Collect another item or ally. | Compare its site, route exposure, reward, and next position with the main mission. | A card in hand is not a command to travel to its site immediately. |
 
-This keeps the Hero deck practical: first learn one complete expedition, then use the historical resource map to choose the next objective deliberately.
+This keeps the Hero deck practical: first learn one complete expedition, then use the historical resource map to choose the next objective deliberately. The no-Haven route is an advanced follow-up, not a shortcut around Hazard exposure: the solo draw is six cards on the Goblin-gate leg and four on the Blue Mountain leg. Blue Mountain Dwarf-hold has no automatic attack and a normal Hazard draw of one. Its site-type symbol is Free-hold [{F}], but it is still the named Dwarf-hold required by the Book's storage text. Store the Book during the Organization Phase while the company is at the site, after the bearer's corruption check.
 
 ## Sideboard
 
