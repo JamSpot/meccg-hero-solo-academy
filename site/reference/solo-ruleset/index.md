@@ -85,21 +85,20 @@ The Academy does not change the normal rules for:
 - creature-Hazard keying, legal targets and the Hazard Limit;
 - card text, timing, combat and site resolution.
 
-The [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}) provides a worked hand to practise keying and event timing. The [Free / Player-Directed Movement guide]({{ '/reference/free-movement/' | relative_url }}) explains the important distinction between the route used to move and the site path used for Hazard keying. The [Expedition Planner]({{ '/routes/expedition-planner/' | relative_url }}) makes you record both before play.
+The [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}) provides a worked hand to practise keying and event timing. The [Site-Keying Workshop]({{ '/scenarios/site-keying-workshop/' | relative_url }}) teaches the case-sensitive difference between region and site keys. The [Free / Player-Directed Movement guide]({{ '/reference/free-movement/' | relative_url }}) explains the important distinction between the route used to move and the site path used for Hazard keying. The [Expedition Planner]({{ '/routes/expedition-planner/' | relative_url }}) makes you record both before play.
 
 ## What this page does not claim
 
 *The Road Goes Ever On*, second edition (April 2024), is a separate solo system with its own decks, components and procedures. The Academy does not import its rules piecemeal.
 
-Likewise, this 30-card teaching setup does not automatically use the generic solitaire game's full victory condition. **Game 1 is a mission-based tutorial** centred on Book of Mazarbul. Before using the cards for a longer campaign, write down the campaign's victory condition, game-end condition and any additional scenario rules. Do not silently switch between a mission-based game and an MP race.
+Likewise, this 30-Resource / 30-Hazard teaching setup does not automatically use the generic solitaire game's full victory condition. **Game 1 is a mission-based tutorial** centred on Book of Mazarbul. Before using the cards for a longer campaign, write down the campaign's victory condition, game-end condition and any additional scenario rules. Do not silently switch between a mission-based game and an MP race.
 
 ## References
 
 - [Council of Elrond — Official Game Rules](https://www.councilofelrond.org/rules/) — normal movement, site paths, card play and Hazard Limits.
-- [The Lidless Eye rules — solitaire rules section](https://meccg.com/rules/by-expansion/the-lidless-eye/) — published solitaire draw and Hazard-play procedure.
-- [Simon Cogan / Dragoncymru — My Solo Rules](https://meccg.wordpress.com/my-solo-rules/) — a scenario-based solo adaptation using a separate Hazard deck, recycling and mission-specific objectives.
+- [The Wizards rules — official Solitaire Rules section](https://meccg.com/rules/by-expansion/the-wizards/) — the Hero/Wizard solitaire procedure: separate Hazard deck, no Hazards in the play deck, five-card hand, 2 + twice the normal Hazard draw, and most-disadvantageous legal Hazard play.
+- [Simon Cogan / Dragoncymru — My Solo Rules](https://meccg.wordpress.com/my-solo-rules/) — the Academy's supplementary discard/recycle handling for unplayed drawn Hazards and non-unique defeated creatures in a mission that is not a kill-MP challenge.
 - [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf) — historical card lists, including 30 Resources and eight additional characters.
-- [The Lidless Eye rules — solitaire rules section](https://meccg.es/reglas/por-expansion/the-lidless-eye/) — separate Hazard deck, five-card hand and solitaire draw procedure.
 - [BoardGameGeek MECCG files archive](https://boardgamegeek.com/files/thing/1915) — alternative solo systems, including *The Road Goes Ever On*.
 
 ---
