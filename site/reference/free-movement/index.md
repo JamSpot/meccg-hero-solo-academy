@@ -89,6 +89,16 @@ For example, the teaching route **Rhudaur → Hollin → Redhorn Gate** from Riv
 
 The site path does not direct movement by itself. It tells you which region types are exposed to creature keying, with named-region card text checked separately.
 
+### Read the symbols carefully: region type is not site type
+
+MECCG uses different symbols for region types and site types. The case matters:
+
+- Lowercase **{w}** is a Wilderness region; lowercase **{s}** is a Shadow-land region.
+- Uppercase **{R}** is a Ruins & Lairs site; uppercase **{S}** is a Shadow-hold site.
+- Uppercase **{D}** is a Dark-hold site.
+
+**Moria is a Shadow-hold [{S}], not a Ruins & Lairs [{R}] site.** This matters when checking the Challenge Deck C Hazards. Lesser Spiders and Neeker-breekers can be played on the Rivendell–Moria teaching journey because the declared route contains Wilderness [{w}], not because Moria provides their Ruins & Lairs [{R}] site key. Watcher in the Water has its own explicit “may also be played at Moria” wording, so check that card's special permission separately.
+
 ## 6. A legal route is not automatically a good route
 
 When comparing two legal routes, ask:
@@ -121,7 +131,7 @@ Before moving, check:
 
 During the Movement/Hazard Phase, reveal Moria and declare the Region Movement site path. The site path is used for Hazard keying; it does not itself move the company.
 
-**Now forecast the Hazard exposure.** This path contains three Wilderness regions and explicitly names Redhorn Gate; the destination is Moria. In the Challenge Deck C teaching Hazard list, that can make several different creature cards potential candidates: Giant Spiders can use a double-Wilderness key, Cave Worm is keyed to Redhorn Gate, Wargs/Lesser Spiders/Neeker-breekers include Wilderness among their keys, and Watcher in the Water may be played at Moria. These are **potential legal plays**, not a promise that every card can be played at once: check each physical card, timing, target conditions and the remaining Hazard Limit. The [Hazard Deck Construction guide]({{ '/decks/hazard-deck/' | relative_url }}) contains the full route-keying audit.
+**Now forecast the Hazard exposure.** This path contains three Wilderness regions and explicitly names Redhorn Gate; the destination is Moria. In the Challenge Deck C teaching Hazard list, that can make several different creature cards potential candidates: Giant Spiders can use a double-Wilderness key, Cave Worm is keyed to Redhorn Gate, Wargs/Lesser Spiders/Neeker-breekers include Wilderness among their keys, and Watcher in the Water may be played at Moria. These are **potential legal plays**, not a promise that every card can be played at once: check each physical card, timing, target conditions and the remaining Hazard Limit. Important precision: Moria is a Shadow-hold [{S}], so Lesser Spiders and Neeker-breekers are candidates here via the route's Wilderness [{w}] regions, not via an {R} site key. The [Hazard Deck Construction guide]({{ '/decks/hazard-deck/' | relative_url }}) contains the full route-keying audit.
 
 
 ## A crucial comparison — why Rivendell to Moria uses Region Movement
@@ -136,6 +146,8 @@ You have two practical plans:
 | **Starter Movement route** | Rivendell → Lórien, then on a later turn Lórien → Moria | Two movement phases. The first leg uses the Haven-to-Haven site path; the second is allowed because Moria lists Lórien as its nearest Haven. Check each printed site path. |
 
 The direct Region Movement route is not automatically safer or more dangerous in every hand. It is more direct, but the declared region names can create additional named-region Hazard options. Starter Movement uses the printed site path's region types and the origin/destination region names; it does not expose the names of every intervening region. Compare the actual Hazard cards rather than assuming that fewer movement phases always means lower risk.
+
+One useful precision check: **Cave Worm is keyed to Redhorn Gate, which is the destination region for Moria.** That named-region key is therefore available on either legal movement approach to Moria; it is not an example of a key that only Region Movement exposes. The direct Region Movement route additionally names Hollin, an intervening region. Do not claim that this creates a Cave Worm key—check the actual Hazard list for a card specifically keyed to Hollin.
 
 For the second leg, Moria's printed automatic attack is **Orcs — four strikes with 7 prowess**. This is a site attack to resolve if the company enters; it is not part of the Hazard Limit. Check the physical Moria site card before play.
 
