@@ -197,7 +197,7 @@ If you cannot explain the destination's purpose or the next step, reconsider the
 
 ## 11. Practice drills
 
-For a complete worked example that joins route declaration, creature keying, support events and the Hazard Limit, complete the [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}) before opening its [model answer]({{ '/scenarios/hazard-legality-workshop/answer-key/' | relative_url }}).
+For a complete worked example that joins route declaration, creature keying, support events and the Hazard Limit, complete the [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}) before opening its [model answer]({{ '/scenarios/hazard-legality-workshop/answer-key/' | relative_url }}). For the case-sensitive difference between region types and site types, use the [Site-Keying Workshop]({{ '/scenarios/site-keying-workshop/' | relative_url }}) and its [model answer]({{ '/scenarios/site-keying-workshop/answer-key/' | relative_url }}).
 
 1. **Four means four:** A → B → C → D. Count the endpoints.
 2. **Five is too many:** A → B → C → D → E.
