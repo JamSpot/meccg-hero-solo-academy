@@ -89,7 +89,25 @@ The card does not remove the need for a legal journey to the destination. It is 
 5. Goblin-gate's automatic attack is **Orcs — three strikes with 6 prowess**.
 6. **No.** Seized by Terror requires a Shadow-land [{s}] or Dark-domain [{d}] region in the site path. Goblin-gate is a Shadow-hold [{S}] site. The uppercase site type does not satisfy the lowercase region-type condition.
 
-The route is a useful example of non-Haven-to-non-Haven Region Movement, but it is not automatically safe. It exposes four Wilderness regions, draws six solo Hazards, and ends at a site with its own Orc attack.
+The route is a useful example of non-Haven-to-non-Haven Region Movement, but it is not automatically safe. It exposes four Wilderness regions and draws six solo Hazards. The site attack is faced only if the company chooses to enter Goblin-gate.
+
+## Drill 9 — Continue to Blue Mountain without a Haven
+
+The route **High Pass → Rhudaur → Arthedain → Númeriador** is legal: each Region card lists the next region as adjacent, the route has four regions including both endpoints, and all four are Wilderness.
+
+Blue Mountain Dwarf-hold has a normal Hazard draw of **1**, so the solo draw is **2 + (2 × 1) = 4**. The five-character company's base Hazard Limit is **5**. The site has no automatic attack.
+
+The site card's site-type symbol is Free-hold [{F}], but the location is named **Blue Mountain Dwarf-hold**. Book of Mazarbul's text says it may be stored at a Dwarf-hold; it does not require a particular site-type icon. This is the Dwarf-hold in the teaching Location deck.
+
+Store the Book during the **Organization Phase** while the company is at the site. The bearer must make the normal corruption check required before storing an item. The Book has two corruption points, so the check is not automatic. If the check succeeds, the Book is placed in the marshalling-point pile for its **5 MP storage value**. Do not add the one-point in-play value to the five-point storage value.
+
+The complete no-Haven campaign line is therefore:
+
+1. **Moria → Goblin-gate:** Redhorn Gate → Hollin → Rhudaur → High Pass; solo draw 6. You may choose not to enter Goblin-gate and avoid its automatic attack, but you cannot play Gollum or take other site-phase actions there.
+2. **Goblin-gate → Blue Mountain Dwarf-hold:** High Pass → Rhudaur → Arthedain → Númeriador; solo draw 4, no site automatic attack.
+3. **Store Book of Mazarbul:** during the Organization Phase at Blue Mountain Dwarf-hold, after the bearer's corruption check.
+
+This avoids a Haven return, but it does not avoid Hazard exposure. Both legs contain four Wilderness regions.
 
 ## Final checklist
 
