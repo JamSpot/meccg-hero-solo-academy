@@ -20,7 +20,7 @@ The route Rhudaur → Hollin → Redhorn Gate contains three Wilderness [{w}] re
 | **Giant Spiders** | Its double-Wilderness key is met by the three Wilderness regions. | Its additional Ruins & Lairs / Shadow-hold / Dark-hold site keys apply in specified Mirkwood regions. Moria is not one of those regions, so do not use that special site-key text here. |
 | **Lesser Spiders** | It can key to Wilderness [{w}], and this route contains three Wilderness regions. | Its uppercase {R} key is a Ruins & Lairs **site** key. Moria is {S}, not {R}. Its lowercase {s} key is a Shadow-land **region** type, not a Shadow-hold site type. |
 | **Neeker-breekers** | It can key to Wilderness [{w}], which is present in the route. | Its uppercase {R} key does not match Moria's uppercase {S} site type. It is legal here via Wilderness, not via Moria's site type. |
-| **Wargs** | Its region-type key includes Wilderness, which is present in the route. | Do not infer a site key from the card's creature theme; use its printed region key. |
+| **Wargs** | Its region-type keys are Border-land [{b}], Wilderness [{w}] and Shadow-land [{s}]; this route satisfies the Wilderness key. | Do not infer a site key from the card's creature theme; use its printed region key. |
 | **Watcher in the Water** | It can key to double Wilderness, and its own text also says it may be played at Moria. Either is a valid reason to examine it here. | Do not generalise its explicit Moria permission to other creatures. |
 
 ## 2. The five key distinctions
