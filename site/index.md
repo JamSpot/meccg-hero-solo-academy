@@ -12,7 +12,7 @@ This is the practical route for learning solo Hero play with physical Middle-ear
 ## Your first session — do these in order
 
 <ol class="course-steps">
-  <li><strong>Set up the table.</strong> Separate the Hero Resource deck, Hazard deck, site cards, character pool, company area, and separate discard piles. <a href="{{ '/academy/' | relative_url }}">Open Step 1: Start Here and Set Up →</a></li>
+  <li><strong>Set up the table.</strong> Separate the 38-card Hero play deck (30 Resources plus 8 characters), 30-card Hazard deck, 15 site cards, starting company and two Cram items, sideboard, and separate discard piles. <a href="{{ '/academy/' | relative_url }}">Open Step 1: Start Here and Set Up →</a></li>
   <li><strong>Prepare the Hero cards.</strong> Use the fixed teaching list, check the names against your physical cards, and keep the list beside you. <a href="{{ '/decks/hero-deck/' | relative_url }}">Open Step 2A: Hero deck list →</a></li>
   <li><strong>Prepare the Hazard cards.</strong> Build the complementary Hazard deck and keep it separate from the Hero cards. <a href="{{ '/decks/hazard-deck/' | relative_url }}">Open Step 2B: Hazard deck list →</a></li>
   <li><strong>Play the first expedition.</strong> Start at Rivendell and follow the guided Book of Mazarbul mission toward Moria. Do each step in order; don't try to learn every rule at once. <a href="{{ '/games/game-1/' | relative_url }}">Open Step 3: Play Game 1 →</a></li>
