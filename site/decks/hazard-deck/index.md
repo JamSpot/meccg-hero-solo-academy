@@ -43,6 +43,47 @@ The Challenge Deck C mix gives repeated practice with:
 
 This is a teaching structure, not a substitute for reading the printed wording of an individual card.
 
+## What the 30 cards actually do
+
+The list is a mixture of creatures, ongoing attack support and disruption. Read the printed card before every play; this table is a quick guide to what to check, not permission to skip the text.
+
+### Creature threats
+
+| Card | Printed threat | Keying / special point |
+|---|---|---|
+| **Cave Worm** | Drake; one strike at 16 prowess. | Keyed by named region, including **Redhorn Gate** and **High Pass**. On the Rivendell–Moria and Moria–Goblin-gate routes, check the actual named path. |
+| **Giant Spiders** | Spider; two strikes at 10 prowess. A wounded non-Wizard/non-Ringwraith character can be discarded if the body-check result equals his body. | Its ordinary region key is **double Wilderness**. Three or four Wilderness regions satisfy the type count; do not confuse that with a site key. |
+| **Lesser Spiders** | Spider; four strikes at 7 prowess. | Keys include Wilderness, Shadow-land and Ruins & Lairs site type. Moria and Goblin-gate are Shadow-holds, not Ruins & Lairs; on these routes the Wilderness region key is the relevant one. |
+| **Wargs** | Wolves; two strikes at 9 prowess. | Keys include Border-land, Wilderness and Shadow-land. Wake of War can improve Wolf attacks; Full of Froth and Rage does not affect Wolves. |
+| **Neeker-breekers** | Animal; each non-Wizard/non-Ringwraith character faces one strike, with prowess equal to that character's mind. A character who would be wounded is only tapped; no body check is made. | Keys include Border-land, Wilderness, Shadow-land, Dark-domain and Ruins & Lairs site type. The one-strike-per-character wording matters when applying strike modifiers. |
+| **Watcher in the Water** | Animal; each character faces one strike at 8 prowess. | Has a double-Wilderness key and may also be played at **Moria**. Its Moria permission is site-specific; do not carry it over to Goblin-gate. |
+
+### Events and attack support
+
+| Card | Effect | What the Hazard player must check |
+|---|---|---|
+| **Despair of the Heart** | Permanent-event on a non-Hobbit, non-Wizard, non-Ringwraith character. The target receives two corruption points and makes a corruption check whenever a character in his company becomes wounded. During his Organization Phase, the target may tap to attempt to remove it with a roll greater than four. | It does not need a creature key. All five starting Dwarves are eligible targets. Choose the character whose corruption burden would most damage the expedition, and remember that the target may later try to remove it. |
+| **River** | Short-event playable on a site. A company moving to that site this turn must do nothing during its site phase. | A Ranger in the company may tap to cancel the effect, even at the start of the site phase. The starting company has Óin, a Ranger; if he is untapped and able to act, River can force a meaningful choice rather than automatically ending the site phase. |
+| **Seized by Terror** | Short-event on a non-Wizard, non-Ringwraith character moving through a Shadow-land or Dark-domain. If the roll plus the character's mind is below 12, that character splits into a new company and returns to the original company's site of origin. | It needs a **region type** {s} or {d} in the moving company's site path. A destination that is a Shadow-hold [{S}] does not satisfy this condition. |
+| **Full of Froth and Rage** | Permanent-event: Spider and Animal attacks receive +2 prowess. Discard it if a Spider or Animal attack is defeated; it cannot be duplicated. | Recheck whether it remains in play after every Spider or Animal attack. Do not assume its bonus survives a defeated attack. |
+| **Wake of War** | Long-event: each Wolf, Spider and Animal attack gets +1 strike and +1 prowess. Wolf attacks get +2 of each if Doors of Night is in play. | The fixed 30-card Challenge Deck C list has no Doors of Night, so its Wargs normally receive +1 strike and +1 prowess, not +2. Attacks worded as one strike per character are not given extra strikes by a strike-count modifier, although their prowess can still be modified. |
+| **Twilight** | Cancels one Environment card in play or declared earlier in the same chain. It may be played at any point during either player's turn and does not count against the Hazard Limit; it may also be played as a Resource. | It needs an Environment target when used as a Hazard. It is not a generic extra attack and does not use one of the five ordinary slots. |
+
+### Route audit — Moria and Goblin-gate are not the same test
+
+| Journey | Normal Hazard draw | Solo draw | Base Hazard Limit | Site automatic attack |
+|---|---:|---:|---:|---|
+| Rivendell → Moria | 3 | **8** | **5** | Orcs — four strikes with 7 prowess |
+| Moria → Goblin-gate | 2 | **6** | **5** | Orcs — three strikes with 6 prowess |
+
+The solo draw is **2 + twice the normal Hazard draw**. The Hazard Limit remains separate. The site automatic attack is also separate from the Hazard plays.
+
+On **Rivendell → Moria** (Rhudaur → Hollin → Redhorn Gate), all three regions are Wilderness and Redhorn Gate is named. That makes Cave Worm, Giant Spiders, Lesser Spiders, Wargs, Neeker-breekers and Watcher in the Water candidates under their respective printed keys; Despair of the Heart and River have their own target rules. Seized by Terror is **not** legal on this route because there is no Shadow-land or Dark-domain region.
+
+On **Moria → Goblin-gate** (Redhorn Gate → Hollin → Rhudaur → High Pass), all four regions are Wilderness. The route still makes the Wilderness-keyed creatures candidates and includes Redhorn Gate for Cave Worm. Watcher in the Water can use its double-Wilderness key, but its special permission to be played at Moria does not apply at Goblin-gate. Seized by Terror is still illegal: Goblin-gate's site type is Shadow-hold [{S}], not a Shadow-land region [{s}].
+
+This is the practical test of fair solo play: the Hazard side should exploit every legal key and target, but must not treat a Shadow-hold site as a Shadow-land region or play a card whose condition is absent.
+
 ## Three numbers and rules that must not be confused
 
 ### 1. Solo Hazard draw
@@ -95,7 +136,7 @@ Before selecting a combination, put the declared site path beside the drawn Haza
 | **Region-type creatures** | Does the declared site path contain the required region type(s), including the required count for double/triple keys? | Count the actual path; do not count a region merely because it appears on a map nearby. |
 | **Events and support** | Is the target, timing window, condition and duration valid now? | Determine whether it disrupts the mission or improves a legal attack, rather than assuming it combines with every creature. |
 
-For the Academy's Rivendell → Moria example, the Region Movement path Rhudaur → Hollin → Redhorn Gate contains three Wilderness regions and names Redhorn Gate; Moria is the destination site. That makes several cards in the teaching list worth checking, but it does not make every card automatically legal. The [Route Risk Workshop]({{ '/scenarios/route-risk-workshop/' | relative_url }}) gives you a repeatable way to compare routes and record what the actual Hazard hand permits.
+For the Academy's Rivendell → Moria example, the Region Movement path Rhudaur → Hollin → Redhorn Gate contains three Wilderness regions and names Redhorn Gate; Moria is the destination site. That makes several cards in the teaching list worth checking, but it does not make every card automatically legal. The [Route Risk Workshop]({{ '/scenarios/route-risk-workshop/' | relative_url }}) gives you a repeatable way to compare routes and record what the actual Hazard hand permits. The [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practice/' | relative_url }}) also teaches how the starting Dwarves' skills affect the response to River, Concealment and the Moria attack.
 
 After legality, compare impact and sequence. Count each play against the Hazard Limit according to the normal rules and the card's exact wording, and respect any explicit exception. If you cannot prove an interaction from the physical text or a current ruling, mark it **unverified** and do not rely on it for the play.
 
