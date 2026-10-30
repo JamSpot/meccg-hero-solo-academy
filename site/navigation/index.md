@@ -40,6 +40,8 @@ Use the visible header menu on every page to switch sections. This map also link
 ## Practice
 - [Practice Scenarios]({{ '/scenarios/' | relative_url }})
 - [First Session Practice Workbook]({{ '/scenarios/first-session/' | relative_url }})
+- [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practice/' | relative_url }})
+- [Hero Resource Timing Workshop — model answers]({{ '/scenarios/hero-resource-practice/answer-key/' | relative_url }})
 - [First Session answer key]({{ '/scenarios/first-session/answer-key/' | relative_url }})
 - [Route Lab workbook]({{ '/scenarios/route-lab/' | relative_url }})
 - [Route Lab answer key]({{ '/scenarios/route-lab/answer-key/' | relative_url }})
