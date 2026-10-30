@@ -5,6 +5,8 @@ title: Practice Scenarios
 
 # Practice Scenarios
 
+Start with the new [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practice/' | relative_url }}) and its separate [model answer]({{ '/scenarios/hero-resource-practice/answer-key/' | relative_url }}). It checks which starting Dwarf can use each Resource, the real limitations of Not at Home and Marvels Told, the extra Hazard slot created by Hundreds of Butterflies, and a two-leg non-Haven route to store Book of Mazarbul.
+
 Start with the [First Session Practice Workbook]({{ '/scenarios/first-session/' | relative_url }}). It contains foundation exercises, with a separate [answer key]({{ '/scenarios/first-session/answer-key/' | relative_url }}).
 
 Then use the [Route Lab workbook]({{ '/scenarios/route-lab/' | relative_url }}) and its [model answers]({{ '/scenarios/route-lab/answer-key/' | relative_url }}) to practise movement timing, site-path declaration, Hazard exposure, route legality, and expedition reassessment.
