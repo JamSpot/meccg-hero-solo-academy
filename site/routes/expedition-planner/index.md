@@ -148,7 +148,7 @@ Write your answer before consulting the [Route Lab model answers]({{ '/scenarios
 4. **Eight drawn, five limit:** state what each number means and how you choose plays.
 5. **Objective complete:** after acquiring Book of Mazarbul, name three facts that could change your next destination.
 
-For each answer, give the rule or card text that supports it. If the map and a region card disagree about adjacency, use the region-card adjacency information.
+For each answer, give the rule or card text that supports it. Use the [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practice/' | relative_url }}) to check how Scout, Ranger and Warrior skills change the options available to the five starting Dwarves. If the map and a region card disagree about adjacency, use the region-card adjacency information.
 
 ## Reusable post-game debrief
 
