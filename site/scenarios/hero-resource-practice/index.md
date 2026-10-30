@@ -148,9 +148,10 @@ Answer:
 | 5 — Marvels Told | | | |
 | 6 — Hundreds of Butterflies | | | |
 | 7 — Great-road | | | |
-| 8 — Goblin-gate route | | | |
+| 8 — Goblin-gate waypoint | | | |
+| 9 — Blue Mountain route and storage | | | |
 
-Complete all eight drills before opening the [model answer →]({{ '/scenarios/hero-resource-practice/answer-key/' | relative_url }}).
+Complete all nine drills before opening the [model answer →]({{ '/scenarios/hero-resource-practice/answer-key/' | relative_url }}).
 
 ## Continue learning
 
