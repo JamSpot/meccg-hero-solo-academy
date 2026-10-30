@@ -63,7 +63,9 @@ For the five-character starting company in Game 1, the base Hazard Limit is **5*
 
 ### 3. The solo procedure for playing the drawn Hazards
 
-The solo procedure directs you to play **as many of the drawn Hazards as you can within the Hazard Limit**, choosing the combination that is most disadvantageous for your Hero company. Eight cards drawn does not mean eight cards played: with a base limit of five, no more than five Hazard cards that count against that limit can be played in the phase.
+The solo procedure directs you to play **as many of the drawn Hazards as you can within the Hazard Limit**, choosing the combination that is most disadvantageous for your Hero company. Eight cards drawn does not mean eight ordinary limit-counting plays: with a base limit of five, no more than five Hazard cards that count against that limit can be played in the phase.
+
+**Important exception — Twilight:** the Challenge Deck C list contains two copies. Twilight may be played at any point during either player's turn and **does not count against the Hazard Limit**. As a Hazard, it cancels and discards one Environment card in play or declared earlier in the same chain of effects. It is still a Hazard otherwise, and it may also be played as a Resource. So a legal Twilight does not use one of the company's five ordinary Hazard slots. Check its target and timing; it is not a free creature attack.
 
 Do not automatically play the first five cards. Check legality and sequence, then choose the strongest legal combination. Do not deliberately leave a useful legal slot empty merely because a card seems less dramatic. If you are pausing for a teaching discussion, pause before committing the play and explain the competing choices.
 
@@ -116,12 +118,12 @@ On the teaching route **Rivendell → Moria** using **Rhudaur → Hollin → Red
 |---|---|---|
 | **Cave Worm** | Its printed named-region key includes **Redhorn Gate**, which is in the declared site path. | Confirm the named-region key and all printed conditions. |
 | **Giant Spiders** | It can be keyed to **double Wilderness**; this route contains three Wilderness regions. | Confirm the actual site path and the creature's exact key. |
-| **Lesser Spiders** | Its key includes Wilderness. | Confirm that the route exposes Wilderness and that timing and limit permit the play. |
+| **Lesser Spiders** | Its keys include Wilderness and Shadow-land region types, plus a Ruins & Lairs [{R}] site key. The route exposes Wilderness. | Moria is a Shadow-hold [{S}], not a Ruins & Lairs site; this route makes the card a candidate via Wilderness, not via Moria's site type. |
 | **Wargs** | Its key includes Wilderness. | Check the Wolf attack text and whether Wake of War is active. |
-| **Neeker-breekers** | Its key includes Wilderness among its listed region/site types. | Read the special strike wording; do not assume every strike modifier changes the number of strikes. |
+| **Neeker-breekers** | Its keys include Wilderness among its region-type keys; the route exposes Wilderness. | Moria is a Shadow-hold [{S}], not a Ruins & Lairs [{R}] site. The card is a candidate via Wilderness, not via Moria's site type. Read its one-strike-per-character wording exactly. |
 | **Watcher in the Water** | Its card text permits play at **Moria**; it also has a double-Wilderness key. | Check its special attack wording and the ruling on attacks where each character faces one strike. |
 
-The lesson is important: **route choice is also Hazard-deck choice**. Rhudaur → Hollin → Redhorn Gate exposes Wilderness and names Redhorn Gate; arriving at Moria adds a site-specific option. The Hazard player must still obey the actual card text, timing, target restrictions and Hazard Limit. See the [official rules]({{ '/reference/solo-ruleset/' | relative_url }}) and [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf).
+The lesson is important: **route choice is also Hazard-deck choice**. Rhudaur → Hollin → Redhorn Gate exposes three Wilderness regions and names Redhorn Gate; arriving at Moria adds the explicit Moria option for Watcher in the Water. Moria itself is a Shadow-hold [{S}], not a Ruins & Lairs [{R}] site. The Hazard player must still obey the actual card text, timing, target restrictions and Hazard Limit. See the [official rules]({{ '/reference/solo-ruleset/' | relative_url }}) and [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf).
 
 ## Physical construction
 
