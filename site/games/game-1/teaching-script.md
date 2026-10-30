@@ -23,8 +23,10 @@ Put out:
 - Kíli
 - Glóin
 - Óin with Cram
-- 30-card Hero Resource deck
-- 30-card Training Hazard deck
+- 38-card Hero play deck: 30 Resources plus Balin, Boromir II, Celeborn, Fíli, Gildor Inglorion and Pallando ×3
+- 30-card Training Hazard deck, kept separate
+- 15-card Location deck, kept separate and unshuffled
+- five-character starting company and two starting Cram items
 - 5-card solo hand size
 - Location deck
 - separate Hero and Hazard discards
