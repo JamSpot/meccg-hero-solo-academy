@@ -136,6 +136,33 @@ This creates two distinct objectives:
 
 The second objective is a new expedition, not an automatic continuation of the first. The direct Moria-to-Blue-Mountain route contains five regions, so it cannot be completed in one turn under the normal four-region limit. You do **not** have to use a Haven as the intermediate stop: the fixed 15-site deck contains Goblin-gate, allowing a two-leg non-Haven route (Moria → Goblin-gate → Blue Mountain Dwarf-hold).
 
+## Item power has a corruption cost
+
+The Hero deck's best weapons and armour can make the Dwarves much safer, but their corruption points accumulate on the bearer. Do not choose an item by marshalling points alone.
+
+| Item | MPs | CP | Main effect | Practical limitation |
+|---|---:|---:|---|---|
+| **Durin's Axe** | 2 normally; **4 if held by a Dwarf** | 2 normally; **3 if held by a Dwarf** | +2 prowess, or +4 if held by a Dwarf, to a maximum of 9. | A powerful Dwarf weapon, but the Dwarf bearer takes 3 CP. The starting company are all Dwarves, so use the Dwarf values. |
+| **Bow of Dragon-horn** | 2 | 2 | Warrior only: tap it to reduce the number of strikes from one Hazard creature attack not keyed to a site by one, minimum one. | It does not reduce a site automatic attack or a creature attack keyed to a site. It will not reduce Moria's Orc automatic attack. |
+| **Enruned Shield** | 3 | 2 | +3 body to a maximum of 10. Warrior only: tap it to make one strike against its bearer ineffectual. | “Ineffectual” means the strike is neither successful nor failed; it is not the same as cancelling the whole attack. |
+| **Hauberk of Bright Mail** | 2 | 1 | Warrior only: +2 body to a maximum of 9. | A straightforward body increase, but it does not cancel a strike or attack. |
+| **Magical Harp** | 2 | 2 | Tap it to cancel all effects for the rest of the turn that discard a target character in the bearer's company; the bearer then makes a corruption check. It may also be tapped during the opponent's Site Phase or the Free Council. | It protects against discard effects, not ordinary wounds or every attack. Tapping it has a corruption-check cost. |
+| **Wormsbane** | 4 | 2 | +2 prowess to a maximum of 9; against a Dragon or Drake strike, +4 prowess to a maximum of 12 and -2 to the strike's body. | Its strongest bonus is specialist protection against Dragons and Drakes. It is not a special bonus against Moria's Orcs. |
+| **Thrór's Map** | — | 1 | Discard it to untap a site with a Dragon automatic attack. | It has no printed MP value. Moria and Goblin-gate have Orc automatic attacks, so neither qualifies. |
+
+**Corruption points and check modifiers are different.** Corruption points are added to a character's CP total; a positive or negative corruption-check modifier changes the roll. Fellowship's +1 is a check modifier, not a CP. Durin's Axe, Bow of Dragon-horn, Enruned Shield, Hauberk, Magical Harp, Wormsbane and Thrór's Map carry the CP values shown above. A bearer carrying several items must add their CP values before making a corruption check.
+
+For the first Moria expedition, this changes the combat decision:
+
+- **Enruned Shield** can make one strike against its bearer ineffectual.
+- **Hauberk of Bright Mail** raises the bearer's body.
+- **Durin's Axe** raises a Dwarf's prowess substantially, but adds three CP.
+- **Bow of Dragon-horn** cannot reduce Moria's Orc automatic attack because it only modifies a Hazard creature attack not keyed to a site.
+- **Wormsbane** is not a special answer to Orcs; its premium bonus is against Dragons and Drakes.
+- **Thrór's Map** is not useful at Moria because Moria has an Orc automatic attack.
+
+The best item is not always the one with the highest MP value. Decide who will carry it, what threat it answers, and whether that character can safely bear the resulting corruption burden.
+
 ## The first campaign arc
 
 | Stage | Mission | Route lesson | Do not assume |
@@ -218,7 +245,7 @@ The five starting Dwarves have a useful spread of skills. All five are Warriors;
 | Card | What it actually does | What to check before using it |
 |---|---|---|
 | **A Friend or Three** | Gives one influence check **or** one corruption check by a character in the company +1 for each character in that company. With the five starting Dwarves, that is +5. | It modifies one check, not every check. Save it for a check that matters. |
-| **Fellowship** | At a Haven, during the Organization Phase, it can be played on a company with at least four characters and allies. It gives all of them +1 prowess and +1 to corruption checks. | It is discarded if a character or ally joins or leaves that company. The five Dwarves qualify at Rivendell, but adding a new member later breaks the Fellowship. |
+| **Fellowship** | At a Haven, during the Organization Phase, it can be played on a company with at least four characters and allies. It gives all of them +1 prowess and +1 to corruption checks. | The +1 is a **corruption-check modifier**, not a corruption point. The official rules example shows two Fellowship cards adding +2 to checks while the character's CP total stays unchanged. It is discarded if a character or ally joins or leaves that company. |
 | **Concealment** | Scout only: tap the Scout to cancel one attack against his company. | Thorin II and Kíli are the starting Scouts. It cancels one attack, not every attack in the phase; tapping the Scout is a real cost. |
 | **Not at Home** | Cancels one Dragon, Drake or Troll attack if it is an automatic attack or keyed to a site. Alternatively, if Gates of Morning is in play, it reduces the strikes of any automatic attack by two, to a minimum of one. | It is not a universal attack-cancel card. Moria's automatic attack is Orcs, so Not at Home cannot cancel it. Gates of Morning is in the sideboard, not the 30-card main Resource list. |
 | **The Dwarves Are Upon You!** | When a company containing Dwarves faces an attack, all Dwarves in that company receive +2 prowess and -1 body against that attack. | It helps the whole Dwarf company, but the -1 body is a real risk. It cannot be duplicated against the same attack. |
@@ -227,7 +254,7 @@ The five starting Dwarves have a useful spread of skills. All five are Warriors;
 | **Marvels Told** | Sage only: tap a Sage to discard a Hazard non-Environment permanent-event or long-event; the Sage then makes a corruption check modified by -2. | No starting Dwarf is a Sage. It can answer effects such as Full of Froth and Rage or Wake of War, but not short-events such as River or Seized by Terror, and not an Environment card. |
 | **Lucky Search** | Scout only, during the site phase, at a tapped or untapped Shadow-hold or Dark-hold. Reveal play-deck cards until a non-special item is found or the deck ends; the Scout takes control of it if found, then faces one uncancellable strike with prowess 3 plus the number of cards revealed. | Moria and Goblin-gate are Shadow-holds, so the site condition can be met there. The item is discarded if the Scout is wounded. Book of Mazarbul is a Special Item, so Lucky Search is not a way to find the Book. |
 | **Bounty of the Hoard** | During the site phase, it allows one minor or major item to be played at a tapped site that contains a hoard. | A tapped site is not automatically a hoard site. Check the site and item conditions; this is an extra item opportunity, not deck compression. |
-| **Thrór's Map** | A unique minor item that can be discarded to untap a site with a Dragon automatic attack. | It is a site-untap tool, not card draw. Moria and Goblin-gate have Orc automatic attacks, not Dragon attacks, so the Map does not help at either site. |
+| **Thrór's Map** | A unique minor item with **1 corruption point** and no printed marshalling points; discard it to untap a site with a Dragon automatic attack. | It is a site-untap tool, not card draw. Moria and Goblin-gate have Orc automatic attacks, not Dragon attacks, so the Map does not help at either site. Account for its 1 CP while it is carried. |
 | **Great-road** | A short-event played at the end of the Organization Phase on a company at a Haven. The opponent may draw up to twice the normal number of cards for that company during its Movement/Hazard Phase; at the end of the turn the company may return to the Haven where it began, with no second Movement/Hazard Phase. | This is a special return-to-Haven effect, **not** the general Region Movement rule and not a way to ignore route legality. The published solitaire draw formula does not spell out how Great-road's doubled draw interacts with its own 2 + twice-normal formula, so keep it out of the baseline Game 1 until that interaction is resolved. |
 | **Smoke Rings** | Moves one Resource or Character from the sideboard or discard pile into the play deck, then shuffles. | It puts the card into the deck, not directly into your hand. Use it as recovery/selection for a later draw. |
 
