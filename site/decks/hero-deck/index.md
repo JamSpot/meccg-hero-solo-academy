@@ -122,6 +122,7 @@ The current card database gives Book of Mazarbul these important facts:
 - **Only playable at Moria**.
 - Worth **1 marshalling point while in play**.
 - It may be stored at a **Dwarf-hold for 5 marshalling points**.
+- **Storing it:** during the Organization Phase while the company is at a qualifying Dwarf-hold, the bearer makes the normal corruption check required for storing an item. The Book has two corruption points, so this is a real risk. If the check succeeds, it goes into the marshalling-point pile for **5 MP instead of its 1 MP in-play value**; do not add the values together.
 - If its bearer is a **Sage**, you may tap it during your Organization Phase to increase your hand size by one until your next Untap Phase.
 
 The five starting Dwarves in this teaching company have Warrior, Scout, Ranger and Diplomat skills, but **none is a Sage**. Do not plan on using the Book's hand-size ability during Game 1. That ability becomes relevant only if a Sage later bears the Book and you can legally use its effect.
