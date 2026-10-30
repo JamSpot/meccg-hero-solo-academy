@@ -7,7 +7,7 @@ title: Hero Deck Construction
 
 ## The exact teaching card list
 
-For **Game 1 and the first Academy lessons**, use the historical **Dwarven Quest (Pallando) Challenge Deck C** as our verified teaching baseline. The Academy's solo setup uses a five-card hand; this does not change the 30-card Resource deck list.
+For **Game 1 and the first Academy lessons**, use the historical **Dwarven Quest (Pallando) Challenge Deck C** as our verified teaching baseline. The 30-card table below is the **Resource portion**, not the whole shuffled Hero play deck. Under the published solitaire procedure, Hazards are kept in a separate deck; resources and character cards remain together in the Hero play deck. For Challenge Deck C that means **38 Hero play-deck cards: 30 Resources + 8 additional character cards**. The solo hand size is five cards; it does not change either card count.
 
 This is a genuine-card list: **no proxies are intended**. If you do not own a card, mark it as a card to obtain rather than substituting a random card.
 
@@ -58,9 +58,9 @@ Control relationships:
 - Thorin II controls Dori and Kíli.
 - Glóin controls Óin.
 
-## Other characters
+## Eight additional characters in the Hero play deck
 
-The historical Challenge Deck character pool contains:
+These eight character cards are shuffled **with the 30 Hero Resources** to make the 38-card Hero play deck. They are not part of the five-character starting company:
 
 - Balin
 - Boromir II
@@ -69,7 +69,7 @@ The historical Challenge Deck character pool contains:
 - Gildor Inglorion
 - Pallando ×3
 
-For the Academy, these are introduced gradually rather than all being put into the starting company.
+Pallando is the Wizard avatar. The three copies are the Challenge Deck's listed avatar cards; they are not three separate Wizards in the starting company. A character drawn from the Hero play deck is played later only when the normal character-play rules, home-site/Haven requirements, influence and company rules allow it.
 
 ## 15 site cards
 
@@ -127,7 +127,7 @@ This keeps the Hero deck practical: first learn one complete expedition, then us
 
 ## Sideboard
 
-The historical deck also has a 20-card sideboard. We will **not** need the whole sideboard for Game 1.
+The historical deck also has a 20-card sideboard. We will **not** need the whole sideboard for Game 1. Keep it separate from the 38-card Hero play deck.
 
 ### Resources
 
@@ -151,7 +151,7 @@ The historical deck also has a 20-card sideboard. We will **not** need the whole
 
 - Saruman
 
-The Academy will teach sideboarding later. Do not mix these cards into the 30-card Hero resource deck.
+The Academy will teach sideboarding later. Do not mix these cards into the 38-card Hero play deck.
 
 ---
 
@@ -160,14 +160,14 @@ The Academy will teach sideboarding later. Do not mix these cards into the 30-ca
 For the Academy, think of the Hero setup as **several separate components**, not one giant deck.
 
 1. **Location deck** — sites available for movement.
-2. **Hero play deck** — the 30 Hero resources for the teaching game.
-3. **Character pool** — possible starting/recruitable characters.
+2. **Hero play deck** — 30 Hero Resources plus the eight additional character cards listed above: **38 cards total**, with no Hazards.
+3. **Starting pool** — the five starting Dwarves and the two starting Cram items.
 4. **Sideboard** — advanced reserve cards.
 5. **Hero discard pile** — cards that leave the play deck during the game.
 
 The location deck is separate from the shuffled play deck.
 
-For **Game 1**, do not add cards just because you own them. Use the exact teaching list above so the lessons and examples match what is on the table.
+For **Game 1**, do not add cards just because you own them. Use the exact 30 Resource cards and eight additional character cards above, so the 38-card Hero play deck and the lessons match what is on the table.
 
 ## Test before changing the list
 
@@ -249,16 +249,14 @@ The list remains the historical Challenge Deck C teaching baseline. Do not quiet
 
 ## How to physically construct it
 
-1. Find the 30 resource cards listed above.
-2. Check every quantity.
-3. Put those Hero resources into one pile.
-4. Keep the starting characters separate until setup.
-5. Keep the other characters separate.
-6. Assemble the 15 site cards as the Location deck.
-7. Keep the sideboard separate.
-8. Check that no Hazard cards have been mixed into the Hero resource deck.
-9. Shuffle the 30-card Hero resource deck.
-10. Do **not** shuffle the Location deck.
+1. Find the 30 Hero Resource cards listed above and check every quantity.
+2. Find the eight additional character cards listed above.
+3. Shuffle those 38 cards together to form the **Hero play deck**. Do not put Hazards in it.
+4. Keep the five starting characters and two Cram items ready as the starting pool/setup cards.
+5. Assemble the 15 site cards as the Location deck; keep it separate and do **not** shuffle it.
+6. Keep the 20-card sideboard separate.
+7. Mark a separate Hero discard pile and a separate Hazard discard pile.
+8. Shuffle the 30-card Hazard deck separately.
 
 ## Physical table layout
 
@@ -288,15 +286,11 @@ Before discarding a card, ask:
 
 This is particularly important for cards such as **Thror's Map**, whose value may be future expedition compression.
 
-## Starting company versus character pool
+## Starting company versus additional characters
 
-Do not confuse the **starting company** with the entire character portion of the deck.
+Do not confuse the **starting company** with the eight additional character cards in the Hero play deck.
 
-The company is the group actually beginning the game.
-
-The remaining characters are future recruitment/development options.
-
-That distinction becomes important as soon as the Academy moves beyond Game 1.
+The starting company is Thorin II, Dori, Kíli, Glóin and Óin, with the two Cram items assigned as listed above. The other eight characters are shuffled into the Hero play deck. They are drawn and may be played later when their printed home-site/Haven requirements and the normal influence and company rules allow it. They are not a second starting company and are not a separate pool to draw from.
 
 ## Plan the Hero hand by mission stage
 
@@ -363,14 +357,21 @@ This keeps genuine-card acquisition focused and prevents the collection from bec
 
 ## Game 1 acquisition checklist
 
-### Hero resources
+### Hero play deck
 
-- [ ] All 30 resource cards assembled
+- [ ] All 30 Resource cards assembled
 - [ ] Quantities checked against the table above
 - [ ] No duplicate Men of Dorwinion
-- [ ] Hero resource deck shuffled
+- [ ] Balin
+- [ ] Boromir II
+- [ ] Celeborn
+- [ ] Fíli
+- [ ] Gildor Inglorion
+- [ ] Pallando ×3
+- [ ] 38 cards total (30 Resources + 8 characters)
+- [ ] Hero play deck shuffled
 
-### Characters
+### Starting characters and items
 
 - [ ] Thorin II
 - [ ] Dori
@@ -388,12 +389,13 @@ This keeps genuine-card acquisition focused and prevents the collection from bec
 
 ### Other
 
-- [ ] Character pool separate
+- [ ] Five-character starting company prepared
+- [ ] Two starting Cram items assigned
 - [ ] Sideboard separate
-- [ ] Hazard deck separate
-- [ ] Hero discard area marked
+- [ ] 30-card Hazard deck separate
+- [ ] Hero and Hazard discard areas marked
 
-When these boxes are checked, you have the actual physical card set needed to begin Game 1.
+When these boxes are checked, you have the actual physical card set needed to begin Game 1: a 38-card Hero play deck, a separate 30-card Hazard deck, the starting company and items, the Location deck, and the sideboard.
 
 ## Source and verification
 
