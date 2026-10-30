@@ -37,7 +37,7 @@ Before the Hazard player chooses a card, translate the declared path into a shor
 | Destination is Moria | Site-specific threats keyed to Moria are worth checking. | Arrival at Moria does not mean every site-keyed creature is legal against every company state. |
 | Five-character company | The normal base Hazard Limit is five for this phase, unless an applicable effect changes it. | The limit is not the same number as the solo procedure's draw of eight cards. |
 
-Use this forecast before looking for a powerful combination. Then use the [Hazard Combination Lab]({{ '/decks/hazard-combos/' | relative_url }}) to check exact card text and the [Route Risk Workshop]({{ '/scenarios/route-risk-workshop/' | relative_url }}) to practise the full decision. These are candidate checks, not a prediction of which cards will be drawn.
+Use this forecast before looking for a powerful combination. Moria is a Shadow-hold [{S}], not a Ruins & Lairs [{R}] site; the route's Wilderness keys are what make Lesser Spiders and Neeker-breekers candidates here. Practise the case-sensitive distinction in the [Site-Keying Workshop]({{ '/scenarios/site-keying-workshop/' | relative_url }}). Then use the [Hazard Combination Lab]({{ '/decks/hazard-combos/' | relative_url }}) to check exact card text and the [Route Risk Workshop]({{ '/scenarios/route-risk-workshop/' | relative_url }}) to practise the full decision. These are candidate checks, not a prediction of which cards will be drawn.
 
 ## 4. The objective and the arrival decision
 
