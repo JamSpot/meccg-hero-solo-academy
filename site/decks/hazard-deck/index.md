@@ -27,7 +27,7 @@ These are genuine physical cards. No proxies are intended.
 | 3 | Watcher in the Water |
 | **30** | **Total** |
 
-Keep this Hazard deck separate from the Hero Resource deck, Hero discard pile, Location deck and sideboard.
+Keep this Hazard deck separate from the 38-card Hero play deck, Hero discard pile, Location deck and sideboard.
 
 ## What the Hazard deck teaches
 
@@ -142,7 +142,7 @@ Practise this distinction with the [Site-Keying Workshop]({{ '/scenarios/site-ke
 - Hazard cards drawn but not played are discarded at the end of that Movement/Hazard Phase.
 - When the Hazard deck is exhausted and more cards must be drawn, shuffle the Hazard discard pile to form a new Hazard deck.
 - In this Book of Mazarbul mission, non-unique defeated creatures go to the Hazard discard so they can return when the deck is recycled. Follow the normal rules for unique creatures; this mission does not award kill MPs as its victory objective.
-- Keep the Hero Resource discard and Hazard discard separate. Never put unplayed drawn Hazards back into the deck immediately unless the selected scenario explicitly tells you to.
+- Keep the Hero play-deck discard and Hazard discard separate. Never put unplayed drawn Hazards back into the deck immediately unless the selected scenario explicitly tells you to.
 
 ## Solo play: a fair test, not an easy test
 
