@@ -123,7 +123,9 @@ On the teaching route **Rivendell → Moria** using **Rhudaur → Hollin → Red
 | **Neeker-breekers** | Its keys include Wilderness among its region-type keys; the route exposes Wilderness. | Moria is a Shadow-hold [{S}], not a Ruins & Lairs [{R}] site. The card is a candidate via Wilderness, not via Moria's site type. Read its one-strike-per-character wording exactly. |
 | **Watcher in the Water** | Its card text permits play at **Moria**; it also has a double-Wilderness key. | Check its special attack wording and the ruling on attacks where each character faces one strike. |
 
-The lesson is important: **route choice is also Hazard-deck choice**. Rhudaur → Hollin → Redhorn Gate exposes three Wilderness regions and names Redhorn Gate; arriving at Moria adds the explicit Moria option for Watcher in the Water. Moria itself is a Shadow-hold [{S}], not a Ruins & Lairs [{R}] site. The Hazard player must still obey the actual card text, timing, target restrictions and Hazard Limit. See the [official rules]({{ '/reference/solo-ruleset/' | relative_url }}) and [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf).
+The lesson is important: **route choice is also Hazard-deck choice**. Rhudaur → Hollin → Redhorn Gate exposes three Wilderness regions and names Redhorn Gate; arriving at Moria adds the explicit Moria option for Watcher in the Water. Moria itself is a Shadow-hold [{S}], not a Ruins & Lairs [{R}] site. The Hazard player must still obey the actual card text, timing, target restrictions and Hazard Limit.
+
+Practise this distinction with the [Site-Keying Workshop]({{ '/scenarios/site-keying-workshop/' | relative_url }}) before attempting the full [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}). See the [official rules]({{ '/reference/solo-ruleset/' | relative_url }}) and [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf).
 
 ## Physical construction
 
