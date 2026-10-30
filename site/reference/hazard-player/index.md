@@ -29,6 +29,8 @@ Read the exact wording. Check whether a card strengthens another, changes the en
 ### 6 — WHAT IS LEFT OF THE LIMIT?
 Each Hazard card that counts against the limit uses one slot. The base limit is the company's size or two, whichever is greater; **Hobbits and Orc scouts each count as half a character, rounded up**. It is set at the beginning of the company's Movement/Hazard Phase and stays fixed for that phase, even if a character is later eliminated. Applicable rules and card effects may modify the limit.
 
+**Do not count Twilight as an ordinary slot.** It may be played at any point during either player's turn and does not count against the Hazard Limit. As a Hazard, it cancels one Environment card in play or declared earlier in the same chain of effects. It still needs a legal Environment target; it is not an extra creature attack.
+
 ### 7 — FILL THE AVAILABLE LEGAL OPPORTUNITY
 Under this Academy's selected solo procedure, play as many of the drawn Hazards as possible within the limit. Do not play illegal cards, exceed the limit or ignore printed timing requirements. If several combinations are legal, choose the most disadvantageous one.
 
@@ -72,7 +74,9 @@ If you cannot answer, pause and check the card text and rules rather than automa
 
 ## Example: eight cards, five slots
 
-Moria has site number 3, so the Academy's solo procedure draws eight Hazard cards. A five-character company has a base Hazard Limit of five. You must evaluate all eight cards, but can play no more than five cards that count against the limit. Choose the most damaging legal combination; discard the unplayed cards as required by the chosen solo procedure.
+Moria has site number 3, so the Academy's solo procedure draws eight Hazard cards. A five-character company has a base Hazard Limit of five. You must evaluate all eight cards, but can play no more than five ordinary cards that count against the limit. If Twilight is among the draw and has a legal Environment target, it may also be played without using one of those five slots. Choose the most damaging legal combination; discard the unplayed cards as required by the chosen solo procedure.
+
+For a card-by-card distinction between region keys and site keys, complete the [Site-Keying Workshop]({{ '/scenarios/site-keying-workshop/' | relative_url }}) and check its [model answer]({{ '/scenarios/site-keying-workshop/answer-key/' | relative_url }}).
 
 This is an example under the Academy procedure, not a universal rule for every solo variant. Always follow the draw and discard instructions of the scenario you selected.
 
