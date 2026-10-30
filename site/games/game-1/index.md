@@ -33,10 +33,12 @@ Use the starting equipment/resources specified by the chosen Dwarven teaching li
 
 ## Before the first turn
 
-Separate the two decks:
+Prepare the two shuffled decks and the separate Location deck:
 
-- **Hero Resource deck**
-- **Hazard deck**
+- **Hero play deck — 38 cards:** the 30 Hero Resources plus Balin, Boromir II, Celeborn, Fíli, Gildor Inglorion and Pallando ×3. No Hazards go in this deck.
+- **Hazard deck — 30 cards:** keep it separate from the Hero play deck.
+- **Location deck — 15 sites:** keep separate and unshuffled.
+- **Starting setup:** Thorin II, Dori, Kíli, Glóin and Óin, with the two Cram items assigned as listed above.
 
 Use a **5-card hand** for this solo teaching setup, resetting to five during the normal hand-reset step. Keep the Hazard deck face down. The Hazard player is controlled by the learner.
 
