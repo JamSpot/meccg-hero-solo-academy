@@ -151,6 +151,28 @@ From Goblin-gate, plan the route to Blue Mountain Dwarf-hold:
 5. In which phase do you store the Book, and what check must its bearer make?
 6. Does the Book score one MP plus five MP, or the five-point storage value instead of its in-play value?
 
+## Drill 10 — Item power versus corruption
+
+You have the following items available in the Hero deck:
+
+- Durin's Axe
+- Bow of Dragon-horn
+- Enruned Shield
+- Hauberk of Bright Mail
+- Magical Harp
+- Wormsbane
+- Thrór's Map
+
+For each item, record its MP value, corruption points, and its actual ability. Then answer:
+
+1. Which item gives a Dwarf the greatest prowess increase?
+2. Which items can help against Moria's Orc automatic attack?
+3. Why does Bow of Dragon-horn not reduce the Moria automatic attack?
+4. Why is Wormsbane not a special answer to Orcs?
+5. Which item has no printed MP value but can untap a site?
+6. If one character carries Durin's Axe and Book of Mazarbul, how many CP does he have from those two items when Durin's Axe is held by a Dwarf?
+7. Is Fellowship's +1 to corruption checks a corruption point, or a check modifier?
+
 ## Record your decisions
 
 | Drill | My decision | Rule/card text checked | What I need to practise |
@@ -164,8 +186,9 @@ From Goblin-gate, plan the route to Blue Mountain Dwarf-hold:
 | 7 — Great-road | | | |
 | 8 — Goblin-gate waypoint | | | |
 | 9 — Blue Mountain route and storage | | | |
+| 10 — Item power versus corruption | | | |
 
-Complete all nine drills before opening the [model answer →]({{ '/scenarios/hero-resource-practice/answer-key/' | relative_url }}).
+Complete all ten drills before opening the [model answer →]({{ '/scenarios/hero-resource-practice/answer-key/' | relative_url }}).
 
 ## Continue learning
 
