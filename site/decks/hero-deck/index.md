@@ -71,6 +71,8 @@ These eight character cards are shuffled **with the 30 Hero Resources** to make 
 
 Pallando is the Wizard avatar. The three copies are the Challenge Deck's listed avatar cards; they are not three separate Wizards in the starting company. A character drawn from the Hero play deck is played later only when the normal character-play rules, home-site/Haven requirements, influence and company rules allow it.
 
+**Why three Pallando copies?** The original *The Wizards* rulebook contains older two-Wizard wording, but the current [CRF 19 Wizard ruling](https://meccg.com/rules/collected-rulings-and-errata-crf/crf-19/rulings-by-term/#wizard) allows a three-card Wizard combination except one copy each of three different Wizards. Challenge Deck C uses three copies of Pallando, so keep the published list intact. These are three copies of one Wizard identity, not three separate Wizards in the starting company.
+
 ## 15 site cards
 
 Use these sites for the historical teaching deck:
@@ -123,7 +125,6 @@ The current card database gives Book of Mazarbul these important facts:
 - Worth **1 marshalling point while in play**.
 - It may be stored at a **Dwarf-hold for 5 marshalling points**.
 - **Storage timing and risk:** during the Organization Phase while the company is at a qualifying Dwarf-hold, the bearer makes the normal corruption check required for storing an item. The Book has two corruption points, so this is a real risk. If the check succeeds, it goes into the marshalling-point pile for **5 MP instead of its 1 MP in-play value**; do not add the values together.
-- **Storing it:** during the Organization Phase while the company is at a qualifying Dwarf-hold, the bearer makes the normal corruption check required for storing an item. The Book has two corruption points, so this is a real risk. If the check succeeds, it goes into the marshalling-point pile for **5 MP instead of its 1 MP in-play value**; do not add the values together.
 - If its bearer is a **Sage**, you may tap it during your Organization Phase to increase your hand size by one until your next Untap Phase.
 
 The five starting Dwarves in this teaching company have Warrior, Scout, Ranger and Diplomat skills, but **none is a Sage**. Do not plan on using the Book's hand-size ability during Game 1. That ability becomes relevant only if a Sage later bears the Book and you can legally use its effect.
