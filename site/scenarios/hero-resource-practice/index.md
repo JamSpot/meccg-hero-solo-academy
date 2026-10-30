@@ -134,8 +134,22 @@ Answer:
 2. What region type do all four share?
 3. What is Goblin-gate's normal Hazard draw number, and how many cards does the Academy solo procedure draw?
 4. What is the base Hazard Limit for the five Dwarves?
-5. What is Goblin-gate's automatic attack?
-6. Is Seized by Terror legal just because Goblin-gate is a Shadow-hold?
+5. What is Goblin-gate's automatic attack if the company enters?
+6. Can you choose not to enter and use Goblin-gate as a waypoint? What do you give up by doing so?
+7. Is Seized by Terror legal just because Goblin-gate is a Shadow-hold?
+
+## Drill 9 — Continue to Blue Mountain without a Haven
+
+From Goblin-gate, plan the route to Blue Mountain Dwarf-hold:
+
+**High Pass → Rhudaur → Arthedain → Númeriador**
+
+1. Is this a legal four-region route?
+2. What is the normal Hazard draw at Blue Mountain Dwarf-hold, and how many cards does the Academy solo procedure draw?
+3. Does the site have an automatic attack?
+4. Why can Book of Mazarbul be stored there even though the site-type symbol is Free-hold [{F}]?
+5. In which phase do you store the Book, and what check must its bearer make?
+6. Does the Book score one MP plus five MP, or the five-point storage value instead of its in-play value?
 
 ## Record your decisions
 
