@@ -72,10 +72,10 @@ During the Organization Phase while the company is at Blue Mountain Dwarf-hold, 
 
 | Route | What it gives you | What it costs |
 |---|---|---|
-| **Moria → Rivendell → Blue Mountain** | A Haven recovery stop; characters can heal during a later Untap Phase at Rivendell. | Two Hazard phases; you spend a turn at the Haven and use the Haven route. |
-| **Moria → Goblin-gate → Blue Mountain** | Two legal non-Haven legs; no forced Haven return; Goblin-gate can be used without entering. | Six solo Hazards on the first leg and four on the second; no Haven healing between legs. If you enter Goblin-gate for Gollum, face its Orc automatic attack. |
+| **Moria → Rivendell → Blue Mountain** | Region Movement Moria → Rivendell uses Redhorn Gate → Hollin → Rhudaur. Because the destination is a Haven, the first solo draw uses Moria's normal draw of 3: **8 Hazards**. The next leg Rivendell → Blue Mountain uses Rhudaur → Arthedain → Númeriador and draws **4 Hazards**. | You get a Haven Untap/Healing opportunity at the start of the next turn, then you can move onward in that same turn; no separate stationary turn is required. Note: Starter Movement from Moria would use its nearest Haven, Lórien, so the Rivendell leg must be Region Movement. |
+| **Moria → Goblin-gate → Blue Mountain** | Two legal non-Haven Region Movement legs: **6 Hazards** to Goblin-gate, then **4 Hazards** to Blue Mountain. | No Haven healing between legs. Goblin-gate can be used without entering; if you enter for Gollum, face its three Orc strikes at 6 prowess. If you do not enter, you avoid the site attack but cannot take site-phase actions or play cards there. |
 
-The non-Haven route is not automatically superior. Choose it when the company is healthy enough to continue and the campaign benefits from keeping its position. Choose the Haven route when healing and consolidation are worth the extra turn.
+The non-Haven route is not automatically superior. Choose it when the company is healthy enough to continue and the campaign benefits from keeping its position. Choose the Haven route when healing and consolidation are worth the extra Hazard draw on the first leg. Both plans use two Movement/Hazard Phases; the Haven route gives you the recovery window between them.
 
 ## Why the second expedition is different
 
