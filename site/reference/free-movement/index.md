@@ -5,6 +5,8 @@ title: Free / Player-Directed Movement
 
 # Free / Player-Directed Movement
 
+**Terminology:** “free movement” is useful shorthand, but the rules term is **Region Movement**. It is the standard movement option that lets you travel between non-Haven sites when the route is legal; it does not mean movement is free of Hazard exposure.
+
 The Academy uses “free movement” as a beginner-friendly phrase. The formal rules term is **Region Movement**. It gives you more choice than relying only on the printed Starter Movement network, but it is not unrestricted movement.
 
 ## The Captain's movement algorithm
