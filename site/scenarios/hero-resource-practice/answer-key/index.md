@@ -86,8 +86,9 @@ The card does not remove the need for a legal journey to the destination. It is 
 2. All four are **Wilderness**.
 3. Goblin-gate's normal Hazard draw is **2**, so the Academy solo draw is **2 + (2 × 2) = 6**.
 4. The five-character company's base Hazard Limit is **5**.
-5. Goblin-gate's automatic attack is **Orcs — three strikes with 6 prowess**.
-6. **No.** Seized by Terror requires a Shadow-land [{s}] or Dark-domain [{d}] region in the site path. Goblin-gate is a Shadow-hold [{S}] site. The uppercase site type does not satisfy the lowercase region-type condition.
+5. Goblin-gate's automatic attack is **Orcs — three strikes with 6 prowess**, but only if the company chooses to enter and explore the site.
+6. The company may choose **not** to enter. It then avoids the site automatic attack, but cannot take any other site-phase actions or play cards; it remains at Goblin-gate and may enter on a later turn.
+7. **No.** Seized by Terror requires a Shadow-land [{s}] or Dark-domain [{d}] region in the site path. Goblin-gate is a Shadow-hold [{S}] site. The uppercase site type does not satisfy the lowercase region-type condition.
 
 The route is a useful example of non-Haven-to-non-Haven Region Movement, but it is not automatically safe. It exposes four Wilderness regions and draws six solo Hazards. The site attack is faced only if the company chooses to enter Goblin-gate.
 
