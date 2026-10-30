@@ -70,11 +70,17 @@ Do not treat “I can draw a route on the map” as proof that Starter Movement 
 
 **State:** Book of Mazarbul has been acquired. You are considering Blue Mountain Dwarf-hold as the next objective.
 
+**Why consider it?** The Book is worth 1 MP while in play and can be stored at a Dwarf-hold for **5 MPs**. It has 2 corruption points. Its hand-size ability only works when a Sage bears it; none of the five starting Dwarves is a Sage.
+
 **Proposed route:** Redhorn Gate → Hollin → Rhudaur → Arthedain → Númeriador.
 
 Is this a legal single normal Region Movement? If not, split it into legal legs using the Academy's verified teaching example. Check adjacency on the physical Region cards before moving.
 
-Then explain what the intermediate stop offers beyond simply making the journey legal.
+Then explain what the intermediate stop offers beyond simply making the journey legal, and whether the five-MP storage reward justifies another expedition.
+
+### Follow-up question — who can use the Book's hand-size ability?
+
+Can Thorin II, Dori, Kíli, Glóin or Óin use the Book's Sage-only hand-size ability in the starting company? Check each character's printed skills before answering.
 
 ## Drill 3 — The repeated region
 
