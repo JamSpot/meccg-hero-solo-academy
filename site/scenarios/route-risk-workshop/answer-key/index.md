@@ -38,6 +38,12 @@ The Academy's teaching split is:
 
 Check adjacency and destination availability before declaring each leg. Rivendell is a convenient Haven stop in this example; it is not a universal requirement to return to a Haven. An intermediate stop can create a chance to recover, manage the hand, reassess the objective and prepare for the next leg.
 
+The reward is meaningful: Book of Mazarbul is worth 1 MP while in play and **5 MPs when stored at a Dwarf-hold**. It also has 2 corruption points. Its extra hand-size ability only works when a Sage bears it; the five starting Dwarves have no Sage skill, so the ability is not available in Game 1.
+
+### Follow-up — who can use the Book's hand-size ability?
+
+None of the five starting Dwarves. Thorin II is Warrior/Scout/Diplomat; Dori is Warrior; Kíli is Warrior/Scout; Glóin is Warrior/Diplomat; Óin is Warrior/Ranger. None has the Sage skill required by Book of Mazarbul's hand-size text. Do not activate that ability unless a Sage later becomes its bearer and the card's timing requirements are met.
+
 ## Drill 3 — The repeated region
 
 A → B → C → B → D is not legal as normal Region Movement because **B repeats**. The route must not revisit a region within the same declared sequence. Find another legal sequence using the Region cards or choose a different destination; do not make up an adjacency.
