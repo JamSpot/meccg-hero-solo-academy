@@ -18,7 +18,7 @@ The Organization Phase has already passed when the Book is acquired during Moria
 2. During the Organization Phase, declare the next destination and movement.
 3. The company then takes its Movement/Hazard Phase.
 
-When the company eventually reaches Blue Mountain Dwarf-hold, the Book is not stored during that arrival turn's Site Phase. Storage is an Organization Phase action. At the start of the following turn, while the company is at Blue Mountain, the bearer may attempt to store the Book and make the required corruption check. If successful, it goes into the marshalling-point pile for **5 MP**, not 1 + 5.
+When the company eventually reaches Blue Mountain Dwarf-hold, the Book is not stored during that arrival turn's Site Phase. Storage is an Organization Phase action. At the start of the following turn, while the company is at Blue Mountain, the bearer may attempt to store the Book and make the required corruption check. If successful, it goes into the marshalling-point pile for **5 MP**, not 1 + 5. **Bearer choice matters:** Dori, Kíli and Óin each receive -1 to all of their corruption checks, so one of them may be a safer bearer than Thorin or Glóin if the rest of the company's risk profile supports it. Include every corruption point on the bearer, not just the Book's two points. Despair of the Heart can add another two corruption points and trigger checks when anyone in the company is wounded.
 
 ## 2. Route legality
 
@@ -165,6 +165,7 @@ Do not use Starter Movement directly from Moria to Rivendell: Moria's nearest Ha
 ## Sources
 
 - [Council of Elrond Official Game Rules](https://www.councilofelrond.org/rules/) — movement, site paths, Hazard Limits, Untap Phase, Organization Phase and site entry.
+- [Collected Rules File 22](https://meccg.com/rules/collected-rulings-and-errata-crf/crf-22/) — current card errata, including River's Ranger-tap option.
 - [The Wizards rules — official Solitaire Rules](https://meccg.com/rules/by-expansion/the-wizards/) — separate Hazard deck, five-card hand, solo draw formula and most-disadvantageous legal plays.
 - [Challenge Deck C Player's Guide](https://assets.cardgamegeek.com/public/library/meccg/Challenge_Decks_PG.pdf) — historical deck list and suggested resource sites.
 - [MECCG Full Spoiler List](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf) — site details and Region adjacency.
