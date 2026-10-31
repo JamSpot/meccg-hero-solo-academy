@@ -9,6 +9,8 @@ Start with the [First Session Practice Workbook]({{ '/scenarios/first-session/' 
 
 After your first game and the movement lesson, complete the [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practice/' | relative_url }}) and its separate [model answer]({{ '/scenarios/hero-resource-practice/answer-key/' | relative_url }}). It checks which starting Dwarf can use each Resource, the real limitations of Not at Home and Marvels Told, the extra Hazard slot created by Hundreds of Butterflies, and a two-leg non-Haven route to store Book of Mazarbul.
 
+After completing the first Moria expedition, use the [Book of Mazarbul — Second Expedition workbook]({{ '/scenarios/book-journey/' | relative_url }}) and its separate [model answer]({{ '/scenarios/book-journey/answer-key/' | relative_url }}). It connects the Hero mission, both non-Haven route legs, route-specific Hazard legality, Goblin-gate's optional site attack, the Haven alternative, and the correct timing for storing the Book at Blue Mountain.
+
 Then use the [Route Lab workbook]({{ '/scenarios/route-lab/' | relative_url }}) and its [model answers]({{ '/scenarios/route-lab/answer-key/' | relative_url }}) to practise movement timing, site-path declaration, Hazard exposure, route legality, and expedition reassessment.
 
 Use the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }}) to combine Hero hand management, route legality, Hazard exposure, site-entry decisions, and campaign planning. It includes a separate model-answer page.
