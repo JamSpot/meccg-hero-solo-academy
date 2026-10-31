@@ -9,6 +9,7 @@ The Route Atlas treats each trip as a decision, not just a line on a map.
 
 - [Rivendell → Moria](rivendell-moria/) — the first objective route and its three-Wilderness exposure.
 - [Moria → Blue Mountain Dwarf-hold](moria-blue-mountain/) — compare the Haven recovery route with the two-leg non-Haven route through Goblin-gate.
+- [Book of Mazarbul — Second Expedition workbook]({{ '/scenarios/book-journey/' | relative_url }}) — practise the two route legs, Hazard keying, site-entry choice and next-turn storage timing.
 - [Expedition Planner — table worksheet](expedition-planner/) — a reusable pre-move checklist, three worked decision patterns and a post-game debrief.
 - [Route Risk Workshop]({{ '/scenarios/route-risk-workshop/' | relative_url }}) — compare legal routes using mission value, Hazard exposure, arrival condition, future position and fallback options.
 - [Route Workshop]({{ '/reference/route-workshop/' | relative_url }}) — reusable route scorecard and legality drills.
