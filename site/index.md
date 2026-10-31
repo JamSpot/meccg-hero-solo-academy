@@ -7,7 +7,7 @@ title: MECCG Hero Solo Academy
 
 **You have your cards. Start here and follow the numbered steps in order.**
 
-This is the practical route for learning solo Hero play with physical Middle-earth CCG cards. You do not need to read the research log, inventory methods, or every reference page before your first game.
+This Academy teaches **conventional solo Hero play** in Middle-earth CCG: you control a Hero company and run a separate Hazard deck against it. It is not the Arda format and its teaching decks are not Arda piles.
 
 ## Your first session — do these in order
 
@@ -28,12 +28,16 @@ This is the practical route for learning solo Hero play with physical Middle-ear
 
 ## What to do today
 
-**Only do Steps 1–5.** Open Start Here, prepare the two listed decks, play Game 1, and use the workbook. Do not start with the card database, source comparisons, advanced Hazard combinations, or deck optimisation.
+**Only do Steps 1–5.** Open Start Here, prepare the two listed decks, play Game 1, and use the workbook. Do not start with advanced Hazard combinations or deck optimisation.
 
-The Academy's current first-game baseline is the historical Dwarven Quest / Pallando Challenge Deck C teaching list with an explicitly documented solo Hazard-draw procedure. It is a teaching setup, not a claim that this list is identical to the entire Arda pool. The [solo rules page]({{ '/reference/solo-ruleset/' | relative_url }}) explains exactly which procedure is being used.
+The Academy's first-game baseline is the historical Dwarven Quest / Pallando Challenge Deck C teaching list with an explicitly documented solo Hazard-draw procedure. This is a conventional Hero solo teaching setup. It is not an Arda decklist or an Arda solitaire ruleset. Use the [solo rules page]({{ '/reference/solo-ruleset/' | relative_url }}) for the exact procedure used here.
 
 ## The loop you are learning
 
 **Prepare → Organise → Move → Draw and resolve Hazards → Enter the site → Attempt the objective → Recover or continue → Debrief**
 
 If you get stuck, return to [Step 1: Start Here]({{ '/academy/' | relative_url }}). Use [Course Path]({{ '/academy/learning-path/' | relative_url }}) for the full sequence and [All Pages]({{ '/navigation/' | relative_url }}) only when looking up a specific reference.
+
+---
+
+**Different project:** If you want Arda format card pools, Arda rules or Arda-specific solitaire variants, use the [MECCG Arda Master Database](https://jamspot.github.io/meccg-arda-master-database/). Arda has its own piles and solo adaptations; do not use the decklists or expedition sequence above as Arda rules.
