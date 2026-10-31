@@ -126,6 +126,10 @@ This is a non-Haven-to-non-Haven journey. It contains four regions including ori
 
 **Captain's decision:** choose this route only if the next objective is worth the added exposure and the company can reasonably survive the arrival. If not, recover or choose another legal destination. A Haven stop is not compulsory, but the cost of skipping recovery must be counted.
 
+### Storage is on the next Organization Phase
+
+If the company reaches Blue Mountain during this turn's Movement/Hazard Phase, it cannot store Book of Mazarbul during the arrival-turn Site Phase. Storage is an Organization Phase action. At the start of the next turn, while the company is still at the Dwarf-hold, make the bearer's corruption check and store the Book if successful. You may then declare the next movement during that Organization Phase. Work through the [Book of Mazarbul — Second Expedition workbook]({{ '/scenarios/book-journey/' | relative_url }}) before using this as a campaign plan.
+
 Source checks: [The Wizards movement and site-entry rules](https://meccg.com/rules/by-expansion/the-wizards/) and the [MECCG card database](https://www.councilofelrond.org/cards/). The Region cards confirm Redhorn Gate–Hollin–Rhudaur–High Pass and High Pass–Rhudaur–Arthedain–Númeriador. Verify the same adjacency on your physical Region cards before play.
 
 ## Solo Hazard decision worksheet
