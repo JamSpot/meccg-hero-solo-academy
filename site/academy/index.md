@@ -6,7 +6,9 @@ permalink: /academy/
 
 # Lesson 1 — Start Here and Set Up
 
-**Goal:** prepare the table so you can begin the first expedition without hunting through your collection or mixing card zones.
+**Goal:** prepare the table so you can begin the first conventional Hero solo expedition without hunting through your collection or mixing card zones.
+
+> **Project boundary:** this is the conventional Hero-vs-Hazard solo format, not Arda. The 38-card Hero play deck and separate 30-card Hazard deck on this page are specific to this Academy's teaching setup. Do not use them as an Arda solo setup.
 
 Do these steps in order. Do not skip ahead to advanced deck tuning.
 
@@ -26,9 +28,9 @@ For the first lessons, keep the zones physically distinct even though you contro
 
 ## Step 2 — Know which card list this lesson uses
 
-The Academy's first-game baseline is the historical Dwarven Quest / Pallando Challenge Deck C teaching list, combined with an explicitly identified solitaire Hazard-draw procedure. It is a fixed teaching setup to learn the game loop; it is not the entire Arda card pool. The [solo rules page]({{ '/reference/solo-ruleset/' | relative_url }}) explains the distinction.
+The Academy's first-game baseline is the historical Dwarven Quest / Pallando Challenge Deck C teaching list, combined with an explicitly identified solitaire Hazard-draw procedure. It is a fixed teaching setup to learn the conventional Hero solo game loop.
 
-If your goal is to use the full Arda collection as a custom solo Hero/Hazard build, keep the Arda inventory open as a card-pool reference. Do not treat the pool itself as a ready-made shuffled deck: the first-game lists below tell you exactly which cards this particular lesson expects.
+This is not an Arda pool, and Arda rules or Arda solitaire variants are not used in this lesson. If you are looking for Arda format, leave this course and use the [separate Arda Master Database](https://jamspot.github.io/meccg-arda-master-database/).
 
 ## Step 3 — Build the Hero play deck first
 
@@ -52,7 +54,7 @@ Once the Hero list is assembled, build the Hazard deck from its own list. Keep t
 
 ## Step 6 — Read the Game 1 mission brief
 
-Your first objective is **Book of Mazarbul at Moria**. The first game teaches the expedition loop, not every rule in MECCG.
+Your first objective is **Book of Mazarbul at Moria**. The first game teaches the conventional Hero solo expedition loop, not every rule in MECCG.
 
 Read the mission, starting company and movement plan in the next lesson. Keep the official rules available for questions, but do not read the entire rulebook before starting.
 
