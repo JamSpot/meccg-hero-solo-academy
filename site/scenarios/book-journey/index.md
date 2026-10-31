@@ -26,7 +26,7 @@ If your real game ended differently, use the actual company size, wounds, taps, 
 
 The Book is worth **1 MP while in play**. Its card text allows it to be stored at a **Dwarf-hold for 5 MP**. The Academy's planned destination is **Blue Mountain Dwarf-hold**, in Númeriador.
 
-The Book has **2 corruption points**. Storage is not automatic: the bearer must make the required corruption check. If the check succeeds, the Book is placed in your marshalling-point pile for its stored value. Do not add 1 MP and 5 MP together.
+The Book has **2 corruption points**. Storage is not automatic: the bearer must make the required corruption check. If the check succeeds, the Book is placed in your marshalling-point pile for its stored value. Do not add 1 MP and 5 MP together. The bearer choice matters: **Dori, Kíli and Óin each receive -1 to all of their corruption checks**. That can make one of them a better bearer than Thorin or Glóin, but weigh the modifier against who is most likely to be exposed to attacks. Add together all corruption points on the chosen bearer when checking the risk.
 
 The Book's Sage-only hand-size ability is not part of this starting-company plan: none of the five starting Dwarves is a Sage.
 
@@ -82,7 +82,7 @@ Check the actual card text, but the Challenge Deck C list gives several route-re
 | **Watcher in the Water** | Its double-Wilderness key is satisfied. Its special permission to be played at Moria is **not** the reason here: the new site is Goblin-gate. |
 | **Seized by Terror** | **Not legal via this route:** there is no Shadow-land or Dark-domain region in the path. Goblin-gate's Shadow-hold site type does not substitute for a Shadow-land region. |
 
-Events such as **Despair of the Heart**, **River**, **Full of Froth and Rage** and **Wake of War** have their own target, condition and timing checks. A route does not make an event automatically playable.
+**Despair of the Heart** is a particularly relevant corruption threat: it can be played on a non-Wizard, non-Hobbit character, gives that character 2 corruption points, and causes a corruption check each time a character in that character's company becomes wounded. The Dwarves are eligible targets. **River** is a site-targeting short-event: if the company that moved to the site this turn does not tap a Ranger, it must do nothing during its Site Phase. The company may tap a Ranger by the beginning of the Site Phase to avoid that restriction; Óin is the starting company's Ranger. River counts against the Hazard Limit. **Full of Froth and Rage** and **Wake of War** have their own timing and attack-type effects. A route does not make an event automatically playable.
 
 ### Decide whether to enter Goblin-gate
 
@@ -124,7 +124,7 @@ Blue Mountain Dwarf-hold is a **Free-hold** by site type, but its name identifie
 | **Lesser Spiders, Wargs and Neeker-breekers** | The path contains Wilderness; check the exact card key and target. |
 | **Watcher in the Water** | Its double-Wilderness key is satisfied; the Moria-only site permission is not relevant at Blue Mountain. |
 | **Seized by Terror** | **Not legal via this route:** all four regions are Wilderness, not Shadow-land or Dark-domain. |
-| **River** | Check its site target and timing. It can deny Site Phase actions on the arrival turn; it does not rewrite the next turn's Organization Phase storage action. |
+| **River** | Playable on the destination site. Unless the company taps a Ranger by the beginning of its Site Phase, it must do nothing during that Site Phase. Óin can pay this cost if he is able to tap. The card does not rewrite the next turn's Organization Phase storage action. |
 
 Blue Mountain has no automatic attack, but that does not make the journey safe: the company still faces the four-card solo Hazard draw on arrival.
 
