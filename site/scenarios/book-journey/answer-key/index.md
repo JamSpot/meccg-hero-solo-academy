@@ -168,7 +168,7 @@ Do not use Starter Movement directly from Moria to Rivendell: Moria's nearest Ha
 
 - [Council of Elrond Official Game Rules](https://www.councilofelrond.org/rules/) — movement, site paths, Hazard Limits, Untap Phase, Organization Phase and site entry.
 - [Collected Rules File 22](https://meccg.com/rules/collected-rulings-and-errata-crf/crf-22/) — current card errata, including River's Ranger-tap option.
-- [The Wizards rules — official Solitaire Rules](https://meccg.com/rules/by-expansion/the-wizards/) — separate Hazard deck, five-card hand, solo draw formula and most-disadvantageous legal plays.
+- [The Wizards rules](https://meccg.com/rules/by-expansion/the-wizards/) — solo procedure, movement and site entry, strike sequence, and the one-strike-per-character exception.
 - [Challenge Deck C Player's Guide](https://assets.cardgamegeek.com/public/library/meccg/Challenge_Decks_PG.pdf) — historical deck list and suggested resource sites.
 - [MECCG Full Spoiler List](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf) — site details and Region adjacency.
 - [Council of Elrond Official Card Database](https://www.councilofelrond.org/cards/) — current card wording and errata.
