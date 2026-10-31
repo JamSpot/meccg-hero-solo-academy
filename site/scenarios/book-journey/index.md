@@ -40,7 +40,7 @@ Your next turn begins with the Untap Phase. Then, during the Organization Phase,
 
 1. Move to Blue Mountain Dwarf-hold.
 2. Complete that turn's Movement/Hazard and Site Phases.
-3. At the start of the next turn, while the company is still at Blue Mountain, attempt to store the Book during the Organization Phase.
+3. At the start of the next turn, while the company is still at Blue Mountain, attempt to store the Book during the Organization Phase. You do **not** need to enter Blue Mountain during the arrival-turn Site Phase solely to store the Book later; storage is separate from Site Phase entry.
 4. Resolve the bearer's corruption check. If successful, put the Book in your marshalling-point pile for 5 MP.
 5. You may still plan the company's next movement during that Organization Phase.
 
