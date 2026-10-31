@@ -80,8 +80,8 @@ The declared path is four Wilderness regions and includes the named regions Redh
 | **Seized by Terror** | Illegal | The path contains no Shadow-land or Dark-domain region. A Shadow-hold site symbol is not a Shadow-land region symbol. |
 | **Full of Froth and Rage** | Conditional candidate | It needs a Spider or Animal attack whose prowess it can modify. Check timing and whether it is already duplicated. |
 | **Wake of War** | Conditional candidate | It can affect Wolf, Spider and Animal attacks. Check timing, duration and whether it is already in play. |
-| **Despair of the Heart** | Candidate if target conditions are met | A starting Dwarf is not a Hobbit, Wizard or Ringwraith, but choose a legal target and account for the two corruption points and later checks. |
-| **River** | Candidate if its site target and timing are met | It can deny Site Phase actions on the arrival turn. Its effect is not a general prohibition on next turn's Organization Phase storage. |
+| **Despair of the Heart** | Candidate | Any starting Dwarf is a non-Wizard, non-Hobbit target. It adds 2 corruption points and makes the target check whenever a character in his company becomes wounded. This can make a later wound trigger a dangerous check on the Book bearer. |
+| **River** | Candidate if played on the destination site | If the company does not tap a Ranger by the beginning of the Site Phase, it must do nothing during that Site Phase. The Hero may tap Óin, the starting Ranger, to avoid this. River does not prohibit the next turn's Organization Phase storage. |
 | **Twilight** | Only if it has a legal Environment target | It is not a generic extra attack. It does not count against the Hazard Limit, but needs an Environment card to cancel. |
 
 “Candidate” means check the printed text and current state; it does not mean the card is automatically playable in every hand.
@@ -95,7 +95,7 @@ The path is **High Pass → Rhudaur → Arthedain → Númeriador**. All four re
 - Lesser Spiders, Wargs and Neeker-breekers can use their Wilderness keys.
 - Watcher in the Water can use double Wilderness; its Moria-specific site permission is irrelevant here.
 - Seized by Terror remains illegal because the path has no Shadow-land or Dark-domain region.
-- River can deny Site Phase actions on the arrival turn if its target and timing requirements are met. It does not cancel a later Organization Phase storage attempt.
+- River's current erratum lets the Hero tap a Ranger by the beginning of the Site Phase; the starting company has Óin. If Óin is available, the Hazard play costs the Hero a tap rather than automatically denying the site phase. If the company was already going to skip the site phase, River may add little practical pressure. It does not cancel a later Organization Phase storage attempt.
 
 Blue Mountain Dwarf-hold is a Free-hold by site type, but the site is named as a Dwarf-hold and is the location specified by the Book's storage condition. The Hero site has no automatic attack. The lack of an automatic attack does not cancel the four-card Hazard draw.
 
