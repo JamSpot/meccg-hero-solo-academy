@@ -66,7 +66,7 @@ You may choose **not** to enter Goblin-gate. If you do, the company avoids the s
 
 Blue Mountain Dwarf-hold's nearest Haven is Grey Havens, but that nearest-Haven relationship does not restrict a legal Region Movement route. The site's printed type symbol is Free-hold [{F}], while its name identifies it as a Dwarf-hold. Book of Mazarbul's text allows storage at a Dwarf-hold, so this site qualifies.
 
-During the Organization Phase while the company is at Blue Mountain Dwarf-hold, store the Book after its bearer makes the required corruption check. The Book's two corruption points make that check important. A successful storage scores the **5 MP storage value**, replacing its one-point in-play value.
+**Timing correction for the table:** arriving at Blue Mountain happens during the Movement/Hazard Phase, after that turn's Organization Phase has already passed. You cannot store the Book on the arrival turn. At the **next turn's Organization Phase**, while the company is still at Blue Mountain Dwarf-hold, the bearer makes the required corruption check to store it. The Book's two corruption points make that check important. If the check succeeds, it goes to the marshalling-point pile for its **5 MP storage value**, replacing its one-point in-play value. You may still declare the company's next movement during that same Organization Phase after resolving the storage action.
 
 ### Which route should you choose?
 
@@ -92,3 +92,5 @@ Before acquiring the Book, the mission was **ACQUIRE**. After acquisition, reass
 The objective changing does not make the next destination automatically legal. **Re-plan from the company's actual current site**, count every region, and compare the whole expedition before moving.
 
 See also [Free / Player-Directed Movement]({{ '/reference/free-movement/' | relative_url }}) and the [Route Atlas]({{ '/routes/' | relative_url }}).
+
+Practise the full second-leg decision, including route-specific Hazard legality and the exact storage timing, in the [Book of Mazarbul — Second Expedition workbook]({{ '/scenarios/book-journey/' | relative_url }}) and its [model answer]({{ '/scenarios/book-journey/answer-key/' | relative_url }}).
