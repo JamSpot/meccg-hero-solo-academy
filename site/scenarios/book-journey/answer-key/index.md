@@ -132,6 +132,8 @@ A strong line to evaluate is:
 4. Wargs.
 5. Watcher in the Water.
 
+Apply the effects carefully: Full of Froth and Rage gives +2 prowess to Spider and Animal attacks. Wake of War gives +1 strike and +1 prowess to Wolf, Spider and Animal attacks, but its extra strike does **not** change Watcher in the Water's instruction that each character faces one strike. Its +1 prowess still applies. The same one-strike-per-character exception matters for Neeker-breekers.
+
 This is a **model combination to test**, not a universal script. Cave Worm remains a legal alternative: compare its single high-prowess strike against the extra strike volume and modified prowess of the other creatures. Choose the most disadvantageous legal combination for the actual company.
 
 Order matters. Full of Froth and Rage is discarded if a Spider or Animal attack is defeated. After each attack, check whether it remains in play before resolving the next one. Wake of War has a separate duration and effect. Do not assume the first sequence you think of is always the strongest.
