@@ -178,6 +178,7 @@ Record your decision, then open the [model answer and reasoning →]({{ '/scenar
 | Company size before Leg 2 | |
 | Leg 2 Hazard draw / base limit | |
 | Company condition at Blue Mountain | |
+| Book bearer / total CP / check modifier | |
 | Book storage corruption check | |
 | Book stored successfully? | |
 | Next objective | |
