@@ -171,6 +171,24 @@ The lesson is important: **route choice is also Hazard-deck choice**. Rhudaur �
 
 Practise this distinction with the [Site-Keying Workshop]({{ '/scenarios/site-keying-workshop/' | relative_url }}) before attempting the full [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}). See the [official rules]({{ '/reference/solo-ruleset/' | relative_url }}) and [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf).
 
+## Second expedition: the two non-Haven legs
+
+The [Book of Mazarbul — Second Expedition workbook]({{ '/scenarios/book-journey/' | relative_url }}) adds a route audit for the journey from Moria through Goblin-gate to Blue Mountain Dwarf-hold.
+
+| Leg | Declared Region Movement path | Normal Hazard draw | Solo draw | Main route keys to check |
+|---|---|---:|---:|---|
+| Moria → Goblin-gate | Redhorn Gate → Hollin → Rhudaur → High Pass | 2 | **6** | Cave Worm can use High Pass or Redhorn Gate; double-Wilderness and Wilderness creatures can use the four Wilderness regions. |
+| Goblin-gate → Blue Mountain Dwarf-hold | High Pass → Rhudaur → Arthedain → Númeriador | 1 | **4** | Cave Worm can use High Pass or Númeriador; double-Wilderness and Wilderness creatures can use the four Wilderness regions. |
+
+**Important legality distinctions:**
+
+- **Seized by Terror** is not keyed by a Shadow-hold site. Its Shadow-land/Dark-domain region requirement is not met on either all-Wilderness route.
+- **Watcher in the Water** can be considered through its double-Wilderness key on these legs. Its special permission to be played at Moria is not the reason when the destination is Goblin-gate or Blue Mountain.
+- **Goblin-gate's Orc automatic attack** (three strikes at 6 prowess) is a separate site encounter. It happens only if the company enters; it is not one of the six drawn Hazards or one of the five Hazard Limit slots.
+- **Blue Mountain Dwarf-hold** is a Free-hold by site type but is the named Dwarf-hold required by Book of Mazarbul. Its Hero site card has no automatic attack, but the company still faces the four-card solo Hazard draw on arrival.
+
+The figures assume the normal Challenge Deck C site cards and a five-character company with no relevant modifiers. Recalculate the Hazard Limit if the company changes. The workbook and separate [model answer]({{ '/scenarios/book-journey/answer-key/' | relative_url }}) give the card-by-card exercise.
+
 ## Physical construction
 
 1. Find the 30 listed Hazard cards and check each quantity.
