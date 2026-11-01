@@ -189,7 +189,7 @@ Helpers tapped during the Organization Phase remain tapped when the company move
 
 There is no universal answer. Use the actual Hazard discard, company condition, route and mission urgency.
 
-## 9.5 Final decision checklist
+## 10. Final decision checklist
 
 - [ ] The Book is actually in play and its bearer is identified.
 - [ ] The company condition is recorded before choosing a route.
