@@ -24,6 +24,19 @@ The direct westward sequence is:
 
 That is five regions, including origin and destination. Normal Region Movement allows no more than four consecutive regions, so this is not a legal single movement without a specific effect that changes the limit.
 
+## The storage check is part of the route plan
+
+Reaching Blue Mountain is not the end of the decision. The Book is stored during the **next Organization Phase**, while the company is still at the Dwarf-hold. It is not necessary to enter the site during the arrival turn solely to make that later Organization Phase action.
+
+For a default Kíli bearer:
+
+- Book of Mazarbul contributes 2 CP.
+- Kíli's printed corruption-check modifier is -1.
+- Each other untapped character in the same company may be tapped before the check to add +1.
+- With two helpers and no other corruption points or modifiers, the lowest possible modified roll is 3, which is greater than 2 CP: the check is guaranteed to succeed.
+
+That guarantee has a price if you also move that turn: the helpers remain tapped and face strikes at -1 prowess. If Despair of the Heart remains on Kíli, his total becomes 4 CP and the two-helper guarantee no longer applies. Use the [Second Expedition workbook]({{ '/scenarios/book-journey/' | relative_url }}) for the full calculation and decision.
+
 ## A two-leg teaching example
 
 One clear, verifiable route is:
