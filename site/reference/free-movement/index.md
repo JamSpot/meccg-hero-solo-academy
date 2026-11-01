@@ -249,6 +249,24 @@ Therefore:
 
 Do not confuse **not needing a Haven stop** with **using Great-road**. The former comes from legal Region Movement; the latter is a specific card with a substantial Hazard-side drawback.
 
+## Storage checks affect the next movement
+
+The Book of Mazarbul follow-up expedition shows why movement planning does not stop when a company reaches a site.
+
+When the company reaches Blue Mountain Dwarf-hold, it has arrived at the site whether or not it chooses to enter during that turn's Site Phase. Book storage is an **Organization Phase** action: the earliest normal opportunity is the next turn's Organization Phase, while the company is still at the Dwarf-hold. The site-entry decision and the later storage action are separate.
+
+Before declaring the next movement, calculate the bearer’s corruption check:
+
+- Count every corruption point on cards the bearer controls.
+- Apply the bearer’s printed corruption-check modifier.
+- Decide how many other untapped characters in the same company to tap for +1 each.
+- Remember that those helpers remain tapped if the company moves that turn and therefore face strikes at -1 prowess.
+- Compare the cost of moving immediately with the option of delaying movement or taking a different recovery plan.
+
+For Kíli carrying only the Book (2 CP, -1 modifier), two supporting characters guarantee the check. If Despair of the Heart remains on him, the total is 4 CP and the calculation changes. See the [Book of Mazarbul Second Expedition workbook]({{ '/scenarios/book-journey/' | relative_url }}) for the worked table.
+
+This is a useful example of the difference between **movement legality** and **expedition quality**: a route may be legal, but the company may be in a poor condition to take it after paying for a corruption check.
+
 ## 10. The four-part route declaration
 
 Before moving, say:
