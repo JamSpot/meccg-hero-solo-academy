@@ -151,7 +151,45 @@ At Rivendell, during the Untap Phase, each tapped character may untap or each wo
 
 Do not use Starter Movement directly from Moria to Rivendell: Moria's nearest Haven is Lórien. The example uses Region Movement.
 
-## 9. Final decision checklist
+## 9. Storage corruption check — model calculation
+
+Book of Mazarbul gives its bearer **2 corruption points**. Dori, Kíli and Óin each have a printed **-1 corruption-check modifier**. Kíli is a strong default bearer for this starting company because his body is 8 and he is a Scout, while Óin remains available as the Ranger.
+
+Assume Kíli carries only the Book and has no other corruption modifiers. The corruption-check formula is:
+
+**2D6 + Kíli's modifier (-1) + support from each other character tapped (+1 each)**
+
+| Helpers tapped | Net modifier | Modified result on a natural 2 | Result against 2 CP |
+|---:|---:|---:|---|
+| 0 | -1 | 1 | Fail: one below the CP total; Kíli is discarded. |
+| 1 | 0 | 2 | Fail: equal to the CP total; Kíli is discarded. |
+| 2 | +1 | 3 | Success: even the lowest roll is greater than 2 CP. |
+
+Thus, **two helpers guarantee success only under the stated assumption** that the Book is Kíli's sole corruption-point card and there are no other modifiers. If he has any other corruption points, recalculate.
+
+### If Despair of the Heart remains on Kíli
+
+Despair adds another 2 CP, taking him to **4 CP**. It also makes him check whenever a character in his company becomes wounded. The card can be removed during his Organization Phase by tapping Kíli and rolling greater than 4; if it remains, use 4 CP for the storage calculation.
+
+| Helpers tapped | Net modifier on Kíli | Lowest modified roll | Failure risk against 4 CP |
+|---:|---:|---:|---|
+| 0 | -1 | 1 | Natural 2–5 fail (10/36). |
+| 1 | 0 | 2 | Natural 2–4 fail (6/36). |
+| 2 | +1 | 3 | Natural 2–3 fail (3/36). |
+| 3 | +2 | 4 | Natural 2 fails (1/36). |
+| 4 | +3 | 5 | Guaranteed success. |
+
+### The tactical trade-off
+
+Helpers tapped during the Organization Phase remain tapped when the company moves that turn. A tapped character has -1 prowess when facing a strike. So the Hero player must choose between:
+
+- tapping enough helpers to protect the Book bearer from corruption;
+- moving immediately with a less combat-ready company; or
+- delaying movement so the storage check can be completed without immediately exposing the tapped helpers to a new journey.
+
+There is no universal answer. Use the actual Hazard discard, company condition, route and mission urgency.
+
+## 9.5 Final decision checklist
 
 - [ ] The Book is actually in play and its bearer is identified.
 - [ ] The company condition is recorded before choosing a route.
