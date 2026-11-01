@@ -146,6 +146,28 @@ When you switch to the Hazard side, use the same declared site path and ask:
 
 For this Academy's solo draw procedure, draw **two plus twice the normal Hazard draw number for the relevant site**. First apply the normal movement rule to determine which site's draw number applies: a move to a non-Haven uses the new site, while a move to a Haven normally uses the site of origin. Undrawn or unplayed cards are not extra plays; follow the selected solo rules for discarding and reshuffling. The procedure is a labelled solitaire variant, not the standard multiplayer draw rule. Compare [My Solo Rules](https://meccg.wordpress.com/my-solo-rules/) with the [official MECCG rules](https://www.councilofelrond.org/rules/) rather than blending their procedures silently.
 
+## Worked decision — store the Book, then move or wait?
+
+At Blue Mountain Dwarf-hold, the company can attempt to store Book of Mazarbul during the Organization Phase before deciding its next movement.
+
+Record:
+
+| Storage decision | Your entry |
+|---|---|
+| Book bearer | |
+| Bearer's total corruption points | |
+| Printed corruption-check modifier | |
+| Other corruption-check modifiers | |
+| Number of untapped helpers available | |
+| Helpers you will tap for +1 each | |
+| Modified result needed to succeed | |
+| Does the company move this turn? | |
+| What is the cost of having helpers tapped during the next Hazard phase? | |
+
+For a Kíli bearer with only the Book's 2 CP and no other modifiers, two helpers make the check automatic. But if the company moves immediately, those two characters are tapped and have -1 prowess against strikes. A legal route is not automatically the best immediate decision.
+
+If Despair of the Heart remains on Kíli, add its 2 CP. Do not use the 2-CP answer table without recalculating.
+
 ## Five quick drills
 
 Write your answer before consulting the [Route Lab model answers]({{ '/scenarios/route-lab/answer-key/' | relative_url }}).
