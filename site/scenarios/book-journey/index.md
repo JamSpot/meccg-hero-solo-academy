@@ -152,6 +152,27 @@ Moria lists Lórien as its nearest Haven, so do **not** use direct Starter Movem
 
 These are draws, not guaranteed plays. On each leg, apply the actual Hazard Limit, route keying, card text and company state. A five-character company normally has a base limit of five, but if a character is lost on the first leg, recalculate for the second.
 
+## Mini-lab — calculate the Book storage check
+
+Assume the company has reached Blue Mountain Dwarf-hold and Kíli bears Book of Mazarbul. For this first calculation, Kíli has **only** the Book's 2 corruption points, his printed -1 modifier, and no other check modifiers.
+
+1. With no helpers, which natural 2D6 results make Kíli fail?
+2. What changes if one other untapped Dwarf is tapped to support the check?
+3. How many helpers are needed to guarantee success?
+4. What happens to those helpers if you declare movement later in the same Organization Phase?
+5. Now suppose Despair of the Heart remains on Kíli. What is his new corruption-point total, and is the two-helper guarantee still valid?
+6. Should you tap the helpers and move immediately, or delay movement? Explain the tactical cost rather than choosing automatically.
+
+Use the table:
+
+| Helpers tapped | Check modifier on Kíli | Lowest modified roll | Failure risk |
+|---:|---:|---:|---|
+| 0 | -1 | 1 | |
+| 1 | 0 | 2 | |
+| 2 | +1 | 3 | |
+
+The table assumes Kíli has only the Book's 2 CP. Recalculate if he controls any other card that gives corruption points.
+
 ## Your task — decide before opening the answer key
 
 1. Which route would you choose if the company arrives at Moria with one wounded Dwarf and two tapped Dwarves?
