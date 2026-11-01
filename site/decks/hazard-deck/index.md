@@ -69,6 +69,16 @@ The list is a mixture of creatures, ongoing attack support and disruption. Read 
 | **Wake of War** | Long-event: each Wolf, Spider and Animal attack gets +1 strike and +1 prowess. Wolf attacks get +2 of each if Doors of Night is in play. | The fixed 30-card Challenge Deck C list has no Doors of Night, so its Wargs normally receive +1 strike and +1 prowess, not +2. Attacks worded as one strike per character are not given extra strikes by a strike-count modifier, although their prowess can still be modified. |
 | **Twilight** | Cancels one Environment card in play or declared earlier in the same chain. It may be played at any point during either player's turn and does not count against the Hazard Limit; it may also be played as a Resource. | It needs an Environment target when used as a Hazard. It is not a generic extra attack and does not use one of the five ordinary slots. |
 
+### Despair of the Heart: pressure on the Book bearer
+
+Despair of the Heart is not merely a one-off two-point penalty. It is a **Corruption** permanent-event. It can be played on a non-Hobbit, non-Wizard, non-Ringwraith character; the target receives 2 corruption points and makes a corruption check each time a character in his company becomes wounded. It cannot be duplicated on the same character. During his Organization Phase, the target may tap to try to remove it with a roll greater than 4.
+
+For the Dwarven Quest company, all five starting Dwarves are eligible. If Kíli carries Book of Mazarbul, targeting him can turn every wound suffered by anyone in the company into a corruption-check trigger for the Book bearer. That can threaten the Book and the bearer at the same time.
+
+**Hazard-player rule:** choose the target whose corruption burden and company role create the greatest real pressure. The Book bearer is often the strongest target once the Book is in play, but check the actual bearer, current corruption points, existing corruption cards, and whether the target can remove the card. Only one corruption card may be played on a given character per turn.
+
+**Hero-player response:** when the target gets an Organization Phase, decide whether to tap him to attempt removal before relying on the Book-storage check. If the card remains, include its 2 CP in the total and recalculate any support needed. Tapping the target to attempt removal is not the same as tapping other characters to support a corruption check.
+
 ### Route audit — Moria and Goblin-gate are not the same test
 
 | Journey | Normal Hazard draw | Solo draw | Base Hazard Limit | Site automatic attack |
