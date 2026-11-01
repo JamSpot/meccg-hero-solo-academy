@@ -140,6 +140,28 @@ This creates two distinct objectives:
 
 The second objective is a new expedition, not an automatic continuation of the first. The direct Moria-to-Blue-Mountain route contains five regions, so it cannot be completed in one turn under the normal four-region limit. You do **not** have to use a Haven as the intermediate stop: the fixed 15-site deck contains Goblin-gate, allowing a two-leg non-Haven route (Moria → Goblin-gate → Blue Mountain Dwarf-hold).
 
+## Book bearer: plan the storage corruption check
+
+The Book has **2 corruption points**. The starting characters Dori, Kíli and Óin each have a **-1 corruption-check modifier**. Kíli is a strong default bearer because he has body 8 and Scout skill, while leaving Óin available as the company's Ranger. The bearer is a strategic choice, not a fixed rule.
+
+You can improve the storage check by tapping other **untapped characters in the same company** before the roll. Each helper gives the bearer +1 to that check. The bearer does not tap merely to make the storage check.
+
+### Kíli carrying only the Book: what support changes
+
+Assume Kíli has only the Book's 2 corruption points, his printed -1 modifier, and no other check modifiers.
+
+| Other characters tapped to support | Final check modifier | Lowest possible modified 2D6 result | Outcome |
+|---:|---:|---:|---|
+| 0 | -1 | 1 | Fails on natural rolls of 2 or 3 (3/36). |
+| 1 | 0 | 2 | Fails only on a natural roll of 2 (1/36). |
+| 2 | +1 | 3 | Guaranteed success against 2 CP. |
+
+A corruption check succeeds only when the modified roll is **greater than** the character's total corruption points. A result equal to the total or one below causes a Hero character to be discarded; a result two or more below eliminates the character. Always include every corruption point on cards the bearer controls, not just the Book.
+
+**The tactical price:** helpers tapped during the Organization Phase remain tapped when the company moves that turn. A tapped character has -1 prowess when facing a strike, so tapping everyone for a guaranteed check can make the next Hazard phase more dangerous. Decide whether to use one helper, two helpers, more, or postpone movement. If Despair of the Heart is still on Kíli, add its 2 corruption points before calculating; first consider whether he can attempt to remove it during this Organization Phase.
+
+Official basis: [Council of Elrond rules — corruption checks and support](https://www.councilofelrond.org/rules/) and the [official card database](https://www.councilofelrond.org/cards/).
+
 ## Item power has a corruption cost
 
 The Hero deck's best weapons and armour can make the Dwarves much safer, but their corruption points accumulate on the bearer. Do not choose an item by marshalling points alone.
