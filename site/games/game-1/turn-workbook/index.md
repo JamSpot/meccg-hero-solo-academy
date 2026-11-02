@@ -6,7 +6,7 @@ permalink: /games/game-1/turn-workbook/
 
 # Game 1 Turn Workbook — Hero and Hazard Decisions
 
-Use this beside the physical cards. It joins the complete Hero play deck (30 Resources plus eight character/Wizard cards), the separate Training Hazard deck, Region Movement, and the decision to enter, continue or recover.
+Use this beside the physical cards. It joins the complete 36-card Hero play deck (30 Resources plus six character/Wizard cards), the separate Training Hazard deck, Region Movement, and the decision to enter, continue or recover.
 
 This Academy uses a labelled teaching hybrid: historical Dwarven Quest / Pallando Challenge Deck C lists, adapted for the Gandalf-led Academy, normal MECCG rules for movement and card play, and a separately identified solo Hazard-draw procedure. The original Challenge Deck was not designed specifically for this solitaire procedure. Printed card text and official rules take precedence.
 
