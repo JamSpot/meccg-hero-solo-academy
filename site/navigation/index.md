@@ -17,7 +17,7 @@ Use the visible header menu on every page to switch sections. This map also link
 
 ## Build and check the decks
 - [Decks overview]({{ '/decks/' | relative_url }})
-- [Hero Deck Construction]({{ '/decks/hero-deck/' | relative_url }})\n- [Pallando and the Support Company]({{ '/decks/pallando-support-company/' | relative_url }})
+- [Hero Deck Construction]({{ '/decks/hero-deck/' | relative_url }})\n- [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }})
 - [Hazard Deck Construction]({{ '/decks/hazard-deck/' | relative_url }})
 - [Hazard Combination Lab — research draft]({{ '/decks/hazard-combos/' | relative_url }})
 - [Sideboard guide]({{ '/decks/sideboard/' | relative_url }})
@@ -30,7 +30,7 @@ Use the visible header menu on every page to switch sections. This map also link
 - [Route Atlas]({{ '/routes/' | relative_url }})
 - [Expedition Planner]({{ '/routes/expedition-planner/' | relative_url }})
 - [Rivendell → Moria]({{ '/routes/rivendell-moria/' | relative_url }})
-- [Moria → Blue Mountain Dwarf-hold]({{ '/routes/moria-blue-mountain/' | relative_url }})\n- [Pallando's Grey Havens → Lórien route and company plan]({{ '/decks/pallando-support-company/' | relative_url }})
+- [Moria → Blue Mountain Dwarf-hold]({{ '/routes/moria-blue-mountain/' | relative_url }})\n- [Gandalf's Grey Havens → Lórien route and company plan]({{ '/decks/gandalf-support-company/' | relative_url }})
 - [Solo rules used by this Academy]({{ '/reference/solo-ruleset/' | relative_url }})
 - [Captain's Commandments]({{ '/reference/captains-commandments/' | relative_url }})
 - [Expedition checklist]({{ '/reference/expedition-checklist/' | relative_url }})
@@ -42,7 +42,7 @@ Use the visible header menu on every page to switch sections. This map also link
 - [First Session Practice Workbook]({{ '/scenarios/first-session/' | relative_url }})
 - [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practice/' | relative_url }})
 - [Hero Resource Timing Workshop — model answers]({{ '/scenarios/hero-resource-practice/answer-key/' | relative_url }})
-- [Pallando — One Company or Two?]({{ '/scenarios/pallando-company/' | relative_url }})\n- [Pallando — One Company or Two? model answer]({{ '/scenarios/pallando-company/answer-key/' | relative_url }})\n- [Book of Mazarbul — Second Expedition workbook]({{ '/scenarios/book-journey/' | relative_url }})
+- [Gandalf — One Company or Two?]({{ '/scenarios/gandalf-company/' | relative_url }})\n- [Gandalf — One Company or Two? model answer]({{ '/scenarios/gandalf-company/answer-key/' | relative_url }})\n- [Book of Mazarbul — Second Expedition workbook]({{ '/scenarios/book-journey/' | relative_url }})
 - [Book of Mazarbul — Second Expedition model answer]({{ '/scenarios/book-journey/answer-key/' | relative_url }})
 - [First Session answer key]({{ '/scenarios/first-session/answer-key/' | relative_url }})
 - [Route Lab workbook]({{ '/scenarios/route-lab/' | relative_url }})
