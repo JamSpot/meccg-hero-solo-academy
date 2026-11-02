@@ -9,7 +9,7 @@ Start with the [First Session Practice Workbook]({{ '/scenarios/first-session/' 
 
 After your first game and the movement lesson, complete the [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practice/' | relative_url }}) and its separate [model answer]({{ '/scenarios/hero-resource-practice/answer-key/' | relative_url }}). It checks which starting Dwarf can use each Resource, the real limitations of Not at Home and Marvels Told, the extra Hazard slot created by Hundreds of Butterflies, and a two-leg non-Haven route to store Book of Mazarbul.
 
-After you understand the first expedition, complete [Pallando — One Company or Two?]({{ '/scenarios/pallando-company/' | relative_url }}) and its [model answer]({{ '/scenarios/pallando-company/answer-key/' | relative_url }}). It compares Pallando joining the Dwarves with a separate Grey Havens → Lórien support company, including the separate solo Hazard draws and limits.
+After you understand the first expedition, complete [Gandalf — One Company or Two?]({{ '/scenarios/gandalf-company/' | relative_url }}) and its [model answer]({{ '/scenarios/gandalf-company/answer-key/' | relative_url }}). It compares Gandalf joining the Dwarves with a separate Grey Havens → Lórien support company, including the separate solo Hazard draws and limits.
 
 After completing the first Moria expedition, use the [Book of Mazarbul — Second Expedition workbook]({{ '/scenarios/book-journey/' | relative_url }}) and its separate [model answer]({{ '/scenarios/book-journey/answer-key/' | relative_url }}). It connects the Hero mission, both non-Haven route legs, route-specific Hazard legality, Goblin-gate's optional site attack, the Haven alternative, and the correct timing for storing the Book at Blue Mountain.
 
