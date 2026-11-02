@@ -131,11 +131,11 @@ The current card database gives Book of Mazarbul these important facts:
 - **Storage timing and risk:** during the Organization Phase while the company is at a qualifying Dwarf-hold, the bearer makes the normal corruption check required for storing an item. The Book has two corruption points, so this is a real risk. If the check succeeds, it goes into the marshalling-point pile for **5 MP instead of its 1 MP in-play value**; do not add the values together. Because arrival happens during the Movement/Hazard Phase, the Organization Phase has already passed: store it at the **next turn's Organization Phase**, not during the arrival-turn Site Phase. You may still declare the next movement during that same Organization Phase after resolving storage.
 - If its bearer is a **Sage**, you may tap it during your Organization Phase to increase your hand size by one until your next Untap Phase.
 
-For the later storage check, bearer selection is worth planning: **Dori, Kíli and Óin each receive -1 to all of their corruption checks**. For this five-Dwarf start, **Kíli is a strong default bearer**: he has 3/8 prowess/body, the -1 corruption-check modifier and the Scout skill, while leaving Óin free as the company's only Ranger. Dori has the same check modifier but a lower body of 6; Óin is also 3/8 but his Ranger skill is valuable for responding to River. This is a recommendation, not a rule: use the bearer actually chosen in your game and calculate all corruption points on him, not just the Book's two points.
+For the later storage check, **a positive modifier helps and a negative modifier hurts**: corruption-check modifiers are added to the 2D6 roll. Dori, Kíli and Óin each receive **-1**, which is a penalty. Thorin II and Glóin have no printed corruption-check modifier. Gandalf has **+1**, which is a bonus. If Gandalf is in the company, he is the safest default Book bearer: with only the Book's 2 CP, his lowest possible modified roll is 3, already greater than 2. He is also a Sage, so he can use the Book's Sage-only hand-size ability. If Gandalf is not in the company, consider Thorin II or Glóin rather than choosing Kíli simply for his Scout skill. This is a recommendation, not a rule: calculate the actual bearer’s total corruption points and all check modifiers.
 
 The starting company also has **Óin as its Ranger**. If the Hazard player uses River on a site the company has moved to, the current erratum lets the company tap a Ranger by the beginning of the Site Phase to avoid doing nothing during that phase. If Óin is already tapped or otherwise unable to tap, the company may lose its Site Phase options. This is a real reason to track his condition.
 
-The five starting Dwarves in this teaching company have Warrior, Scout, Ranger and Diplomat skills, but **none is a Sage**. Do not plan on using the Book's hand-size ability during Game 1. That ability becomes relevant only if a Sage later bears the Book and you can legally use its effect.
+The five starting Dwarves in this teaching company have Warrior, Scout, Ranger and Diplomat skills, but **none is a Sage**. The Book's hand-size ability is not available while one of these Dwarves bears it. Gandalf is a Sage: if he later bears the Book, he may tap the Book during the Organization Phase to increase the Hero hand size by one until the next Untap Phase. This is the Book's ability, not a hand-size ability on Gandalf's Wizard card.
 
 This creates two distinct objectives:
 
@@ -146,13 +146,13 @@ The second objective is a new expedition, not an automatic continuation of the f
 
 ## Book bearer: plan the storage corruption check
 
-The Book has **2 corruption points**. The starting characters Dori, Kíli and Óin each have a **-1 corruption-check modifier**. Kíli is a strong default bearer because he has body 8 and Scout skill, while leaving Óin available as the company's Ranger. The bearer is a strategic choice, not a fixed rule.
+The Book has **2 corruption points**. A corruption check is **2D6 plus the character's check modifiers and any support**; a positive modifier helps, while a negative modifier hurts. Gandalf has +1 and is a Sage, making him the strongest default bearer when he is in the company. If Gandalf is absent, Thorin II and Glóin have no printed check modifier; Dori, Kíli and Óin each have -1. Kíli's Scout skill is useful, but his -1 is a penalty, not a benefit. The bearer is a strategic choice, not a fixed rule.
 
 You can improve the storage check by tapping other **untapped characters in the same company** before the roll. Each helper gives the bearer +1 to that check. The bearer does not tap merely to make the storage check.
 
-### Kíli carrying only the Book: what support changes
+### Kíli carrying only the Book: a risk example
 
-Assume Kíli has only the Book's 2 corruption points, his printed -1 modifier, and no other check modifiers.
+This is a worked risk example, not the recommended bearer. Assume Kíli has only the Book's 2 corruption points, his printed -1 modifier, and no other check modifiers.
 
 | Other characters tapped to support | Final check modifier | Lowest possible modified 2D6 result | Outcome |
 |---:|---:|---:|---|
@@ -160,9 +160,9 @@ Assume Kíli has only the Book's 2 corruption points, his printed -1 modifier, a
 | 1 | 0 | 2 | Fails only on a natural roll of 2 (1/36). |
 | 2 | +1 | 3 | Guaranteed success against 2 CP. |
 
-A corruption check succeeds only when the modified roll is **greater than** the character's total corruption points. A result equal to the total or one below causes a Hero character to be discarded; a result two or more below eliminates the character. Always include every corruption point on cards the bearer controls, not just the Book.
+A corruption check succeeds only when the modified roll is **greater than** the character's total corruption points. A result equal to the total or one below causes a Hero character to be discarded; a result two or more below eliminates the character. Always include every corruption point on cards the bearer controls, not just the Book. A +1 modifier raises the roll and is helpful; a -1 modifier lowers it and is harmful.
 
-**The tactical price:** helpers tapped during the Organization Phase remain tapped when the company moves that turn. A tapped character has -1 prowess when facing a strike, so tapping everyone for a guaranteed check can make the next Hazard phase more dangerous. Decide whether to use one helper, two helpers, more, or postpone movement. If Despair of the Heart is still on Kíli, add its 2 corruption points before calculating; first consider whether he can attempt to remove it during this Organization Phase.
+**The tactical price:** helpers tapped during the Organization Phase remain tapped when the company moves that turn. A tapped character has -1 prowess when facing a strike, so tapping everyone for a guaranteed check can make the next Hazard phase more dangerous. Decide whether to use one helper, two helpers, more, or postpone movement. If Despair of the Heart is still on Kíli, add its 2 corruption points before calculating; first consider whether he can attempt to remove it during this Organization Phase. Despair of the Heart cannot be played on Gandalf because he is a Wizard.
 
 Official basis: [Council of Elrond rules — corruption checks and support](https://www.councilofelrond.org/rules/) and the [official card database](https://www.councilofelrond.org/cards/).
 
