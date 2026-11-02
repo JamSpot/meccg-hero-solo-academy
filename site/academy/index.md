@@ -16,7 +16,7 @@ Do these steps in order. Do not skip ahead to advanced deck tuning.
 
 Prepare these distinct areas:
 
-- **Hero play deck** — shuffle the 30 Hero Resources and eight additional character cards together: **38 cards total**, with no Hazards.
+- **Hero play deck** — shuffle the 30 Hero Resources and eight character/Wizard cards together: **38 cards total**, with no Hazards.
 - **Hazard deck** — the separate 30-card opposing deck.
 - **Location deck** — the 15 site cards, kept separate and not shuffled.
 - **Starting company/setup cards** — the five starting Dwarves and two Cram items.
@@ -57,6 +57,12 @@ Once the Hero list is assembled, build the Hazard deck from its own list. Keep t
 Your first objective is **Book of Mazarbul at Moria**. The first game teaches the conventional Hero solo expedition loop, not every rule in MECCG.
 
 Read the mission, starting company and movement plan in the next lesson. Keep the official rules available for questions, but do not read the entire rulebook before starting.
+
+## Pallando is not a starting Dwarf
+
+The five starting characters are Thorin II, Dori, Kíli, Glóin and Óin. Pallando is the Wizard avatar represented by the three Pallando cards in the Hero play deck. He must be drawn and played at his home site, Grey Havens, or at Rivendell if you do not already have a Wizard in play. Do not add him automatically to the starting company.
+
+After the first Moria expedition, use [Pallando and the Support Company]({{ '/decks/pallando-support-company/' | relative_url }}) to learn his published Challenge Deck C role and the extra solo Hazard phase created by a second company.
 
 ## Ready to continue?
 
