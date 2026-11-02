@@ -7,7 +7,7 @@ title: Hero Deck Construction
 
 ## The exact teaching card list
 
-For **Game 1 and the first Academy lessons**, use the historical **Dwarven Quest (Pallando) Challenge Deck C** as our verified teaching baseline. The 30-card table below is the **Resource portion**, not the whole shuffled Hero play deck. Under the published solitaire procedure, Hazards are kept in a separate deck; resources and character cards remain together in the Hero play deck. For the historical Challenge Deck C that means 36 cards. The active Academy adapts the character/Wizard portion for Gandalf: **36 Hero play-deck cards: 30 Resources + five non-Wizard characters + Gandalf**. The 30-card Resource list remains locked. The solo hand size is five cards; it does not change either card count.
+For **Game 1 and the first Academy lessons**, use the historical **Dwarven Quest (Pallando) Challenge Deck C** as our verified teaching baseline. The 30-card table below is the **Resource portion**, not the whole shuffled Hero play deck. Under the published solitaire procedure, Hazards are kept in a separate deck; resources and character/Wizard cards remain together in the Hero play deck. For the historical Challenge Deck C that means 38 cards. The active Academy adapts the character/Wizard portion for Gandalf: **36 Hero play-deck cards: 30 Resources + five non-Wizard characters + Gandalf**. The 30-card Resource list remains locked. The solo hand size is five cards; it does not change either card count.
 
 This is a genuine-card list: **no proxies are intended**. If you do not own a card, mark it as a card to obtain rather than substituting a random card.
 
@@ -438,8 +438,9 @@ This keeps genuine-card acquisition focused and prevents the collection from bec
 - [ ] Celeborn
 - [ ] Fíli
 - [ ] Gildor Inglorion
-- [ ] historical Pallando ×3
-- [ ] 36 cards total (30 Resources + 8 character/Wizard cards)
+- [ ] Gandalf (one Wizard card)
+- [ ] no Pallando cards in the active Gandalf build
+- [ ] 36 cards total (30 Resources + five non-Wizard characters + Gandalf)
 - [ ] Hero play deck shuffled
 
 ### Starting characters and items
