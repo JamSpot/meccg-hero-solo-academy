@@ -216,6 +216,28 @@ The figures assume the normal Challenge Deck C site cards and a five-character c
 - In this Book of Mazarbul mission, non-unique defeated creatures go to the Hazard discard so they can return when the deck is recycled. Follow the normal rules for unique creatures; this mission does not award kill MPs as its victory objective.
 - Keep the Hero play-deck discard and Hazard discard separate. Never put unplayed drawn Hazards back into the deck immediately unless the selected scenario explicitly tells you to.
 
+## Multi-company solo play — resolve each company separately
+
+The solitaire draw formula applies **for each company**, not once for the whole turn. Each company takes its own Movement/Hazard Phase, and each phase has its own route, target checks and Hazard Limit. If a company moves to a Haven, normal rules use the Hazard draw number of its **site of origin**; if it moves to a non-Haven, use the new site's number.
+
+### Worked two-company example
+
+The Challenge Deck C strategy uses Pallando as a support company. If he is in play and moves separately from the five Dwarves:
+
+| Company | Movement | Normal Hazard draw number | Solo draw | Base Hazard Limit |
+|---|---|---:|---:|---:|
+| Thorin's five Dwarves | Rivendell → Moria | Moria 3 | 8 | 5 |
+| Pallando alone | Grey Havens → Lórien | Grey Havens 2 (Lórien is a Haven) | 6 | 2 |
+| **Total** | Two separate phases | — | **14** | **Separate limits: 5 and 2** |
+
+The 14 cards come from the same 30-card Hazard deck, but they are not one combined draw and do not create a combined Hazard Limit of seven. Resolve the Dwarves' phase and Pallando's phase separately. Choose the strongest legal opposition for each company, using that company's actual site path, targets, condition and limit.
+
+If Pallando joins the Dwarves instead, the company has six characters: the Moria draw remains eight, but the base Hazard Limit rises to six. The Wizard is also exposed to the Dwarves' Moria journey and automatic attack.
+
+Pallando's hand-size ability is a separate Hero-side effect: while he is in play, the Academy's five-card solo hand target becomes six. It does not change the Hazard draw or Hazard Limit.
+
+See [Pallando and the Support Company]({{ '/decks/pallando-support-company/' | relative_url }}) and the [Pallando company practice scenario]({{ '/scenarios/pallando-company/' | relative_url }}) for the full decision and model answer.
+
 ## Solo play: a fair test, not an easy test
 
 The learner controls both sides, so use a consistent rule: the Hazard side should make the strongest legal choices available under the selected solo procedure. Do not give the Hero side hidden assistance or use knowledge that is not available from the rules and revealed cards. If a decision is unclear, stop and check the card text or rules before resolving it.
