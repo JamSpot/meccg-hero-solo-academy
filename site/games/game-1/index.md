@@ -35,12 +35,12 @@ Use the starting equipment/resources specified by the chosen Dwarven teaching li
 
 Prepare the two shuffled decks and the separate Location deck:
 
-- **Hero play deck — 38 cards:** 30 Hero Resources plus eight character/Wizard cards: Balin, Boromir II, Celeborn, Fíli, Gildor Inglorion and Pallando ×3. Pallando is the Wizard avatar, not part of the five-Dwarf starting company. No Hazards go in this deck.
+- **Hero play deck — 38 cards:** 30 Hero Resources plus eight character/Wizard cards: Balin, Boromir II, Celeborn, Fíli, Gildor Inglorion and Gandalf ×3. Gandalf is the Wizard avatar, not part of the five-Dwarf starting company. No Hazards go in this deck.
 - **Hazard deck — 30 cards:** keep it separate from the Hero play deck.
 - **Location deck — 15 sites:** keep separate and unshuffled.
 - **Starting setup:** Thorin II, Dori, Kíli, Glóin and Óin, with the two Cram items assigned as listed above.
 
-Use a **5-card hand** for this solo teaching setup, including the opening hand. While Pallando is in play, his printed ability raises the Hero hand target to six. Keep the Hazard deck face down. The Hazard player is controlled by the learner.
+Use a **5-card hand** for this solo teaching setup, including the opening hand. While Gandalf is in play, his printed ability raises the Hero hand target to six. Keep the Hazard deck face down. The Hazard player is controlled by the learner.
 
 For this first game, do not try to optimise every play. The objective is to learn why a decision is good or bad.
 
@@ -255,9 +255,9 @@ For the first lesson, success means:
 
 Winning efficiently is **not** the objective of Game 1. Learning to make the decisions is.
 
-## Pallando after the first expedition
+## Gandalf after the first expedition
 
-Pallando is in the 38-card Hero play deck but is not one of the five starting Dwarves. When you draw him, decide when to reveal the Wizard and whether to build the separate support company. Do not automatically add him to the Moria company: doing so raises that company's Hazard Limit from five to six and exposes the Wizard to the Moria journey. See [Pallando and the Support Company]({{ '/decks/pallando-support-company/' | relative_url }}) after you have learned the basic one-company loop.
+Gandalf is in the 36-card Hero play deck but is not one of the five starting Dwarves. When you draw him, decide whether to build the separate support company. Do not automatically add him to the Moria company: doing so raises that company's Hazard Limit from five to six and exposes the Wizard to the Moria journey. See [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) after you have learned the basic one-company loop.
 
 ## After Game 1
 
