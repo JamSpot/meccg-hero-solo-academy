@@ -239,14 +239,14 @@ The Academy will teach sideboarding later. Do not mix these cards into the 36-ca
 For the Academy, think of the Hero setup as **several separate components**, not one giant deck.
 
 1. **Location deck** — sites available for movement.
-2. **Hero play deck** — 30 Hero Resources plus the eight character/Wizard cards listed above: **36 cards total**, with no Hazards.
+2. **Hero play deck** — 30 Hero Resources plus the six character/Wizard cards listed above: **36 cards total**, with no Hazards.
 3. **Starting pool** — the five starting Dwarves and the two starting Cram items.
 4. **Sideboard** — advanced reserve cards.
 5. **Hero discard pile** — cards that leave the play deck during the game.
 
 The location deck is separate from the shuffled play deck.
 
-For **Game 1**, do not add cards just because you own them. Use the exact 30 Resource cards and eight character/Wizard cards above, so the 36-card Hero play deck and the lessons match what is on the table.
+For **Game 1**, do not add cards just because you own them. Use the exact 30 Resource cards and six character/Wizard cards above, so the 36-card Hero play deck and the lessons match what is on the table.
 
 ## Test before changing the list
 
@@ -321,7 +321,7 @@ Use the new [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practic
 ## How to physically construct it
 
 1. Find the 30 Hero Resource cards listed above and check every quantity.
-2. Find the eight character/Wizard cards listed above.
+2. Find the six character/Wizard cards listed above.
 3. Shuffle those 36 cards together to form the **Hero play deck**. Do not put Hazards in it.
 4. Keep the five starting characters and two Cram items ready as the starting pool/setup cards.
 5. Assemble the 15 site cards as the Location deck; keep it separate and do **not** shuffle it.
@@ -359,7 +359,7 @@ This is particularly important for cards such as **Thror's Map**, whose value ma
 
 ## Starting company versus additional characters
 
-Do not confuse the **starting company** with the eight character/Wizard cards in the Hero play deck.
+Do not confuse the **starting company** with the six character/Wizard cards in the Hero play deck.
 
 The starting company is Thorin II, Dori, Kíli, Glóin and Óin, with the two Cram items assigned as listed above. The other six character/Wizard cards are shuffled into the active Gandalf-led Hero play deck. They are drawn and may be played later when their printed home-site/Haven requirements and the normal influence and company rules allow it. They are not a second starting company and are not a separate pool to draw from.
 
