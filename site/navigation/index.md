@@ -44,6 +44,8 @@ Use the visible header menu on every page to switch sections. This map also link
 - [First Session Practice Workbook]({{ '/scenarios/first-session/' | relative_url }})
 - [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practice/' | relative_url }})
 - [Hero Resource Timing Workshop — model answers]({{ '/scenarios/hero-resource-practice/answer-key/' | relative_url }})
+- [Corruption Check Lab — Choose the Book Bearer]({{ '/scenarios/corruption-check-lab/' | relative_url }})
+- [Corruption Check Lab — Model Answer]({{ '/scenarios/corruption-check-lab/answer-key/' | relative_url }})
 - [Gandalf — One Company or Two?]({{ '/scenarios/gandalf-company/' | relative_url }})
 - [Gandalf — One Company or Two? model answer]({{ '/scenarios/gandalf-company/answer-key/' | relative_url }})
 - [Book of Mazarbul — Second Expedition workbook]({{ '/scenarios/book-journey/' | relative_url }})
