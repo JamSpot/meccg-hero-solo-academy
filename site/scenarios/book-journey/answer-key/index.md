@@ -18,7 +18,7 @@ The Organization Phase has already passed when the Book is acquired during Moria
 2. During the Organization Phase, declare the next destination and movement.
 3. The company then takes its Movement/Hazard Phase.
 
-When the company eventually reaches Blue Mountain Dwarf-hold, the Book is not stored during that arrival turn's Site Phase. Storage is an Organization Phase action, separate from Site Phase entry; the company does not need to enter Blue Mountain solely to store the Book on the following turn. At the start of the following turn, while the company is at Blue Mountain, the bearer may attempt to store the Book and make the required corruption check. If successful, it goes into the marshalling-point pile for **5 MP**, not 1 + 5. **Bearer choice matters:** Dori, Kíli and Óin each receive -1 to all of their corruption checks. **Kíli is a strong default bearer** for this starting company: he is 3/8, has the -1 check modifier and is a Scout, while leaving Óin free as the company's only Ranger for River. Dori has body 6; Óin is also 3/8 but his Ranger skill is valuable. This is not mandatory—use the actual bearer in your game. Include every corruption point on the bearer, not just the Book's two points. Despair of the Heart can add another two corruption points and trigger checks when anyone in the company is wounded.
+When the company eventually reaches Blue Mountain Dwarf-hold, the Book is not stored during that arrival turn's Site Phase. Storage is an Organization Phase action, separate from Site Phase entry; the company does not need to enter Blue Mountain solely to store the Book on the following turn. At the start of the following turn, while the company is at Blue Mountain, the bearer may attempt to store the Book and make the required corruption check. If successful, it goes into the marshalling-point pile for **5 MP**, not 1 + 5. **Bearer choice matters:** Dori, Kíli and Óin each receive -1 to all of their corruption checks; a negative modifier lowers the roll and is a penalty. Thorin II and Glóin have no printed modifier. If Gandalf is in the company, he is the strongest default bearer: his +1 modifier raises the roll, he is a Sage who can use the Book's hand-size ability, and Despair of the Heart cannot target him because he is a Wizard. If Gandalf is absent, consider Thorin or Glóin before the three -1 Dwarves. Include every corruption point on the bearer, not just the Book's two points.
 
 ## 2. Route legality
 
@@ -153,7 +153,7 @@ Do not use Starter Movement directly from Moria to Rivendell: Moria's nearest Ha
 
 ## 9. Storage corruption check — model calculation
 
-Book of Mazarbul gives its bearer **2 corruption points**. Dori, Kíli and Óin each have a printed **-1 corruption-check modifier**. Kíli is a strong default bearer for this starting company because his body is 8 and he is a Scout, while Óin remains available as the Ranger.
+Book of Mazarbul gives its bearer **2 corruption points**. Dori, Kíli and Óin each have a printed **-1 corruption-check modifier**; this is a penalty. Thorin II and Glóin have no printed modifier. Gandalf has **+1**, a bonus, and is a Sage. If Gandalf is present, he is the strongest default bearer; if he is absent, prefer a zero-modifier Dwarf over Kíli solely for corruption safety. The following Kíli calculation is a risk example.
 
 Assume Kíli carries only the Book and has no other corruption modifiers. The corruption-check formula is:
 
@@ -165,11 +165,11 @@ Assume Kíli carries only the Book and has no other corruption modifiers. The co
 | 1 | 0 | 2 | Fail: equal to the CP total; Kíli is discarded. |
 | 2 | +1 | 3 | Success: even the lowest roll is greater than 2 CP. |
 
-Thus, **two helpers guarantee success only under the stated assumption** that the Book is Kíli's sole corruption-point card and there are no other modifiers. If he has any other corruption points, recalculate.
+Thus, **two helpers guarantee success only under the stated assumption** that the Book is Kíli's sole corruption-point card and there are no other modifiers. This does not make Kíli the safest bearer: his -1 modifier is a penalty. Gandalf's +1 means a Book-only check succeeds even without support; if Gandalf is absent, Thorin II or Glóin avoid the -1 penalty. If he has any other corruption points, recalculate.
 
 ### If Despair of the Heart remains on Kíli
 
-Despair adds another 2 CP, taking him to **4 CP**. It also makes him check whenever a character in his company becomes wounded. The card can be removed during his Organization Phase by tapping Kíli and rolling greater than 4; if it remains, use 4 CP for the storage calculation.
+Despair adds another 2 CP, taking Kíli to **4 CP**. It also makes him check whenever a character in his company becomes wounded. The card can be removed during his Organization Phase by tapping Kíli and rolling greater than 4; if it remains, use 4 CP for the storage calculation. Despair of the Heart cannot be played on Gandalf because it excludes Wizards.
 
 | Helpers tapped | Net modifier on Kíli | Lowest modified roll | Failure risk against 4 CP |
 |---:|---:|---:|---|
