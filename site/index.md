@@ -12,7 +12,7 @@ This Academy teaches **conventional solo Hero play** in Middle-earth CCG: you co
 ## Your first session — do these in order
 
 <ol class="course-steps">
-  <li><strong>Set up the table.</strong> Separate the 38-card Hero play deck (30 Resources plus 8 character/Wizard cards), 30-card Hazard deck, 15 site cards, starting company and two Cram items, sideboard, and separate discard piles. <a href="{{ '/academy/' | relative_url }}">Open Step 1: Start Here and Set Up →</a></li>
+  <li><strong>Set up the table.</strong> Separate the 36-card Hero play deck (30 Resources plus 8 character/Wizard cards), 30-card Hazard deck, 15 site cards, starting company and two Cram items, sideboard, and separate discard piles. <a href="{{ '/academy/' | relative_url }}">Open Step 1: Start Here and Set Up →</a></li>
   <li><strong>Prepare the Hero cards.</strong> Use the fixed teaching list, check the names against your physical cards, and keep the list beside you. <a href="{{ '/decks/hero-deck/' | relative_url }}">Open Step 2A: Hero deck list →</a></li>
   <li><strong>Prepare the Hazard cards.</strong> Build the complementary Hazard deck and keep it separate from the Hero cards. <a href="{{ '/decks/hazard-deck/' | relative_url }}">Open Step 2B: Hazard deck list →</a></li>
   <li><strong>Play the first expedition.</strong> Start at Rivendell and follow the guided Book of Mazarbul mission toward Moria. Do each step in order; don't try to learn every rule at once. <a href="{{ '/games/game-1/' | relative_url }}">Open Step 3: Play Game 1 →</a></li>
@@ -34,10 +34,10 @@ The Academy's first-game baseline is the historical Dwarven Quest / Pallando Cha
 
 ## After the first expedition
 
-Once you can run the Dwarven company through the first Moria expedition, learn how Pallando supports the historical Challenge Deck C strategy. He is the Wizard avatar in the Hero play deck, not one of the five starting Dwarves. His separate company creates another Movement/Hazard Phase, so learn the draw and limit calculations before using it.
+Once you can run the Dwarven company through the first Moria expedition, learn how Gandalf supports the Gandalf-led Academy. He is the Wizard avatar in the Hero play deck, not one of the five starting Dwarves. His separate company creates another Movement/Hazard Phase, so learn the draw and limit calculations before using it.
 
-- [Pallando and the Support Company]({{ '/decks/pallando-support-company/' | relative_url }})
-- [Pallando — One Company or Two? practice scenario]({{ '/scenarios/pallando-company/' | relative_url }})
+- [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }})
+- [Gandalf — One Company or Two? practice scenario]({{ '/scenarios/gandalf-company/' | relative_url }})
 
 ## The loop you are learning
 
