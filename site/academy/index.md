@@ -34,7 +34,7 @@ This is not an Arda pool, and Arda rules or Arda solitaire variants are not used
 
 ## Step 3 — Build the Hero play deck first
 
-Assemble the 30-card Resource list and the eight additional character cards. Shuffle them together to make the **36-card Hero play deck**. Keep the starting company and its two Cram items separate until setup. Do not tune the list before you have completed a first game and debrief.
+Assemble the locked 30-card Resource list and the six active character/Wizard cards: Balin, Boromir II, Celeborn, Fíli, Gildor Inglorion and Gandalf. Shuffle them together to make the **36-card Gandalf-led Hero play deck**. Do not include Pallando ×3 in the active build. Keep the starting company and its two Cram items separate until setup. Do not tune the list before you have completed a first game and debrief.
 
 [Build the Hero play deck →]({{ '/decks/hero-deck/' | relative_url }})
 
@@ -62,7 +62,7 @@ Read the mission, starting company and movement plan in the next lesson. Keep th
 
 The five starting characters are Thorin II, Dori, Kíli, Glóin and Óin. Gandalf is the Wizard avatar in the Hero play deck. He must be drawn and played at a Haven (his home site is Any Haven) or at Rivendell if you do not already have a Wizard in play. Do not add him automatically to the starting company.
 
-After the first Moria expedition, use [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) to learn his published Challenge Deck C role and the extra solo Hazard phase created by a second company.
+After the first Moria expedition, use [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) to learn the Academy's Gandalf-led support-company adaptation and the extra solo Hazard phase created by a second company.
 
 ## Ready to continue?
 
