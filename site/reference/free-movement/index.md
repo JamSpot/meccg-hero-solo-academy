@@ -234,9 +234,9 @@ During the Organization Phase while the company is at Blue Mountain Dwarf-hold, 
 This is the clearest example in the Academy of why Region Movement matters: **Moria → Goblin-gate → Blue Mountain Dwarf-hold** reaches the Dwarf-hold in two legal legs without returning to Rivendell, Lórien or Grey Havens. It is not risk-free; it replaces a Haven recovery stop with two Wilderness-heavy Hazard phases.
 
 
-## Pallando's Haven-to-Haven example — Grey Havens to Lórien
+## Gandalf's Haven-to-Haven example — Grey Havens to Lórien
 
-Pallando's printed home site is **Grey Havens**. If you play him there as a separate company, he can move to **Lórien** using Starter Movement because both sites are Havens and their site cards list a path to one another.
+Gandalf's printed home site is **Any Haven**. If you play him at **Grey Havens** as a separate company, he can move to **Lórien** using Starter Movement because both sites are Havens and their site cards list a path to one another.
 
 This is not Region Movement. Do not invent a named sequence of intervening regions: use the printed Haven-to-Haven site path to determine the region types exposed to creature Hazards.
 
@@ -246,11 +246,11 @@ It also changes the solo draw calculation:
 - Normal rules therefore use the Hazard draw number from the **site of origin**, Grey Havens.
 - Grey Havens' normal Hazard draw number is 2.
 - The Academy solo procedure draws **2 + (2 × 2) = 6** Hazard cards.
-- A one-character Pallando company has a base Hazard Limit of **2**.
+- A one-character Gandalf company has a base Hazard Limit of **2**.
 
-If the five Dwarves also move to Moria in the same turn, they have a separate Movement/Hazard Phase: eight cards drawn and a base Hazard Limit of five. Do not combine the two companies' draws or limits.
+If the five Dwarves also move to Moria in the same turn, they have a separate Movement/Hazard Phase: eight cards drawn and a base Hazard Limit of five. Do not combine the two companies' draws or limits. Gandalf's +1 corruption-check modifier does not change his company's Hazard Limit or the five-card Hero hand target.
 
-See [Pallando and the Support Company]({{ '/decks/pallando-support-company/' | relative_url }}) for the full two-company example and [practice scenario]({{ '/scenarios/pallando-company/' | relative_url }}).
+See [Gandalf and the Support Company]({{ '/decks/pallando-support-company/' | relative_url }}) for the full two-company example and [practice scenario]({{ '/scenarios/pallando-company/' | relative_url }}).
 
 ## Great-road is not the free-movement rule
 
