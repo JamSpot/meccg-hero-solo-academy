@@ -135,7 +135,7 @@ Gandalf is the strongest default Book bearer when he is in the company. Book of 
 
 The Hazard player cannot play Despair of the Heart on Gandalf because that card excludes Wizards. If Gandalf is not in the company, Thorin II and Glóin have no printed corruption-check modifier; Dori, Kíli and Óin each have -1, which is a penalty. Do not treat Kíli's -1 as protection. Always add every corruption point on the actual bearer and include every modifier before deciding whether helpers are needed.
 
-Use the [Book bearer and corruption-support lesson]({{ '/decks/hero-deck/' | relative_url }}) for the full calculations and the Kíli risk example.
+Use the [Book bearer and corruption-support lesson]({{ '/decks/hero-deck/' | relative_url }}) and complete the [Corruption Check Lab]({{ '/scenarios/corruption-check-lab/' | relative_url }}) for the full calculations and Kíli risk example.
 
 ## 8. Practise the decision
 
