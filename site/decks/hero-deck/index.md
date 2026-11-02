@@ -7,7 +7,7 @@ title: Hero Deck Construction
 
 ## The exact teaching card list
 
-For **Game 1 and the first Academy lessons**, use the historical **Dwarven Quest (Pallando) Challenge Deck C** as our verified teaching baseline. The 30-card table below is the **Resource portion**, not the whole shuffled Hero play deck. Under the published solitaire procedure, Hazards are kept in a separate deck; resources and character cards remain together in the Hero play deck. For Challenge Deck C that means **38 Hero play-deck cards: 30 Resources + 8 additional character cards**. The solo hand size is five cards; it does not change either card count.
+For **Game 1 and the first Academy lessons**, use the historical **Dwarven Quest (Pallando) Challenge Deck C** as our verified teaching baseline. The 30-card table below is the **Resource portion**, not the whole shuffled Hero play deck. Under the published solitaire procedure, Hazards are kept in a separate deck; resources and character cards remain together in the Hero play deck. For the historical Challenge Deck C that means 36 cards. The active Academy adapts the character/Wizard portion for Gandalf: **36 Hero play-deck cards: 30 Resources + five non-Wizard characters + Gandalf**. The 30-card Resource list remains locked. The solo hand size is five cards; it does not change either card count.
 
 This is a genuine-card list: **no proxies are intended**. If you do not own a card, mark it as a card to obtain rather than substituting a random card.
 
@@ -58,22 +58,24 @@ Control relationships:
 - Thorin II controls Dori and Kíli.
 - Glóin controls Óin.
 
-## Eight additional character/Wizard cards in the Hero play deck
+## Six character/Wizard cards in the active Academy build
 
-These eight character/Wizard cards are shuffled **with the 30 Hero Resources** to make the 38-card Hero play deck. They are not part of the five-character starting company:
+These six cards are shuffled **with the 30 Hero Resources** to make the active 36-card Gandalf-led Hero play deck. They are not part of the five-character starting company:
 
 - Balin
 - Boromir II
 - Celeborn
 - Fíli
 - Gildor Inglorion
-- Pallando ×3
+- Gandalf (Wizard avatar)
 
-**Pallando is the Wizard avatar, not an ordinary follower.** His printed home site is Grey Havens, and a Wizard may be brought into play at his home site or at Rivendell, provided you do not already have a Wizard in play. The Wizard does not need influence to control himself. Only one Wizard may be in play at a time; the three Pallando cards are the published three-copy avatar combination, not three separate Wizards or three extra starting characters.
+**Why Gandalf, not Pallando?** The Academy's Wizard identity is locked to Gandalf. The historical Dwarven Quest / Challenge Deck C is Pallando-based and lists historical Pallando ×3, but those three Pallando cards are historical reference only; do not shuffle them into the active Gandalf-led deck. Gandalf is a unique Wizard with Warrior/Scout/Sage/Diplomat skills, DI 10, P/B 6/9, home site Any Haven, +1 to all his corruption checks, and the ability to tap to test a Gold Ring.
 
-While Pallando is in play, his card lets you keep one more card than normal. In this Academy's solo procedure the base hand target is five, so Pallando raises it to **six** while his ability is active. The hand-size effect does not change the Hazard draw or Hazard Limit.
+A Wizard may be brought into play at his home site or Rivendell if you do not already have a Wizard in play. Gandalf's home site is Any Haven. He does **not** increase your hand size: the Academy hand target remains five. His +1 corruption modifier is important when deciding who should carry Book of Mazarbul; Kíli's -1 makes Kíli the better default bearer.
 
-The original Challenge Deck C strategy gives Pallando a separate support-company role at Lórien. See [Pallando and the Support Company]({{ '/decks/pallando-support-company/' | relative_url }}) for the legal setup, two-company Hazard calculations, allies and sideboard plan.
+The 36-card active deck is a minimal Gandalf-led adaptation: the locked 30 Resources, the five non-Wizard characters retained from the historical Challenge Deck C pool, and one Gandalf. It meets the solo procedure's minimum 30-card play-deck requirement; there is no need to pad the deck to 38 with unusable Pallando cards.
+
+See [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) for his actual role, route options, separate-company Hazard calculations and sideboard plan. The [historical Pallando reference]({{ '/decks/pallando-support-company/' | relative_url }}) is not part of the active course.
 
 ## 15 site cards
 
@@ -95,7 +97,7 @@ Use these sites for the historical teaching deck:
 14. The Lonely Mountain
 15. Wellinghall
 
-Keep the Location deck separate from the shuffled 38-card Hero play deck.
+Keep the Location deck separate from the shuffled 36-card Hero play deck.
 
 ## Resource-to-site plan — what the deck is travelling to do
 
@@ -204,7 +206,7 @@ This keeps the Hero deck practical: first learn one complete expedition, then us
 
 ## Sideboard
 
-The historical deck also has a 20-card sideboard. We will **not** need the whole sideboard for Game 1. Keep it separate from the 38-card Hero play deck.
+The historical deck also has a 20-card sideboard. We will **not** need the whole sideboard for Game 1. Keep it separate from the 36-card Hero play deck.
 
 ### Resources
 
@@ -228,7 +230,7 @@ The historical deck also has a 20-card sideboard. We will **not** need the whole
 
 - Saruman
 
-The Academy will teach sideboarding later. Do not mix these cards into the 38-card Hero play deck.
+The Academy will teach sideboarding later. Do not mix these cards into the 36-card Hero play deck.
 
 ---
 
@@ -237,14 +239,14 @@ The Academy will teach sideboarding later. Do not mix these cards into the 38-ca
 For the Academy, think of the Hero setup as **several separate components**, not one giant deck.
 
 1. **Location deck** — sites available for movement.
-2. **Hero play deck** — 30 Hero Resources plus the eight character/Wizard cards listed above: **38 cards total**, with no Hazards.
+2. **Hero play deck** — 30 Hero Resources plus the eight character/Wizard cards listed above: **36 cards total**, with no Hazards.
 3. **Starting pool** — the five starting Dwarves and the two starting Cram items.
 4. **Sideboard** — advanced reserve cards.
 5. **Hero discard pile** — cards that leave the play deck during the game.
 
 The location deck is separate from the shuffled play deck.
 
-For **Game 1**, do not add cards just because you own them. Use the exact 30 Resource cards and eight character/Wizard cards above, so the 38-card Hero play deck and the lessons match what is on the table.
+For **Game 1**, do not add cards just because you own them. Use the exact 30 Resource cards and eight character/Wizard cards above, so the 36-card Hero play deck and the lessons match what is on the table.
 
 ## Test before changing the list
 
@@ -320,7 +322,7 @@ Use the new [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practic
 
 1. Find the 30 Hero Resource cards listed above and check every quantity.
 2. Find the eight character/Wizard cards listed above.
-3. Shuffle those 38 cards together to form the **Hero play deck**. Do not put Hazards in it.
+3. Shuffle those 36 cards together to form the **Hero play deck**. Do not put Hazards in it.
 4. Keep the five starting characters and two Cram items ready as the starting pool/setup cards.
 5. Assemble the 15 site cards as the Location deck; keep it separate and do **not** shuffle it.
 6. Keep the 20-card sideboard separate.
@@ -329,7 +331,7 @@ Use the new [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practic
 
 ## Physical table layout
 
-Put the 38-card Hero play deck on the left.
+Put the 36-card Hero play deck on the left.
 
 Place the Hero discard immediately beside it.
 
@@ -436,8 +438,8 @@ This keeps genuine-card acquisition focused and prevents the collection from bec
 - [ ] Celeborn
 - [ ] Fíli
 - [ ] Gildor Inglorion
-- [ ] Pallando ×3
-- [ ] 38 cards total (30 Resources + 8 character/Wizard cards)
+- [ ] historical Pallando ×3
+- [ ] 36 cards total (30 Resources + 8 character/Wizard cards)
 - [ ] Hero play deck shuffled
 
 ### Starting characters and items
@@ -464,7 +466,7 @@ This keeps genuine-card acquisition focused and prevents the collection from bec
 - [ ] 30-card Hazard deck separate
 - [ ] Hero and Hazard discard areas marked
 
-When these boxes are checked, you have the actual physical card set needed to begin Game 1: a 38-card Hero play deck, a separate 30-card Hazard deck, the starting company and items, the Location deck, and the sideboard.
+When these boxes are checked, you have the actual physical card set needed to begin Game 1: a 36-card Hero play deck, a separate 30-card Hazard deck, the starting company and items, the Location deck, and the sideboard.
 
 ## Source and verification
 
