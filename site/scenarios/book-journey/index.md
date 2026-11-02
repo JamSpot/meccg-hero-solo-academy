@@ -26,9 +26,9 @@ If your real game ended differently, use the actual company size, wounds, taps, 
 
 The Book is worth **1 MP while in play**. Its card text allows it to be stored at a **Dwarf-hold for 5 MP**. The Academy's planned destination is **Blue Mountain Dwarf-hold**, in Númeriador.
 
-The Book has **2 corruption points**. Storage is not automatic: the bearer must make the required corruption check. If the check succeeds, the Book is placed in your marshalling-point pile for its stored value. Do not add 1 MP and 5 MP together. The bearer choice matters: **Dori, Kíli and Óin each receive -1 to all of their corruption checks**. If you have not yet chosen a bearer, **Kíli is a strong default**: he is 3/8, has the -1 check modifier and is a Scout, while leaving Óin free as the company's only Ranger. Dori has body 6; Óin is also 3/8 but his Ranger skill is useful against River. This is a strategic recommendation, not a mandatory choice. If the Book is already in play, use the actual bearer in your game rather than rewriting the earlier decision. Add together all corruption points on the chosen bearer when checking the risk.
+The Book has **2 corruption points**. Storage is not automatic: the bearer must make the required corruption check. If the check succeeds, the Book is placed in your marshalling-point pile for its stored value. Do not add 1 MP and 5 MP together. The bearer choice matters: **Dori, Kíli and Óin each receive -1 to all of their corruption checks**; that is a penalty, not a bonus. Thorin II and Glóin have no printed corruption-check modifier. If Gandalf is in the company, he is the strongest default bearer: his +1 modifier helps, he is a Sage who can use the Book's hand-size ability, and Despair of the Heart cannot target him because he is a Wizard. If Gandalf is absent, consider Thorin or Glóin before Dori, Kíli or Óin. Kíli's Scout skill is useful, but it does not cancel his -1 corruption modifier. Add together all corruption points on the chosen bearer when checking the risk.
 
-The Book's Sage-only hand-size ability is not part of this starting-company plan: none of the five starting Dwarves is a Sage.
+The Book's Sage-only hand-size ability is not part of the five-Dwarf starting-company plan: none of the Dwarves is a Sage. Gandalf is a Sage, so if he later bears the Book he can tap it during the Organization Phase to increase the Hero hand target by one until the next Untap Phase.
 
 ## First, get the timing right
 
@@ -154,7 +154,7 @@ These are draws, not guaranteed plays. On each leg, apply the actual Hazard Limi
 
 ## Mini-lab — calculate the Book storage check
 
-Assume the company has reached Blue Mountain Dwarf-hold and Kíli bears Book of Mazarbul. For this first calculation, Kíli has **only** the Book's 2 corruption points, his printed -1 modifier, and no other check modifiers.
+Use Kíli as a **risk example**, not as the recommended bearer. Assume the company has reached Blue Mountain Dwarf-hold and Kíli bears Book of Mazarbul. For this first calculation, Kíli has **only** the Book's 2 corruption points, his printed -1 modifier, and no other check modifiers.
 
 1. With no helpers, which natural 2D6 results make Kíli fail?
 2. What changes if one other untapped Dwarf is tapped to support the check?
@@ -171,7 +171,7 @@ Use the table:
 | 1 | 0 | 2 | |
 | 2 | +1 | 3 | |
 
-The table assumes Kíli has only the Book's 2 CP. Recalculate if he controls any other card that gives corruption points.
+The table assumes Kíli has only the Book's 2 CP. Recalculate if he controls any other card that gives corruption points. Compare this with Gandalf: +1 to corruption checks means his lowest 2D6 result becomes 3, already greater than the Book's 2 CP. If Gandalf is not present, Thorin II and Glóin have no printed modifier; Dori, Kíli and Óin have -1.
 
 ## Your task — decide before opening the answer key
 
