@@ -7,7 +7,7 @@ title: Hazard Deck Construction
 
 ## The exact teaching Hazard list
 
-For Game 1 and the first Academy lessons, use the 30-card Hazard portion of the historical **Dwarven Quest / Gandalf Challenge Deck C**. This is a teaching baseline, not a claim that it is the strongest possible Hazard deck.
+For Game 1 and the first Academy lessons, use the 30-card Hazard portion of the historical **Dwarven Quest / Pallando Challenge Deck C**, adapted for the Gandalf-led Academy. This is a teaching baseline, not a claim that it is the strongest possible Hazard deck.
 
 These are genuine physical cards. No proxies are intended.
 
@@ -27,7 +27,7 @@ These are genuine physical cards. No proxies are intended.
 | 3 | Watcher in the Water |
 | **30** | **Total** |
 
-Keep this Hazard deck separate from the 38-card Hero play deck, Hero discard pile, Location deck and sideboard.
+Keep this Hazard deck separate from the 36-card Hero play deck, Hero discard pile, Location deck and sideboard.
 
 ## What the Hazard deck teaches
 
@@ -222,7 +222,7 @@ The solitaire draw formula applies **for each company**, not once for the whole 
 
 ### Worked two-company example
 
-The Challenge Deck C strategy uses Gandalf as a support company. If he is in play and moves separately from the five Dwarves:
+The Academy's Gandalf-led adaptation uses a support-company example. The historical Challenge Deck C strategy is Pallando-based. If he is in play and moves separately from the five Dwarves:
 
 | Company | Movement | Normal Hazard draw number | Solo draw | Base Hazard Limit |
 |---|---|---:|---:|---:|
@@ -234,9 +234,9 @@ The 14 cards come from the same 30-card Hazard deck, but they are not one combin
 
 If Gandalf joins the Dwarves instead, the company has six characters: the Moria draw remains eight, but the base Hazard Limit rises to six. The Wizard is also exposed to the Dwarves' Moria journey and automatic attack.
 
-Gandalf's hand-size ability is a separate Hero-side effect: while he is in play, the Academy's five-card solo hand target becomes six. It does not change the Hazard draw or Hazard Limit.
+Gandalf's +1 corruption-check modifier is a separate character effect. It does not change the five-card Hero hand target, Hazard draw or Hazard Limit.
 
-See [Gandalf and the Support Company]({{ '/decks/pallando-support-company/' | relative_url }}) and the [Gandalf company practice scenario]({{ '/scenarios/pallando-company/' | relative_url }}) for the full decision and model answer.
+See [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) and the [Gandalf company practice scenario]({{ '/scenarios/gandalf-company/' | relative_url }}) for the full decision and model answer.
 
 ## Solo play: a fair test, not an easy test
 
