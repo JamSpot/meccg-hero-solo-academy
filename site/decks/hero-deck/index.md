@@ -164,6 +164,8 @@ A corruption check succeeds only when the modified roll is **greater than** the 
 
 **The tactical price:** helpers tapped during the Organization Phase remain tapped when the company moves that turn. A tapped character has -1 prowess when facing a strike, so tapping everyone for a guaranteed check can make the next Hazard phase more dangerous. Decide whether to use one helper, two helpers, more, or postpone movement. If Despair of the Heart is still on Kíli, add its 2 corruption points before calculating; first consider whether he can attempt to remove it during this Organization Phase. Despair of the Heart cannot be played on Gandalf because he is a Wizard.
 
+Complete the [Corruption Check Lab]({{ '/scenarios/corruption-check-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/corruption-check-lab/answer-key/' | relative_url }}) to practise choosing the bearer and calculating the risk.
+
 Official basis: [Council of Elrond rules — corruption checks and support](https://www.councilofelrond.org/rules/) and the [official card database](https://www.councilofelrond.org/cards/).
 
 ## Item power has a corruption cost
