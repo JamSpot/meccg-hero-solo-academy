@@ -23,11 +23,11 @@ Put out:
 - Kíli
 - Glóin
 - Óin with Cram
-- 38-card Hero play deck: 30 Resources plus Balin, Boromir II, Celeborn, Fíli, Gildor Inglorion and Pallando ×3
+- 38-card Hero play deck: 30 Resources plus five non-Wizard characters and Pallando ×3 (Wizard avatar cards)
 - 30-card Training Hazard deck, kept separate
 - 15-card Location deck, kept separate and unshuffled
 - five-character starting company and two starting Cram items
-- 5-card solo hand size
+- 5-card solo hand size (6 while Pallando is in play, due to his printed +1 hand-size ability)
 - Location deck
 - separate Hero and Hazard discards
 
@@ -108,6 +108,12 @@ Do not assume that Blue Mountain Dwarf-hold is reachable from Moria in one Regio
 - recovering preserves more future value than another risky site attempt.
 
 Recovery is a strategic decision, not an automatic failure.
+
+## Pallando is not a starting Dwarf
+
+Pallando is the Wizard avatar in the Hero play deck. He is not part of the five-character starting company. If you draw him, you may play him at his home site, Grey Havens, or at Rivendell if you do not already have a Wizard in play. His separate support-company plan is an advanced lesson; do not let it delay the first Moria expedition.
+
+[Study Pallando's support-company plan →]({{ '/decks/pallando-support-company/' | relative_url }})
 
 ## Game 1 is successful if you can explain
 
