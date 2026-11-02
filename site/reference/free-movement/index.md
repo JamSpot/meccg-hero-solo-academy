@@ -250,7 +250,7 @@ It also changes the solo draw calculation:
 
 If the five Dwarves also move to Moria in the same turn, they have a separate Movement/Hazard Phase: eight cards drawn and a base Hazard Limit of five. Do not combine the two companies' draws or limits. Gandalf's +1 corruption-check modifier does not change his company's Hazard Limit or the five-card Hero hand target.
 
-See [Gandalf and the Support Company]({{ '/decks/pallando-support-company/' | relative_url }}) for the full two-company example and [practice scenario]({{ '/scenarios/pallando-company/' | relative_url }}).
+See [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) for the full two-company example and [practice scenario]({{ '/scenarios/gandalf-company/' | relative_url }}).
 
 ## Great-road is not the free-movement rule
 
