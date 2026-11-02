@@ -71,7 +71,7 @@ These six cards are shuffled **with the 30 Hero Resources** to make the active 3
 
 **Why Gandalf, not Pallando?** The Academy's Wizard identity is locked to Gandalf. The historical Dwarven Quest / Challenge Deck C is Pallando-based and lists historical Pallando ×3, but those three Pallando cards are historical reference only; do not shuffle them into the active Gandalf-led deck. Gandalf is a unique Wizard with Warrior/Scout/Sage/Diplomat skills, DI 10, P/B 6/9, home site Any Haven, +1 to all his corruption checks, and the ability to tap to test a Gold Ring.
 
-A Wizard may be brought into play at his home site or Rivendell if you do not already have a Wizard in play. Gandalf's home site is Any Haven. He does **not** increase your hand size: the Academy hand target remains five. His +1 corruption modifier is important when deciding who should carry Book of Mazarbul; Kíli's -1 makes Kíli the better default bearer.
+A Wizard may be brought into play at his home site or Rivendell if you do not already have a Wizard in play. Gandalf's home site is Any Haven. He does **not** increase your hand size: the Academy hand target remains five unless the Sage bearer uses the Book's own ability. His +1 corruption modifier is a bonus; Kíli's -1 is a penalty. If Gandalf is present, he is the safest default Book bearer and can use the Book's Sage-only hand-size ability.
 
 The 36-card active deck is a minimal Gandalf-led adaptation: the locked 30 Resources, the five non-Wizard characters retained from the historical Challenge Deck C pool, and one Gandalf. It meets the solo procedure's minimum 30-card play-deck requirement; there is no need to pad the deck to 38 with unusable Pallando cards.
 
@@ -361,7 +361,7 @@ This is particularly important for cards such as **Thror's Map**, whose value ma
 
 Do not confuse the **starting company** with the eight character/Wizard cards in the Hero play deck.
 
-The starting company is Thorin II, Dori, Kíli, Glóin and Óin, with the two Cram items assigned as listed above. The other eight characters are shuffled into the Hero play deck. They are drawn and may be played later when their printed home-site/Haven requirements and the normal influence and company rules allow it. They are not a second starting company and are not a separate pool to draw from.
+The starting company is Thorin II, Dori, Kíli, Glóin and Óin, with the two Cram items assigned as listed above. The other six character/Wizard cards are shuffled into the active Gandalf-led Hero play deck. They are drawn and may be played later when their printed home-site/Haven requirements and the normal influence and company rules allow it. They are not a second starting company and are not a separate pool to draw from.
 
 ## Plan the Hero hand by mission stage
 
