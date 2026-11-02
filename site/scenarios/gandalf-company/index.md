@@ -57,7 +57,7 @@ Before opening the answer key, write down:
 7. What is the total number of Hazard cards drawn across both companies in Plan B?
 8. Why is that not one combined Hazard Limit?
 9. Does Gandalf increase your hand size? What does his card actually modify?
-10. Why is Gandalf a worse default Book bearer than Kíli?
+10. Why is Gandalf a better default Book bearer than Kíli?
 
 **Do not choose the plan that merely gives the Heroes fewer Hazards.** Choose the plan you can justify from the card text, movement rules, solo procedure and actual company state.
 
