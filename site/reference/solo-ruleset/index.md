@@ -17,10 +17,10 @@ The historical Challenge Deck was not designed specifically for this exact teach
 
 | Topic | Academy choice |
 |---|---|
-| Hero play deck | Shuffle **38 cards**: the fixed 30-card Resource list plus the eight character/Wizard cards listed on the Hero Deck page. No Hazards go in this deck. |
+| Hero play deck | Shuffle **36 cards**: the fixed 30-card Resource list plus the six character/Wizard cards listed on the Hero Deck page. No Hazards go in this deck. |
 | Hazard deck | Use the separate fixed 30-card teaching list; shuffle it. |
 | Location deck | Keep the 15 site cards separate. Do not shuffle them as a play deck. |
-| Starting pool / setup | Use the five starting Dwarves and two Cram items specified by Challenge Deck C. The eight character/Wizard cards are in the Hero play deck, not this starting group. Pallando is the Wizard avatar; he is not one of the five starting Dwarves. |
+| Starting pool / setup | Use the five starting Dwarves and two Cram items specified by Challenge Deck C. The six character/Wizard cards are in the Hero play deck, not this starting group. Gandalf is the Academy's Wizard avatar; he is not one of the five starting Dwarves. Pallando ×3 belongs to the historical Challenge Deck C reference, not the active Gandalf-led deck. |
 | Hand size | Use the standard solitaire hand size of **5** when the hand is reset. Do not use the normal multiplayer hand size of 8 for this teaching setup. |
 | Movement and card play | Follow the normal MECCG rules and current card text. |
 | Hazard draw | Use the solitaire formula below, not the normal multiplayer draw alone. |
@@ -32,11 +32,9 @@ The historical Challenge Deck was not designed specifically for this exact teach
 
 If a card's printed wording or a current ruling differs from a shorthand explanation on an Academy page, use the card and rules.
 
-## Why the Hero play deck contains 38 cards
+## Why the active Hero play deck contains 36 cards
 
-The 30-card list on the Hero Deck page is the **Resource list**, not the complete shuffled play deck. Normal MECCG play decks contain resources, hazards and character cards. The published solitaire procedure moves all Hazards into their own shuffled deck and says the play deck contains no Hazards and has at least 30 cards. For this Challenge Deck C setup, the 30 Resources are joined by the eight character/Wizard cards (Balin, Boromir II, Celeborn, Fíli, Gildor Inglorion and Pallando ×3), giving a **38-card Hero play deck**. Pallando is a Wizard avatar card; only one Wizard may be in play at a time. His home site is Grey Havens, and he may be played at his home site or Rivendell if no Wizard is already in play.
-
-The five starting Dwarves and two Cram items are set up separately as the starting company and its starting equipment. When Pallando is in play, his +1 hand-size ability raises the Academy's five-card solo hand target to six. This preserves the historical Challenge Deck C card zones instead of accidentally omitting the additional characters from the shuffled play deck.
+The historical Dwarven Quest / Challenge Deck C list contains 30 Resources plus eight character/Wizard cards, including Pallando ×3. The Academy keeps the locked 30 Resource list and the five non-Wizard characters from that pool, but uses **one Gandalf Wizard card** instead of the historical Pallando package. The active Hero play deck is therefore **36 cards**. This is legal because the solo procedure requires a play deck of at least 30 cards; it does not require the historical 38-card count.
 
 ## The solo Hazard draw
 
@@ -78,13 +76,15 @@ For the step-by-step method, use the [Hazard Player guide]({{ '/reference/hazard
 
 The solitaire instruction applies separately to **each company**. If you move two companies in the same turn, resolve two Movement/Hazard Phases in the order you choose. Calculate each solo Hazard draw from that company's own movement: if its destination is a Haven, normal rules use the site of origin's Hazard draw number. Each company has its own Hazard Limit. Do not pool the drawn cards or combine the limits.
 
-Example from the Challenge Deck C plan:
+Example from the Academy's Gandalf-led support-company plan:
 
 - Five Dwarves move Rivendell → Moria: Moria's normal Hazard draw is 3, so draw 8; base Hazard Limit 5.
-- Pallando moves Grey Havens → Lórien: Lórien is a Haven, so use Grey Havens' normal Hazard draw of 2; draw 6; one-character company base Hazard Limit 2.
+- Gandalf moves Grey Havens → Lórien: Lórien is a Haven, so use Grey Havens' normal Hazard draw of 2; draw 6; one-character company base Hazard Limit 2.
 - Total: 14 cards drawn across two phases, with separate limits of 5 and 2.
 
-See [Pallando and the Support Company]({{ '/decks/pallando-support-company/' | relative_url }}) for the worked example.
+Gandalf's +1 corruption-check modifier is not a hand-size effect. The Hero hand target remains five.
+
+See [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) for the worked example.
 
 ## Movement rules remain normal
 
