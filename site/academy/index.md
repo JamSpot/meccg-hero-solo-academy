@@ -34,7 +34,7 @@ This is not an Arda pool, and Arda rules or Arda solitaire variants are not used
 
 ## Step 3 — Build the Hero play deck first
 
-Assemble the locked 30-card Resource list and the six active character/Wizard cards: Balin, Boromir II, Celeborn, Fíli, Gildor Inglorion and Gandalf. Shuffle them together to make the **36-card Gandalf-led Hero play deck**. Do not include Pallando ×3 in the active build. Keep the starting company and its two Cram items separate until setup. Do not tune the list before you have completed a first game and debrief.
+Assemble the locked 30-card Resource list and the six-card working Gandalf character/Wizard pool: Balin, Boromir II, Celeborn, Fíli, Gildor Inglorion and Gandalf. Shuffle them together to make the **36-card Gandalf-led Hero play deck**. Do not include Pallando ×3 in the active build. The 36-card version is legal; the two extra non-Wizard character slots needed to preserve a 38-card size remain optional and are awaiting final review. Keep the starting company and its two Cram items separate until setup. Do not tune the list before you have completed a first game and debrief.
 
 [Build the Hero play deck →]({{ '/decks/hero-deck/' | relative_url }})
 
