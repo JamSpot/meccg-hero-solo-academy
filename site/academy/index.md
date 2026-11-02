@@ -8,7 +8,7 @@ permalink: /academy/
 
 **Goal:** prepare the table so you can begin the first conventional Hero solo expedition without hunting through your collection or mixing card zones.
 
-> **Project boundary:** this is the conventional Hero-vs-Hazard solo format, not Arda. The 38-card Hero play deck and separate 30-card Hazard deck on this page are specific to this Academy's teaching setup. Do not use them as an Arda solo setup.
+> **Project boundary:** this is the conventional Hero-vs-Hazard solo format, not Arda. The 36-card Hero play deck and separate 30-card Hazard deck on this page are specific to this Academy's teaching setup. Do not use them as an Arda solo setup.
 
 Do these steps in order. Do not skip ahead to advanced deck tuning.
 
@@ -16,7 +16,7 @@ Do these steps in order. Do not skip ahead to advanced deck tuning.
 
 Prepare these distinct areas:
 
-- **Hero play deck** — shuffle the 30 Hero Resources and eight character/Wizard cards together: **38 cards total**, with no Hazards.
+- **Hero play deck** — shuffle the 30 Hero Resources and six character/Wizard cards together: **36 cards total**, with no Hazards.
 - **Hazard deck** — the separate 30-card opposing deck.
 - **Location deck** — the 15 site cards, kept separate and not shuffled.
 - **Starting company/setup cards** — the five starting Dwarves and two Cram items.
@@ -34,7 +34,7 @@ This is not an Arda pool, and Arda rules or Arda solitaire variants are not used
 
 ## Step 3 — Build the Hero play deck first
 
-Assemble the 30-card Resource list and the eight additional character cards. Shuffle them together to make the **38-card Hero play deck**. Keep the starting company and its two Cram items separate until setup. Do not tune the list before you have completed a first game and debrief.
+Assemble the 30-card Resource list and the eight additional character cards. Shuffle them together to make the **36-card Hero play deck**. Keep the starting company and its two Cram items separate until setup. Do not tune the list before you have completed a first game and debrief.
 
 [Build the Hero play deck →]({{ '/decks/hero-deck/' | relative_url }})
 
@@ -58,17 +58,17 @@ Your first objective is **Book of Mazarbul at Moria**. The first game teaches th
 
 Read the mission, starting company and movement plan in the next lesson. Keep the official rules available for questions, but do not read the entire rulebook before starting.
 
-## Pallando is not a starting Dwarf
+## Gandalf is not a starting Dwarf
 
-The five starting characters are Thorin II, Dori, Kíli, Glóin and Óin. Pallando is the Wizard avatar represented by the three Pallando cards in the Hero play deck. He must be drawn and played at his home site, Grey Havens, or at Rivendell if you do not already have a Wizard in play. Do not add him automatically to the starting company.
+The five starting characters are Thorin II, Dori, Kíli, Glóin and Óin. Gandalf is the Wizard avatar in the Hero play deck. He must be drawn and played at a Haven (his home site is Any Haven) or at Rivendell if you do not already have a Wizard in play. Do not add him automatically to the starting company.
 
-After the first Moria expedition, use [Pallando and the Support Company]({{ '/decks/pallando-support-company/' | relative_url }}) to learn his published Challenge Deck C role and the extra solo Hazard phase created by a second company.
+After the first Moria expedition, use [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) to learn his published Challenge Deck C role and the extra solo Hazard phase created by a second company.
 
 ## Ready to continue?
 
 <div class="next-lesson">
 
-**NEXT: Step 2A — Build the 38-card Hero play deck**
+**NEXT: Step 2A — Build the 36-card Hero play deck**
 
 Assemble the Hero list first. Then use the link on that page to build the Hazard deck; only after both are ready should you begin Game 1.
 
