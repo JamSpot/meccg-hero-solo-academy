@@ -163,6 +163,8 @@ Use Kíli as a **risk example**, not as the recommended bearer. Assume the compa
 5. Now suppose Despair of the Heart remains on Kíli. What is his new corruption-point total, and is the two-helper guarantee still valid?
 6. Should you tap the helpers and move immediately, or delay movement? Explain the tactical cost rather than choosing automatically.
 
+Before you choose a bearer, complete the [Corruption Check Lab]({{ '/scenarios/corruption-check-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/corruption-check-lab/answer-key/' | relative_url }}). It compares Gandalf, zero-modifier Dwarves and Kíli's -1 penalty.
+
 Use the table:
 
 | Helpers tapped | Check modifier on Kíli | Lowest modified roll | Failure risk |
