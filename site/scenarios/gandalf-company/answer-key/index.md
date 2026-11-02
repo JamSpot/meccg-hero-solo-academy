@@ -56,11 +56,11 @@ The Hazard deck is shared, but each company is assessed separately. Do not pool 
 
 ## 3. Gandalf's corruption modifier and hand size
 
-Gandalf's card gives **+1 to all of his corruption checks**. It does not increase your hand size. Your Academy Hero hand target remains **five cards**.
+Gandalf's card gives **+1 to all of his corruption checks**. This is a bonus added to the 2D6 roll, not a penalty. Gandalf does not increase hand size by himself; the Academy Hero hand target remains **five cards** unless a separate card effect changes it.
 
 Pallando's card has a different ability: it lets his controller keep one more card than normal. That Pallando ability is not part of the active Gandalf-led build.
 
-Kíli has a -1 modifier to his corruption checks, so he remains the preferred default bearer for Book of Mazarbul. If Gandalf bears the Book, his +1 modifier makes his check harder.
+Gandalf is the better default Book bearer when he is in the company: the Book gives 2 CP, and Gandalf's +1 means his lowest possible roll is 3, greater than 2 CP. He is also a Sage and can use the Book's Sage-only hand-size ability. Kíli has a -1 modifier, which lowers his roll and makes him more vulnerable. Despair of the Heart cannot target Gandalf because he is a Wizard.
 
 ## 4. Which plan is better?
 
