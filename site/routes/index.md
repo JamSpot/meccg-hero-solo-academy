@@ -8,9 +8,11 @@ title: Route Atlas
 The Route Atlas treats each trip as a decision, not just a line on a map.
 
 - [Rivendell → Moria](rivendell-moria/) — the first objective route and its three-Wilderness exposure.
-- [Gandalf's Grey Havens → Lórien route]({{ '/decks/gandalf-support-company/' | relative_url }}) — a Haven-to-Haven Starter Movement example, with its own solo Hazard draw and company limit.\n- [Moria → Blue Mountain Dwarf-hold](moria-blue-mountain/) — compare the Haven recovery route with the two-leg non-Haven route through Goblin-gate.
+- [Gandalf's Grey Havens → Lórien route]({{ '/decks/gandalf-support-company/' | relative_url }}) — a Haven-to-Haven Starter Movement example, with its own solo Hazard draw and company limit.
+- [Moria → Blue Mountain Dwarf-hold](moria-blue-mountain/) — compare the Haven recovery route with the two-leg non-Haven route through Goblin-gate.
 - [Book of Mazarbul — Second Expedition workbook]({{ '/scenarios/book-journey/' | relative_url }}) — practise the two route legs, Hazard keying, site-entry choice and next-turn storage timing.
-- [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) — compare one company with two separate companies and plan the Wizard's routes.\n- [Expedition Planner — table worksheet](expedition-planner/) — a reusable pre-move checklist, three worked decision patterns and a post-game debrief.
+- [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) — compare one company with two separate companies and plan the Wizard's routes.
+- [Expedition Planner — table worksheet](expedition-planner/) — a reusable pre-move checklist, three worked decision patterns and a post-game debrief.
 - [Route Risk Workshop]({{ '/scenarios/route-risk-workshop/' | relative_url }}) — compare legal routes using mission value, Hazard exposure, arrival condition, future position and fallback options.
 - [Route Workshop]({{ '/reference/route-workshop/' | relative_url }}) — reusable route scorecard and legality drills.
 - [Free / Player-Directed Movement]({{ '/reference/free-movement/' | relative_url }}) — the movement and site-path rules behind the examples.
