@@ -33,7 +33,7 @@ Only after you can run the core expedition loop comfortably, continue to:
 3. **Expedition compression** — combine useful goals when the route and risk justify it.
 4. **Corruption and abort decisions** — recognise when to recover rather than press on.
 5. **Campaign planning** — connect expeditions into a longer objective.
-6. **Advanced card pools** — sideboarding, specialised Hazard packages and optional Dragons.
+6. **Gandalf and the support company** — compare one company with two, calculate separate solo Hazard phases, and learn Gandalf's corruption modifier and sideboard role. Read [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) and complete the [Gandalf company practice scenario]({{ '/scenarios/gandalf-company/' | relative_url }}).\n7. **Advanced card pools** — sideboarding, specialised Hazard packages and optional Dragons.
 
 Use the [Games and Lessons index]({{ '/games/' | relative_url }}) for the later sequence, or [All Pages]({{ '/navigation/' | relative_url }}) only when looking up a specific topic.
 
