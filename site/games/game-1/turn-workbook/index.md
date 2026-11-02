@@ -6,7 +6,7 @@ permalink: /games/game-1/turn-workbook/
 
 # Game 1 Turn Workbook — Hero and Hazard Decisions
 
-Use this beside the physical cards. It joins the complete Hero play deck (30 Resources plus eight character cards), the separate Training Hazard deck, Region Movement, and the decision to enter, continue or recover.
+Use this beside the physical cards. It joins the complete Hero play deck (30 Resources plus eight character/Wizard cards), the separate Training Hazard deck, Region Movement, and the decision to enter, continue or recover.
 
 This Academy uses a labelled teaching hybrid: historical Dwarven Quest / Pallando Challenge Deck C lists, normal MECCG rules for movement and card play, and a separately identified solo Hazard-draw procedure. The original Challenge Deck was not designed specifically for this solitaire procedure. Printed card text and official rules take precedence.
 
@@ -18,7 +18,7 @@ This Academy uses a labelled teaching hybrid: historical Dwarven Quest / Palland
 
 ## 1. Set up the table
 
-- [ ] 38-card Hero play deck assembled and shuffled: 30 Resources plus Balin, Boromir II, Celeborn, Fíli, Gildor Inglorion and Pallando ×3.
+- [ ] 38-card Hero play deck assembled and shuffled: 30 Resources plus Balin, Boromir II, Celeborn, Fíli, Gildor Inglorion and Pallando ×3. Pallando is the Wizard avatar, not a starting Dwarf.
 - [ ] 30-card Training Hazard deck assembled and shuffled separately.
 - [ ] Solo hand size set to 5 for the hand-reset step.
 - [ ] 15 site cards kept as the Location deck; do not shuffle them.
@@ -164,7 +164,13 @@ The Book is acquired and the next site is reachable. What is the first question?
 
 **Model response:** “What does the company need now?” Reassess the mission, wounds, taps, hand and future position before choosing the next expedition.
 
-## 8. Post-game debrief
+## 8. Pallando and the second company
+
+Pallando is in the Hero play deck but is not part of the five-Dwarf starting company. When you draw him, he may be played at Grey Havens (his home site) or Rivendell if no Wizard is already in play. While he is in play, his card raises the solo hand target from five to six.
+
+Do not add him to the Dwarves automatically. A six-character company has a base Hazard Limit of six, and the Wizard would face the Moria expedition. The separate-company option has its own Hazard phase and draw. Study the [Pallando support-company guide]({{ '/decks/pallando-support-company/' | relative_url }}) and complete the [Pallando company practice scenario]({{ '/scenarios/pallando-company/' | relative_url }}) after Game 1.
+
+## 9. Post-game debrief
 
 - **Route used and evidence it was legal:** ................................................
 - **Most important Hazard exposure:** ......................................................
