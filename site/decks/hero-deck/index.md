@@ -73,7 +73,7 @@ These six cards are shuffled **with the 30 Hero Resources** to make the active 3
 
 A Wizard may be brought into play at his home site or Rivendell if you do not already have a Wizard in play. Gandalf's home site is Any Haven. He does **not** increase your hand size: the Academy hand target remains five unless the Sage bearer uses the Book's own ability. His +1 corruption modifier is a bonus; Kíli's -1 is a penalty. If Gandalf is present, he is the safest default Book bearer and can use the Book's Sage-only hand-size ability.
 
-The 36-card active deck is a minimal Gandalf-led adaptation: the locked 30 Resources, the five non-Wizard characters retained from the historical Challenge Deck C pool, and one Gandalf. It meets the solo procedure's minimum 30-card play-deck requirement; there is no need to pad the deck to 38 with unusable Pallando cards.
+The 36-card active deck is a **playable working draft**: the locked 30 Resources, the five non-Wizard characters retained from the historical Challenge Deck C pool, and one Gandalf. It meets the solo procedure's minimum 30-card play-deck requirement. Do not pad it with Pallando cards. If you want to preserve the historical 38-card size, the two additional slots must be filled with non-Wizard characters from the chosen Gandalf pool; that pair is not yet locked. This is the one remaining Hero-deck choice for review.
 
 See [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) for his actual role, route options, separate-company Hazard calculations and sideboard plan. The [historical Pallando reference]({{ '/decks/pallando-support-company/' | relative_url }}) is not part of the active course.
 
