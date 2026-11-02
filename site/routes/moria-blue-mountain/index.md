@@ -28,14 +28,11 @@ That is five regions, including origin and destination. Normal Region Movement a
 
 Reaching Blue Mountain is not the end of the decision. The Book is stored during the **next Organization Phase**, while the company is still at the Dwarf-hold. It is not necessary to enter the site during the arrival turn solely to make that later Organization Phase action.
 
-For a default Kíli bearer:
+If Gandalf is in the company, he is the strongest default bearer: his **+1 corruption-check modifier is a bonus**, he is a Sage who can use the Book's hand-size ability, and Despair of the Heart cannot target him because he is a Wizard. With only the Book's 2 CP, Gandalf's lowest possible modified roll is 3, so the check is guaranteed to succeed.
 
-- Book of Mazarbul contributes 2 CP.
-- Kíli's printed corruption-check modifier is -1.
-- Each other untapped character in the same company may be tapped before the check to add +1.
-- With two helpers and no other corruption points or modifiers, the lowest possible modified roll is 3, which is greater than 2 CP: the check is guaranteed to succeed.
+If Gandalf is not in the company, Thorin II and Glóin have no printed corruption-check modifier; Dori, Kíli and Óin each have **-1**, which is a penalty. The following Kíli calculation is a risk example, not a recommendation: with only the Book's 2 CP, Kíli fails on natural rolls of 2 or 3 without support (3/36), on a natural 2 with one helper (1/36), and is guaranteed success with two helpers.
 
-That guarantee has a price if you also move that turn: the helpers remain tapped and face strikes at -1 prowess. If Despair of the Heart remains on Kíli, his total becomes 4 CP and the two-helper guarantee no longer applies. Use the [Second Expedition workbook]({{ '/scenarios/book-journey/' | relative_url }}) for the full calculation and decision.
+That guarantee has a price if you also move that turn: helpers remain tapped and face strikes at -1 prowess. If Despair of the Heart remains on Kíli, his total becomes 4 CP and the two-helper guarantee no longer applies. Despair cannot target Gandalf. Use the [Second Expedition workbook]({{ '/scenarios/book-journey/' | relative_url }}) and [Gandalf support-company guide]({{ '/decks/gandalf-support-company/' | relative_url }}) for the full decision.
 
 ## A two-leg teaching example
 
