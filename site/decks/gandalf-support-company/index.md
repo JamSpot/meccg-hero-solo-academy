@@ -42,7 +42,7 @@ A Wizard may be brought into play at his home site or at Rivendell, provided you
 Two important differences from Pallando:
 
 - **Gandalf does not give you an extra card in hand.** The Academy's Hero hand target remains five.
-- **Gandalf's corruption checks are harder by one.** Do not carry Pallando's hand-size advice into the Gandalf build.
+- **Gandalf's corruption checks are easier by one.** A +1 is added to the 2D6 roll and helps him pass; do not carry Pallando's hand-size advice into the Gandalf build.
 
 The current 30 Resource list has no Gold Ring, so Gandalf's ring-testing ability is not used in the first Book of Mazarbul lessons. It becomes relevant only if a Gold Ring resource is added to a later build.
 
@@ -60,7 +60,7 @@ Play Gandalf at Rivendell and place him in Thorin's company.
 - The base Hazard Limit is **6**, not five.
 - Gandalf is exposed to the Moria journey and its automatic attack of four Orc strikes at 7 prowess.
 
-Gandalf's skills and prowess help the company, but the higher Hazard Limit gives the Hazard side one more ordinary play slot. Gandalf is also exposed to the site's danger, and his +1 corruption-check modifier is a real weakness.
+Gandalf's skills and prowess help the company, and his +1 corruption-check modifier is a benefit. The higher Hazard Limit gives the Hazard side one more ordinary play slot, and Gandalf is still exposed to the site's danger; a Wizard's elimination ends the game.
 
 ### Plan B — Gandalf forms a separate company
 
@@ -129,11 +129,13 @@ Saruman in the historical sideboard is an **alternative Wizard for a separate bu
 
 The site path is used for Hazard keying; it does not replace the movement rules. Use the [Free Movement guide]({{ '/reference/free-movement/' | relative_url }}) and [Expedition Planner]({{ '/routes/expedition-planner/' | relative_url }}) before declaring the route.
 
-## 7. Book of Mazarbul and Gandalf's corruption penalty
+## 7. Book of Mazarbul — Gandalf's corruption advantage
 
-Kíli remains the recommended default Book bearer for the starting Dwarf company. He has a -1 modifier to all his corruption checks. Gandalf, by contrast, has +1 to all his corruption checks.
+Gandalf is the strongest default Book bearer when he is in the company. Book of Mazarbul gives 2 corruption points; Gandalf's +1 modifier is added to the 2D6 roll, so if the Book is his only corruption-point card, even the lowest roll (2 + 1 = 3) is greater than 2 CP and the check is guaranteed to succeed. He is also a Sage, so he can tap the Book during the Organization Phase to increase the Hero hand size by one until the next Untap Phase.
 
-Do not move the Book to Gandalf merely because he is the Wizard. If Gandalf carries the Book, his own +1 modifier makes the storage check harder. Use the [Book bearer and corruption-support lesson]({{ '/decks/hero-deck/' | relative_url }}) to calculate the actual check and decide which characters can safely tap to support it.
+The Hazard player cannot play Despair of the Heart on Gandalf because that card excludes Wizards. If Gandalf is not in the company, Thorin II and Glóin have no printed corruption-check modifier; Dori, Kíli and Óin each have -1, which is a penalty. Do not treat Kíli's -1 as protection. Always add every corruption point on the actual bearer and include every modifier before deciding whether helpers are needed.
+
+Use the [Book bearer and corruption-support lesson]({{ '/decks/hero-deck/' | relative_url }}) for the full calculations and the Kíli risk example.
 
 ## 8. Practise the decision
 
