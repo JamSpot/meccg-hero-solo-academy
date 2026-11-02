@@ -132,6 +132,19 @@ If the company reaches Blue Mountain during this turn's Movement/Hazard Phase, i
 
 Source checks: [The Wizards movement and site-entry rules](https://meccg.com/rules/by-expansion/the-wizards/) and the [MECCG card database](https://www.councilofelrond.org/cards/). The Region cards confirm Redhorn Gate–Hollin–Rhudaur–High Pass and High Pass–Rhudaur–Arthedain–Númeriador. Verify the same adjacency on your physical Region cards before play.
 
+## Worked plan E — Dwarves to Moria while Pallando moves to Lórien
+
+This is the advanced Challenge Deck C opening. It is not required for Game 1.
+
+- Thorin's five Dwarves move Rivendell → Moria by Region Movement: normal Hazard draw 3, solo draw **8**, base Hazard Limit **5**.
+- Pallando is played at his home site, Grey Havens, as a separate company and moves Grey Havens → Lórien by Haven-to-Haven Starter Movement: Lórien is a Haven, so use Grey Havens' normal Hazard draw 2, solo draw **6**, base Hazard Limit **2** for the one-character company.
+
+The two companies draw **14 cards in total** from the shared Hazard deck, but they resolve separate Movement/Hazard Phases with separate limits of five and two. The Hazard player must evaluate each company's own route and condition. Do not pool the cards or use a combined limit.
+
+This plan protects Pallando from Moria's site attack, but it does not make the Wizard safe: he faces a separate six-card solo Hazard draw alone. If Pallando joins the Dwarves instead, the Moria draw remains eight but the company size and base Hazard Limit rise to six.
+
+[Read the full Pallando support-company guide]({{ '/decks/pallando-support-company/' | relative_url }}) · [Complete the decision scenario]({{ '/scenarios/pallando-company/' | relative_url }}) · [Model answer]({{ '/scenarios/pallando-company/answer-key/' | relative_url }}).
+
 ## Solo Hazard decision worksheet
 
 Before resolving the draw, work through the [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}) and its [model answer]({{ '/scenarios/hazard-legality-workshop/answer-key/' | relative_url }}). It demonstrates how the declared path changes creature legality and why support-event timing matters.
