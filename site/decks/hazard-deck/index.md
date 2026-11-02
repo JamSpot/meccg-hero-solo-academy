@@ -7,7 +7,7 @@ title: Hazard Deck Construction
 
 ## The exact teaching Hazard list
 
-For Game 1 and the first Academy lessons, use the 30-card Hazard portion of the historical **Dwarven Quest / Pallando Challenge Deck C**. This is a teaching baseline, not a claim that it is the strongest possible Hazard deck.
+For Game 1 and the first Academy lessons, use the 30-card Hazard portion of the historical **Dwarven Quest / Gandalf Challenge Deck C**. This is a teaching baseline, not a claim that it is the strongest possible Hazard deck.
 
 These are genuine physical cards. No proxies are intended.
 
@@ -222,21 +222,21 @@ The solitaire draw formula applies **for each company**, not once for the whole 
 
 ### Worked two-company example
 
-The Challenge Deck C strategy uses Pallando as a support company. If he is in play and moves separately from the five Dwarves:
+The Challenge Deck C strategy uses Gandalf as a support company. If he is in play and moves separately from the five Dwarves:
 
 | Company | Movement | Normal Hazard draw number | Solo draw | Base Hazard Limit |
 |---|---|---:|---:|---:|
 | Thorin's five Dwarves | Rivendell → Moria | Moria 3 | 8 | 5 |
-| Pallando alone | Grey Havens → Lórien | Grey Havens 2 (Lórien is a Haven) | 6 | 2 |
+| Gandalf alone | Grey Havens → Lórien | Grey Havens 2 (Lórien is a Haven) | 6 | 2 |
 | **Total** | Two separate phases | — | **14** | **Separate limits: 5 and 2** |
 
-The 14 cards come from the same 30-card Hazard deck, but they are not one combined draw and do not create a combined Hazard Limit of seven. Resolve the Dwarves' phase and Pallando's phase separately. Choose the strongest legal opposition for each company, using that company's actual site path, targets, condition and limit.
+The 14 cards come from the same 30-card Hazard deck, but they are not one combined draw and do not create a combined Hazard Limit of seven. Resolve the Dwarves' phase and Gandalf's phase separately. Choose the strongest legal opposition for each company, using that company's actual site path, targets, condition and limit.
 
-If Pallando joins the Dwarves instead, the company has six characters: the Moria draw remains eight, but the base Hazard Limit rises to six. The Wizard is also exposed to the Dwarves' Moria journey and automatic attack.
+If Gandalf joins the Dwarves instead, the company has six characters: the Moria draw remains eight, but the base Hazard Limit rises to six. The Wizard is also exposed to the Dwarves' Moria journey and automatic attack.
 
-Pallando's hand-size ability is a separate Hero-side effect: while he is in play, the Academy's five-card solo hand target becomes six. It does not change the Hazard draw or Hazard Limit.
+Gandalf's hand-size ability is a separate Hero-side effect: while he is in play, the Academy's five-card solo hand target becomes six. It does not change the Hazard draw or Hazard Limit.
 
-See [Pallando and the Support Company]({{ '/decks/pallando-support-company/' | relative_url }}) and the [Pallando company practice scenario]({{ '/scenarios/pallando-company/' | relative_url }}) for the full decision and model answer.
+See [Gandalf and the Support Company]({{ '/decks/pallando-support-company/' | relative_url }}) and the [Gandalf company practice scenario]({{ '/scenarios/pallando-company/' | relative_url }}) for the full decision and model answer.
 
 ## Solo play: a fair test, not an easy test
 
