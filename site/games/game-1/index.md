@@ -35,12 +35,12 @@ Use the starting equipment/resources specified by the chosen Dwarven teaching li
 
 Prepare the two shuffled decks and the separate Location deck:
 
-- **Hero play deck — 38 cards:** 30 Hero Resources plus eight character/Wizard cards: Balin, Boromir II, Celeborn, Fíli, Gildor Inglorion and Gandalf ×3. Gandalf is the Wizard avatar, not part of the five-Dwarf starting company. No Hazards go in this deck.
+- **Hero play deck — 36 cards:** 30 Hero Resources plus Balin, Boromir II, Celeborn, Fíli, Gildor Inglorion and one Gandalf Wizard card. Gandalf is the Wizard avatar, not part of the five-Dwarf starting company. Pallando ×3 belongs to the historical Challenge Deck C reference, not the active Academy deck. No Hazards go in this deck.
 - **Hazard deck — 30 cards:** keep it separate from the Hero play deck.
 - **Location deck — 15 sites:** keep separate and unshuffled.
 - **Starting setup:** Thorin II, Dori, Kíli, Glóin and Óin, with the two Cram items assigned as listed above.
 
-Use a **5-card hand** for this solo teaching setup, including the opening hand. While Gandalf is in play, his printed ability raises the Hero hand target to six. Keep the Hazard deck face down. The Hazard player is controlled by the learner.
+Use a **5-card hand** for this solo teaching setup, including the opening hand. Gandalf does not change the five-card Hero hand target; his card gives +1 to his own corruption checks. Keep the Hazard deck face down. The Hazard player is controlled by the learner.
 
 For this first game, do not try to optimise every play. The objective is to learn why a decision is good or bad.
 
