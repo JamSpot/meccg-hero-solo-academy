@@ -58,9 +58,9 @@ Control relationships:
 - Thorin II controls Dori and Kíli.
 - Glóin controls Óin.
 
-## Eight additional characters in the Hero play deck
+## Eight additional character/Wizard cards in the Hero play deck
 
-These eight character cards are shuffled **with the 30 Hero Resources** to make the 38-card Hero play deck. They are not part of the five-character starting company:
+These eight character/Wizard cards are shuffled **with the 30 Hero Resources** to make the 38-card Hero play deck. They are not part of the five-character starting company:
 
 - Balin
 - Boromir II
@@ -69,9 +69,11 @@ These eight character cards are shuffled **with the 30 Hero Resources** to make 
 - Gildor Inglorion
 - Pallando ×3
 
-Pallando is the Wizard avatar. The three copies are the Challenge Deck's listed avatar cards; they are not three separate Wizards in the starting company. A character drawn from the Hero play deck is played later only when the normal character-play rules, home-site/Haven requirements, influence and company rules allow it.
+**Pallando is the Wizard avatar, not an ordinary follower.** His printed home site is Grey Havens, and a Wizard may be brought into play at his home site or at Rivendell, provided you do not already have a Wizard in play. The Wizard does not need influence to control himself. Only one Wizard may be in play at a time; the three Pallando cards are the published three-copy avatar combination, not three separate Wizards or three extra starting characters.
 
-**Why three Pallando copies?** The original *The Wizards* rulebook contains older two-Wizard wording, but the current [CRF 19 Wizard ruling](https://meccg.com/rules/collected-rulings-and-errata-crf/crf-19/rulings-by-term/#wizard) allows a three-card Wizard combination except one copy each of three different Wizards. Challenge Deck C uses three copies of Pallando, so keep the published list intact. These are three copies of one Wizard identity, not three separate Wizards in the starting company.
+While Pallando is in play, his card lets you keep one more card than normal. In this Academy's solo procedure the base hand target is five, so Pallando raises it to **six** while his ability is active. The hand-size effect does not change the Hazard draw or Hazard Limit.
+
+The original Challenge Deck C strategy gives Pallando a separate support-company role at Lórien. See [Pallando and the Support Company]({{ '/decks/pallando-support-company/' | relative_url }}) for the legal setup, two-company Hazard calculations, allies and sideboard plan.
 
 ## 15 site cards
 
@@ -235,14 +237,14 @@ The Academy will teach sideboarding later. Do not mix these cards into the 38-ca
 For the Academy, think of the Hero setup as **several separate components**, not one giant deck.
 
 1. **Location deck** — sites available for movement.
-2. **Hero play deck** — 30 Hero Resources plus the eight additional character cards listed above: **38 cards total**, with no Hazards.
+2. **Hero play deck** — 30 Hero Resources plus the eight character/Wizard cards listed above: **38 cards total**, with no Hazards.
 3. **Starting pool** — the five starting Dwarves and the two starting Cram items.
 4. **Sideboard** — advanced reserve cards.
 5. **Hero discard pile** — cards that leave the play deck during the game.
 
 The location deck is separate from the shuffled play deck.
 
-For **Game 1**, do not add cards just because you own them. Use the exact 30 Resource cards and eight additional character cards above, so the 38-card Hero play deck and the lessons match what is on the table.
+For **Game 1**, do not add cards just because you own them. Use the exact 30 Resource cards and eight character/Wizard cards above, so the 38-card Hero play deck and the lessons match what is on the table.
 
 ## Test before changing the list
 
@@ -317,7 +319,7 @@ Use the new [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practic
 ## How to physically construct it
 
 1. Find the 30 Hero Resource cards listed above and check every quantity.
-2. Find the eight additional character cards listed above.
+2. Find the eight character/Wizard cards listed above.
 3. Shuffle those 38 cards together to form the **Hero play deck**. Do not put Hazards in it.
 4. Keep the five starting characters and two Cram items ready as the starting pool/setup cards.
 5. Assemble the 15 site cards as the Location deck; keep it separate and do **not** shuffle it.
@@ -355,7 +357,7 @@ This is particularly important for cards such as **Thror's Map**, whose value ma
 
 ## Starting company versus additional characters
 
-Do not confuse the **starting company** with the eight additional character cards in the Hero play deck.
+Do not confuse the **starting company** with the eight character/Wizard cards in the Hero play deck.
 
 The starting company is Thorin II, Dori, Kíli, Glóin and Óin, with the two Cram items assigned as listed above. The other eight characters are shuffled into the Hero play deck. They are drawn and may be played later when their printed home-site/Haven requirements and the normal influence and company rules allow it. They are not a second starting company and are not a separate pool to draw from.
 
@@ -435,7 +437,7 @@ This keeps genuine-card acquisition focused and prevents the collection from bec
 - [ ] Fíli
 - [ ] Gildor Inglorion
 - [ ] Pallando ×3
-- [ ] 38 cards total (30 Resources + 8 characters)
+- [ ] 38 cards total (30 Resources + 8 character/Wizard cards)
 - [ ] Hero play deck shuffled
 
 ### Starting characters and items
