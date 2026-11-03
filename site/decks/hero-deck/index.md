@@ -290,6 +290,14 @@ The five starting Dwarves have a useful spread of skills. All five are Warriors;
 | **Great-road** | A short-event played at the end of the Organization Phase on a company at a Haven. The opponent may draw up to twice the normal number of cards for that company during its Movement/Hazard Phase; at the end of the turn the company may return to the Haven where it began, with no second Movement/Hazard Phase. | This is a special return-to-Haven effect, **not** the general Region Movement rule and not a way to ignore route legality. The published solitaire draw formula does not spell out how Great-road's doubled draw interacts with its own 2 + twice-normal formula, so keep it out of the baseline Game 1 until that interaction is resolved. |
 | **Smoke Rings** | Moves one Resource or Character from the sideboard or discard pile into the play deck, then shuffles. | It puts the card into the deck, not directly into your hand. Use it as recovery/selection for a later draw. |
 
+### Hundreds of Butterflies — the real solo trade-off
+
+The solo procedure's draw is calculated before the Movement/Hazard Phase card play. If Moria's normal Hazard draw number is 3, the Hazard side draws **8** cards. The five-Dwarf company's base Hazard Limit is **5**.
+
+If you play **Hundreds of Butterflies** on a moving character, it untaps that character and increases the Hazard Limit against the company by one. The Hazard side can therefore play up to **six** limit-counting Hazards from the eight already drawn, if six legal plays exist. It does **not** cause two more cards to be drawn. If Twilight is also drawn and has a legal Environment target, Twilight remains a separate no-Hazard-Limit play.
+
+This is the card's central bargain: regain an untapped character now, but give the opposition another legal slot. Practise the full arithmetic in the [Hazard Draw & Limit Lab]({{ '/scenarios/hazard-draw-limit-lab/' | relative_url }}).
+
 ### The actual learning sequence
 
 **PLAN → PREPARE → AVOID → FIGHT → ACQUIRE → RECOVER → REASSESS**
