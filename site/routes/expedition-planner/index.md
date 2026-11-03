@@ -66,7 +66,7 @@ This is an important legality check: choosing the correct destination is not eno
 
 All three regions on this teaching route are Wilderness. A creature requiring two Wilderness regions may therefore be a legal option for the Hazard player, **if its printed keying and every other requirement are satisfied**. This is not a prediction that a particular creature will be drawn.
 
-Under the Academy's chosen solo procedure, the Moria site number of 3 produces a draw of **2 + (2 × 3) = 8 Hazard cards**. The five-character company has a base Hazard Limit of **5** for its Movement/Hazard Phase. These are different numbers: eight cards are available to consider, but the normal limit still controls how many Hazards may be played.
+Under the Academy's chosen solo procedure, Moria's normal Hazard draw number of 3 produces a draw of **2 + (2 × 3) = 8 Hazard cards**. The five-character company has a base Hazard Limit of **5** for its Movement/Hazard Phase. These are different numbers: eight cards are available to consider, but the normal limit still controls how many Hazards may be played.
 
 Before the company enters Moria, check its wounds and taps, the defensive cards still available, and Moria's automatic attack (**Orcs: four strikes with 7 prowess**). Reaching the site does not guarantee that attempting the objective is wise. The automatic attack is a site encounter, not an extra Hazard play against the Hazard Limit.
 
@@ -157,7 +157,7 @@ When you switch to the Hazard side, use the same declared site path and ask:
 4. **Limit?** Count every Hazard that counts against the current company's limit.
 5. **Best combination?** Under the Academy's selected solo procedure, choose the most disadvantageous legal combination within the limit.
 
-For this Academy's solo draw procedure, draw **two plus twice the normal Hazard draw number for the relevant site**. First apply the normal movement rule to determine which site's draw number applies: a move to a non-Haven uses the new site, while a move to a Haven normally uses the site of origin. Undrawn or unplayed cards are not extra plays; follow the selected solo rules for discarding and reshuffling. The procedure is a labelled solitaire variant, not the standard multiplayer draw rule. Compare [My Solo Rules](https://meccg.wordpress.com/my-solo-rules/) with the [official MECCG rules](https://www.councilofelrond.org/rules/) rather than blending their procedures silently.
+For this Academy's solo draw procedure, draw **two plus twice the normal Hazard draw number for the relevant site**. Practise the calculations in the [Hazard Draw & Limit Lab]({{ '/scenarios/hazard-draw-limit-lab/' | relative_url }}), including the important case where a company moves to a Haven and the normal draw number comes from its site of origin. First apply the normal movement rule to determine which site's draw number applies: a move to a non-Haven uses the new site, while a move to a Haven normally uses the site of origin. Undrawn or unplayed cards are not extra plays; follow the selected solo rules for discarding and reshuffling. The procedure is a labelled solitaire variant, not the standard multiplayer draw rule. Compare [My Solo Rules](https://meccg.wordpress.com/my-solo-rules/) with the [official MECCG rules](https://www.councilofelrond.org/rules/) rather than blending their procedures silently.
 
 ## Worked decision — store the Book, then move or wait?
 
