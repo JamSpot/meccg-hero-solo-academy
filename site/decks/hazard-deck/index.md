@@ -240,6 +240,8 @@ See [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | rel
 
 ## Solo play: a fair test, not an easy test
 
+Before testing card combinations, complete the [Hazard Draw & Limit Lab]({{ '/scenarios/hazard-draw-limit-lab/' | relative_url }}). It separates the site card's normal Hazard draw number, the solitaire draw formula, the company's base Hazard Limit, and card effects that modify that limit.
+
 The learner controls both sides, so use a consistent rule: the Hazard side should make the strongest legal choices available under the selected solo procedure. Do not give the Hero side hidden assistance or use knowledge that is not available from the rules and revealed cards. If a decision is unclear, stop and check the card text or rules before resolving it.
 
 ## Later Hazard construction
