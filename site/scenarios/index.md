@@ -21,6 +21,8 @@ Use the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | rel
 
 Use the new [Route Risk Workshop]({{ '/scenarios/route-risk-workshop/' | relative_url }}) and its [model answers]({{ '/scenarios/route-risk-workshop/answer-key/' | relative_url }}) to compare legal routes, account for the actual Hazard hand, weigh arrival condition and future position, and log evidence across three games.
 
+Complete the [Hazard Draw & Limit Lab]({{ '/scenarios/hazard-draw-limit-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/hazard-draw-limit-lab/answer-key/' | relative_url }}) before the more complex Hazard workshops. It tests which site's normal draw number applies, the 2 + twice formula, company-size rounding, separate company limits, and the Hundreds of Butterflies / Twilight exceptions.
+
 Use the [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}) to sort a fixed eight-card hand against the Rivendell–Moria site path, choose five legal plays, and account for support-event timing. Open its [model answer]({{ '/scenarios/hazard-legality-workshop/answer-key/' | relative_url }}) only after making your decision.
 
 Use the new [Site-Keying Workshop]({{ '/scenarios/site-keying-workshop/' | relative_url }}) to distinguish lowercase region-type keys from uppercase site-type keys. It uses Moria to demonstrate why a card can be legal through the route's Wilderness regions even though Moria is not the Ruins & Lairs site type printed on the Hazard.
