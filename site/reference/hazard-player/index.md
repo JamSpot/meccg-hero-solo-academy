@@ -74,9 +74,9 @@ If you cannot answer, pause and check the card text and rules rather than automa
 
 ## Example: eight cards, five slots
 
-Moria has site number 3, so the Academy's solo procedure draws eight Hazard cards. A five-character company has a base Hazard Limit of five. You must evaluate all eight cards, but can play no more than five ordinary cards that count against the limit. If Twilight is among the draw and has a legal Environment target, it may also be played without using one of those five slots. Choose the most damaging legal combination; discard the unplayed cards as required by the chosen solo procedure.
+Moria's normal Hazard draw number is 3, so the Academy's solo procedure draws eight Hazard cards. A five-character company has a base Hazard Limit of five. You must evaluate all eight cards, but can play no more than five ordinary cards that count against the limit. If Twilight is among the draw and has a legal Environment target, it may also be played without using one of those five slots. Choose the most damaging legal combination; discard the unplayed cards as required by the chosen solo procedure.
 
-For a card-by-card distinction between region keys and site keys, complete the [Site-Keying Workshop]({{ '/scenarios/site-keying-workshop/' | relative_url }}) and check its [model answer]({{ '/scenarios/site-keying-workshop/answer-key/' | relative_url }}).
+Before resolving a draw, practise which site's printed Hazard number applies and how it differs from the Hazard Limit in the [Hazard Draw & Limit Lab]({{ '/scenarios/hazard-draw-limit-lab/' | relative_url }}). For a card-by-card distinction between region keys and site keys, complete the [Site-Keying Workshop]({{ '/scenarios/site-keying-workshop/' | relative_url }}) and check its [model answer]({{ '/scenarios/site-keying-workshop/answer-key/' | relative_url }}).
 
 This is an example under the Academy procedure, not a universal rule for every solo variant. Always follow the draw and discard instructions of the scenario you selected.
 
