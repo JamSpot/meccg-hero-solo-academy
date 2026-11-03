@@ -250,6 +250,14 @@ It also changes the solo draw calculation:
 
 If the five Dwarves also move to Moria in the same turn, they have a separate Movement/Hazard Phase: eight cards drawn and a base Hazard Limit of five. Do not combine the two companies' draws or limits. Gandalf's +1 corruption-check modifier does not change his company's Hazard Limit or the five-card Hero hand target.
 
+### Route length does not set the Hazard draw
+
+The number of regions travelled is used for movement legality and the company's site path; it does **not** multiply the Hazard draw. First apply the ordinary movement rule to identify the site whose dark-box Hazard number applies. A non-Haven destination uses the new site; a Haven destination uses the site of origin. Only then apply the Academy's solo formula, **2 + twice that normal number**.
+
+For example, the Moria → Rivendell leg uses Moria's normal number of 3 because Rivendell is a Haven, so the solo draw is eight. The separate Rivendell → Blue Mountain leg uses Blue Mountain's normal number of 1 because it is a non-Haven destination, so the solo draw is four. The route may be three regions in both cases, but the draw is not based on route length.
+
+Use the [Hazard Draw & Limit Lab]({{ '/scenarios/hazard-draw-limit-lab/' | relative_url }}) to practise this distinction and the separate Hazard Limit calculation.
+
 See [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) for the full two-company example and [practice scenario]({{ '/scenarios/gandalf-company/' | relative_url }}).
 
 ## Great-road is not the free-movement rule
