@@ -29,6 +29,8 @@ These are genuine physical cards. No proxies are intended.
 
 Keep this Hazard deck separate from the 36-card Hero play deck, Hero discard pile, Location deck and sideboard.
 
+Use the [integrated Campaign Walkthrough]({{ '/games/campaign-walkthrough/' | relative_url }}) to see how the fixed Hero and Hazard lists work together across the Moria mission, the two route choices and Book storage.
+
 ## What the Hazard deck teaches
 
 The Hazard deck is the opponent's toolbox. In solo play, you control it during the Hero company's Movement/Hazard Phase. Your task is to choose the most effective **legal** pressure, not to invent extra rules or target something merely because it looks dramatic.
