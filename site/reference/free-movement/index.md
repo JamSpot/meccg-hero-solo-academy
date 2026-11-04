@@ -321,7 +321,7 @@ For a complete worked example that joins route declaration, creature keying, sup
 10. **After the objective:** recalculate the next expedition instead of blindly pressing on.
 
 
-For a complete practice run that joins route legality, Hazard exposure, Hero hand management and the decision to enter a site, use the [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practice/' | relative_url }}) and the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }}).
+For a complete practice run that joins route legality, Hazard exposure, Hero hand management and the decision to enter a site, use the [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practice/' | relative_url }}) and the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }}). The [Campaign Walkthrough]({{ '/games/campaign-walkthrough/' | relative_url }}) then joins the first Moria journey, the Haven/non-Haven choice and the Blue Mountain storage sequence.
 
 ## The rule to remember
 
