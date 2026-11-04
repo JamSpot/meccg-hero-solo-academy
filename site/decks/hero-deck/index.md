@@ -11,6 +11,8 @@ For **Game 1 and the first Academy lessons**, use the historical **Dwarven Quest
 
 This is a genuine-card list: **no proxies are intended**. If you do not own a card, mark it as a card to obtain rather than substituting a random card.
 
+**The 36-card version is the fixed first-play build.** The historical Challenge Deck C has 38 cards in its Resource-plus-character/Wizard play deck, but the printed solitaire rules require at least 30 cards, not exactly 38. The Academy's 30 Resources + five non-Wizard characters + one Gandalf is legal and is not waiting on two extra cards. Keep it unchanged through the first three playtests; only consider expansion if the playtest log identifies a real weakness.
+
 ### 30 Hero resource cards
 
 | Quantity | Card |
