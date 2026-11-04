@@ -13,6 +13,8 @@ Use the visible header menu on every page to switch sections. This map also link
 - [Academy Learning Path]({{ '/academy/learning-path/' | relative_url }})
 - [Game 1 — First Expedition]({{ '/games/game-1/' | relative_url }})
 - [Game 1 teaching script]({{ '/games/game-1/teaching-script/' | relative_url }})
+- [Integrated Campaign Walkthrough]({{ '/games/campaign-walkthrough/' | relative_url }})
+- [Campaign Walkthrough — Model Answer]({{ '/games/campaign-walkthrough/answer-key/' | relative_url }})
 - [Games and lessons]({{ '/games/' | relative_url }})
 
 ## Build and check the decks
