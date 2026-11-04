@@ -217,6 +217,7 @@ Copy these prompts into a notebook after each practice game:
 - [Route Lab workbook]({{ '/scenarios/route-lab/' | relative_url }})
 - [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }})
 - [Solo rules used by the Academy]({{ '/reference/solo-ruleset/' | relative_url }})
+- [Integrated Campaign Walkthrough]({{ '/games/campaign-walkthrough/' | relative_url }})
 
 ---
 
