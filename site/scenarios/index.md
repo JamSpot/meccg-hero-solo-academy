@@ -15,6 +15,8 @@ After you understand the first expedition, complete [Gandalf — One Company or 
 
 After completing the first Moria expedition, use the [Book of Mazarbul — Second Expedition workbook]({{ '/scenarios/book-journey/' | relative_url }}) and its separate [model answer]({{ '/scenarios/book-journey/answer-key/' | relative_url }}). It connects the Hero mission, both non-Haven route legs, route-specific Hazard legality, Goblin-gate's optional site attack, the Haven alternative, and the correct timing for storing the Book at Blue Mountain.
 
+Then follow the [Integrated Campaign Walkthrough]({{ '/games/campaign-walkthrough/' | relative_url }}) and its [model answer]({{ '/games/campaign-walkthrough/answer-key/' | relative_url }}). It combines the fixed decks, normal Hero card draws, solo Hazard draws, site-entry decisions, both route branches and the next-Organization-Phase storage check in one sequence.
+
 Then use the [Route Lab workbook]({{ '/scenarios/route-lab/' | relative_url }}) and its [model answers]({{ '/scenarios/route-lab/answer-key/' | relative_url }}) to practise movement timing, site-path declaration, Hazard exposure, route legality, and expedition reassessment.
 
 Use the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }}) to combine Hero hand management, route legality, Hazard exposure, site-entry decisions, and campaign planning. It includes a separate model-answer page.
