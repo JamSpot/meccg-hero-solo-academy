@@ -13,6 +13,8 @@ This page is the rules contract for the Academy. It separates three layers that 
 
 The historical Challenge Deck was not designed specifically for this exact teaching scenario.
 
+The official printed solitaire procedure is in the **Solitaire Rules** section of *The Lidless Eye* rulebook. Its Part IV explains how to use MELE with METW; the Academy applies the solitaire procedure to the Hero/Wizard side while using current CoE rules and current card text for normal game interactions.
+
 ## Rules used for the first Academy game
 
 | Topic | Academy choice |
@@ -108,7 +110,7 @@ Likewise, this 30-Resource / 30-Hazard teaching setup does not automatically use
 ## References
 
 - [Council of Elrond — Official Game Rules](https://www.councilofelrond.org/rules/) — normal movement, site paths, card play and Hazard Limits.
-- [The Wizards rules — official Solitaire Rules section](https://meccg.com/rules/by-expansion/the-wizards/) — the Hero/Wizard solitaire procedure: separate Hazard deck, no Hazards in the play deck, five-card hand, 2 + twice the normal Hazard draw, and most-disadvantageous legal Hazard play.
+- [The Lidless Eye — Solitaire Rules section](https://meccg.com/rules/by-expansion/the-lidless-eye/) — the printed solitaire procedure: separate Hazard deck, no Hazards in the play deck, five-card hand, 2 + twice the normal Hazard draw, most-disadvantageous legal Hazard play, and the second-exhaustion scoring objective. Part IV explains how the MELE rules integrate with METW/Wizard play.
 - [Simon Cogan / Dragoncymru — My Solo Rules](https://meccg.wordpress.com/my-solo-rules/) — the Academy's supplementary discard/recycle handling for unplayed drawn Hazards and non-unique defeated creatures in a mission that is not a kill-MP challenge.
 - [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf) — historical card lists, including 30 Resources and eight additional characters.
 - [BoardGameGeek MECCG files archive](https://boardgamegeek.com/files/thing/1915) — alternative solo systems, including *The Road Goes Ever On*.
@@ -122,5 +124,7 @@ Likewise, this 30-Resource / 30-Hazard teaching setup does not automatically use
 Build the fixed Hero and Hazard lists, then use the Game 1 workbook to record the route, Hazard legality, site-entry decision and debrief.
 
 [Open Game 1 — First Expedition →]({{ '/games/game-1/' | relative_url }})
+
+After Game 1 and the Second Expedition workbook, use the [integrated Campaign Walkthrough]({{ '/games/campaign-walkthrough/' | relative_url }}) to join the rules into one sequence.
 
 </div>
