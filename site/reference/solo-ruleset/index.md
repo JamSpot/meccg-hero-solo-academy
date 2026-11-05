@@ -27,10 +27,16 @@ The official printed solitaire procedure is in the **Solitaire Rules** section o
 | Movement and card play | Follow the normal MECCG rules and current card text. |
 | Hazard draw | Use the solitaire formula below, not the normal multiplayer draw alone. |
 | Hazard Limit | Follow the normal rules. The solo draw does not increase the limit. |
-| Unplayed drawn Hazards | Discard them at the end of the Movement/Hazard Phase. |
+| Unplayed drawn Hazards | Academy supplement: discard them at the end of the Movement/Hazard Phase, following the separately published solo procedure by Simon Cogan / Dragoncymru. This discard step is not stated in the printed solitaire paragraph. |
 | Hazard deck exhausted | Shuffle its discard pile to form a new Hazard deck when required to continue drawing. |
 | Defeated Hazard creatures | This first mission is not a kill-MP challenge. Follow normal rules for unique creatures; put defeated non-unique creatures in the Hazard discard so they can return when the Hazard deck is recycled. Do not count kills as progress toward the Book mission. |
 | First-game objective | Complete the teaching expedition to acquire Book of Mazarbul at Moria, then record the arrival and recovery decision. This is a tutorial mission, not a claim that the full generic solo campaign victory condition has been played. |
+
+### Academy supplement: what happens to unused Hazard draws
+
+The printed solitaire rules specify the separate Hazard deck, the **2 + twice** draw, and the instruction to play as many drawn Hazards as possible within the company's Hazard Limit. The printed paragraph does not itself spell out what to do with the unused cards. For this Academy, we adopt the supplementary handling published in [Simon Cogan / Dragoncymru's My Solo Rules](https://meccg.wordpress.com/my-solo-rules/): discard drawn-but-unplayed Hazards at the end of that company's Movement/Hazard Phase, then recycle the Hazard discard when the Hazard deck is exhausted. This is an explicitly labelled Academy procedure, not a claim that the extra discard sentence appears in the official printed solitaire rules.
+
+Do not confuse an unused drawn card with an on-guard card: on-guard cards follow the normal Site Phase rules and need their own handling.
 
 If a card's printed wording or a current ruling differs from a shorthand explanation on an Academy page, use the card and rules.
 
