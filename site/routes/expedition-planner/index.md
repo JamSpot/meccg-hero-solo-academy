@@ -42,6 +42,20 @@ Keep these steps distinct:
 
 If the movement is illegal when the new site is revealed, it is negated; the company remains at its origin but still conducts its Movement/Hazard Phase. See the [official rules for Movement/Hazard Phase]({{ '/reference/free-movement/' | relative_url }}) and the [Council of Elrond rules](https://www.councilofelrond.org/rules/).
 
+## Site-entry checkpoint — inspect the Hero site card
+
+Arrival is not entry. After the Movement/Hazard Phase, check the actual Hero site card and then decide whether to enter. If you decline, the Site Phase ends immediately and the company cannot take other Site Phase actions that turn.
+
+| Hero destination | Normal Hazard draw | Solo Hazard draw | Site attack if entered |
+|---|---:|---:|---|
+| Moria | 3 | 8 | Orcs — 4 strikes at 7 prowess |
+| Goblin-gate | 2 | 6 | Orcs — 3 strikes at 6 prowess |
+| Blue Mountain Dwarf-hold | 1 | 4 | None |
+
+These are Hero site-card values. The Blue Mountain card used by this Academy is a Free-hold in Númeriador with a 1/1 normal draw and no automatic attack; do not use Minion site data. Site automatic attacks do not consume Hazard Limit slots. A Hazard card that modifies an automatic attack is a separate Hazard play and normally does count.
+
+Use the [Site Entry & Automatic Attack Lab]({{ '/scenarios/site-entry-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/site-entry-lab/answer-key/' | relative_url }}) to practise the decision.
+
 ## Worked plan A — Rivendell to Moria
 
 **Mission:** acquire Book of Mazarbul.  
