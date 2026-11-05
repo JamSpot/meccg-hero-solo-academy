@@ -34,6 +34,16 @@ Each Hazard card that counts against the limit uses one slot. The base limit is 
 ### 7 — FILL THE AVAILABLE LEGAL OPPORTUNITY
 Under this Academy's selected solo procedure, play as many of the drawn Hazards as possible within the limit. Do not play illegal cards, exceed the limit or ignore printed timing requirements. If several combinations are legal, choose the most disadvantageous one.
 
+## Site automatic attacks are separate from Hazard plays
+
+Moria's four Orc strikes at 7 prowess and Goblin-gate's three Orc strikes at 6 prowess are automatic attacks printed on the Hero site cards. They are faced in the Site Phase if the company chooses to enter; they are not Hazard cards and do not consume Hazard Limit slots.
+
+A Hazard card that legally modifies or adds to an automatic attack is still a Hazard play and normally counts against the Hazard Limit. The Hazard side can legally target an automatic attack at the company's new site during the Movement/Hazard Phase even if the Hero player later declines to enter. Check the card's exact target and timing.
+
+The Hero Blue Mountain Dwarf-hold is a Free-hold with a normal Hazard draw of one and no automatic attack. Do not use the different Minion site-card data in this Hero project.
+
+Practise the distinction in the [Site Entry & Automatic Attack Lab]({{ '/scenarios/site-entry-lab/' | relative_url }}), then check the [model answer]({{ '/scenarios/site-entry-lab/answer-key/' | relative_url }}).
+
 ## How to tell which Hazards are relevant
 
 Do not decide relevance by theme or by whether a card looks scary. A Hazard is a candidate only if it meets the rules and the card's own requirements in the current game state.
