@@ -125,6 +125,16 @@ The solo procedure directs you to play **as many of the drawn Hazards as you can
 
 Do not automatically play the first five cards. Check legality and sequence, then choose the strongest legal combination. Do not deliberately leave a useful legal slot empty merely because a card seems less dramatic. If you are pausing for a teaching discussion, pause before committing the play and explain the competing choices.
 
+## A site automatic attack is not a Hazard play
+
+Moria's four Orc strikes at 7 prowess and Goblin-gate's three Orc strikes at 6 prowess are **site automatic attacks**. They are faced in the Site Phase if the company chooses to enter. They do not consume Hazard Limit slots.
+
+A Hazard card that legally modifies or adds to an automatic attack is still a Hazard play and normally counts against the Hazard Limit. The Hazard side may play a legal effect targeting an automatic attack at the company's new site during the Movement/Hazard Phase, even if the Hero player later declines to enter. Check the card's exact target and timing.
+
+The Hero version of Blue Mountain Dwarf-hold is a Free-hold with a normal Hazard draw of 1 and **no automatic attack**. Do not import the different Minion site-card data into this Hero deck.
+
+Practise the separate arrival and entry decisions in the [Site Entry & Automatic Attack Lab]({{ '/scenarios/site-entry-lab/' | relative_url }}), with a separate [model answer]({{ '/scenarios/site-entry-lab/answer-key/' | relative_url }}).
+
 ## Test the Hazard deck consistently
 
 Use the [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}) for a complete eight-card hand with model answers. Then use the [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }}) to practise legality, timing and sequencing, followed by the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }}) to connect Hazard choices to the Hero company's objective and condition. Finally, use the [Solo Playtest Protocol]({{ '/scenarios/solo-playtest/' | relative_url }}) to record legal plays, unused cards, Hazard Limit usage and whether the route made particular creatures legal. Keep the list fixed during baseline games so results are comparable.
@@ -211,12 +221,12 @@ The figures assume the normal Challenge Deck C site cards and a five-character c
 6. Do not reveal or pre-arrange the draw order.
 7. During each solo Movement/Hazard Phase, draw according to the selected solo procedure, then apply the normal Hazard Limit and card legality.
 
-## After each Hazard phase: discard and recycle correctly
+## After each Hazard phase: Academy discard convention and recycling
 
-- Hazard cards drawn but not played are discarded at the end of that Movement/Hazard Phase.
+- Under the Academy's selected supplementary procedure, Hazard cards drawn but not played are discarded at the end of that Movement/Hazard Phase. This handling follows [Simon Cogan / Dragoncymru's My Solo Rules](https://meccg.wordpress.com/my-solo-rules/); the printed solitaire paragraph gives the draw/play formula but does not state this extra discard step.
 - When the Hazard deck is exhausted and more cards must be drawn, shuffle the Hazard discard pile to form a new Hazard deck.
 - In this Book of Mazarbul mission, non-unique defeated creatures go to the Hazard discard so they can return when the deck is recycled. Follow the normal rules for unique creatures; this mission does not award kill MPs as its victory objective.
-- Keep the Hero play-deck discard and Hazard discard separate. Never put unplayed drawn Hazards back into the deck immediately unless the selected scenario explicitly tells you to.
+- Keep the Hero play-deck discard and Hazard discard separate. Do not return unused drawn Hazards straight to the deck.
 
 ## Multi-company solo play — resolve each company separately
 
