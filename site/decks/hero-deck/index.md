@@ -7,7 +7,7 @@ title: Hero Deck Construction
 
 ## The exact teaching card list
 
-For **Game 1 and the first Academy lessons**, use the historical **Dwarven Quest (Pallando) Challenge Deck C** as our verified teaching baseline. The 30-card table below is the **Resource portion**, not the whole shuffled Hero play deck. Under the published solitaire procedure, Hazards are kept in a separate deck; resources and character/Wizard cards remain together in the Hero play deck. For the historical Challenge Deck C that means 38 cards. The active Academy adapts the character/Wizard portion for Gandalf: **36 Hero play-deck cards: 30 Resources + five non-Wizard characters + Gandalf**. The 30-card Resource list remains locked. The solo hand size is five cards; it does not change either card count.
+For **Game 1 and the first Academy lessons**, use the historical **Dwarven Quest (Pallando) Challenge Deck C** as our verified teaching baseline. The 30-card table below is the **Resource portion**, not the whole shuffled Hero play deck. Under the published solitaire procedure, Hazards are kept in a separate deck; resources and character/Wizard cards remain together in the Hero play deck. For the historical Challenge Deck C that means 38 cards. The active Academy adapts the character/Wizard portion for Gandalf: **36 Hero play-deck cards: 30 Resources + five non-Wizard characters + Gandalf**. The 30-card Resource list remains locked. The Hero Resource hand size is five cards; the Hazard deck is separate and its cards are drawn for the current Movement/Hazard Phase. The hand size does not change either deck count.
 
 This is a genuine-card list: **no proxies are intended**. If you do not own a card, mark it as a card to obtain rather than substituting a random card.
 
@@ -329,6 +329,8 @@ The list remains the historical Challenge Deck C teaching baseline. Do not quiet
 ### Practice the card decisions
 
 Use the new [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practice/' | relative_url }}) to practise the starting-company skills, Haven timing, Scout-only actions, the Moria automatic attack, item-search risks and the difference between Great-road and normal Region Movement. Attempt the questions before opening its separate model answer.
+
+Use the [Site Entry & Automatic Attack Lab]({{ '/scenarios/site-entry-lab/' | relative_url }}) to practise the moment when the company chooses whether to enter Moria, why the Orc automatic attack is separate from the Hazard Limit, and why Book storage at Blue Mountain happens during the Organization Phase.
 
 ## How to physically construct it
 
