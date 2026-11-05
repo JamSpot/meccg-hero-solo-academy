@@ -15,8 +15,9 @@ This is a teaching walkthrough, not a scripted game result. Shuffle normally, us
 Keep these three layers separate:
 
 1. **Official MECCG rules:** movement legality, site paths, normal card draws, combat, site entry, corruption and card text.
-2. **Official solitaire procedure:** a separate Hazard deck, a five-card hand, and the solo Hazard draw and play instructions from the solitaire rules in *The Lidless Eye* rulebook.
-3. **Academy mission:** the Dwarven Quest teaching lists adapted to one Gandalf-led Hero play deck, with acquiring and storing Book of Mazarbul as the tutorial objective.
+2. **Official solitaire procedure:** a separate Hazard deck, a five-card Hero hand, and the solo Hazard draw and play instructions from the solitaire rules in *The Lidless Eye* rulebook.
+3. **Academy supplementary Hazard handling:** discard drawn-but-unplayed Hazards at the end of the company's Movement/Hazard Phase, following Simon Cogan / Dragoncymru's published solo procedure. The printed solitaire paragraph does not state this extra discard step; it is labelled here as an Academy choice.
+4. **Academy mission:** the Dwarven Quest teaching lists adapted to one Gandalf-led Hero play deck, with acquiring and storing Book of Mazarbul as the tutorial objective.
 
 The official solitaire objective is to accumulate as many marshalling points as possible by the time the play deck has been exhausted for the second time. The Book mission below is a **scenario objective for learning**, not a replacement for that general solitaire scoring rule.
 
@@ -31,10 +32,10 @@ Use the fixed Academy lists:
 - **Location deck — 15 sites:** keep these separate and unshuffled.
 - **Starting company:** Thorin II, Dori, Kíli, Glóin and Óin at Rivendell.
 - **Starting items:** Cram with Thorin II and Cram with Óin.
-- **Hand size:** five cards for the solitaire game.
+- **Hero hand:** five cards. Hazard cards are drawn for the current Movement/Hazard Phase and handled separately; they are not mixed into the Hero hand.
 - **Control:** Thorin II controls Dori and Kíli; Glóin controls Óin.
 
-Keep Hero and Hazard discard piles separate. Do not stack the Hazard deck in a known order, select a convenient draw, or return unplayed drawn Hazards straight to the deck.
+Keep Hero and Hazard discard piles separate. Do not stack the Hazard deck in a known order or select a convenient draw. Under the Academy's supplementary handling, unused drawn Hazards go to the Hazard discard at the end of the phase, not straight back into the deck.
 
 See [Hero Deck Construction]({{ '/decks/hero-deck/' | relative_url }}) and [Hazard Deck Construction]({{ '/decks/hazard-deck/' | relative_url }}) for the exact quantities.
 
@@ -69,11 +70,13 @@ Do not declare the detailed site path yet. During Organization, declare the dest
    - Solo Hazard side: draw **2 + (2 × 3) = 8** Hazard cards.
 6. **Resolve passive conditions.** Follow the normal rules and card text.
 7. **Play Hazards.** Inspect all eight drawn cards. Check keying, target, requirements and timing. Play as many as possible within the five-slot Hazard Limit, choosing the most disadvantageous legal combination. Do not play an illegal card to fill a slot.
-8. **End the phase.** Discard drawn Hazards that were not played. Reset the Hero hand to the solo hand size of five, following the solitaire procedure.
+8. **End the phase.** Under the Academy's supplementary discard convention, discard drawn Hazards that were not played; do not return them directly to the deck. Reconcile the Hero hand to the solo hand size of five, following the solitaire procedure.
 
 The site path matters. The three Wilderness regions can satisfy double-Wilderness requirements, and the named region Redhorn Gate can matter to a creature keyed by region name. Check each actual Hazard card; do not decide legality from theme alone.
 
 ### Site Phase — decide whether to enter Moria
+
+For a separate drill on the choice to enter, the site's automatic attack, and what the company gives up by declining, use the [Site Entry & Automatic Attack Lab]({{ '/scenarios/site-entry-lab/' | relative_url }}). Its [model answer]({{ '/scenarios/site-entry-lab/answer-key/' | relative_url }}) distinguishes site attacks from Hazard Limit plays.
 
 Arrival and site entry are separate decisions.
 
