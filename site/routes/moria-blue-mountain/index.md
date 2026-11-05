@@ -12,6 +12,8 @@ title: Moria → Blue Mountain Dwarf-hold
 
 **Why go there?** Book of Mazarbul is worth 1 marshalling point while in play, but its text allows it to be stored at a Dwarf-hold for **5 marshalling points**. Blue Mountain Dwarf-hold is the planned storage destination in this campaign.
 
+**Use the Hero site card from the Academy Location deck:** Blue Mountain Dwarf-hold is a Free-hold in Númeriador, with a normal draw of 1 Hazard / 1 Hero Resource and no automatic attack. A different Minion site version has different printed data and is not used in this project.
+
 The Book also has a Sage-only hand-size ability: if its bearer is a Sage, it can be tapped during the Organization Phase to increase hand size by one until the next Untap Phase. The five starting Dwarves have no Sage skill, so do not count on that bonus in Game 1.
 
 ## The important legality check
