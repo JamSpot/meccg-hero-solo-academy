@@ -15,6 +15,8 @@ Use the visible header menu on every page to switch sections. This map also link
 - [Game 1 teaching script]({{ '/games/game-1/teaching-script/' | relative_url }})
 - [Integrated Campaign Walkthrough]({{ '/games/campaign-walkthrough/' | relative_url }})
 - [Campaign Walkthrough — Model Answer]({{ '/games/campaign-walkthrough/answer-key/' | relative_url }})
+- [Site Entry & Automatic Attack Lab]({{ '/scenarios/site-entry-lab/' | relative_url }})
+- [Site Entry & Automatic Attack Lab — Model Answer]({{ '/scenarios/site-entry-lab/answer-key/' | relative_url }})
 - [Games and lessons]({{ '/games/' | relative_url }})
 
 ## Build and check the decks
@@ -61,6 +63,8 @@ Use the visible header menu on every page to switch sections. This map also link
 - [Expedition Decision Lab answer key]({{ '/scenarios/expedition-decision-lab/answer-key/' | relative_url }})
 - [Hazard Draw & Limit Lab]({{ '/scenarios/hazard-draw-limit-lab/' | relative_url }})
 - [Hazard Draw & Limit Lab — model answer]({{ '/scenarios/hazard-draw-limit-lab/answer-key/' | relative_url }})
+- [Site Entry & Automatic Attack Lab]({{ '/scenarios/site-entry-lab/' | relative_url }})
+- [Site Entry & Automatic Attack Lab — model answer]({{ '/scenarios/site-entry-lab/answer-key/' | relative_url }})
 - [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }})
 - [Hazard Legality Workshop — model answers]({{ '/scenarios/hazard-legality-workshop/answer-key/' | relative_url }})
 - [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }})
