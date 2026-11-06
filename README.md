@@ -6,7 +6,8 @@ A structured solo-learning system for the **conventional Hero-vs-Hazard game** i
 https://jamspot.github.io/meccg-hero-solo-academy/
 
 ## Academy baseline
-- Conventional Hero solo play: one Hero company against a separate Hazard deck.
+- Conventional Hero solo play: one player controls one or more Hero companies against a separate Hazard deck; the first lesson uses one company.
+- Active first-play Hero play deck: 36 cards (30 Resources, five non-Wizard characters and one Gandalf); separate 30-card Hazard deck and 15-card Location deck.
 - Hero only.
 - Gandalf as the Academy Wizard.
 - Primary card pool: The Wizards + The Dragons.
@@ -15,7 +16,7 @@ https://jamspot.github.io/meccg-hero-solo-academy/
 - Dragon content is environmental/advanced rather than Dragon-heavy beginner play.
 
 ## What this project is not
-This repository is **not** the Arda format project. Its 38-card Hero teaching deck, separate 30-card Hazard deck, Rivendell-to-Moria first expedition and solo Hazard procedure are not Arda rules or Arda pile lists.
+This repository is **not** the Arda format project. Its active 36-card Gandalf-led Hero play deck, separate 30-card Hazard deck, Rivendell-to-Moria first expedition and conventional solo procedure are not Arda rules or Arda pile lists. The historical Challenge Deck C reference had 38 Resource/character cards; the Academy deliberately uses a 36-card Gandalf adaptation rather than preserving the original Pallando package.
 
 For Arda card pools, Arda rules and Arda-specific solitaire variants, use the separate [MECCG Arda Master Database](https://jamspot.github.io/meccg-arda-master-database/).
 
