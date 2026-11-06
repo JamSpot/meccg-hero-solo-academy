@@ -13,7 +13,7 @@ This page is the rules contract for the Academy. It separates three layers that 
 
 The historical Challenge Deck was not designed specifically for this exact teaching scenario.
 
-The official printed solitaire procedure is in the **Solitaire Rules** section of *The Lidless Eye* rulebook. Its Part IV explains how to use MELE with METW; the Academy applies the solitaire procedure to the Hero/Wizard side while using current CoE rules and current card text for normal game interactions.
+The official printed solitaire procedure appears in the **Solitaire Rules** section of both *The Wizards* and *The Lidless Eye* rulebooks. For this Hero course, *The Wizards* is the direct rules reference; *The Lidless Eye* reproduces the same basic solo hand-size and Hazard-draw procedure. The Academy uses the Hero/Wizard rules with current Council of Elrond rules and current card text for normal game interactions.
 
 ## Rules used for the first Academy game
 
@@ -53,6 +53,10 @@ For the Game 1 journey to Moria, the normal Hazard draw number is **3**, so:
 **2 + (2 × 3) = 8 Hazard cards.**
 
 The number used for the normal draw depends on the standard rules for that movement. For example, when moving to a non-Haven site, the draw is normally based on the new site; when moving to a Haven, the normal rules use the site of origin. Apply the normal rule first, then double that number and add two for the solo draw.
+
+### Companies that do not move
+
+Under normal MECCG rules, a company that stays put still has a Movement/Hazard Phase, but no cards are drawn based on movement; creatures may only be keyed to the company's current site, while Hazard events may still be played if their text allows. The generic printed solitaire paragraph says to draw for each company but does not explicitly state which site's normal draw number to use when a company does not move. A published solo scenario, [The Wood of Greenleaves](https://meccg.wordpress.com/2017/07/25/the-wood-of-greenleaves/), explicitly instructs a company remaining in Lórien to draw up to four Hazards. Treat that as a scenario-specific rule, not a universal rule to import into every game. Game 1 has one moving company, so this edge case does not affect the first lesson; later Academy scenarios with stationary companies will state their draw explicitly.
 
 **Twilight exception:** the Challenge Deck C Hazard list contains two Twilight cards. Twilight can be played at any point during either player's turn, cancels one Environment card in play or declared earlier in the same chain of effects, and does **not** count against the Hazard Limit. It is otherwise a Hazard, and it can also be played as a Resource. It still needs a legal Environment target.
 
