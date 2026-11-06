@@ -120,7 +120,8 @@ Likewise, this 30-Resource / 30-Hazard teaching setup does not automatically use
 ## References
 
 - [Council of Elrond — Official Game Rules](https://www.councilofelrond.org/rules/) — normal movement, site paths, card play and Hazard Limits.
-- [The Lidless Eye — Solitaire Rules section](https://meccg.com/rules/by-expansion/the-lidless-eye/) — the printed solitaire procedure: separate Hazard deck, no Hazards in the play deck, five-card hand, 2 + twice the normal Hazard draw, most-disadvantageous legal Hazard play, and the second-exhaustion scoring objective. Part IV explains how the MELE rules integrate with METW/Wizard play.
+- [The Wizards — Solitaire Rules section](https://meccg.com/rules/by-expansion/the-wizards/) — the direct Hero/Wizard reference for the printed solitaire procedure: separate Hazard deck, no Hazards in the play deck, five-card hand, 2 + twice the normal Hazard draw, most-disadvantageous legal Hazard play, and the second-exhaustion scoring objective.
+- [The Lidless Eye — Solitaire Rules section](https://meccg.com/rules/by-expansion/the-lidless-eye/) — reproduces the same basic solitaire procedure. Part IV explains how the MELE rules integrate with METW/Wizard play; its Ringwraith-specific rules are not part of this Hero course.
 - [Simon Cogan / Dragoncymru — My Solo Rules](https://meccg.wordpress.com/my-solo-rules/) — the Academy's supplementary discard/recycle handling for unplayed drawn Hazards and non-unique defeated creatures in a mission that is not a kill-MP challenge.
 - [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf) — historical card lists, including 30 Resources and eight additional characters.
 - [BoardGameGeek MECCG files archive](https://boardgamegeek.com/files/thing/1915) — alternative solo systems, including *The Road Goes Ever On*.
