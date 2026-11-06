@@ -14,7 +14,7 @@ For the declared Region Movement path **Rhudaur → Hollin → Redhorn Gate**, a
 
 | Card | Why it is a legal candidate in this scenario |
 |---|---|
-| Cave Worm ×2 | Cave Worm may be keyed by name to Redhorn Gate. Region Movement includes the names of all regions in the declared site path, so each copy has a valid named-region key. |
+| Cave Worm ×2 | Each copy may be keyed by name to Redhorn Gate. Both copies are legal candidates on this path; count each separately against the Hazard Limit. |
 | Giant Spiders | Its double-Wilderness key is satisfied by the three Wilderness regions. Its additional site-type keys apply only at Ruins & Lairs, Shadow-holds or Dark-holds in specified Mirkwood regions; Moria is not one of those regions, so use the route's double-Wilderness key here. |
 | Lesser Spiders | Its keys include Wilderness and Shadow-land region types, plus a Ruins & Lairs [{R}] site key. It is legal here via the route's Wilderness [{w}] regions. **Moria is a Shadow-hold [{S}], not a Ruins & Lairs site**, so do not use Moria as the {R} key. |
 | Neeker-breekers | Its keys include several region types, including Wilderness, plus a Ruins & Lairs [{R}] site key. It is legal here via the route's Wilderness [{w}] regions. **Moria is a Shadow-hold [{S}], not a Ruins & Lairs site**, so do not use Moria as the {R} key. Its one-strike-per-character wording must be applied exactly. |
@@ -36,7 +36,7 @@ For the stated five-Dwarf starting company, a strong model line to test is:
 
 This uses all five available slots. Both support events improve the relevant attacks while in effect; the Spider attacks also benefit from the extra strike provided by Wake of War. Watcher in the Water has each character face one strike, so the official rules' special rule for attacks that specify one strike per character means a strike-count modifier does not add extra strikes to that attack. Its prowess can still be modified.
 
-The two Cave Worms and Neeker-breekers are legal but are left out of this model line because the limit is full. Cave Worm's single, very high-prowess strike is a real alternative to evaluate—not a card you should dismiss automatically. If the company's condition, available Resources or relevant modifiers change, compare the actual strike-by-strike consequences again. The solo rule requires the most disadvantageous legal combination for the *current* board, not a memorised five-card script.
+The two Cave Worms and Neeker-breekers are legal but are left out of this high-volume model line because the limit is full. Do not dismiss the Cave Worms: each is a Drake with one 16-prowess strike, and neither Full of Froth and Rage nor Wake of War boosts it. A second credible line to compare is **Full of Froth and Rage → Wake of War → Cave Worm → Cave Worm → Giant Spiders**. The two Cave Worm attacks can force the company to spend support and tap characters before the buffed Spider attack; the events then apply to Giant Spiders. This trades the many lower-prowess strikes of Lesser Spiders and Watcher in the Water for two very high-prowess single strikes. Which line is more damaging depends on the company's actual condition, available Resources and relevant modifiers. The solo rule requires the most disadvantageous legal combination for the *current* board, not a memorised five-card script.
 
 ## 3. Sequence matters
 
