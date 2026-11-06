@@ -29,7 +29,7 @@ Use the new [Game 1 Turn Workbook]({{ '/games/game-1/turn-workbook/' | relative_
 
 Thorin II controls Dori and Kíli. Glóin controls Óin.
 
-Use the starting equipment/resources specified by the chosen Dwarven teaching list.
+Use the two Cram items from the Challenge Deck C setup: one with Thorin II and one with Óin.
 
 ## Before the first turn
 
@@ -281,7 +281,7 @@ At the end of the game, answer:
 
 > **Did I choose my route because it was legal, or because it was good for the whole expedition?**
 
-That question is the bridge from learning the rules to actually learning to play Hero Arda.
+That question is the bridge from learning the rules to actually learning the conventional Hero solo game.
 
 ---
 
