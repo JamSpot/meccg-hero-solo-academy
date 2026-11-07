@@ -117,6 +117,12 @@ The [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relat
 
 Likewise, this 30-Resource / 30-Hazard teaching setup does not automatically use the generic solitaire game's full victory condition. **Game 1 is a mission-based tutorial** centred on Book of Mazarbul. Before using the cards for a longer campaign, write down the campaign's victory condition, game-end condition and any additional scenario rules. Do not silently switch between a mission-based game and an MP race.
 
+## Switching from the Book tutorial to the full scoring game
+
+The first Book of Mazarbul mission deliberately uses a mission-specific handling for defeated non-unique Hazard creatures so that they can recycle and continue to teach the Hazard deck. **Do not use that exception in the full scoring game.** Under normal scoring rules, a defeated Hazard creature is placed in the Hero marshalling-point pile and its printed kill MPs count; it is not returned to the Hazard discard. The solo scoring objective is to accumulate as many MPs as possible by the time the Hero play deck is exhausted for the second time.
+
+The complete procedure is in the [Full Solo Scoring Trial]({{ '/scenarios/full-solo-scoring-trial/' | relative_url }}). It also separates Hero-deck exhaustion from Hazard-deck recycling, which are not the same event. Keep the sideboard closed for the first scoring run so the fixed 36-card Hero play deck remains comparable.
+
 ## References
 
 - [Council of Elrond — Official Game Rules](https://www.councilofelrond.org/rules/) — normal movement, site paths, card play and Hazard Limits.
