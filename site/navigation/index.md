@@ -69,6 +69,7 @@ Use the visible header menu on every page to switch sections. This map also link
 - [Hazard Legality Workshop — model answers]({{ '/scenarios/hazard-legality-workshop/answer-key/' | relative_url }})
 - [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }})
 - [Solo Playtest Protocol]({{ '/scenarios/solo-playtest/' | relative_url }})
+- [Full Solo Scoring Trial — Second Deck Exhaustion]({{ '/scenarios/full-solo-scoring-trial/' | relative_url }})
 
 ## Return to the homepage
 - [MECCG Hero Solo Academy home]({{ '/' | relative_url }})
