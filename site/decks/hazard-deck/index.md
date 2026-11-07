@@ -38,6 +38,16 @@ The fixed list contains **16 creatures (53%)** and **14 non-creature Hazards (47
 
 In the Book tutorial, the Academy's mission procedure returns defeated non-unique creatures to the Hazard discard. In the full scoring game, defeated creatures go to the Hero MP pile instead. The Hazard deck therefore becomes more event-heavy as creatures are defeated and removed from future cycles. See the [Full Solo Scoring Trial]({{ '/scenarios/full-solo-scoring-trial/' | relative_url }}) before changing between those two modes.
 
+### Twilight is conditional in the first-play build
+
+The active 36-card Hero main deck contains **no Environment Resource**. The Hero sideboard has Gates of Morning, which is an Environment, but the sideboard is kept closed for Game 1 and the first fixed-deck scoring trial. Therefore, unless another Environment card enters play, a drawn **Twilight has no legal target** in the baseline game. Do not play it against Fellowship, Full of Froth and Rage, Wake of War or another non-Environment event. Under the Academy's solo handling, an unplayable drawn Twilight is discarded with the other unused Hazards at the end of the phase. It becomes useful when a later campaign brings an Environment such as Gates of Morning into play.
+
+### Candidate for later tuning — Arouse Minions
+
+A non-Dragon option worth testing **after** the baseline games is **Arouse Minions** (The Wizards). It is a Hazard short-event playable on a Shadow-hold or Dark-hold and increases one automatic attack at that site by +3 prowess for the turn. Moria and Goblin-gate are both Shadow-holds, so it would add a direct, route-relevant threat to their Orc automatic attacks without adding a Dragon creature.
+
+A controlled first experiment would be **one Arouse Minions replacing one Twilight**, leaving one Twilight available for future Environment cards. This is only a proposed v1.1 test, not part of the locked 30-card list. Do not change the baseline list during the first three recorded games, and do not buy the card just for this test until your physical collection has been checked. If you later test it, count it against the Hazard Limit and remember that the Hero may choose not to enter the site.
+
 Keep this Hazard deck separate from the 36-card Hero play deck, Hero discard pile, Location deck and sideboard.
 
 Use the [integrated Campaign Walkthrough]({{ '/games/campaign-walkthrough/' | relative_url }}) to see how the fixed Hero and Hazard lists work together across the Moria mission, the two route choices and Book storage.
