@@ -17,6 +17,8 @@ After completing the first Moria expedition, use the [Book of Mazarbul — Secon
 
 Then follow the [Integrated Campaign Walkthrough]({{ '/games/campaign-walkthrough/' | relative_url }}) and its [model answer]({{ '/games/campaign-walkthrough/answer-key/' | relative_url }}). It combines the fixed decks, normal Hero card draws, solo Hazard draws, site-entry decisions, both route branches and the next-Organization-Phase storage check in one sequence.
 
+After the Book campaign is familiar, run the [Full Solo Scoring Trial — Second Deck Exhaustion]({{ '/scenarios/full-solo-scoring-trial/' | relative_url }}). It switches from the mission tutorial to the printed solitaire scoring objective, explains MP sources, defeated-creature handling, and the difference between Hero-deck exhaustion and Hazard-deck recycling.
+
 Before making your own entry decisions, complete the [Site Entry & Automatic Attack Lab]({{ '/scenarios/site-entry-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/site-entry-lab/answer-key/' | relative_url }}). It separates arrival, the optional Site Phase entry decision, automatic attacks, Hazard Limit plays and Book storage timing, using the Hero versions of Moria, Goblin-gate and Blue Mountain Dwarf-hold.
 
 Then use the [Route Lab workbook]({{ '/scenarios/route-lab/' | relative_url }}) and its [model answers]({{ '/scenarios/route-lab/answer-key/' | relative_url }}) to practise movement timing, site-path declaration, Hazard exposure, route legality, and expedition reassessment.
