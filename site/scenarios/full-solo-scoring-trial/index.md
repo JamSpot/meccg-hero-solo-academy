@@ -101,7 +101,7 @@ When the Hero play deck is exhausted for the **second time**, stop the scoring t
 
 ### Hazard deck
 
-The Hazard deck is separate. Under the Academy's explicitly labelled supplement from [My Solo Rules]({{ 'https://meccg.wordpress.com/my-solo-rules/' }}), drawn-but-unplayed Hazards are discarded at the end of that company's Movement/Hazard Phase, and the Hazard discard is shuffled to form a new Hazard deck when required.
+The Hazard deck is separate. Under the Academy's explicitly labelled supplement from [My Solo Rules](https://meccg.wordpress.com/my-solo-rules/), drawn-but-unplayed Hazards are discarded at the end of that company's Movement/Hazard Phase, and the Hazard discard is shuffled to form a new Hazard deck when required.
 
 In scoring mode, defeated Hazard creatures are in the Hero MP pile, not the Hazard discard. They do not return when the Hazard deck is recycled. The Hazard deck can therefore become more event-heavy as the game progresses. That is an intended consequence of earning kill MPs, not a reason to put defeated creatures back.
 
@@ -155,9 +155,11 @@ For Book of Mazarbul, count **1 MP while it is in play**. If successfully stored
 
 ### Scoring record
 
+At setup, the five starting Dwarves represent **7 printed character MPs**: Thorin II 3, Dori 0, Kíli 1, Glóin 2 and Óin 1. Record those MPs while the characters remain eligible to count, and update the total if a character later leaves play.
+
 | Checkpoint | Hero play-deck exhaustion | Character MPs | Item / stored MPs | Faction MPs | Ally MPs | Hazard kill MPs | Other MPs | Total |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Start | 0 | | | | | | | |
+| Start | 0 | **7** | 0 | 0 | 0 | 0 | 0 | **7** |
 | First exhaustion | 1 | | | | | | | |
 | Second exhaustion | 2 | | | | | | | |
 
