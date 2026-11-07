@@ -5,7 +5,7 @@ title: Solo Playtest Protocol — Hero and Hazard Decks
 
 # Solo Playtest Protocol — Hero and Hazard Decks
 
-This protocol turns the Academy's two 30-card teaching decks into a repeatable learning exercise. It is designed for genuine physical cards and the Academy's explicitly labelled solo teaching hybrid. It does not claim that the lists are tournament-optimised or that the hybrid is an official multiplayer ruleset.
+This protocol turns the Academy's 36-card Hero play deck (30 Resources plus six character/Wizard cards) and separate 30-card Hazard deck into a repeatable learning exercise. It is designed for genuine physical cards and the Academy's explicitly labelled solo teaching hybrid. It does not claim that the lists are tournament-optimised or that the hybrid is an official multiplayer ruleset.
 
 ## Purpose
 
@@ -19,7 +19,7 @@ After three short sessions, aim to answer:
 
 ## Before you start
 
-Use a **five-card hand** for this solo teaching setup. Keep separate: the 30-card Hero Resource deck, the 30-card Hazard deck, Location deck, character pool, Hero and Hazard discard piles, and any sideboard. Keep the sideboard out of the beginner test unless the selected rules explicitly call for it.
+Use a **five-card hand** for this solo teaching setup. Keep separate: the 36-card Hero play deck, the 30-card Hazard deck, Location deck, character pool, Hero and Hazard discard piles, and any sideboard. Keep the sideboard out of the beginner test unless the selected rules explicitly call for it.
 
 Read [Which Solo Rules Are We Using?]({{ '/reference/solo-ruleset/' | relative_url }}) first. The Academy combines normal MECCG rules for movement, site paths, card legality and Hazard Limits with a separately identified solitaire draw procedure. Do not silently import individual rules from another solo system.
 
