@@ -109,6 +109,22 @@ After the third game, distinguish:
 - **Useful interaction confirmed:** cite the card wording or ruling.
 - **Needs further research:** do not promote it to a recommended combo yet.
 
+## Drill 12 — Twilight with no Environment target
+
+You draw **Twilight** during the first-play baseline. No Environment card is in play or declared earlier in the current chain of effects. The active 36-card Hero main deck has no Environment Resource; Gates of Morning is in the sideboard and is not being used in this baseline.
+
+**Task:** Can Twilight be played just because it does not count against the Hazard Limit? Can it be held for a later company or phase?
+
+**Model principle:** no. Twilight needs an Environment card to cancel. Its no-limit status does not remove the target requirement. Under the Academy's supplementary solo procedure, discard it with the other unplayed drawn Hazards at the end of the company's Movement/Hazard Phase. It becomes useful if a later campaign introduces an Environment target, such as Gates of Morning.
+
+## Drill 13 — Arouse Minions (candidate card, not in the active list)
+
+For a future controlled test only, imagine one **Arouse Minions** has replaced one Twilight. The company moves to Moria, whose Hero site card is a Shadow-hold.
+
+**Task:** Is Arouse Minions legal on Moria? What does it modify, and what happens if the Hero company declines to enter the site?
+
+**Model principle:** it is a Hazard short-event playable on a Shadow-hold or Dark-hold. It increases one automatic attack at the target site by +3 prowess for the turn; it does not add strikes. It counts against the Hazard Limit. If the company later declines to enter Moria, the site automatic attack is not faced that turn, so the event may have produced no practical effect. This card is a non-Dragon candidate for later tuning, not part of the locked 30-card baseline. Do not add it until the first three baseline games are recorded.
+
 ## Debrief checklist
 
 - [ ] I counted origin and destination when checking Region Movement.
