@@ -27,6 +27,17 @@ These are genuine physical cards. No proxies are intended.
 | 3 | Watcher in the Water |
 | **30** | **Total** |
 
+## Starting balance and what changes during scoring play
+
+The fixed list contains **16 creatures (53%)** and **14 non-creature Hazards (47%)**. That is close to the approximate 50/50 creature/event balance suggested by the independent solo-deck guide.
+
+- **Creatures (16):** Cave Worm ×3, Giant Spiders ×3, Lesser Spiders ×3, Neeker-breekers ×2, Wargs ×2, Watcher in the Water ×3.
+- **Non-creatures (14):** Despair of the Heart ×3, Full of Froth and Rage ×3, River ×2, Seized by Terror ×2, Twilight ×2, Wake of War ×2.
+- **No Dragon creatures:** Cave Worm is a Drake. This gives the deck a small Drake package without making the baseline Dragon-heavy.
+- **Support overlap:** Full of Froth and Rage boosts Spider and Animal attacks; Wake of War boosts Wolf, Spider and Animal attacks. Cave Worm is a Drake and receives neither bonus.
+
+In the Book tutorial, the Academy's mission procedure returns defeated non-unique creatures to the Hazard discard. In the full scoring game, defeated creatures go to the Hero MP pile instead. The Hazard deck therefore becomes more event-heavy as creatures are defeated and removed from future cycles. See the [Full Solo Scoring Trial]({{ '/scenarios/full-solo-scoring-trial/' | relative_url }}) before changing between those two modes.
+
 Keep this Hazard deck separate from the 36-card Hero play deck, Hero discard pile, Location deck and sideboard.
 
 Use the [integrated Campaign Walkthrough]({{ '/games/campaign-walkthrough/' | relative_url }}) to see how the fixed Hero and Hazard lists work together across the Moria mission, the two route choices and Book storage.
