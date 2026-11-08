@@ -181,6 +181,7 @@ Before looking at the answer key, record:
 7. Whether Seized by Terror has a qualifying region type.
 8. The Blue Mountain Dwarf-hold automatic attack, if any.
 9. When Book of Mazarbul can actually be stored after arrival.
+10. Confirm that your physical Blue Mountain Dwarf-hold is the Hero Free-hold version, not the different Minion site version.
 
 Then compare this route with the longer Moria → Blue Mountain journey. Explain why a Haven stop is not required here, but might still be worth choosing after a particularly damaging Hazard phase.
 
