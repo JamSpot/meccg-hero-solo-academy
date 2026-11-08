@@ -176,7 +176,7 @@ Before looking at the answer key, record:
 2. The three adjacency checks on your physical Region cards.
 3. Whether any region repeats.
 4. The region type of each of the four regions.
-5. The normal Hazard draw, Academy solo draw and the five-character company's base Hazard Limit.
+5. The normal Hazard draw, Academy solo draw and the five-character company's base Hazard Limit. If Gandalf joins, the company has six characters and its base Hazard Limit becomes 6; if he travels separately, calculate his own Hazard phase and limit.
 6. Which cards in the fixed Hazard list could be legal by region type or named-region key.
 7. Whether Seized by Terror has a qualifying region type.
 8. The Blue Mountain Dwarf-hold automatic attack, if any.
