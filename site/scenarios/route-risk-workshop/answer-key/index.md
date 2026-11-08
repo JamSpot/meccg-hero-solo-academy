@@ -92,6 +92,8 @@ All four regions are Wilderness. The fixed Hazard list therefore offers several 
 
 Blue Mountain Dwarf-hold's normal Hazard draw is **1**, so the Academy solo procedure draws **2 + (2 × 1) = 4** cards. The five-character company's base Hazard Limit remains **5**. The Hero site has **no automatic attack**.
 
+**Physical-card check:** use the Hero *Blue Mountain Dwarf-hold* card (Free-hold, Númeriador, 1/1). It has no automatic attack. Do not accidentally use the Minion version, which has different site data and a Dwarven automatic attack. For solo Hazard draws, always use the opponent's draw number on the Hero site card: 1 here, not the Hero player's Resource draw number (also 1 in this case).
+
 This is a legal non-Haven-to-non-Haven movement. It avoids a Haven detour, but it also gives up the opportunity to heal wounded characters at a Haven during the next Untap Phase. Compare the company's actual wounds, taps, remaining defensive Resources and mission urgency before choosing it.
 
 **Book timing:** arriving at Blue Mountain during the Movement/Hazard Phase does not let you store the Book during that turn's Site Phase. Storage is an Organization Phase action. If the company remains at the Dwarf-hold, make the bearer's required corruption check and store the Book during the next Organization Phase, following the card text. Do not confuse “arrived at the site” with “already completed the storage action.”
