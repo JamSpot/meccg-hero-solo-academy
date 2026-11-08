@@ -28,13 +28,13 @@ For the first lessons, keep the zones physically distinct even though you contro
 
 ## Step 2 — Know which card list this lesson uses
 
-The Academy's first-game baseline is the historical Dwarven Quest / Pallando Challenge Deck C teaching list, combined with an explicitly identified solitaire Hazard-draw procedure. It is a fixed teaching setup to learn the conventional Hero solo game loop.
+The Academy's first-game baseline is a Challenge Deck C-derived Hero teaching list: it keeps the 30 Dwarven Quest Resources and five non-Wizard characters, but currently uses one Gandalf instead of the historical three Pallando cards. The separate solo Hazard-draw procedure is documented in the rules lesson. This is a working adaptation, not the original Pallando list.
 
 This is not an Arda pool, and Arda rules or Arda solitaire variants are not used in this lesson. If you are looking for Arda format, leave this course and use the [separate Arda Master Database](https://jamspot.github.io/meccg-arda-master-database/).
 
 ## Step 3 — Build the Hero play deck first
 
-Assemble the locked 30-card Resource list and the six-card active Gandalf character/Wizard pool: Balin, Boromir II, Celeborn, Fíli, Gildor Inglorion and Gandalf. Shuffle them together to make the **36-card Gandalf-led Hero play deck**. Do not include Pallando ×3 in the active build. The 36-card version is the locked first-play build; no extra character slots are pending. Keep the starting company and its two Cram items separate until setup. Do not tune the list before you have completed a first game and debrief.
+Assemble the current working 30-card Resource list and the six-card character/Wizard portion: Balin, Boromir II, Celeborn, Fíli, Gildor Inglorion and one Gandalf. Shuffle them together to make the **36-card Gandalf-led Hero play deck**. Do not include the historical Pallando ×3 package in this working baseline. Standard rules allow up to two Wizard cards, including two copies of the same Wizard, so a second Gandalf or two Pallando would be an optional 37-card variant—not a missing character slot. Keep the starting company and its two Cram items separate until setup. Do not change the baseline during the first three recorded games.
 
 [Build the Hero play deck →]({{ '/decks/hero-deck/' | relative_url }})
 
@@ -62,7 +62,7 @@ Read the mission, starting company and movement plan in the next lesson. Keep th
 
 The five starting characters are Thorin II, Dori, Kíli, Glóin and Óin. Gandalf is the Wizard avatar in the Hero play deck. He must be drawn and played at a Haven (his home site is Any Haven) or at Rivendell if you do not already have a Wizard in play. Do not add him automatically to the starting company.
 
-After the first Moria expedition, use [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) to learn the Academy's Gandalf-led support-company adaptation and the extra solo Hazard phase created by a second company.
+After the first Moria expedition, use [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) to learn the Academy's Gandalf-led support-company adaptation and the extra solo Hazard phase created by a second company. For the Wizard comparison, read the [Wizard Choice Workshop]({{ '/decks/wizard-choice-workshop/' | relative_url }}); do not switch the baseline mid-test.
 
 ## Ready to continue?
 
