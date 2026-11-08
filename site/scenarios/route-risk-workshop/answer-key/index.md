@@ -90,7 +90,7 @@ The route **High Pass → Rhudaur → Arthedain → Númeriador** contains four 
 
 All four regions are Wilderness. The fixed Hazard list therefore offers several possible Wilderness-keyed creature plays; Giant Spiders and Watcher in the Water can use their double-Wilderness key, and Cave Worm can use the named High Pass key. Every card still needs its full printed key and conditions checked. **Seized by Terror is not legal** because this path contains no Shadow-land or Dark-domain region. Númeriador is the destination region; the site type of Blue Mountain Dwarf-hold does not substitute for a region-type key.
 
-Blue Mountain Dwarf-hold's normal Hazard draw is **1**, so the Academy solo procedure draws **2 + (2 × 1) = 4** cards. The five-character company's base Hazard Limit remains **5**. The Hero site has **no automatic attack**.
+Blue Mountain Dwarf-hold's normal Hazard draw is **1**, so the Academy solo procedure draws **2 + (2 × 1) = 4** cards. The five-character company's base Hazard Limit remains **5**. If Gandalf joins the company, it contains six characters and the base Hazard Limit becomes **6**; if he moves separately, calculate a separate Hazard phase and limit. The Hero site has **no automatic attack**.
 
 **Physical-card check:** use the Hero *Blue Mountain Dwarf-hold* card (Free-hold, Númeriador, 1/1). It has no automatic attack. Do not accidentally use the Minion version, which has different site data and a Dwarven automatic attack. For solo Hazard draws, always use the opponent's draw number on the Hero site card: 1 here, not the Hero player's Resource draw number (also 1 in this case).
 
