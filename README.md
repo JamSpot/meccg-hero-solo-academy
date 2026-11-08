@@ -2,6 +2,10 @@
 
 A structured solo-learning system for the **conventional Hero-vs-Hazard game** in the Middle-earth: The Wizards CCG.
 
+## Wizard choice review
+
+The current one-Gandalf build is a working baseline. The [Wizard Choice Workshop](https://jamspot.github.io/meccg-hero-solo-academy/decks/wizard-choice-workshop/) compares Gandalf and Pallando, the two-Wizard-card limit, and the optional 37-card variants.
+
 ## Website
 https://jamspot.github.io/meccg-hero-solo-academy/
 
