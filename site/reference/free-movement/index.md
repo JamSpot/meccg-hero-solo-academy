@@ -137,6 +137,10 @@ The following three journeys form a connected teaching route from the opening Bo
 | Moria → Goblin-gate | Redhorn Gate → Hollin → Rhudaur → High Pass | 4 | 2 | **6** | 5 |
 | Goblin-gate → Blue Mountain Dwarf-hold | High Pass → Rhudaur → Arthedain → Númeriador | 4 | 1 | **4** | 5 |
 
+**Read the correct number on the Hero site card:** “Normal Hazard draw” means the opponent's draw number (the first of the two printed numbers), not the Hero player's Resource draw number. Thus Moria is 3/2, Goblin-gate is 2/1, and Blue Mountain Dwarf-hold is 1/1 in the Hero location set. The solo formula uses 3, 2 and 1 respectively.
+
+**Use Hero site cards throughout this guide.** In particular, the Hero *Blue Mountain Dwarf-hold* is a Free-hold in Númeriador with a 1/1 draw and no automatic attack. The separate Minion version has different site data and an automatic Dwarven attack; do not substitute it into the Hero Location deck.
+
 All three routes are connected by the Region-card adjacency lists and use Wilderness regions. They are not automatically safe: the Hazard player must check every creature's printed region key, named-region key, site key, target and timing. The site automatic attack is a separate Site Phase encounter, not another Hazard Limit slot.
 
 **The important contrast:** Moria → Blue Mountain Dwarf-hold in one move would require Redhorn Gate → Hollin → Rhudaur → Arthedain → Númeriador: five regions. That is too long for normal Region Movement. From Moria, either use an intermediate site such as Rivendell or take another verified legal waypoint. Once at Goblin-gate, the four-region route to Blue Mountain is legal and avoids a Haven detour.
