@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Wizard Choice Workshop — Gandalf or Pallando?
+title: Wizard Choice Workshop — Which Wizard?
 permalink: /decks/wizard-choice-workshop/
 ---
 
-# Wizard Choice Workshop — Gandalf or Pallando?
+# Wizard Choice Workshop — Which Wizard?
 
 This is a deck-building review, not a change to the active list. The Academy's current working baseline remains **one Gandalf in a 36-card Hero play deck**. The evidence below shows why that choice is not automatic for a five-card solo game.
 
@@ -35,7 +35,31 @@ The solo procedure requires a separate Hazard deck and a Hero play deck of at le
 
 Both Wizards are Sages, so either can use Book of Mazarbûl's Sage-only tap ability to increase hand size by one until the next untap phase. Both have the same direct influence, prowess and body. Their home-site difference does not prevent either from being played at Rivendell under the Wizard-placement rule.
 
-## 3. What the choice means in a five-card solo game
+## 3. The other three Wizards — why they are not the current baseline
+
+The Academy should consider all five Wizard cards, not just the two found in the historical Challenge Deck C comparison.
+
+| Wizard | Relevant printed ability | Fit with this Hero/Hazard experiment |
+|---|---|---|
+| **Alatar** | Reduces by one the number of cards the opponent draws based on his company's movement. He can also join another company from a Haven to face one strike from a Hazard creature. | Very powerful defensively. The solo rule replaces the normal Hazard draw with a formula, so the exact interaction between Alatar's -1 and the solo draw formula needs an explicit ruling before use. Until resolved, he is a poor choice for a test intended to measure the full Hazard pressure. |
+| **Gandalf** | +1 to all his corruption checks; can tap to test a Gold Ring. | Strong fit for the Book mission. The Gold Ring ability has no target in the current Resource list, but the corruption bonus directly helps with Book storage. |
+| **Pallando** | His controller may keep one more card than normal; opponent discards cards face-up. | Strong fit for a five-card solo hand. The face-up discard instruction has no opponent hand to affect in this format. |
+| **Radagast** | +1 to all corruption checks; may draw one additional card for each Wilderness region in his company's site path when moving to a new site. | Potentially the strongest card-flow option on this campaign: the opening routes contain three or four Wilderness regions. He is not a Sage, so he cannot use Book of Mazarbûl's Sage-only hand-size tap ability. The extra Resource draws may also make the Hero side substantially more forgiving. |
+| **Saruman** | May tap to use a Palantír; at the beginning of his end-of-turn phase he may tap to retrieve a spell card from the discard pile. | Low synergy with the current active Resource list, which has no Palantír or dedicated spell package. Reconsider only if the deck is rebuilt around those cards. |
+
+### Why the Academy keeps Gandalf for the baseline
+
+Gandalf is not the only powerful choice. He is the most controlled starting point for this particular experiment:
+
+- He protects the Book bearer with +1 to corruption checks.
+- He is a Sage, so he can use the Book's own hand-size ability.
+- He does not reduce the Hazard draw, unlike Alatar.
+- He does not add the large route-dependent Resource draw boost that Radagast would provide.
+- His Gold Ring ability is unused, but that does not change the core Book mission.
+
+Pallando remains the most interesting fair alternative: he improves the five-card hand without directly reducing Hazard pressure. Radagast should be a later high-card-flow experiment, not mixed into the first baseline. Alatar should wait until the solo draw interaction is resolved.
+
+## 4. What the choice means in a five-card solo game
 
 ### Gandalf: safer Book storage
 
@@ -58,7 +82,7 @@ For a deck containing several situational avoidance and combat Resources, seeing
 
 The five starting Dwarves can support a Pallando Book bearer by tapping a character for +1 to a corruption check. That means Gandalf's corruption bonus is useful, but it is not the only way to make the Book storage check safe.
 
-## 4. Opening-hand consistency: one Wizard or two?
+## 5. Opening-hand consistency: one Wizard or two?
 
 The solitaire opening hand is five cards. If the Hero play deck is shuffled uniformly:
 
@@ -73,7 +97,7 @@ The solitaire opening hand is five cards. If the Hero play deck is shuffled unif
 
 A second copy nearly doubles the chance of seeing the Wizard in the opening five. It does not allow two Wizards in play. If both copies are drawn, one may be a dead duplicate while the first Wizard remains in play; if the Wizard is eliminated, the solo game ends, so the second copy is not a replacement Wizard.
 
-## 5. Academy recommendation for controlled testing
+## 6. Academy recommendation for controlled testing
 
 Do not change the active list mid-test.
 
@@ -85,7 +109,7 @@ Do not change the active list mid-test.
 
 The Academy has not silently switched the active Wizard. Gandalf remains the working first-play choice until a controlled comparison justifies changing it.
 
-## 6. Links to the deck pages
+## 7. Links to the deck pages
 
 - [Current Hero deck construction]({{ '/decks/hero-deck/' | relative_url }})
 - [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }})
