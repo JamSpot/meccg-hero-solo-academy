@@ -52,9 +52,36 @@ A non-Dragon option worth testing **after** the baseline games is **Arouse Minio
 
 A controlled first experiment would be **one Arouse Minions replacing one Twilight**, leaving one Twilight available for future Environment cards. This is only a proposed v1.1 test, not part of the locked 30-card list. Do not change the baseline list during the first three recorded games, and do not buy the card just for this test until your physical collection has been checked. If you later test it, count it against the Hazard Limit and remember that the Hero may choose not to enter the site.
 
+### Proposed v1.1 two-card test — only after baseline games
+
+The route audit suggests two controlled one-for-one swaps for a later test build:
+
+| Remove | Add | Why it is worth testing |
+|---|---|---|
+| 1 Twilight | 1 Arouse Minions | Arouse Minions raises one automatic attack at a Shadow-hold or Dark-hold by +3 prowess. It is relevant to the Moria and Goblin-gate Orc attacks and does not add a Dragon. It counts against the Hazard Limit, and can be played during the Movement/Hazard Phase even if the Hero later declines to face the attack. |
+| 1 Seized by Terror | 1 Brigands | Brigands is a two-strike, 8-prowess Men creature keyed to Border-lands and Wilderness. If it wounds a character, the company discards one item of the defender's choice. It is legal on all three Wilderness routes and directly pressures the Hero deck's item plan. |
+
+This would leave one Twilight for a later Environment campaign and one Seized by Terror for a future Shadow-land/Dark-domain route. The two-card variant is a **proposal only**. Keep the exact Challenge Deck C-derived 30-card list unchanged for the first three recorded games, check whether you already own Arouse Minions and Brigands before buying anything, and do not change the Hazard deck and Wizard choice in the same test.
+
 Keep this Hazard deck separate from the 36-card Hero play deck, Hero discard pile, Location deck and sideboard.
 
 Use the [integrated Campaign Walkthrough]({{ '/games/campaign-walkthrough/' | relative_url }}) to see how the fixed Hero and Hazard lists work together across the Moria mission, the two route choices and Book storage.
+
+## Baseline route-coverage audit
+
+The three opening legs are all Wilderness-region routes, and the fixed list has a clear pattern:
+
+| Cards | Copies | Status on the three opening legs |
+|---|---:|---|
+| Cave Worm, Giant Spiders, Lesser Spiders, Neeker-breekers, Wargs, Watcher in the Water | 16 | Each has a legal route key on at least one of the declared paths; all six creature families are relevant to this expedition. |
+| Despair of the Heart | 3 | Live against the non-Wizard, non-Hobbit Dwarves. It cannot target Gandalf. |
+| Full of Froth and Rage | 3 | Live when a Spider or Animal attack is available. |
+| River | 2 | Live against the company's new site, subject to the Ranger response. |
+| Wake of War | 2 | Live when a Wolf, Spider or Animal attack is available. |
+| Seized by Terror | 2 | **Not legal on the three opening paths:** all their regions are Wilderness, with no Shadow-land or Dark-domain. |
+| Twilight | 2 | **No target in Game 1:** the active Hero Resource list has no Environment and the sideboard is closed. It becomes useful if a later game brings an Environment such as Gates of Morning into play. |
+
+So **26 of the 30 cards have an active route or target in the opening campaign**, while four are deliberately conditional on a different route or a later Environment. That is not automatically a flaw: the deck is a historical teaching list and the first three routes are not the whole map. It is, however, something to record during playtesting rather than ignore.
 
 ## What the Hazard deck teaches
 
