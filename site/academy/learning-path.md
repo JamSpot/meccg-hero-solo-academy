@@ -36,8 +36,9 @@ Only after you can run the core expedition loop comfortably, continue to:
 4. **Corruption and abort decisions** — recognise when to recover rather than press on.
 5. **Campaign planning** — connect expeditions into a longer objective.
 6. **Gandalf and the support company** — compare one company with two, calculate separate solo Hazard phases, and learn Gandalf's corruption modifier and sideboard role. Read [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) and complete the [Gandalf company practice scenario]({{ '/scenarios/gandalf-company/' | relative_url }}).
-7. **Advanced card pools** — sideboarding, specialised Hazard packages and optional Dragons.
-8. **Full solo scoring game** — once the tutorial campaign is comfortable, run the fixed decks to the second exhaustion of the Hero play deck and record the MPs earned. Use the [Full Solo Scoring Trial]({{ '/scenarios/full-solo-scoring-trial/' | relative_url }}) before changing the deck lists.
+7. **Wizard choice review** — compare all five Wizards, the two-Wizard-card rule, and the Gandalf/Pallando/Radagast trade-offs. Keep the first-play baseline unchanged until the comparison is understood. [Open the Wizard Choice Workshop]({{ '/decks/wizard-choice-workshop/' | relative_url }}).
+8. **Advanced card pools** — sideboarding, specialised Hazard packages and optional Dragons.
+9. **Full solo scoring game** — once the tutorial campaign is comfortable, run the fixed decks to the second exhaustion of the Hero play deck and record the MPs earned. Use the [Full Solo Scoring Trial]({{ '/scenarios/full-solo-scoring-trial/' | relative_url }}) before changing the deck lists.
 
 Use the [Games and Lessons index]({{ '/games/' | relative_url }}) for the later sequence, or [All Pages]({{ '/navigation/' | relative_url }}) only when looking up a specific topic.
 
