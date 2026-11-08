@@ -97,6 +97,8 @@ The solitaire opening hand is five cards. If the Hero play deck is shuffled unif
 
 A second copy nearly doubles the chance of seeing the Wizard in the opening five. It does not allow two Wizards in play. If both copies are drawn, one may be a dead duplicate while the first Wizard remains in play; if the Wizard is eliminated, the solo game ends, so the second copy is not a replacement Wizard.
 
+The independent 2017 [My Solo Rules](https://meccg.wordpress.com/my-solo-rules/) author deliberately uses a single Wizard in solo games to make them more challenging. That is a useful design recommendation, not a mandatory rule. The same older article says up to three Wizard cards are allowed under standard deck construction; the current official *The Wizards* rules say up to two, so the Academy follows the current official limit.
+
 ## 6. Academy recommendation for controlled testing
 
 Do not change the active list mid-test.
@@ -122,4 +124,5 @@ The Academy has not silently switched the active Wizard. Gandalf remains the wor
 2. [Council of Elrond Official Rules](https://councilofelrond.org/rules/): current consolidated rulings and errata.
 3. [Council of Elrond Official Card Database](https://www.councilofelrond.org/cards/): current card text and errata.
 4. [MECCG Challenge Deck Player Aid, Dwarven Quest / Deck C](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf): historical list and Pallando support-company strategy.
-5. [Full card spoiler](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf): convenient reference for the printed Gandalf, Pallando and Book of Mazarbûl text.
+5. [My Solo Rules — independent solo deck-building guidance](https://meccg.wordpress.com/my-solo-rules/): one-Wizard solo preference and approximate deck ratios; its older three-Wizard limit is superseded by current official rules.
+6. [Full card spoiler](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf): convenient reference for the printed Gandalf, Pallando and Book of Mazarbûl text.
