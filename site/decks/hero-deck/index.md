@@ -19,13 +19,13 @@ The 30-card Resource portion contains:
 
 | Site-playable Resource type | Count | Cards |
 |---|---:|---|
-| Items | 7 | Book of Mazarbûl, Bow of Dragon-horn, Durin's Axe, Enruned Shield, Hauberk of Bright Mail, Magical Harp, Wormsbane |
+| Items | 8 | Book of Mazarbûl, Bow of Dragon-horn, Durin's Axe, Enruned Shield, Hauberk of Bright Mail, Magical Harp, Thrór's Map, Wormsbane |
 | Factions | 2 | Iron Hill Dwarves, Men of Dorwinion |
 | Allies | 2 | Gollum, Quickbeam |
-| **Total site-playable targets** | **11 / 30 (36.7%)** | |
-| Supporting Resource events | 19 / 30 (63.3%) | Avoidance, combat support, card flow and utility |
+| **Total site-playable Resources** | **12 / 30 (40%)** | |
+| Supporting Resource events | 18 / 30 (60%) | Avoidance, combat support, card flow and utility |
 
-This is close to the one-third site-playable Resource guideline in the independent [My Solo Rules deck-building guide](https://meccg.wordpress.com/my-solo-rules/). It is a useful sanity check, not a law: the 11 cards still need the right site, company skills and surviving characters. In particular, the Book requires Moria and later a Dwarf-hold for its five-MP storage value; the factions and allies have their own location and influence requirements.
+This is modestly above the one-third site-playable Resource guideline in the independent [My Solo Rules deck-building guide](https://meccg.wordpress.com/my-solo-rules/). It is a useful sanity check, not a law: the 12 cards still need the right site, company skills and surviving characters. Thrór's Map is a Minor Item, but its discard ability only helps at a site with a Dragon automatic attack; none of the opening three sites has one, so it is a conditional target rather than an early priority. The Book requires Moria and later a Dwarf-hold for its five-MP storage value; the factions and allies have their own location and influence requirements.
 
 The ratio supports keeping the Resource list unchanged for the first tests. If playtesting shows too many site targets stranded in hand, adjust the site plan before assuming the deck needs more site-playable cards.
 
