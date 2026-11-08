@@ -13,6 +13,14 @@ This is a genuine-card list: **no proxies are intended**. If you do not own a ca
 
 **The 36-card version is the current working first-play build.** The historical Challenge Deck C has 38 cards in its Resource-plus-character/Wizard play deck, but the printed solitaire rules require at least 30 cards, not exactly 38. The Academy's 30 Resources + five non-Wizard characters + one Gandalf is legal and is not waiting on two extra cards. Keep it unchanged through the first three playtests; only consider expansion if the playtest log identifies a real weakness.
 
+### Wizard-copy rule and optional 37-card variant
+
+The current 36-card Gandalf list is a valid working baseline, not the only legal size. The *The Wizards* rules allow up to two Wizard cards in the play deck and explicitly permit two copies of the same Wizard. A second Gandalf would therefore make a legal 37-card variant (30 Resources + five non-Wizard characters + two Gandalf cards). It is optional; only one Wizard may be in play at a time.
+
+The historical Challenge Deck C player aid lists Pallando ×3. That is a published-list / general-rule discrepancy because the standard rules say up to two Wizard cards. The Academy keeps the list as a historical reference and does not treat three Pallando as automatically legal in an ordinary deck.
+
+Before buying or changing Wizard cards, read the [Gandalf-versus-Pallando Wizard Choice Workshop]({{ '/decks/wizard-choice-workshop/' | relative_url }}). It compares Gandalf's corruption protection with Pallando's extra hand-size ability and gives the opening-hand odds for one or two copies. The active first-play baseline remains one Gandalf until the controlled comparison is complete.
+
 ### 30 Hero resource cards
 
 | Quantity | Card |
