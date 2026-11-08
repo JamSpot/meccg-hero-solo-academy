@@ -125,6 +125,14 @@ For a future controlled test only, imagine one **Arouse Minions** has replaced o
 
 **Model principle:** it is a Hazard short-event playable on a Shadow-hold or Dark-hold. It increases one automatic attack at the target site by +3 prowess for the turn; it does not add strikes. It counts against the Hazard Limit. If the company later declines to enter Moria, the site automatic attack is not faced that turn, so the event may have produced no practical effect. This card is a non-Dragon candidate for later tuning, not part of the locked 30-card baseline. Do not add it until the first three baseline games are recorded.
 
+## Drill 14 — Brigands (candidate card, not in the active list)
+
+For a future controlled test only, imagine one **Brigands** has replaced one Seized by Terror. The Hero company is moving along one of the Academy's Wilderness routes and carries Book of Mazarbûl plus several other items.
+
+**Task:** Check the creature's region key. How many strikes does it make? If one strike wounds a character, who chooses the item discarded? Does the card count as one or two Hazard plays against the Hazard Limit?
+
+**Model principle:** Brigands is a Men creature with two strikes at 8 prowess, playable keyed to Border-lands or Wilderness. It is legal on each of the three opening Wilderness routes. If any strike wounds a character, the company immediately discards one item chosen by the defender (the Hero player). The creature is one Hazard card and therefore one Hazard play against the limit; its two strikes do not count as two separate Hazard cards. This is a non-Dragon way to put direct pressure on an item-rich Hero company. It is a proposed v1.1 replacement for one Seized by Terror, not part of the active 30-card baseline.
+
 ## Debrief checklist
 
 - [ ] I counted origin and destination when checking Region Movement.
