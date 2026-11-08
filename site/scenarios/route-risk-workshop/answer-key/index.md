@@ -84,6 +84,20 @@ The trip can save a Haven detour, but it does not provide the recovery opportuni
 
 References: [The Wizards rules](https://meccg.com/rules/by-expansion/the-wizards/), [MECCG full spoiler list](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf), and the [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf).
 
+## Drill 8 — finish the Book journey without a Haven stop
+
+The route **High Pass → Rhudaur → Arthedain → Númeriador** contains four regions, including both endpoints. The Region cards confirm High Pass–Rhudaur, Rhudaur–Arthedain and Arthedain–Númeriador. No region repeats, so it fits the normal four-region limit. Confirm those same adjacencies on the physical cards before declaring it.
+
+All four regions are Wilderness. The fixed Hazard list therefore offers several possible Wilderness-keyed creature plays; Giant Spiders and Watcher in the Water can use their double-Wilderness key, and Cave Worm can use the named High Pass key. Every card still needs its full printed key and conditions checked. **Seized by Terror is not legal** because this path contains no Shadow-land or Dark-domain region. Númeriador is the destination region; the site type of Blue Mountain Dwarf-hold does not substitute for a region-type key.
+
+Blue Mountain Dwarf-hold's normal Hazard draw is **1**, so the Academy solo procedure draws **2 + (2 × 1) = 4** cards. The five-character company's base Hazard Limit remains **5**. The Hero site has **no automatic attack**.
+
+This is a legal non-Haven-to-non-Haven movement. It avoids a Haven detour, but it also gives up the opportunity to heal wounded characters at a Haven during the next Untap Phase. Compare the company's actual wounds, taps, remaining defensive Resources and mission urgency before choosing it.
+
+**Book timing:** arriving at Blue Mountain during the Movement/Hazard Phase does not let you store the Book during that turn's Site Phase. Storage is an Organization Phase action. If the company remains at the Dwarf-hold, make the bearer's required corruption check and store the Book during the next Organization Phase, following the card text. Do not confuse “arrived at the site” with “already completed the storage action.”
+
+The direct Moria → Blue Mountain sequence through Hollin, Rhudaur and Arthedain is five regions and is not a legal single normal Region Movement. The intermediate-site rule still matters; the Goblin-gate waypoint makes the later four-region leg possible, but it is a strategic choice, not a universally safer route.
+
 ## Three-game evidence log
 
 The log is useful only if the setup remains comparable. Keep both 30-card teaching lists unchanged, record the actual route and drawn cards, and distinguish “not drawn” from “drawn but illegal” and “legal but low impact.” One game is not enough to conclude that a card is weak. If you propose a change, name the specific repeated problem, the replacement, the expected benefit and the next test that could disprove your theory.
