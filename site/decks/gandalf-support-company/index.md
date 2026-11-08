@@ -6,7 +6,7 @@ permalink: /decks/gandalf-support-company/
 
 # Gandalf and the Support Company
 
-The active Academy is **Gandalf-led**. The historical Dwarven Quest / Challenge Deck C is Pallando-led, but Pallando is the historical benchmark, not the Wizard used in this Academy.
+The current Academy working build is **Gandalf-led**. The historical Dwarven Quest / Challenge Deck C is Pallando-led, but Pallando is the historical benchmark, not the Wizard used in this Academy.
 
 This lesson adapts the useful two-company idea to Gandalf without importing Pallando's card abilities.
 
@@ -20,7 +20,7 @@ The Academy keeps its locked **30-card Hero Resource list** and the five non-Wiz
 - Fíli
 - Gildor Inglorion
 
-The active Wizard is **one Gandalf card**. That gives a working **36-card Hero play deck**: 30 Resources + five non-Wizard characters + Gandalf. The solo rules require a play deck of at least 30 cards, so the Academy does not need to retain the historical three Pallando copies simply to reach 38.
+The working Wizard choice is **one Gandalf card**. That gives a working **36-card Hero play deck**: 30 Resources + five non-Wizard characters + Gandalf. The solo rules require a play deck of at least 30 cards, so the Academy does not need to retain the historical three Pallando copies simply to reach 38.
 
 This is an Academy Gandalf-led adaptation, not the exact historical Challenge Deck C character list. The original Challenge Deck C includes Pallando ×3; those cards are not part of the active Gandalf build. Do not shuffle Pallando into the active deck as extra characters while Gandalf is your Wizard.
 
