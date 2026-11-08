@@ -11,7 +11,7 @@ For **Game 1 and the first Academy lessons**, use the historical **Dwarven Quest
 
 This is a genuine-card list: **no proxies are intended**. If you do not own a card, mark it as a card to obtain rather than substituting a random card.
 
-**The 36-card version is the fixed first-play build.** The historical Challenge Deck C has 38 cards in its Resource-plus-character/Wizard play deck, but the printed solitaire rules require at least 30 cards, not exactly 38. The Academy's 30 Resources + five non-Wizard characters + one Gandalf is legal and is not waiting on two extra cards. Keep it unchanged through the first three playtests; only consider expansion if the playtest log identifies a real weakness.
+**The 36-card version is the current working first-play build.** The historical Challenge Deck C has 38 cards in its Resource-plus-character/Wizard play deck, but the printed solitaire rules require at least 30 cards, not exactly 38. The Academy's 30 Resources + five non-Wizard characters + one Gandalf is legal and is not waiting on two extra cards. Keep it unchanged through the first three playtests; only consider expansion if the playtest log identifies a real weakness.
 
 ### 30 Hero resource cards
 
@@ -71,11 +71,11 @@ These six cards are shuffled **with the 30 Hero Resources** to make the active 3
 - Gildor Inglorion
 - Gandalf (Wizard avatar)
 
-**Why Gandalf, not Pallando?** The Academy's Wizard identity is locked to Gandalf. The historical Dwarven Quest / Challenge Deck C is Pallando-based and lists historical Pallando ×3, but those three Pallando cards are historical reference only; do not shuffle them into the active Gandalf-led deck. Gandalf is a unique Wizard with Warrior/Scout/Sage/Diplomat skills, DI 10, P/B 6/9, home site Any Haven, +1 to all his corruption checks, and the ability to tap to test a Gold Ring.
+**Why Gandalf, not Pallando?** The Academy's current working Wizard choice is Gandalf. The historical Dwarven Quest / Challenge Deck C is Pallando-based and lists historical Pallando ×3, but those three Pallando cards are historical reference only; do not shuffle them into the active Gandalf-led deck. Gandalf is a unique Wizard with Warrior/Scout/Sage/Diplomat skills, DI 10, P/B 6/9, home site Any Haven, +1 to all his corruption checks, and the ability to tap to test a Gold Ring.
 
 A Wizard may be brought into play at his home site or Rivendell if you do not already have a Wizard in play. Gandalf's home site is Any Haven. He does **not** increase your hand size: the Academy hand target remains five unless the Sage bearer uses the Book's own ability. His +1 corruption modifier is a bonus; Kíli's -1 is a penalty. If Gandalf is present, he is the safest default Book bearer and can use the Book's Sage-only hand-size ability.
 
-**Deck status: locked for first play.** Use exactly these 36 cards: the 30 Resources above, the five non-Wizard characters retained from Challenge Deck C, and one Gandalf. No additional character slots are required or awaiting selection. Do not add two characters simply to reproduce the historical 38-card Pallando package; that would change the tested Academy build. Keep this list unchanged through the first three recorded games, then tune only in response to a specific playtest finding.
+**Deck status: working baseline for the first three recorded tests.** Use exactly these 36 cards: the 30 Resources above, the five non-Wizard characters retained from Challenge Deck C, and one Gandalf. No additional character slots are required for this 36-card test build. Do not add two characters simply to reproduce the historical 38-card Pallando package; that would change the comparison. This is an Academy adaptation, not the original Challenge Deck C list. Keep this list unchanged through the first three recorded games, then tune only in response to a specific playtest finding.
 
 See [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) for his actual role, route options, separate-company Hazard calculations and sideboard plan. The [historical Pallando reference]({{ '/decks/pallando-support-company/' | relative_url }}) is not part of the active course.
 
