@@ -143,6 +143,8 @@ The following three journeys form a connected teaching route from the opening Bo
 
 All three routes are connected by the Region-card adjacency lists and use Wilderness regions. They are not automatically safe: the Hazard player must check every creature's printed region key, named-region key, site key, target and timing. The site automatic attack is a separate Site Phase encounter, not another Hazard Limit slot.
 
+The Hazard Limit column assumes the five starting Dwarves are travelling together. If Gandalf joins that company, it contains six characters and its base Hazard Limit becomes 6. If Gandalf travels as a separate company, calculate a separate solo Hazard draw and a separate Hazard Limit for him.
+
 **The important contrast:** Moria → Blue Mountain Dwarf-hold in one move would require Redhorn Gate → Hollin → Rhudaur → Arthedain → Númeriador: five regions. That is too long for normal Region Movement. From Moria, either use an intermediate site such as Rivendell or take another verified legal waypoint. Once at Goblin-gate, the four-region route to Blue Mountain is legal and avoids a Haven detour.
 
 Sources: [The Wizards — Region Movement clarification](https://meccg.com/rules/by-expansion/the-wizards/) and [Council of Elrond Official Rules](https://councilofelrond.org/rules/). The printed Region cards remain the final adjacency check.
