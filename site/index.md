@@ -42,6 +42,7 @@ The number of Hazard cards drawn and the company's Hazard Limit are different. C
 Once you can run the Dwarven company through the first Moria expedition, learn how Gandalf supports the Gandalf-led Academy. He is the Wizard avatar in the Hero play deck, not one of the five starting Dwarves. His separate company creates another Movement/Hazard Phase, so learn the draw and limit calculations before using it.
 
 - [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }})
+- [Wizard Choice Workshop — compare all five Wizards]({{ '/decks/wizard-choice-workshop/' | relative_url }})
 - [Gandalf — One Company or Two? practice scenario]({{ '/scenarios/gandalf-company/' | relative_url }})
 
 ## The loop you are learning
