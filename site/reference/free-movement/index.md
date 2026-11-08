@@ -116,6 +116,33 @@ When comparing two legal routes, ask:
 
 The shortest route is not always best. A longer legal route might improve future position; a safer route might preserve the company for a more valuable expedition. Compare the whole expedition, not one movement in isolation.
 
+### Why Region Movement removes the forced Haven detour
+
+The original *The Wizards* rules explicitly explain that Region Movement gives companies more options: **a company need not move to a Haven every other turn**. That is the practical meaning behind the phrase “free movement” in this Academy. You can travel directly between non-Haven sites when the route is legal; a Haven is a recovery and planning choice, not a compulsory waypoint.
+
+It is still a constrained movement system:
+
+- Include the origin region and destination region.
+- Use no more than four regions in the sequence.
+- Check each adjacency on both Region cards; a map alone is not enough.
+- Do not repeat a region in the same site path.
+- Declare the actual Region Movement site path during the Movement/Hazard Phase after revealing the new site.
+- Recheck creature keys against the actual path; a direct route can expose more named regions as well as region types.
+
+The following three journeys form a connected teaching route from the opening Book mission to its storage destination. The solo draws use the Academy's selected procedure; the Hazard Limit is still calculated separately.
+
+| Journey | Region sequence | Regions | Normal Hazard draw | Academy solo draw | Five-Dwarf base Hazard Limit |
+|---|---|---:|---:|---:|---:|
+| Rivendell → Moria | Rhudaur → Hollin → Redhorn Gate | 3 | 3 | **8** | 5 |
+| Moria → Goblin-gate | Redhorn Gate → Hollin → Rhudaur → High Pass | 4 | 2 | **6** | 5 |
+| Goblin-gate → Blue Mountain Dwarf-hold | High Pass → Rhudaur → Arthedain → Númeriador | 4 | 1 | **4** | 5 |
+
+All three routes are connected by the Region-card adjacency lists and use Wilderness regions. They are not automatically safe: the Hazard player must check every creature's printed region key, named-region key, site key, target and timing. The site automatic attack is a separate Site Phase encounter, not another Hazard Limit slot.
+
+**The important contrast:** Moria → Blue Mountain Dwarf-hold in one move would require Redhorn Gate → Hollin → Rhudaur → Arthedain → Númeriador: five regions. That is too long for normal Region Movement. From Moria, either use an intermediate site such as Rivendell or take another verified legal waypoint. Once at Goblin-gate, the four-region route to Blue Mountain is legal and avoids a Haven detour.
+
+Sources: [The Wizards — Region Movement clarification](https://meccg.com/rules/by-expansion/the-wizards/) and [Council of Elrond Official Rules](https://councilofelrond.org/rules/). The printed Region cards remain the final adjacency check.
+
 ## 7. Route example — Rivendell to Moria
 
 **Mission:** acquire Book of Mazarbul.  
