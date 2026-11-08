@@ -13,6 +13,22 @@ This is a genuine-card list: **no proxies are intended**. If you do not own a ca
 
 **The 36-card version is the current working first-play build.** The historical Challenge Deck C has 38 cards in its Resource-plus-character/Wizard play deck, but the printed solitaire rules require at least 30 cards, not exactly 38. The Academy's 30 Resources + five non-Wizard characters + one Gandalf is legal and is not waiting on two extra cards. Keep it unchanged through the first three playtests; only consider expansion if the playtest log identifies a real weakness.
 
+### Resource mix audit — does the list have enough site targets?
+
+The 30-card Resource portion contains:
+
+| Site-playable Resource type | Count | Cards |
+|---|---:|---|
+| Items | 7 | Book of Mazarbûl, Bow of Dragon-horn, Durin's Axe, Enruned Shield, Hauberk of Bright Mail, Magical Harp, Wormsbane |
+| Factions | 2 | Iron Hill Dwarves, Men of Dorwinion |
+| Allies | 2 | Gollum, Quickbeam |
+| **Total site-playable targets** | **11 / 30 (36.7%)** | |
+| Supporting Resource events | 19 / 30 (63.3%) | Avoidance, combat support, card flow and utility |
+
+This is close to the one-third site-playable Resource guideline in the independent [My Solo Rules deck-building guide](https://meccg.wordpress.com/my-solo-rules/). It is a useful sanity check, not a law: the 11 cards still need the right site, company skills and surviving characters. In particular, the Book requires Moria and later a Dwarf-hold for its five-MP storage value; the factions and allies have their own location and influence requirements.
+
+The ratio supports keeping the Resource list unchanged for the first tests. If playtesting shows too many site targets stranded in hand, adjust the site plan before assuming the deck needs more site-playable cards.
+
 ### Wizard-copy rule and optional 37-card variant
 
 The current 36-card Gandalf list is a valid working baseline, not the only legal size. The *The Wizards* rules allow up to two Wizard cards in the play deck and explicitly permit two copies of the same Wizard. A second Gandalf would therefore make a legal 37-card variant (30 Resources + five non-Wizard characters + two Gandalf cards). It is optional; only one Wizard may be in play at a time.
