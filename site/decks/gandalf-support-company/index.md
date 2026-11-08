@@ -26,6 +26,8 @@ This is an Academy Gandalf-led adaptation, not the exact historical Challenge De
 
 The 30 Resource list and 30 Hazard list remain the fixed teaching baseline. The starting Dwarves and two Cram items remain separate at setup.
 
+The current one-Gandalf list is a working baseline, not a claim that Gandalf is the only legal Wizard. The general rules allow up to two Wizard cards, including two copies of the same Wizard. A second Gandalf is therefore a legal 37-card variant, but it is not required for the first three baseline tests. Pallando is also a legal alternative with up to two copies; compare the abilities before changing the list in the [Wizard Choice Workshop]({{ '/decks/wizard-choice-workshop/' | relative_url }}).
+
 ## 2. Gandalf's actual card text matters
 
 Gandalf is a Wizard with:
