@@ -162,6 +162,28 @@ Before you decide, answer:
 
 Reference: the historical Challenge Deck C player aid lists Gollum for Goblin-gate; the full site list identifies Goblin-gate as a Shadow-hold in High Pass with an Orc automatic attack of three strikes at 6 prowess. Verify the physical cards and current rules before play.
 
+## Drill 8 — finish the Book journey without a Haven stop
+
+**State:** The company has acquired Book of Mazarbul and is at Goblin-gate, in High Pass. Blue Mountain Dwarf-hold is the planned storage destination.
+
+**Proposed Region Movement route:**
+
+**High Pass → Rhudaur → Arthedain → Númeriador**
+
+Before looking at the answer key, record:
+
+1. The region count, including High Pass and Númeriador.
+2. The three adjacency checks on your physical Region cards.
+3. Whether any region repeats.
+4. The region type of each of the four regions.
+5. The normal Hazard draw, Academy solo draw and the five-character company's base Hazard Limit.
+6. Which cards in the fixed Hazard list could be legal by region type or named-region key.
+7. Whether Seized by Terror has a qualifying region type.
+8. The Blue Mountain Dwarf-hold automatic attack, if any.
+9. When Book of Mazarbul can actually be stored after arrival.
+
+Then compare this route with the longer Moria → Blue Mountain journey. Explain why a Haven stop is not required here, but might still be worth choosing after a particularly damaging Hazard phase.
+
 ## Three-game route evidence log
 
 Keep both teaching lists unchanged for these three tests.
