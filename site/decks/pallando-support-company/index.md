@@ -6,7 +6,7 @@ permalink: /decks/pallando-support-company/
 
 # Historical Pallando Reference — Challenge Deck C
 
-> **Historical reference only — not the active Academy build.** The conventional Hero Solo Academy is locked to **Gandalf** as its Wizard. Do not use Pallando as the Wizard in the active Gandalf-led deck, and do not shuffle Pallando ×3 into that deck.
+> **Historical reference only — not the current working build.** The Academy currently tests **Gandalf**, but Pallando remains a legal alternative with up to two Wizard cards in the play deck. Do not shuffle Pallando into the active Gandalf list without deliberately switching the Wizard build.
 
 The original Dwarven Quest / Challenge Deck C is Pallando-based. Its Player Guide describes a plan in which Pallando moves to Lórien, builds a support company from characters drawn from the play deck, and helps pursue the allies and Book of Mazarbul.
 
@@ -23,13 +23,15 @@ The historical list has 30 Resources and eight character/Wizard cards:
 - Gildor Inglorion
 - Pallando ×3
 
-The original 38-card Hero play deck is therefore 30 Resources plus those eight cards. This is the historical Pallando configuration, not the active Academy configuration.
+The published list therefore contains 38 cards: 30 Resources plus those eight character/Wizard entries. However, the general *The Wizards* rules allow up to two Wizard cards in the play deck, while this player aid lists Pallando ×3. Treat this as a published Challenge Deck list / general-rule discrepancy, not as proof that three Wizard copies are legal in ordinary deck construction. The current Academy build uses one Gandalf; a two-Pallando, 37-card version is a legal alternate under the general two-Wizard limit.
 
 ## Pallando's printed ability
 
 Pallando is a Warrior/Ranger/Sage/Diplomat Wizard with DI 10, prowess 6, body 9 and home site Grey Havens. His card lets his controlling player keep one more card than normal in hand. The opponent-facing face-up discard instruction has no practical opponent to affect in this solo format.
 
 The Academy's Gandalf card is different: Gandalf has home site Any Haven and +1 to all of his corruption checks. Gandalf does not provide Pallando's hand-size bonus. Keep those card texts separate.
+
+For the direct Gandalf-versus-Pallando comparison, see the [Wizard Choice Workshop]({{ '/decks/wizard-choice-workshop/' | relative_url }}). It explains why Pallando's extra hand-size card can be especially valuable under the five-card solitaire hand rule.
 
 ## The original Player Guide's support-company plan
 
