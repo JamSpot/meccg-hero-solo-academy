@@ -6,7 +6,7 @@ permalink: /decks/pallando-support-company/
 
 # Historical Pallando Reference — Challenge Deck C
 
-> **Historical reference only — not the current working build.** The Academy currently tests **Gandalf**, but Pallando remains a legal alternative with up to two Wizard cards in the play deck. Do not shuffle Pallando into the active Gandalf list without deliberately switching the Wizard build.
+> **Historical reference only — not the current working build.** The Academy currently tests **Gandalf**, but Pallando remains a legal alternative. The general rules allow up to three avatar cards, including three copies of the same Wizard; only one avatar can be in play at a time. Do not shuffle Pallando into the active Gandalf list without deliberately switching the Wizard build.
 
 The original Dwarven Quest / Challenge Deck C is Pallando-based. Its Player Guide describes a plan in which Pallando moves to Lórien, builds a support company from characters drawn from the play deck, and helps pursue the allies and Book of Mazarbul.
 
@@ -23,7 +23,7 @@ The historical list has 30 Resources and eight character/Wizard cards:
 - Gildor Inglorion
 - Pallando ×3
 
-The published list therefore contains 38 cards: 30 Resources plus those eight character/Wizard entries. However, the general *The Wizards* rules allow up to two Wizard cards in the play deck, while this player aid lists Pallando ×3. Treat this as a published Challenge Deck list / general-rule discrepancy, not as proof that three Wizard copies are legal in ordinary deck construction. The current Academy build uses one Gandalf; a two-Pallando, 37-card version is a legal alternate under the general two-Wizard limit.
+The published list therefore contains 38 cards: 30 Resources plus those eight character/Wizard entries. The current general *The Wizards* rules allow up to three avatar cards, provided they are not three different avatars, so Pallando ×3 is legal. Only one avatar can be in play at a time, and an eliminated avatar cannot be replaced by revealing another. The current Academy build uses one Gandalf; a two-Pallando 37-card version is also legal, but neither Pallando variant is the active baseline.
 
 ## Pallando's printed ability
 
