@@ -23,7 +23,7 @@ The official printed solitaire procedure appears in the **Solitaire Rules** sect
 | Hazard deck | Use the separate fixed 30-card teaching list; shuffle it. |
 | Location deck | Keep the 15 site cards separate. Do not shuffle them as a play deck. |
 | Starting pool / setup | Use the five starting Dwarves and two Cram items specified by Challenge Deck C. The six character/Wizard cards are in the Hero play deck, not this starting group. Gandalf is the Academy's Wizard avatar; he is not one of the five starting Dwarves. Pallando ×3 belongs to the historical Challenge Deck C reference, not the active Gandalf-led deck. |
-| Hand size | Use the solitaire hand size of **5** whenever the rules reset your Hero hand. Do not use the normal multiplayer hand size of 8 for this teaching setup. |
+| Hand size | The base solitaire hand size is **5**. Apply active card/effect modifiers when resetting the Hero hand (for example, Pallando or a Sage using Book of Mazarbûl). Do not use the unmodified multiplayer base of 8. |
 | Hero movement draw | Draw normally from the Hero play deck using the **you draw** number on the relevant Hero site card (the lighter box). The company must contain an avatar or a character with mind 3 or greater; if it qualifies, draw at least one and up to the printed number. |
 | Movement and card play | Follow the normal MECCG rules and current card text. |
 | Hazard draw | Separately draw from the Hazard deck using **2 + twice the normal Hazard-player draw number** for the relevant site. |
@@ -56,7 +56,7 @@ For each company that moves:
 1. Identify the relevant Hero site card. A move to a **non-Haven** uses the new site; a move to a **Haven** uses the site of origin.
 2. Read the site-card numbers in the common **opponent draws / you draw** order. The second number is the Hero/resource-player draw. The Hero player may draw up to that number if the company contains an avatar or a character with mind 3 or greater; a qualifying company must draw at least one.
 3. Use the first number, the normal Hazard-player draw, for the separate solo Hazard calculation below.
-4. After the company's Movement/Hazard Phase is complete, reset the Hero hand to five cards.
+4. After the company's Movement/Hazard Phase is complete, reset the Hero hand to its current target: **5** for the active Gandalf baseline, modified if a card such as Pallando or Book of Mazarbûl has increased hand size.
 
 **Game 1 example:** Moria is **3/2** (opponent draws / you draw). The five-Dwarf company draws up to two Hero cards from its Hero play deck. The solo Hazard side separately draws **2 + (2 × 3) = 8** cards. Its base Hazard Limit is five. These are three different values, not competing versions of one draw.
 
