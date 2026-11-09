@@ -60,28 +60,32 @@ Use the normal six phases:
 
 Do not skip the decision to enter a site. Arrival during the Movement/Hazard Phase is not the same as entering during the Site Phase.
 
-## 4. Calculate each solo Hazard phase
+## 4. Calculate both movement draws and the Hazard Limit
 
-For each company, work out the normal site-card Hazard draw first.
+For each company that moves, identify the relevant Hero site card first.
 
-- Moving to a **non-Haven**: use the destination site's normal Hazard draw number.
-- Moving to a **Haven**: use the site of origin's normal Hazard draw number.
-- A company that does not move has no normal movement draw under the ordinary rules. The generic printed solitaire paragraph does not fully settle every stationary-company case; use a scenario that states its procedure rather than inventing a universal number.
+- Moving to a **non-Haven**: use the destination site's two draw numbers.
+- Moving to a **Haven**: use the site of origin's two draw numbers.
+- Site-card draw numbers are commonly written **opponent draws / you draw**. The first is the normal Hazard-player number; the second is the Hero/resource-player number.
+- The Hero player draws from the Hero play deck, up to the **you draw** number, if the company contains an avatar or a character with mind 3 or greater. A qualifying company must draw at least one card.
+- The solo Hazard side separately draws from the Hazard deck using the first number:
 
-Then apply the printed solitaire formula:
+**Solo Hazard draw = 2 + (2 × normal Hazard-player draw number)**
 
-**Solo Hazard draw = 2 + (2 × normal Hazard draw number)**
+A company that does not move has no normal movement draw under the ordinary rules. The generic printed solitaire paragraph does not fully settle every stationary-company case; use a scenario that states its procedure rather than inventing a universal number.
 
-The Hazard Limit is a different calculation. Under the current normal rules, the base limit is the company's size or two, whichever is greater; Hobbits and Orc scouts count as half a character, rounded up. The base limit is fixed at the beginning of that company's Movement/Hazard Phase. A card such as Hundreds of Butterflies can modify the limit, but does not change the number already drawn by the solo formula.
+The Hazard Limit is a third, separate calculation. Under the current normal rules, the base limit is the company's size or two, whichever is greater; Hobbits and Orc scouts count as half a character, rounded up. The base limit is fixed at the beginning of that company's Movement/Hazard Phase. A card such as Hundreds of Butterflies can modify the limit, but does not change either draw.
 
 ### Worked calculations
 
-| Journey | Normal Hazard number | Solo draw | Five-Dwarf base Hazard Limit |
-|---|---:|---:|---:|
-| Rivendell → Moria | 3 | **8** | **5** |
-| Moria → Rivendell | 3 (use Moria, the origin) | **8** | **5** |
-| Moria → Goblin-gate | 2 | **6** | **5** |
-| Goblin-gate → Blue Mountain Dwarf-hold | 1 | **4** | **5** |
+| Journey | Site-card numbers (opponent / you) | Hero draw | Solo Hazard draw | Five-Dwarf base Hazard Limit |
+|---|---:|---:|---:|---:|
+| Rivendell → Moria | 3/2 | Up to **2** | **8** | **5** |
+| Moria → Rivendell | 3/2 (use Moria, the origin) | Up to **2** | **8** | **5** |
+| Moria → Goblin-gate | 2/2 | Up to **2** | **6** | **5** |
+| Goblin-gate → Blue Mountain Dwarf-hold | 1/1 | Up to **1** | **4** | **5** |
+
+After each company's Movement/Hazard Phase, reset the Hero hand to **five cards**. Do not confuse that hand reset with either draw, and do not put Hazard cards into the Hero hand.
 
 If Hundreds of Butterflies increases the five-Dwarf company's limit by one, the Hazard side may have up to six limit-counting plays from the cards already drawn, if six legal plays exist. The draw does not increase. Twilight remains the explicit exception: it does not count against the Hazard Limit, but it still needs a legal Environment target.
 
