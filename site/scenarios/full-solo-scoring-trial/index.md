@@ -85,7 +85,7 @@ The Hazard Limit is a third, separate calculation. Under the current normal rule
 | Moria → Goblin-gate | 2/2 | Up to **2** | **6** | **5** |
 | Goblin-gate → Blue Mountain Dwarf-hold | 1/1 | Up to **1** | **4** | **5** |
 
-After each company's Movement/Hazard Phase, reset the Hero hand to **five cards**. Do not confuse that hand reset with either draw, and do not put Hazard cards into the Hero hand.
+After each company's Movement/Hazard Phase, reset the Hero hand to its current target: **five** for the active Gandalf baseline, modified by any active hand-size effect such as Pallando or a Sage tapping Book of Mazarbûl. Do not confuse that hand reset with either draw, and do not put Hazard cards into the Hero hand.
 
 If Hundreds of Butterflies increases the five-Dwarf company's limit by one, the Hazard side may have up to six limit-counting plays from the cards already drawn, if six legal plays exist. The draw does not increase. Twilight remains the explicit exception: it does not count against the Hazard Limit, but it still needs a legal Environment target.
 
