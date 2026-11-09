@@ -4,7 +4,7 @@ A structured solo-learning system for the **conventional Hero-vs-Hazard game** i
 
 ## Wizard choice review
 
-The current one-Gandalf build is a working baseline. The [Wizard Choice Workshop](https://jamspot.github.io/meccg-hero-solo-academy/decks/wizard-choice-workshop/) compares Gandalf and Pallando, the two-Wizard-card limit, and the optional 37-card variants.
+The current one-Gandalf build is a working baseline. The [Wizard Choice Workshop](https://jamspot.github.io/meccg-hero-solo-academy/decks/wizard-choice-workshop/) compares Gandalf and Pallando, the three-avatar deck limit, the one-avatar-in-play rule, and legal 37- and 38-card variants.
 
 ## Website
 https://jamspot.github.io/meccg-hero-solo-academy/
