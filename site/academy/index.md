@@ -34,7 +34,7 @@ This is not an Arda pool, and Arda rules or Arda solitaire variants are not used
 
 ## Step 3 — Build the Hero play deck first
 
-Assemble the current working 30-card Resource list and the six-card character/Wizard portion: Balin, Boromir II, Celeborn, Fíli, Gildor Inglorion and one Gandalf. Shuffle them together to make the **36-card Gandalf-led Hero play deck**. Do not include the historical Pallando ×3 package in this working baseline. Standard rules allow up to two Wizard cards, including two copies of the same Wizard, so a second Gandalf or two Pallando would be an optional 37-card variant—not a missing character slot. Keep the starting company and its two Cram items separate until setup. Do not change the baseline during the first three recorded games.
+Assemble the current working 30-card Resource list and the six-card character/Wizard portion: Balin, Boromir II, Celeborn, Fíli, Gildor Inglorion and one Gandalf. Shuffle them together to make the **36-card Gandalf-led Hero play deck**. Do not include the historical Pallando ×3 package in this working baseline. Standard rules allow up to three avatar cards (not three different avatars), so two or three Gandalf copies, or two or three Pallando copies, are legal alternatives. Only one avatar can be in play, and an eliminated avatar cannot be replaced. The historical 38-card three-Pallando deck is legal; this one-Gandalf build is a deliberate teaching choice. Keep the starting company and its two Cram items separate until setup. Do not change the baseline during the first three recorded games.
 
 [Build the Hero play deck →]({{ '/decks/hero-deck/' | relative_url }})
 
