@@ -25,7 +25,7 @@ The Hero player may draw up to the second number if the moving company contains 
 
 **2 + (2 × the normal Hazard-player number)**
 
-The Hero hand is reset to **five cards** after that company's Movement/Hazard Phase.
+For the active one-Gandalf baseline, the Hero hand is reset to **five cards** after that company's Movement/Hazard Phase. If a card effect has changed the hand-size target (for example, Pallando or a Sage tapping Book of Mazarbûl), reset to the modified target instead.
 
 ## Exercise 1 — Rivendell to Moria
 
@@ -39,7 +39,7 @@ Record:
 2. How many cards does the solo Hazard side draw from its separate 30-card Hazard deck?
 3. What is the five-Dwarf base Hazard Limit?
 4. Do the eight Hazard cards enter your Hero hand?
-5. When do you reset the Hero hand to five?
+5. When do you reset the Hero hand, and what could change its five-card target?
 
 ## Exercise 2 — Moria to Goblin-gate
 
