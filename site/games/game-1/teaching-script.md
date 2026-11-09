@@ -53,15 +53,15 @@ During the Movement/Hazard Phase, reveal Moria. Then declare the Region Movement
 
 The route is not merely a way to move. Its region types and names affect which creature Hazards can legally be keyed. A double-Wilderness creature may be eligible only if its printed requirements and the rest of the rules are satisfied.
 
-## Stop 3 — Draw the solo Hazards
+## Stop 3 — Draw from both decks
 
-Moria's normal Hazard draw number is 3. The Academy solo procedure draws:
+Moria's Hero site card shows **opponent draws / you draw: 3/2**.
 
-**2 + (2 × 3) = 8 Hazard cards.**
+- **Hero play deck:** your five-Dwarf company qualifies for the normal Hero draw, so draw up to **2** cards from the 36-card Hero play deck (at least one).
+- **Hazard deck:** the normal Hazard-player number is **3**, so the solo procedure draws **2 + (2 × 3) = 8** cards from the separate Hazard deck.
+- **Hazard Limit:** the five-character company has a base limit of **5**. Drawing eight Hazards does not allow eight limit-counting plays.
 
-Now become the Hazard player.
-
-A five-character company has a base Hazard Limit of **5**. The draw of eight cards and the limit of five are different numbers.
+Keep the Hero draw in your Hero hand and the Hazard draw in the separate Hazard area. After the company's Movement/Hazard Phase finishes, reset the Hero hand to **5**. Do not discard down to five before resolving the phase.
 
 For each drawn card ask:
 
