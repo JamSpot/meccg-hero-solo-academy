@@ -23,9 +23,10 @@ The official printed solitaire procedure appears in the **Solitaire Rules** sect
 | Hazard deck | Use the separate fixed 30-card teaching list; shuffle it. |
 | Location deck | Keep the 15 site cards separate. Do not shuffle them as a play deck. |
 | Starting pool / setup | Use the five starting Dwarves and two Cram items specified by Challenge Deck C. The six character/Wizard cards are in the Hero play deck, not this starting group. Gandalf is the Academy's Wizard avatar; he is not one of the five starting Dwarves. Pallando ×3 belongs to the historical Challenge Deck C reference, not the active Gandalf-led deck. |
-| Hand size | Use the standard solitaire hand size of **5** when the hand is reset. Do not use the normal multiplayer hand size of 8 for this teaching setup. |
+| Hand size | Use the solitaire hand size of **5** whenever the rules reset your Hero hand. Do not use the normal multiplayer hand size of 8 for this teaching setup. |
+| Hero movement draw | Draw normally from the Hero play deck using the **you draw** number on the relevant Hero site card (the lighter box). The company must contain an avatar or a character with mind 3 or greater; if it qualifies, draw at least one and up to the printed number. |
 | Movement and card play | Follow the normal MECCG rules and current card text. |
-| Hazard draw | Use the solitaire formula below, not the normal multiplayer draw alone. |
+| Hazard draw | Separately draw from the Hazard deck using **2 + twice the normal Hazard-player draw number** for the relevant site. |
 | Hazard Limit | Follow the normal rules. The solo draw does not increase the limit. |
 | Unplayed drawn Hazards | Academy supplement: discard them at the end of the Movement/Hazard Phase, following the separately published solo procedure by Simon Cogan / Dragoncymru. This discard step is not stated in the printed solitaire paragraph. |
 | Hazard deck exhausted | Shuffle its discard pile to form a new Hazard deck when required to continue drawing. |
@@ -45,6 +46,21 @@ If a card's printed wording or a current ruling differs from a shorthand explana
 ## Why the active Hero play deck contains 36 cards
 
 The published Dwarven Quest / Challenge Deck C player aid lists 30 Resources plus eight character/Wizard entries, including Pallando ×3. The current general *The Wizards* rules allow up to two Wizard cards, so the third Pallando in that historical list is a player-aid / current-rule discrepancy unless a Challenge Deck-specific exception is established. The Academy keeps the 30 Resource list and five non-Wizard characters from that pool, but uses **one Gandalf Wizard card** instead. The active Hero play deck is therefore **36 cards**. It is within the current character and Wizard limits and exceeds the solo minimum of 30; the rules do not require the historical 38-card count. A second Wizard copy is an optional 37-card variant, not a missing slot.
+
+## Hero draw and solo Hazard draw are two different draws
+
+Do not overlook the Hero player's normal movement draw. The printed solitaire rules say to proceed normally except for the smaller five-card hand and the separate Hazard deck procedure. The normal Movement/Hazard rules therefore still govern the Hero player's draw from the Hero play deck.
+
+For each company that moves:
+
+1. Identify the relevant Hero site card. A move to a **non-Haven** uses the new site; a move to a **Haven** uses the site of origin.
+2. Read the site-card numbers in the common **opponent draws / you draw** order. The second number is the Hero/resource-player draw. The Hero player may draw up to that number if the company contains an avatar or a character with mind 3 or greater; a qualifying company must draw at least one.
+3. Use the first number, the normal Hazard-player draw, for the separate solo Hazard calculation below.
+4. After the company's Movement/Hazard Phase is complete, reset the Hero hand to five cards.
+
+**Game 1 example:** Moria is **3/2** (opponent draws / you draw). The five-Dwarf company draws up to two Hero cards from its Hero play deck. The solo Hazard side separately draws **2 + (2 × 3) = 8** cards. Its base Hazard Limit is five. These are three different values, not competing versions of one draw.
+
+The Hero draw is not a Hazard play and does not use the Hazard Limit. The Hazard cards never enter the Hero hand.
 
 ## The solo Hazard draw
 
