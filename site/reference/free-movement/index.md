@@ -131,13 +131,13 @@ It is still a constrained movement system:
 
 The following three journeys form a connected teaching route from the opening Book mission to its storage destination. The solo draws use the Academy's selected procedure; the Hazard Limit is still calculated separately.
 
-| Journey | Region sequence | Regions | Normal Hazard draw | Academy solo draw | Five-Dwarf base Hazard Limit |
-|---|---|---:|---:|---:|---:|
-| Rivendell → Moria | Rhudaur → Hollin → Redhorn Gate | 3 | 3 | **8** | 5 |
-| Moria → Goblin-gate | Redhorn Gate → Hollin → Rhudaur → High Pass | 4 | 2 | **6** | 5 |
-| Goblin-gate → Blue Mountain Dwarf-hold | High Pass → Rhudaur → Arthedain → Númeriador | 4 | 1 | **4** | 5 |
+| Journey | Region sequence | Regions | Site-card numbers (opponent / you) | Hero draw | Academy solo Hazard draw | Five-Dwarf base Hazard Limit |
+|---|---|---:|---:|---:|---:|---:|
+| Rivendell → Moria | Rhudaur → Hollin → Redhorn Gate | 3 | 3/2 | Up to **2** | **8** | 5 |
+| Moria → Goblin-gate | Redhorn Gate → Hollin → Rhudaur → High Pass | 4 | 2/2 | Up to **2** | **6** | 5 |
+| Goblin-gate → Blue Mountain Dwarf-hold | High Pass → Rhudaur → Arthedain → Númeriador | 4 | 1/1 | Up to **1** | **4** | 5 |
 
-**Read the correct number on the Hero site card:** “Normal Hazard draw” means the opponent's draw number (the first of the two printed numbers), not the Hero player's Resource draw number. Thus Moria is 3/2, Goblin-gate is 2/1, and Blue Mountain Dwarf-hold is 1/1 in the Hero location set. The solo formula uses 3, 2 and 1 respectively.
+**Read both numbers on the Hero site card:** the common notation is **opponent draws / you draw**. The first number is the normal Hazard-player draw used in the solo formula; the second is the Hero player's normal draw from the Hero play deck. A company with an avatar or a character of mind 3 or greater qualifies for the Hero draw and must draw at least one, up to the second number. Thus Moria is 3/2, Goblin-gate is 2/2, and Blue Mountain Dwarf-hold is 1/1 in the Hero location set. The solo Hazard formula uses 3, 2 and 1 respectively. The Hazard Limit remains separate.
 
 **Use Hero site cards throughout this guide.** In particular, the Hero *Blue Mountain Dwarf-hold* is a Free-hold in Númeriador with a 1/1 draw and no automatic attack. The separate Minion version has different site data and an automatic Dwarven attack; do not substitute it into the Hero Location deck.
 
@@ -282,6 +282,12 @@ It also changes the solo draw calculation:
 - A one-character Gandalf company has a base Hazard Limit of **2**.
 
 If the five Dwarves also move to Moria in the same turn, they have a separate Movement/Hazard Phase: eight cards drawn and a base Hazard Limit of five. Do not combine the two companies' draws or limits. Gandalf's +1 corruption-check modifier does not change his company's Hazard Limit or the five-card Hero hand target.
+
+### The Hero draw is separate from the solo Hazard draw
+
+A route forecast should record four things, not just the Hazard side: the normal Hero draw, the solo Hazard draw, the Hazard Limit, and the site attack if entered. The Hero draw comes from the second number on the site card; the solo Hazard formula uses the first. The Hero hand is reset to five after the company's Movement/Hazard Phase.
+
+Practise the two streams together in the [Movement Draw Lab]({{ '/scenarios/movement-draw-lab/' | relative_url }}), then use the [Expedition Planner]({{ '/routes/expedition-planner/' | relative_url }}) to record them before each journey.
 
 ### Route length does not set the Hazard draw
 
