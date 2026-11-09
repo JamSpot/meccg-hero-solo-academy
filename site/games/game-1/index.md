@@ -82,24 +82,38 @@ Before moving, say these aloud:
 
 The lesson is that choosing a destination is only the beginning of movement planning.
 
-## Step 3 — Calculate the solo Hazard draw
+## Step 3 — Draw from both decks
 
-For this teaching variant, the solitaire Hazard draw is:
+During a moving company's Movement/Hazard Phase, keep the two draws separate.
 
-**2 + (2 × the normal Hazard draw number for the relevant site).**
+The Hero site-card numbers are commonly shown as **opponent draws / you draw**:
 
-For this move to non-Haven Moria, the normal Hazard draw number is 3, so:
+- The **first number** is the normal Hazard-player draw.
+- The **second number** is the normal Hero/resource-player draw.
+
+For Moria, the Hero site card is **3/2**.
+
+### Hero play-deck draw
+
+Your five-Dwarf company contains characters with a mind of at least 3, so it qualifies for the normal Hero draw. Draw **up to 2 cards** from the 36-card Hero play deck (at least one if the company qualifies). This is not a Hazard draw.
+
+### Separate solo Hazard draw
+
+The normal Hazard-player number for Moria is **3**, so the solo procedure draws:
 
 **2 + (2 × 3) = 8 Hazard cards.**
 
-Draw eight cards from the Hazard deck.
+Draw those eight from the separate Hazard deck. Do not put them into your Hero hand.
 
-The normal Hazard Limit is a separate rules concept. With five characters, the company's base Hazard Limit is **5**.
+### Keep the three numbers separate
 
-Keep the distinction clear:
+| What is being counted? | Game 1 at Moria |
+|---|---:|
+| Hero cards drawn from the Hero play deck | Up to **2** |
+| Hazard cards drawn from the separate Hazard deck | **8** |
+| Five-Dwarf base Hazard Limit | **5** |
 
-- **Solo draw** determines how many Hazard cards are available to the solitaire Hazard player.
-- **Hazard Limit** determines the normal limit on Hazard play.
+After the company's Movement/Hazard Phase has finished, reset your Hero hand to the solo hand size of **5**. If you drew two Hero cards, you may have seven in hand while resolving the phase; do not discard down to five before the Hazard and other phase actions are complete. Play only Resource cards whose timing and conditions permit them.
 
 ## Step 4 — Become the Hazard player
 
