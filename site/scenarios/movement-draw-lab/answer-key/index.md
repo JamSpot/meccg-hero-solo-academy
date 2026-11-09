@@ -18,7 +18,7 @@ Moria is **3/2**.
 - Solo Hazard draw: **2 + (2 × 3) = 8** cards from the separate Hazard deck.
 - Base Hazard Limit: **5** for the five-character company.
 - Hazard cards do not enter the Hero hand.
-- Reset the Hero hand to **5** after the company's Movement/Hazard Phase has finished, not before Hazard resolution.
+- Reset the Hero hand after the company's Movement/Hazard Phase has finished, not before Hazard resolution. The active Gandalf baseline resets to **5**; apply a higher target if Pallando or a Sage-tapped Book of Mazarbûl has modified hand size.
 
 ## Exercise 2 — Moria to Goblin-gate
 
@@ -55,7 +55,7 @@ The normal rules say that a company that does not move does not draw cards based
 
 ## Final check
 
-> The Hero draw is up to the **you draw** number from the **Hero play** deck; the solo Hazard draw is **2 + twice the opponent-draw number** from the **separate Hazard** deck; the Hazard Limit is calculated from company size; after the Movement/Hazard Phase my Hero hand resets to **five**.
+> The Hero draw is up to the **you draw** number from the **Hero play** deck; the solo Hazard draw is **2 + twice the opponent-draw number** from the **separate Hazard** deck; the Hazard Limit is calculated from company size; after the Movement/Hazard Phase my Hero hand resets to its **current target** (five in the active Gandalf baseline).
 
 ## Continue
 
