@@ -35,7 +35,7 @@ The Academy's first-game baseline is a Challenge Deck C-derived Hero teaching li
 
 ## Check the solo draw before your next expedition
 
-The number of Hazard cards drawn and the company's Hazard Limit are different. Complete the [Hazard Draw & Limit Lab]({{ '/scenarios/hazard-draw-limit-lab/' | relative_url }}) to practise non-Haven arrivals, Haven destinations, multi-company turns, and the effect of Hundreds of Butterflies.
+There are two separate movement draws: the Hero player draws from the Hero play deck, while the solo Hazard side draws from its own deck. The Hazard Limit is a third number. Complete the [Movement Draw Lab]({{ '/scenarios/movement-draw-lab/' | relative_url }}) to practise all three, then use the [Hazard Draw & Limit Lab]({{ '/scenarios/hazard-draw-limit-lab/' | relative_url }}) for Haven destinations, multi-company turns and Hundreds of Butterflies.
 
 ## After the first expedition
 
