@@ -10,14 +10,17 @@ This is a deck-building review, not a change to the active list. The Academy's c
 
 ## 1. The important deck-construction rule
 
-The *The Wizards* rules allow up to **10 non-Wizard character cards** and, separately, up to **two Wizard cards** in the play deck. The rules explicitly allow two copies of the same Wizard. Only one Wizard may be in play at a time.
+The current *The Wizards* rules allow up to **10 non-avatar character cards** and up to **three avatar cards**, with any combination permitted except three different avatars. For a Wizard player, this allows up to three Wizard-avatar cards, including three copies of the same Wizard. Only one avatar can be in play at a time; if it is eliminated, you cannot reveal another avatar.
 
 That means these are all distinct questions:
 
 - **36 cards:** 30 Resources + five non-Wizard characters + one Gandalf. This is the current working baseline.
-- **37 cards:** 30 Resources + five non-Wizard characters + two copies of Gandalf. This is also permitted by the standard Wizard-card limit.
-- **37 cards:** the same Resource and non-Wizard cards, but two copies of Pallando. This is a legal alternate Wizard build.
-- **38 cards:** the historical Challenge Deck C player aid lists 30 Resources, five non-Wizard characters and **Pallando ×3**. The general *The Wizards* rule says up to two Wizard cards. This is a published-list/rule-text discrepancy; do not treat the third Pallando as automatically legal in ordinary deck construction. The Academy preserves the published list as a historical reference, not as proof that three Wizards are allowed.
+- **37 cards:** 30 Resources + five non-Wizard characters + two copies of Gandalf. This is legal.
+- **38 cards:** 30 Resources + five non-Wizard characters + three copies of Gandalf. This is also legal.
+- **37 cards:** the same Resource and non-Wizard cards, but two copies of Pallando. This is legal.
+- **38 cards:** the historical Challenge Deck C player aid lists 30 Resources, five non-Wizard characters and **Pallando ×3**. This is legal under the current avatar-card limit; it is not a rules discrepancy.
+
+The 36-card Gandalf build is still the active teaching baseline. The original 38-card Pallando list is a valid historical build, but it is not the Wizard choice currently being tested.
 
 The solo procedure requires a separate Hazard deck and a Hero play deck of at least 30 cards. It does not require the Hero play deck to contain exactly 38 cards. The current 36-card build is therefore a valid starting size; the second Wizard is an optional consistency choice, not a missing character slot.
 
@@ -91,13 +94,14 @@ The solitaire opening hand is five cards. If the Hero play deck is shuffled unif
 | Current Gandalf baseline | 36 | 1 | 13.9% |
 | Two-Gandalf variant | 37 | 2 | 25.5% |
 | Two-Pallando variant | 37 | 2 | 25.5% |
-| Historical three-Pallando list | 38 | 3 | 35.3%* |
+| Three-Gandalf variant | 38 | 3 | 35.3% |
+| Historical three-Pallando list | 38 | 3 | 35.3% |
 
-\*The three-copy calculation is shown only to illustrate the draw effect. It is not a recommendation: it conflicts with the general two-Wizard-card limit.
+These are opening-hand probabilities, not recommendations. Three copies are legal, but duplicate avatars cannot be played while one is already in play and do not let you replace an eliminated avatar.
 
-A second copy nearly doubles the chance of seeing the Wizard in the opening five. It does not allow two Wizards in play. If both copies are drawn, one may be a dead duplicate while the first Wizard remains in play; if the Wizard is eliminated, the solo game ends, so the second copy is not a replacement Wizard.
+A second or third copy increases the chance of seeing the Wizard in the opening five. It does not allow multiple Wizards in play. If duplicates are drawn while the Wizard is already in play, they are redundant; if the Wizard is eliminated, the solo rules do not let you reveal another avatar, so extra copies are not replacement Wizards.
 
-The independent 2017 [My Solo Rules](https://meccg.wordpress.com/my-solo-rules/) author deliberately uses a single Wizard in solo games to make them more challenging. That is a useful design recommendation, not a mandatory rule. The same older article says up to three Wizard cards are allowed under standard deck construction; the current official *The Wizards* rules say up to two, so the Academy follows the current official limit.
+The independent 2017 [My Solo Rules](https://meccg.wordpress.com/my-solo-rules/) author deliberately uses a single Wizard in solo games to make them more challenging. That is a useful design recommendation, not a mandatory rule. Its statement that up to three Wizard cards are allowed is consistent with the current official avatar-card limit.
 
 ## 6. Academy recommendation for controlled testing
 
@@ -105,9 +109,9 @@ Do not change the active list mid-test.
 
 1. Keep the **36-card one-Gandalf build** as the current baseline for the first three recorded games.
 2. Record whether Gandalf's corruption bonus actually changes a Book storage decision, and whether the opening hand delays playing him.
-3. If the deck regularly struggles to find the Wizard, test a **37-card two-Gandalf** version. This changes copy count and deck size, but not the Wizard's abilities.
-4. If the deck regularly struggles with hand quality or card flow, test a **37-card two-Pallando** version as a separate alternative. Record the extra card each turn and whether the Book's own hand-size ability is used.
-5. Compare the variants over the same route and Hazard baseline. Do not change the Hazard deck at the same time.
+3. If the deck regularly struggles to find Gandalf, test a **37-card two-Gandalf** version, then (separately) a **38-card three-Gandalf** version.
+4. If the deck regularly struggles with hand quality or card flow, test **two or three Pallando** as a separate alternative. The original three-Pallando Challenge Deck C build is a valid 38-card reference. Record the extra card each turn and whether the Book's own hand-size ability is used.
+5. Compare one variable at a time over the same route and Hazard baseline. Do not change the Hazard deck at the same time.
 
 The Academy has not silently switched the active Wizard. Gandalf remains the working first-play choice until a controlled comparison justifies changing it.
 
