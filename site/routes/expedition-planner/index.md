@@ -46,13 +46,13 @@ If the movement is illegal when the new site is revealed, it is negated; the com
 
 Arrival is not entry. After the Movement/Hazard Phase, check the actual Hero site card and then decide whether to enter. If you decline, the Site Phase ends immediately and the company cannot take other Site Phase actions that turn.
 
-| Hero destination | Normal Hazard draw | Solo Hazard draw | Site attack if entered |
-|---|---:|---:|---|
-| Moria | 3 | 8 | Orcs — 4 strikes at 7 prowess |
-| Goblin-gate | 2 | 6 | Orcs — 3 strikes at 6 prowess |
-| Blue Mountain Dwarf-hold | 1 | 4 | None |
+| Hero destination | Site-card numbers (opponent / you) | Hero draw | Solo Hazard draw | Site attack if entered |
+|---|---:|---:|---:|---|
+| Moria | 3/2 | Up to 2 | 8 | Orcs — 4 strikes at 7 prowess |
+| Goblin-gate | 2/2 | Up to 2 | 6 | Orcs — 3 strikes at 6 prowess |
+| Blue Mountain Dwarf-hold | 1/1 | Up to 1 | 4 | None |
 
-These are Hero site-card values. The Blue Mountain card used by this Academy is a Free-hold in Númeriador with a 1/1 normal draw and no automatic attack; do not use Minion site data. Site automatic attacks do not consume Hazard Limit slots. A Hazard card that modifies an automatic attack is a separate Hazard play and normally does count.
+These are Hero site-card values. The notation is **opponent draws / you draw**: the first number feeds the solo Hazard formula; the second is the Hero player's normal draw from the Hero play deck. A company with an avatar or a character of mind 3 or greater qualifies for the Hero draw and must draw at least one, up to the printed number. After the Movement/Hazard Phase, reset the Hero hand to five. The Blue Mountain card used by this Academy is a Free-hold in Númeriador with a 1/1 draw and no automatic attack; do not use Minion site data. Site automatic attacks do not consume Hazard Limit slots. A Hazard card that modifies an automatic attack is a separate Hazard play and normally does count. Complete the [Movement Draw Lab]({{ '/scenarios/movement-draw-lab/' | relative_url }}) before planning the longer campaign.
 
 Use the [Site Entry & Automatic Attack Lab]({{ '/scenarios/site-entry-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/site-entry-lab/answer-key/' | relative_url }}) to practise the decision.
 
