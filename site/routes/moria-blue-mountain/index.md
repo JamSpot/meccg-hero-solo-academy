@@ -61,7 +61,7 @@ The 15-site teaching Location deck gives you a second legal route that does **no
 **Redhorn Gate → Hollin → Rhudaur → High Pass**
 
 - Four regions, all Wilderness; the Region cards confirm every adjacency.
-- Goblin-gate's normal Hazard draw is **2**, so the Academy solo draw is **6**.
+- Goblin-gate's normal Hazard draw is **2**, so the Academy solo draw is **6**. The Hero version of Goblin-gate is **2/1**, so the qualifying company may draw up to **1 card** from the Hero play deck.
 - The five-character company's base Hazard Limit is **5**.
 - Goblin-gate's automatic attack is **Orcs — three strikes with 6 prowess**, but only if the company chooses to enter and explore the site.
 
