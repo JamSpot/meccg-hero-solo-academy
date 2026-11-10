@@ -7,6 +7,10 @@ title: First Session Workbook — Answer Key
 
 Try the [workbook questions]({{ '/scenarios/first-session/' | relative_url }}) before reading these model answers. These are reasoning guides, not substitutes for the printed card text or official rules.
 
+## 0. Validate the starting Dwarves
+
+**Model answer:** The five mind values total 8 + 1 + 3 + 5 + 3 = **20**, exactly the starting-company ceiling. Thorin's base direct influence is 2, and his +2 bonus against Dwarves gives **4** against his Dwarf followers; Dori (1) plus Kíli (3) also total **4**. Glóin's base direct influence is 2, and his +1 bonus against Dwarves gives **3**; Óin has mind **3**. Both player-aid control assignments therefore fit exactly. Apply each race-specific direct-influence bonus once, not once per follower. The five starting Dwarves come from the starting character pool and are **not** shuffled into the 36-card Hero play deck; that deck contains 30 Resources, five other non-Wizard characters and Gandalf.
+
 ## 1. Count the regions
 
 **Model answer:** A → B → C → D has four regions, including the origin and destination. It is within the normal Region Movement limit if A contains the origin, D contains the destination, each adjacent pair is legal, and no region repeats.
