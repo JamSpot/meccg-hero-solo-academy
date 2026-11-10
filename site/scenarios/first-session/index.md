@@ -7,6 +7,12 @@ title: First Session Practice Workbook
 
 Use this after [Game 1 — First Expedition]({{ '/games/game-1/' | relative_url }}). Answer before opening the [answer key](answer-key/). For each exercise, record your decision, reason, risk and what would change your mind. Check printed card text whenever exact wording matters.
 
+## 0. Validate the starting Dwarves
+
+The starting company is Thorin II (mind 8), Dori (mind 1), Kíli (mind 3), Glóin (mind 5) and Óin (mind 3). The Challenge Deck C player aid assigns Dori and Kíli to Thorin, and Óin to Glóin.
+
+**Task:** Add the five mind values. Then check the direct-influence assignments using Thorin's +2 direct influence against Dwarves and Glóin's +1 direct influence against Dwarves. Does each leader have enough direct influence for the assigned followers? Are these five characters part of the 36-card Hero play deck?
+
 ## 1. Count the regions
 A → B → C → D. A and D contain the origin and destination; all pairs are adjacent and no region repeats. Is this within the normal Region Movement limit? What else must you check?
 
@@ -45,8 +51,8 @@ The Academy uses a labelled teaching hybrid: the historical Dwarven Quest / Pall
 
 **NEXT: Lesson 4 — Free Movement**
 
-Once you have checked your answers, learn how Starter Movement and Region Movement change the site path and Hazard exposure.
+Once you have checked your answers, use the [Movement Decision Card]({{ '/reference/movement-decision-card/' | relative_url }}) for the quick route test, then read the detailed guide to see how Starter Movement and Region Movement change the site path and Hazard exposure.
 
-[Continue to Free Movement →]({{ '/reference/free-movement/' | relative_url }})
+[Open the Movement Decision Card →]({{ '/reference/movement-decision-card/' | relative_url }}) · [Continue to Free Movement →]({{ '/reference/free-movement/' | relative_url }})
 
 </div>
