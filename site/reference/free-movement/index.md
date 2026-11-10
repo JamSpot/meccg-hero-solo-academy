@@ -136,10 +136,10 @@ The following three journeys form a connected teaching route from the opening Bo
 | Journey | Region sequence | Regions | Site-card numbers (opponent / you) | Hero draw | Academy solo Hazard draw | Five-Dwarf base Hazard Limit |
 |---|---|---:|---:|---:|---:|---:|
 | Rivendell → Moria | Rhudaur → Hollin → Redhorn Gate | 3 | 3/2 | Up to **2** | **8** | 5 |
-| Moria → Goblin-gate | Redhorn Gate → Hollin → Rhudaur → High Pass | 4 | 2/2 | Up to **2** | **6** | 5 |
+| Moria → Goblin-gate | Redhorn Gate → Hollin → Rhudaur → High Pass | 4 | 2/1 | Up to **1** | **6** | 5 |
 | Goblin-gate → Blue Mountain Dwarf-hold | High Pass → Rhudaur → Arthedain → Númeriador | 4 | 1/1 | Up to **1** | **4** | 5 |
 
-**Read both numbers on the Hero site card:** the common notation is **opponent draws / you draw**. The first number is the normal Hazard-player draw used in the solo formula; the second is the Hero player's normal draw from the Hero play deck. A company with an avatar or a character of mind 3 or greater qualifies for the Hero draw and must draw at least one, up to the second number. Thus Moria is 3/2, Goblin-gate is 2/2, and Blue Mountain Dwarf-hold is 1/1 in the Hero location set. The solo Hazard formula uses 3, 2 and 1 respectively. The Hazard Limit remains separate.
+**Read both numbers on the Hero site card:** the common notation is **opponent draws / you draw**. The first number is the normal Hazard-player draw used in the solo formula; the second is the Hero player's normal draw from the Hero play deck. A company with an avatar or a character of mind 3 or greater qualifies for the Hero draw and must draw at least one, up to the second number. Thus Moria is 3/2, the Hero version of Goblin-gate is 2/1, and Blue Mountain Dwarf-hold is 1/1 in the Hero location set. Do not substitute a Minion site card. The solo Hazard formula uses 3, 2 and 1 respectively. The Hazard Limit remains separate.
 
 **Use Hero site cards throughout this guide.** In particular, the Hero *Blue Mountain Dwarf-hold* is a Free-hold in Númeriador with a 1/1 draw and no automatic attack. The separate Minion version has different site data and an automatic Dwarven attack; do not substitute it into the Hero Location deck.
 
@@ -229,6 +229,7 @@ After the Book of Mazarbul expedition, the company can consider Goblin-gate with
 For this move:
 
 - Goblin-gate's normal Hazard draw number is **2**, so the Academy's solo procedure draws **2 + (2 × 2) = 6** Hazard cards.
+- The Hero version of Goblin-gate is **2/1** (opponent / you), so the qualifying Dwarf company may draw up to **1 card** from the Hero play deck.
 - A five-character company still has a base Hazard Limit of **5**.
 - Goblin-gate's site automatic attack is **Orcs — three strikes with 6 prowess**. This is resolved at the site, not counted as a Hazard card.
 - The four Wilderness regions can key the Wilderness creatures in the Challenge Deck C Hazard list. Cave Worm can also be keyed by the named Redhorn Gate region.
