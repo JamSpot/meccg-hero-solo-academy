@@ -47,7 +47,7 @@ The origin and destination both count. A journey through five regions is not a l
 |---|---|---|
 | Hero draw | The lighter number on the relevant site card, if the moving company contains an avatar or a character with mind 3 or greater. Draw at least one if eligible, unless an effect reduces it below one. | Cards drawn by the Hero player from the Hero play deck. |
 | Normal Hazard draw | The darker number on the relevant site card. The Hazard player normally draws at least one if the company moves, unless an effect reduces it below one. | The multiplayer baseline used by the solo formula. |
-| Base Hazard Limit | Current company size or 2, whichever is greater. It is fixed for that company's Movement/Hazard Phase. | Maximum number of ordinary Hazard plays that can be made, before relevant modifiers. |
+| Base Hazard Limit | Current company size or 2, whichever is greater. It is fixed for that company's Movement/Hazard Phase. In standard multiplayer, halve it (round up) if the Hazard player accessed their sideboard during this turn's Untap Phase. | Maximum number of ordinary Hazard plays that can be made, before relevant modifiers. |
 
 **Which site's numbers?**
 
