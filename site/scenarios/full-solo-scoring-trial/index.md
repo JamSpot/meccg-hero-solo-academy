@@ -82,7 +82,7 @@ The Hazard Limit is a third, separate calculation. Under the current normal rule
 |---|---:|---:|---:|---:|
 | Rivendell → Moria | 3/2 | Up to **2** | **8** | **5** |
 | Moria → Rivendell | 3/2 (use Moria, the origin) | Up to **2** | **8** | **5** |
-| Moria → Goblin-gate | 2/2 | Up to **2** | **6** | **5** |
+| Moria → Goblin-gate | 2/1 | Up to **1** | **6** | **5** |
 | Goblin-gate → Blue Mountain Dwarf-hold | 1/1 | Up to **1** | **4** | **5** |
 
 After each company's Movement/Hazard Phase, reset the Hero hand to its current target: **five** for the active Gandalf baseline, modified by any active hand-size effect such as Pallando or a Sage tapping Book of Mazarbûl. Do not confuse that hand reset with either draw, and do not put Hazard cards into the Hero hand.
