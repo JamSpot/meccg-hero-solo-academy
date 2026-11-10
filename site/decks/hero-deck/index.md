@@ -97,7 +97,7 @@ The five starting Dwarves have a combined mind of **20**, exactly the normal sta
 | Óin | 3 | 0 | Glóin's follower |
 | **Total** | **20** |  | **Five characters** |
 
-The control arithmetic is exact: Thorin has 2 + 2 = **4 direct influence against Dwarves**, matching Dori (1) + Kíli (3) = **4 mind**. Glóin has 2 + 1 = **3 direct influence against Dwarves**, matching Óin's **3 mind**. The race-specific direct-influence bonus is applied once, not once per follower.
+The control arithmetic is exact: Thorin has 2 + 2 = **4 direct influence against Dwarves**, matching Dori (1) + Kíli (3) = **4 mind**. Glóin has 2 + 1 = **3 direct influence against Dwarves**, matching Óin's **3 mind**. The race-specific direct-influence bonus is applied once, not once per follower. Under the control rules, Thorin and Glóin are the two non-follower characters, so their mind values (8 + 5 = **13**) are deducted from general influence; Dori, Kíli and Óin are accounted for against their leaders' direct influence. The five characters still count together for the **20-mind starting-company cap**. See [Official Rules 2.II.2.2.2 and 2.II.2.2.4](https://councilofelrond.org/rules/).
 
 This is the original Challenge Deck C starting-company arrangement, retained for the Academy's Dwarven teaching company. The five starting Dwarves are set up from the starting character pool; they are **not** shuffled into the 36-card Hero play deck. For current card text and rules, use the [Council of Elrond official card database](https://www.councilofelrond.org/cards/) and [official rules](https://councilofelrond.org/rules/).
 
