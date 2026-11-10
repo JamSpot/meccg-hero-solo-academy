@@ -121,7 +121,7 @@ The list is a mixture of creatures, ongoing attack support and disruption. Read 
 | **Seized by Terror** | Short-event on a non-Wizard character moving through a Shadow-land or Dark-domain. If the roll plus the character's mind is below 12, that character splits into a new company and returns to the original company's site of origin. | It needs a **region type** {s} or {d} in the moving company's site path. A destination that is a Shadow-hold [{S}] does not satisfy this condition. |
 | **Full of Froth and Rage** | Permanent-event: Spider and Animal attacks receive +2 prowess. Discard it if a Spider or Animal attack is defeated; it cannot be duplicated. | Recheck whether it remains in play after every Spider or Animal attack. Do not assume its bonus survives a defeated attack. |
 | **Wake of War** | Long-event: each Wolf, Spider and Animal attack gets +1 strike and +1 prowess. Wolf attacks get +2 of each if Doors of Night is in play. | The fixed 30-card Challenge Deck C list has no Doors of Night, so its Wargs normally receive +1 strike and +1 prowess, not +2. Attacks worded as one strike per character are not given extra strikes by a strike-count modifier, although their prowess can still be modified. |
-| **Twilight** | Cancels one Environment card in play or declared earlier in the same chain. It may be played at any point during either player's turn and does not count against the Hazard Limit; it may also be played as a Resource. | It needs an Environment target when used as a Hazard. It is not a generic extra attack and does not use one of the five ordinary slots. |
+| **Twilight** | Cancels one Environment card in play or declared earlier in the same chain. It may be played at any point during either player's turn and does not count against the Hazard Limit; it may also be played as a Resource. | It needs an Environment target when used as a Hazard. It is not a generic extra attack and does not use one of the five ordinary slots. The no-limit exception is confirmed in Council of Elrond Ruling Digest #112 ([rulings archive](https://meccg.es/meta/rules/MeCCG%20Rulings%20Digests%20v1.0.pdf)). |
 
 ### Despair of the Heart: pressure on the Book bearer
 
@@ -331,7 +331,7 @@ The card list is based on the published [Challenge Deck C player aid](https://me
 
 ## Optional advanced module — Hazard combinations
 
-After you have completed Game 1 and the core course, use the [Hazard Combination Lab]({{ '/decks/hazard-combos/' | relative_url }}) to compare creature families, site-path support and tactical combinations. This is optional advanced research, not a step you need before your first game.
+After you have completed Game 1 and the core course, use the [Hazard Combination Lab]({{ '/decks/hazard-combos/' | relative_url }}) and [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }}), then check the [detailed answer key]({{ '/scenarios/hazard-combo-lab/answer-key/' | relative_url }}), to compare creature families, site-path support and tactical combinations. This is optional advanced research, not a step you need before your first game.
 
 
 ---
