@@ -30,6 +30,7 @@ Use the visible header menu on every page to switch sections. This map also link
 ## Movement, routes and rules
 - [Reference library]({{ '/reference/' | relative_url }})
 - [Free / Player-Directed Movement]({{ '/reference/free-movement/' | relative_url }})
+- [Movement Decision Card — quick table reference]({{ '/reference/movement-decision-card/' | relative_url }})
 - [Movement and Route Planning]({{ '/reference/movement/' | relative_url }})
 - [Route Workshop]({{ '/reference/route-workshop/' | relative_url }})
 - [Route Atlas]({{ '/routes/' | relative_url }})
