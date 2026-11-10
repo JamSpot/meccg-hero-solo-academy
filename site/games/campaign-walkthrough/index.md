@@ -66,7 +66,7 @@ Do not declare the detailed site path yet. During Organization, declare the dest
 3. **Set the base Hazard Limit.** The five-character company has a base Hazard Limit of five. It is fixed for this phase, even if a character is later eliminated.
 4. **Apply ongoing effects.** Resolve any effects that already depend on this movement.
 5. **Draw cards.** Moria's site card says the normal draw is **3 for the Hazard player and 2 for the Hero player**. In this solo procedure:
-   - Hero player: draw up to **2** Resource cards normally.
+   - Hero player: draw up to **2** cards from the Hero play deck.
    - Solo Hazard side: draw **2 + (2 × 3) = 8** Hazard cards.
 6. **Resolve passive conditions.** Follow the normal rules and card text.
 7. **Play Hazards.** Inspect all eight drawn cards. Check keying, target, requirements and timing. Play as many as possible within the five-slot Hazard Limit, choosing the most disadvantageous legal combination. Do not play an illegal card to fill a slot.
@@ -115,9 +115,9 @@ The Book was acquired during the Site Phase, so that turn's Organization Phase h
 
 Four regions, including origin and destination. Check all three adjacencies on the Region cards. This is within the normal Region Movement limit.
 
-Goblin-gate is a non-Haven site. Its normal draw is **2 Hazard / 2 Resource**:
+Goblin-gate is a non-Haven site. The Hero version is **2 Hazard / 1 Hero draw**:
 
-- Hero player: draw up to **2** Resource cards.
+- Hero player: draw up to **1** card from the Hero play deck.
 - Solo Hazard side: draw **2 + (2 × 2) = 6** Hazard cards.
 - Five-character base Hazard Limit: **5**.
 
@@ -137,7 +137,7 @@ Three regions. Check the physical Region cards and the four-region limit.
 
 Rivendell is a Haven, so the normal draw uses the **site of origin**, Moria:
 
-- Hero player: draw up to Moria's Resource number, **2**.
+- Hero player: draw up to Moria's Hero draw number, **2**, from the Hero play deck.
 - Solo Hazard side: use Moria's normal Hazard number, **3**, so draw **8** Hazard cards.
 - Five-character base Hazard Limit: **5**.
 
@@ -153,9 +153,9 @@ This is not a low-risk shortcut: the Hazard draw is based on Moria because Riven
 
 Four regions, including both endpoints. Confirm each adjacency and do not repeat a region.
 
-Blue Mountain Dwarf-hold is a non-Haven site. Its normal draw is **1 Hazard / 1 Resource**:
+Blue Mountain Dwarf-hold is a non-Haven site. Its normal draw is **1 Hazard / 1 Hero draw**:
 
-- Hero player: draw up to **1** Resource card.
+- Hero player: draw up to **1** card from the Hero play deck.
 - Solo Hazard side: draw **2 + (2 × 1) = 4** Hazard cards.
 - Five-character base Hazard Limit: **5**.
 
