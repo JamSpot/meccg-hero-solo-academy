@@ -18,9 +18,9 @@ The current CoE rules should be used for movement, site paths, Hazard Limits, si
 
 **Region Movement** is the correct direct route because Moria's nearest Haven is Lórien, not Rivendell. The route Rhudaur → Hollin → Redhorn Gate contains three regions, includes both endpoints, and has no repeated region. Confirm adjacency on the physical Region cards.
 
-Moria's normal site-card draw is **3 Hazard / 2 Resource**. Because Moria is a non-Haven destination:
+Moria's normal site-card draw is **3 Hazard / 2 Hero draw**. Because Moria is a non-Haven destination:
 
-- Hero draws up to 2 Resource cards normally.
+- Hero draws up to **2 cards from the Hero play deck**.
 - Solo Hazard side draws 2 + (2 × 3) = **8 Hazard cards**.
 - Five characters produce a base Hazard Limit of **5**.
 
@@ -38,9 +38,9 @@ Redhorn Gate → Hollin → Rhudaur → High Pass.
 
 Four regions, including endpoints. It is within the normal limit if the Region cards confirm every adjacency.
 
-Goblin-gate is a non-Haven destination with normal draw **2 Hazard / 2 Resource**:
+The Hero version of Goblin-gate is a non-Haven destination with normal draw **2 Hazard / 1 Hero draw**:
 
-- Hero draws up to 2.
+- Hero draws up to **1 card from the Hero play deck**.
 - Solo Hazard draw: **6**.
 - Base Hazard Limit: **5**.
 
@@ -52,7 +52,7 @@ Redhorn Gate → Hollin → Rhudaur.
 
 Three regions. Rivendell is a Haven destination, so use Moria, the site of origin, for both normal draw numbers:
 
-- Hero draws up to 2.
+- Hero draws up to **2 cards from the Hero play deck**.
 - Normal Hazard number is 3, so solo Hazard draw: **8**.
 - Base Hazard Limit: **5**.
 
@@ -70,9 +70,9 @@ Rhudaur → Arthedain → Númeriador.
 
 Both routes are legal Region Movement examples if each adjacency is confirmed and no region repeats. The first has four regions; the second has three.
 
-Blue Mountain Dwarf-hold is a non-Haven destination with normal draw **1 Hazard / 1 Resource**:
+Blue Mountain Dwarf-hold is a non-Haven destination with normal draw **1 Hazard / 1 Hero draw**:
 
-- Hero draws up to 1.
+- Hero draws up to **1 card from the Hero play deck**.
 - Solo Hazard draw: **4**.
 - Five-character base Hazard Limit: **5**.
 - No automatic attack on the Hero site card.
