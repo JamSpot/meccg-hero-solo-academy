@@ -22,7 +22,7 @@ https://jamspot.github.io/meccg-hero-solo-academy/
 ## What this project is not
 This repository is **not** the Arda format project. Its active 36-card Gandalf-led Hero play deck, separate 30-card Hazard deck, Rivendell-to-Moria first expedition and conventional solo procedure are not Arda rules or Arda pile lists. The historical Challenge Deck C reference had 38 Resource/character cards; the current Academy working build uses a 36-card Gandalf adaptation rather than preserving the original Pallando package.
 
-For Arda card pools, Arda rules and Arda-specific solitaire variants, use the separate [MECCG Arda Master Database](https://jamspot.github.io/meccg-arda-master-database/).
+Arda card pools, Arda rules and Arda-specific solitaire variants are maintained in a separate project and are intentionally outside this repository's scope.
 
 ## Core learning loop
 Prepare → Travel → Marshal → Grow Stronger → Travel Further → Recover → Repeat
