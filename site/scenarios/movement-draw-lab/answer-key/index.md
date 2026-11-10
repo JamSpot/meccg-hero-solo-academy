@@ -22,9 +22,9 @@ Moria is **3/2**.
 
 ## Exercise 2 — Moria to Goblin-gate
 
-Goblin-gate is **2/2** and is a non-Haven destination.
+The Hero version of Goblin-gate is **2/1** and is a non-Haven destination.
 
-- Hero draw: up to **2**.
+- Hero draw: up to **1** card from the Hero play deck.
 - Solo Hazard draw: **2 + (2 × 2) = 6**.
 - Base Hazard Limit: **5**.
 - The four regions are used for movement legality and Hazard creature keying. They do not multiply the draw.
