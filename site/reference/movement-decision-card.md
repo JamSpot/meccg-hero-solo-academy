@@ -63,12 +63,12 @@ The site automatic attack is a separate Site Phase encounter if the company ente
 
 A direct Moria → Blue Mountain Dwarf-hold Region Movement would use five regions and is illegal as one normal movement. Two practical two-leg routes are available:
 
-| Route | Leg 1 | Leg 2 | Total solo Hazard draws | Strategic trade-off |
-|---|---|---|---:|---|
-| Non-Haven route | Moria → Goblin-gate: 4 regions; normal Hazard draw 2; solo draw 6 | Goblin-gate → Blue Mountain: 4 regions; normal Hazard draw 1; solo draw 4 | **10** | Avoids a Haven detour, but gives no Haven recovery between legs. Goblin-gate's automatic attack is faced only if the company enters. |
-| Haven recovery route | Moria → Rivendell: destination is a Haven, so use Moria's numbers; normal Hazard draw 3; solo draw 8 | Rivendell → Blue Mountain: 3 regions; normal Hazard draw 1; solo draw 4 | **12** | Costs two more solo Hazard draws, but offers a Haven recovery and organization opportunity. |
+| Route | Leg 1 | Leg 2 | Total Hero draw (maximum) | Total solo Hazard draws | Strategic trade-off |
+|---|---|---|---:|---:|---|
+| Non-Haven route | Moria → Goblin-gate: 4 regions; Hero site card 2/1; Hero draw up to 1; normal Hazard draw 2; solo draw 6 | Goblin-gate → Blue Mountain: 4 regions; Hero site card 1/1; Hero draw up to 1; normal Hazard draw 1; solo draw 4 | **2** | **10** | Avoids a Haven detour, but gives no Haven recovery between legs. Goblin-gate's automatic attack is faced only if the company enters. |
+| Haven recovery route | Moria → Rivendell: destination is a Haven, so use Moria's 3/2 numbers; Hero draw up to 2; normal Hazard draw 3; solo draw 8 | Rivendell → Blue Mountain: 3 regions; Hero site card 1/1; Hero draw up to 1; normal Hazard draw 1; solo draw 4 | **3** | **12** | Costs two more solo Hazard draws, but offers a Haven recovery and organization opportunity. |
 
-The lower-draw route is not automatically the better route. Compare the company's wounds, tapped characters, remaining avoidance cards, the value of entering Goblin-gate, and whether a Haven recovery is worth the extra exposure.
+Hero draws are from the 36-card Hero play deck, not a Resource-only deck. The five-Dwarf company qualifies because it contains characters with mind 3 or greater. The lower-draw route is not automatically the better route. Compare the company's wounds, tapped characters, remaining avoidance cards, the value of entering Goblin-gate, and whether a Haven recovery is worth the extra exposure.
 
 ## 6. Before the Hazard side plays
 
@@ -88,7 +88,7 @@ Do not confuse a site type with a region type. Moria and Goblin-gate are both Sh
 
 - **Rivendell → Moria:** the Region Movement path is Rhudaur → Hollin → Redhorn Gate. It has three regions. The normal Hazard draw is 3, so the solo Hazard draw is 8. The five-Dwarf company has a base Hazard Limit of 5.
 - **Moria → Rivendell:** Rivendell is a Haven, so use Moria's site numbers, not Rivendell's. The solo Hazard draw is 8.
-- **Moria → Goblin-gate:** Redhorn Gate → Hollin → Rhudaur → High Pass is four regions. The normal Hazard draw is 2, so the solo draw is 6.
+- **Moria → Goblin-gate:** Redhorn Gate → Hollin → Rhudaur → High Pass is four regions. The Hero version of Goblin-gate is 2/1, so the Hero draw is up to 1; the normal Hazard draw is 2, so the solo draw is 6.
 - **Goblin-gate → Blue Mountain Dwarf-hold:** High Pass → Rhudaur → Arthedain → Númeriador is four regions. The normal Hazard draw is 1, so the solo draw is 4.
 - **Moria → Blue Mountain Dwarf-hold in one leg:** five regions; illegal as one normal Region Movement.
 
