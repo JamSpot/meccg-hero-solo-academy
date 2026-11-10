@@ -8,7 +8,7 @@ permalink: /scenarios/hazard-combo-lab/
 
 Use this workbook with the physical Dwarven Quest / Pallando Challenge Deck C Hazard list. The aim is to learn how to identify the strongest **legal** combination, not to invent interactions from card names. Keep the 30-card list unchanged during the baseline tests.
 
-Before each exercise, read the printed text of every relevant card and check the [official rules](https://councilofelrond.org/rules/). If the answer depends on wording you have not checked, mark it **unverified** rather than guessing. Complete the [Site-Keying Workshop]({{ '/scenarios/site-keying-workshop/' | relative_url }}) first if lowercase region types and uppercase site types are still easy to confuse.
+Before each exercise, read the printed text of every relevant card and check the [official rules](https://councilofelrond.org/rules/). If the answer depends on wording you have not checked, mark it **unverified** rather than guessing. Complete the [Site-Keying Workshop]({{ '/scenarios/site-keying-workshop/' | relative_url }}) first if lowercase region types and uppercase site types are still easy to confuse. Complete the drills before opening the [detailed answer key]({{ '/scenarios/hazard-combo-lab/answer-key/' | relative_url }}).
 
 ## Drill 1 — Eight cards, five slots
 
@@ -32,7 +32,7 @@ Both named support cards are in the drawn Hazard hand, along with a creature.
 
 **Task:** Before playing anything, check whether either support card is legal now, what it affects, its timing, and whether both can legally affect the same attack or phase. Count Hazard Limit use.
 
-**Model principle:** Full of Froth and Rage gives Spider and Animal attacks +2 prowess; Wake of War gives Wolf, Spider and Animal attacks +1 strike and +1 prowess (or Wolves +2 strikes and +2 prowess if Doors of Night is active). When both effects apply to a fixed-strike Spider/Animal attack, the combined modifier is +3 prowess and +1 strike. Full of Froth and Rage does not boost Wolves. Watcher in the Water and Neeker-breekers are special cases: their text says each character faces one strike, so the ruling digest says fixed strike-increase effects do not add extra strikes to those attacks. The Neeker-breekers erratum also says the card does not affect Wizards. Check the printed cards and ruling before resolving the example.
+**Model principle:** Full of Froth and Rage gives Spider and Animal attacks +2 prowess; Wake of War gives Wolf, Spider and Animal attacks +1 strike and +1 prowess (or Wolves +2 strikes and +2 prowess if Doors of Night is active). When both effects apply to a fixed-strike Spider/Animal attack, the combined modifier is +3 prowess and +1 strike. Full of Froth and Rage does not boost Wolves. Watcher in the Water and Neeker-breekers are special cases: their text says each character faces one strike, so the ruling digest says fixed strike-increase effects do not add extra strikes to those attacks. The Neeker-breekers erratum also says the card does not affect Wizards. **Full of Froth and Rage is discarded if a Spider or Animal attack is defeated**; check whether it survives after every such attack before applying its bonus to a later one. Check the printed cards and ruling before resolving the example.
 
 **Limit reminder:** Twilight is the fixed list's special exception. It may be played at any point during either player's turn and does not count against the Hazard Limit, but it must have a legal Environment card to cancel. It is not a general extra attack.
 
@@ -123,7 +123,7 @@ For a future controlled test only, imagine one **Arouse Minions** has replaced o
 
 **Task:** Is Arouse Minions legal on Moria? What does it modify, and what happens if the Hero company declines to enter the site?
 
-**Model principle:** it is a Hazard short-event playable on a Shadow-hold or Dark-hold. It increases one automatic attack at the target site by +3 prowess for the turn; it does not add strikes. It counts against the Hazard Limit. If the company later declines to enter Moria, the site automatic attack is not faced that turn, so the event may have produced no practical effect. This card is a non-Dragon candidate for later tuning, not part of the locked 30-card baseline. Do not add it until the first three baseline games are recorded.
+**Model principle:** it is a Hazard short-event playable on a Shadow-hold or Dark-hold. It increases one automatic attack at the target site by +3 prowess for the turn; it does not add strikes. It is also legal at Goblin-gate, because Goblin-gate is a Shadow-hold like Moria. It counts against the Hazard Limit. If the company later declines to enter Moria, the site automatic attack is not faced that turn, so the event may have produced no practical effect. This card is a non-Dragon candidate for later tuning, not part of the locked 30-card baseline. Do not add it until the first three baseline games are recorded.
 
 ## Drill 14 — Brigands (candidate card, not in the active list)
 
@@ -144,4 +144,4 @@ For a future controlled test only, imagine one **Brigands** has replaced one Sei
 - [ ] I recorded a meaningful effect on the Hero expedition.
 - [ ] I kept the teaching list unchanged for comparable tests.
 
-Return to the [Hazard Combination Lab]({{ '/decks/hazard-combos/' | relative_url }}) to compare your results with the research hypotheses.
+Open the [detailed answer key]({{ '/scenarios/hazard-combo-lab/answer-key/' | relative_url }}) after completing the drills. Return to the [Hazard Combination Lab]({{ '/decks/hazard-combos/' | relative_url }}) to compare your results with the research hypotheses.
