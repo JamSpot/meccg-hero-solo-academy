@@ -257,7 +257,7 @@ The Region cards confirm each adjacency, and all four regions are Wilderness. Th
 
 For the second leg:
 
-- Blue Mountain Dwarf-hold's normal Hazard draw is **1**, so the Academy solo draw is **4**.
+- Blue Mountain Dwarf-hold's normal Hazard draw is **1**, so the Academy solo draw is **4**. The Hero draw is up to **1 card** from the Hero play deck.
 - The five-character company's base Hazard Limit is **5**.
 - Blue Mountain Dwarf-hold has **no automatic attack**.
 - Wilderness-keyed creatures remain relevant; Cave Worm can also key to the named High Pass region.
