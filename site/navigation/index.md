@@ -25,6 +25,7 @@ Use the visible header menu on every page to switch sections. This map also link
 - [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }})
 - [Hazard Deck Construction]({{ '/decks/hazard-deck/' | relative_url }})
 - [Hazard Combination Lab — research draft]({{ '/decks/hazard-combos/' | relative_url }})
+- [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }}) · [Detailed answer key]({{ '/scenarios/hazard-combo-lab/answer-key/' | relative_url }})
 - [Sideboard guide]({{ '/decks/sideboard/' | relative_url }})
 
 ## Movement, routes and rules
