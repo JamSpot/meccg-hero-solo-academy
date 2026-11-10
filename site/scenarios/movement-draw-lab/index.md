@@ -43,7 +43,7 @@ Record:
 
 ## Exercise 2 — Moria to Goblin-gate
 
-The five Dwarves move from Moria to Goblin-gate. Goblin-gate's Hero site card shows **2/2**.
+The five Dwarves move from Moria to Goblin-gate. The Hero version of Goblin-gate shows **2/1** (opponent draws / you draw).
 
 Record the Hero draw, solo Hazard draw, base Hazard Limit and hand-reset point. Explain why the four-region route does not multiply either draw.
 
