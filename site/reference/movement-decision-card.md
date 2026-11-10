@@ -82,7 +82,7 @@ For each company, ask in this order:
 6. What is the current Hazard Limit, after any modifiers?
 7. Which legal sequence is most disadvantageous to this company?
 
-Do not confuse a site type with a region type. A Shadow-hold site does not create a Shadow-land region in the site path. A named-site permission such as Watcher in the Water's permission to be played at Moria does not automatically apply at Goblin-gate.
+Do not confuse a site type with a region type. Moria and Goblin-gate are both Shadow-hold sites; neither is a Shadow-land region. A Shadow-hold site does not create a Shadow-land region in the site path. A named-site permission such as Watcher in the Water's permission to be played at Moria does not automatically apply at Goblin-gate.
 
 ## 7. Quick self-check
 
@@ -94,6 +94,6 @@ Do not confuse a site type with a region type. A Shadow-hold site does not creat
 
 ## Sources and status
 
-The movement tests, site-path procedure, draw timing and Hazard Limit are based on the [Council of Elrond Official Game Rules] (https://councilofelrond.org/rules/), especially sections 2.II.7 and 2.IV.i–vii. The solo draw multiplier is from the printed solitaire rules reproduced in the Academy's [Solo Rules Reference]({{ '/reference/solo-ruleset/' | relative_url }}). The unplayed-Hazard discard procedure is explicitly identified as the Academy's chosen supplementary procedure from [My Solo Rules](https://meccg.wordpress.com/my-solo-rules/).
+The movement tests, site-path procedure, draw timing and Hazard Limit are based on the [Council of Elrond Official Game Rules](https://councilofelrond.org/rules/), especially sections 2.II.7 and 2.IV.i–vii. The solo draw multiplier is from the printed solitaire rules reproduced in the Academy's [Solo Rules Reference]({{ '/reference/solo-ruleset/' | relative_url }}). The unplayed-Hazard discard procedure is explicitly identified as the Academy's chosen supplementary procedure from [My Solo Rules](https://meccg.wordpress.com/my-solo-rules/).
 
 **Next:** return to the [Free Movement Guide]({{ '/reference/free-movement/' | relative_url }}) for detailed site-path examples, then use the [Expedition Planner]({{ '/routes/expedition-planner/' | relative_url }}) to compare routes before committing a company.
