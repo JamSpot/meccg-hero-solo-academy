@@ -49,7 +49,7 @@ Arrival is not entry. After the Movement/Hazard Phase, check the actual Hero sit
 | Hero destination | Site-card numbers (opponent / you) | Hero draw | Solo Hazard draw | Site attack if entered |
 |---|---:|---:|---:|---|
 | Moria | 3/2 | Up to 2 | 8 | Orcs — 4 strikes at 7 prowess |
-| Goblin-gate | 2/2 | Up to 2 | 6 | Orcs — 3 strikes at 6 prowess |
+| Goblin-gate (Hero site) | 2/1 | Up to 1 | 6 | Orcs — 3 strikes at 6 prowess |
 | Blue Mountain Dwarf-hold | 1/1 | Up to 1 | 4 | None |
 
 These are Hero site-card values. The notation is **opponent draws / you draw**: the first number feeds the solo Hazard formula; the second is the Hero player's normal draw from the Hero play deck. A company with an avatar or a character of mind 3 or greater qualifies for the Hero draw and must draw at least one, up to the printed number. After the Movement/Hazard Phase, reset the Hero hand to five. The Blue Mountain card used by this Academy is a Free-hold in Númeriador with a 1/1 draw and no automatic attack; do not use Minion site data. Site automatic attacks do not consume Hazard Limit slots. A Hazard card that modifies an automatic attack is a separate Hazard play and normally does count. Complete the [Movement Draw Lab]({{ '/scenarios/movement-draw-lab/' | relative_url }}) before planning the longer campaign.
@@ -134,7 +134,7 @@ This is a non-Haven-to-non-Haven journey. It contains four regions including ori
 - Goblin-gate has an automatic attack of **Orcs — three strikes with 6 prowess**. Resolve that when entering the site; do not confuse it with the Hazard Limit.
 - The Gollum objective is optional. If the company is wounded, tapped or short of defensive resources after Moria, the direct route may be too risky.
 
-**Solo draw and entry choice:** Goblin-gate's normal Hazard draw is **2**, so the Academy solo procedure draws **6**. The five-character company's base Hazard Limit is **5**. If the company enters Goblin-gate to attempt Gollum, it faces the automatic attack of three Orc strikes with 6 prowess. If it chooses not to enter, it does not face that automatic attack and may not take any other site-phase actions or play cards; it remains at Goblin-gate and can move again next turn.
+**Solo draw and entry choice:** The Hero version of Goblin-gate is **2/1**: Hero draw up to **1** card from the Hero play deck; normal Hazard draw **2**, so the Academy solo procedure draws **6**. The five-character company's base Hazard Limit is **5**. If the company enters Goblin-gate to attempt Gollum, it faces the automatic attack of three Orc strikes with 6 prowess. If it chooses not to enter, it does not face that automatic attack and may not take any other site-phase actions or play cards; it remains at Goblin-gate and can move again next turn.
 
 **A second non-Haven leg:** from Goblin-gate, the company can move to Blue Mountain Dwarf-hold via **High Pass → Rhudaur → Arthedain → Númeriador**. This is another four-region route, all Wilderness. Blue Mountain Dwarf-hold has a normal Hazard draw of **1**, so the solo draw is **4**; it has no automatic attack. At Blue Mountain, store Book of Mazarbul during the **next turn's Organization Phase** after the bearer's corruption check; you cannot store it during the arrival-turn Site Phase. The site-type symbol is Free-hold [{F}], but the site is the named Dwarf-hold required by the Book's text.
 
