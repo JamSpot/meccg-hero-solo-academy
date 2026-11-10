@@ -84,6 +84,23 @@ Control relationships:
 - Thorin II controls Dori and Kíli.
 - Glóin controls Óin.
 
+### Starting-company legality check
+
+The five starting Dwarves have a combined mind of **20**, exactly the normal starting-company ceiling. The Challenge Deck C player aid's direct-influence assignments also fit the printed character values:
+
+| Character | Mind | Printed direct influence | Starting assignment |
+|---|---:|---:|---|
+| Thorin II | 8 | 2, with +2 against Dwarves and Dwarf factions | Controls Dori and Kíli |
+| Dori | 1 | 0 | Thorin's follower |
+| Kíli | 3 | 0 | Thorin's follower |
+| Glóin | 5 | 2, with +1 against Dwarves and Dwarf factions | Controls Óin |
+| Óin | 3 | 0 | Glóin's follower |
+| **Total** | **20** |  | **Five characters** |
+
+The control arithmetic is exact: Thorin has 2 + 2 = **4 direct influence against Dwarves**, matching Dori (1) + Kíli (3) = **4 mind**. Glóin has 2 + 1 = **3 direct influence against Dwarves**, matching Óin's **3 mind**. The race-specific direct-influence bonus is applied once, not once per follower.
+
+This is the original Challenge Deck C starting-company arrangement, retained for the Academy's Dwarven teaching company. The five starting Dwarves are set up from the starting character pool; they are **not** shuffled into the 36-card Hero play deck. For current card text and rules, use the [Council of Elrond official card database](https://www.councilofelrond.org/cards/) and [official rules](https://councilofelrond.org/rules/).
+
 ## Six character/Wizard cards in the active Academy build
 
 These six cards are shuffled **with the 30 Hero Resources** to make the active 36-card Gandalf-led Hero play deck. They are not part of the five-character starting company:
