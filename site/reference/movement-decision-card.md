@@ -57,7 +57,7 @@ The origin and destination both count. A journey through five regions is not a l
 
 **Solo Hazard draw:** use **2 + (2 × the normal Hazard draw)**. This is a draw count, not the Hazard Limit. For the Academy's first-play procedure, draw from the separate Hazard deck, then play the most disadvantageous legal cards within the company's Hazard Limit. The Academy uses the independent *My Solo Rules* procedure for unplayed draws: discard them at the end of the phase and reshuffle the Hazard discard when the Hazard deck is exhausted. That discard handling is a supplementary solo procedure, not a claim that the printed solo paragraph says the same thing.
 
-The site automatic attack is a separate Site Phase encounter if the company enters. It is not one of the drawn Hazard cards and does not use a Hazard Limit slot. A Hazard event that modifies an automatic attack is still a Hazard play and normally counts against the limit.
+The site automatic attack is a separate Site Phase encounter if the company enters. It is not one of the drawn Hazard cards and does not use a Hazard Limit slot. A Hazard event that modifies an automatic attack is still a Hazard play and normally counts against the limit. **Exception:** Twilight never counts against the Hazard Limit, but it still needs a legal Environment card to cancel.
 
 ## 5. Worked route comparison: Moria to Blue Mountain Dwarf-hold
 
