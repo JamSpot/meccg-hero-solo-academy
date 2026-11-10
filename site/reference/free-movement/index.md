@@ -9,6 +9,8 @@ title: Free / Player-Directed Movement
 
 The Academy uses “free movement” as a beginner-friendly phrase. The formal rules term is **Region Movement**. It gives you more choice than relying only on the printed Starter Movement network, but it is not unrestricted movement.
 
+> **Need the table-side version?** Open the [Movement Decision Card]({{ '/reference/movement-decision-card/' | relative_url }}) for the short route legality, draw and Hazard Limit checklist. Return here for the detailed explanations and examples.
+
 ## The Captain's movement algorithm
 
 **MISSION → DESTINATION → MOVEMENT TYPE → LEGALITY → SITE PATH → EXPOSURE → ARRIVAL → NEXT POSITION**
