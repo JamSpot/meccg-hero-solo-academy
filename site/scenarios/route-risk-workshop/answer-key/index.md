@@ -74,6 +74,8 @@ State the evidence behind the decision and what new information would change it.
 
 Goblin-gate is in **High Pass**. The proposed sequence is **Redhorn Gate → Hollin → Rhudaur → High Pass**. It contains four regions, including origin and destination. If each adjacency is confirmed on the physical Region cards, it has no repeated region and fits the normal four-region limit for Region Movement.
 
+The Hero version of Goblin-gate is **2/1** (opponent / you). The five-Dwarf company may draw up to **1 Hero play-deck card**; the normal Hazard draw is **2**, producing **6 solo Hazard cards**. The base Hazard Limit remains **5**.
+
 This is the Academy's concrete example of moving from one non-Haven site to another without returning to a Haven. The route is legal only if the region-card adjacency checks pass; never use the written example as a substitute for checking the actual components.
 
 All four regions are Wilderness. Under Region Movement, their names are included in the declared site path, so check the exact keying of each drawn creature. Do not assume every Wilderness creature can be played: its printed key, target and other conditions still control.
