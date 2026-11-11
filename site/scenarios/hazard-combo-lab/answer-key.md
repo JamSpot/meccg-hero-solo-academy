@@ -55,6 +55,15 @@ Watcher in the Water is a legal candidate on this journey by its double-Wilderne
 
 All three events count against the Hazard Limit when played in the Movement/Hazard Phase, except where a card has an explicit exception (Twilight).
 
+## Drill 15 — Three Despairs and one wound
+
+- **Three Despair cards can be played on three different Dwarves in the same Movement/Hazard Phase**, if all three are drawn and the Hazard Limit permits it. Despair is a Corruption card; the official rule limits this to one corruption card per character per turn. The card also says it cannot be duplicated on a given character. Neither restriction is a one-per-company cap.
+- Each target receives 2 corruption points. Every time any character in that target's company becomes wounded, that target makes a corruption check. With three different targets, one wound can therefore trigger **three separate checks**. A wound to Gandalf also triggers the checks if he is in the same company, even though Gandalf himself cannot be targeted by Despair.
+- **Kíli and Óin are particularly vulnerable targets:** both have -1 to all their corruption checks. If either is carrying Book of Mazarbul, the Book adds 2 corruption points to Despair's 2, creating a 4-CP target with the -1 check modifier. This is a high-risk line, not an automatic elimination; the actual check must still be rolled.
+- A strong five-slot line is **Despair ×3 + Watcher in the Water + Full of Froth and Rage**. Watcher is an Animal attack and each character faces one strike; Full of Froth adds +2 prowess. If any character is wounded, all three Despair targets check. The fixed one-strike-per-character wording means Wake of War's +1 strike does not add extra strikes to Watcher, although its +1 prowess would still apply. Playing both support events would take six Hazard slots with the three Despairs and Watcher, so it exceeds the five-Dwarf limit.
+- **Alternative lines are state-dependent.** Giant Spiders plus Full of Froth gives two high-prowess Spider strikes and can be preferable if the company has a vulnerable defender; River can replace an attack if denying the Site Phase is more valuable. Do not call one line universally best.
+- The Hero player can tap other characters in the company to add +1 to a corruption check, but each tap is a limited resource. The target may try to remove Despair during Organization by tapping and rolling greater than 4; if already tapped, consult the rules' -3 alternative for attempting the removal without tapping again.
+
 ## Drill 8 — Company does not move
 
 The company still has a Movement/Hazard Phase, but it has no new site path. The current site is treated as both origin and new site for relevant checks. A creature may still be keyed to the current site's type or name if its card text permits it. The standard rules' card-draw step applies when the company moves; the printed solo multiplier does not clearly settle every stationary-company draw case. Use a scenario-specific instruction rather than inventing a universal draw number.
