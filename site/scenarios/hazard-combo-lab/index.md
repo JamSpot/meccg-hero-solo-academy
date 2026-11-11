@@ -137,7 +137,7 @@ For a future controlled test only, imagine one **Brigands** has replaced one Sei
 
 The five-Dwarf company moves to Moria. The constructed eight-card Hazard hand contains **Despair of the Heart ×3, Watcher in the Water, Full of Froth and Rage, Wake of War, Giant Spiders and River**. Assume the Dwarves are eligible targets and no Despair is already on them.
 
-**Task:** Can all three Despairs be played in this one Movement/Hazard Phase? May two target the same Dwarf? If Watcher wounds one or more characters, how many corruption checks can one wound trigger? Compare the line of three Despairs + Watcher + Full of Froth with an alternative that uses Giant Spiders or River. Keep the five-Dwarf Hazard Limit in view.
+**Task:** Can all three Despairs be played in this one Movement/Hazard Phase, and how must each be timed in relation to a new chain of effects? May two target the same Dwarf? If Watcher wounds one or more characters, how many corruption checks can one wound trigger? Compare the line of three Despairs + Watcher + Full of Froth with an alternative that uses Giant Spiders or River. Keep the five-Dwarf Hazard Limit in view.
 
 Then repeat with Dori, Kíli or Óin carrying Book of Mazarbul, and with Gandalf joined to the company. None of the five starting Dwarves is a Sage, so their Book bearer does not gain its Sage-only hand-size ability. Identify who may be targeted, what the Book adds, and how the extra character changes the Hazard Limit and the available corruption-check support.
 
