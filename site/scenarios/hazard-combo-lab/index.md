@@ -139,7 +139,7 @@ The five-Dwarf company moves to Moria. The constructed eight-card Hazard hand co
 
 **Task:** Can all three Despairs be played in this one Movement/Hazard Phase? May two target the same Dwarf? If Watcher wounds one or more characters, how many corruption checks can one wound trigger? Compare the line of three Despairs + Watcher + Full of Froth with an alternative that uses Giant Spiders or River. Keep the five-Dwarf Hazard Limit in view.
 
-Then repeat with Kíli or Óin carrying Book of Mazarbul, and with Gandalf joined to the company. Identify who may be targeted, what the Book adds, and how the extra character changes the Hazard Limit and the available corruption-check support.
+Then repeat with Dori, Kíli or Óin carrying Book of Mazarbul, and with Gandalf joined to the company. None of the five starting Dwarves is a Sage, so their Book bearer does not gain its Sage-only hand-size ability. Identify who may be targeted, what the Book adds, and how the extra character changes the Hazard Limit and the available corruption-check support.
 
 **Model principle:** the restriction is per character, not per company. Three Despairs can target three different eligible Dwarves, but cannot be stacked on one Dwarf. Each target checks whenever any character in the company becomes wounded. The Hazard side can therefore turn one wound into several checks; it must still spend one Hazard Limit slot per Despair and choose the strongest legal attack line.
 
