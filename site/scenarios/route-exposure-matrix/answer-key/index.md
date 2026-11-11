@@ -47,7 +47,7 @@ All three route paths are entirely Wilderness:
 
 The named-region key changes for Cave Worm, but every route contains at least one of its listed regions. The double-Wilderness and single-Wilderness creature keys are satisfied throughout. The important pressure changes are the number of Hazard cards drawn, the site's automatic attack, the objective and the company's arrival condition.
 
-This is why the current list has a coherent teaching identity: it can challenge the company across the connected expedition without relying on Dragons or changing the deck between legs. It still has two acknowledged conditional draws—Seized by Terror and Twilight—on this all-Wilderness, no-Environment campaign.
+This is why the current list has a coherent teaching identity: it can challenge the company across the connected expedition without relying on Dragons or changing the deck between legs. **26 of the 30 physical Hazard cards have a route or target available on every leg**; the four campaign-specific inactive cards are the two Seized by Terror and two Twilight. Seized by Terror needs a Shadow-land or Dark-domain, while Twilight needs an Environment. A different route or an Environment could make them relevant.
 
 ## 4. Constructed eight-card hand
 
