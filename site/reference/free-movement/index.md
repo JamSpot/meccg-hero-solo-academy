@@ -131,7 +131,7 @@ It is still a constrained movement system:
 - Declare the actual Region Movement site path during the Movement/Hazard Phase after revealing the new site.
 - Recheck creature keys against the actual path; a direct route can expose more named regions as well as region types.
 
-The following three journeys form a connected teaching route from the opening Book mission to its storage destination. The solo draws use the Academy's selected procedure; the Hazard Limit is still calculated separately.
+The following three journeys form a connected teaching route from the opening Book mission to its storage destination. The solo draws use the Academy's selected procedure; the Hazard Limit is still calculated separately. The [Route Exposure Matrix]({{ '/scenarios/route-exposure-matrix/' | relative_url }}) audits the locked Hazard list against each declared path, so you can see which keys are genuinely satisfied rather than assuming a route is safe or dangerous from its name.
 
 | Journey | Region sequence | Regions | Site-card numbers (opponent / you) | Hero draw | Academy solo Hazard draw | Five-Dwarf base Hazard Limit |
 |---|---|---:|---:|---:|---:|---:|
