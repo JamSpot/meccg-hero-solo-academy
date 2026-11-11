@@ -133,6 +133,16 @@ For a future controlled test only, imagine one **Brigands** has replaced one Sei
 
 **Model principle:** Brigands is a Men creature with two strikes at 8 prowess, playable keyed to Border-lands or Wilderness. It is legal on each of the three opening Wilderness routes. If any strike wounds a character, the company immediately discards one item chosen by the defender (the Hero player). The creature is one Hazard card and therefore one Hazard play against the limit; its two strikes do not count as two separate Hazard cards. This is a non-Dragon way to put direct pressure on an item-rich Hero company. It is a proposed v1.1 replacement for one Seized by Terror, not part of the active 30-card baseline.
 
+## Drill 15 — Three Despairs and one wound
+
+The five-Dwarf company moves to Moria. The constructed eight-card Hazard hand contains **Despair of the Heart ×3, Watcher in the Water, Full of Froth and Rage, Wake of War, Giant Spiders and River**. Assume the Dwarves are eligible targets and no Despair is already on them.
+
+**Task:** Can all three Despairs be played in this one Movement/Hazard Phase? May two target the same Dwarf? If Watcher wounds one or more characters, how many corruption checks can one wound trigger? Compare the line of three Despairs + Watcher + Full of Froth with an alternative that uses Giant Spiders or River. Keep the five-Dwarf Hazard Limit in view.
+
+Then repeat with Kíli or Óin carrying Book of Mazarbul, and with Gandalf joined to the company. Identify who may be targeted, what the Book adds, and how the extra character changes the Hazard Limit and the available corruption-check support.
+
+**Model principle:** the restriction is per character, not per company. Three Despairs can target three different eligible Dwarves, but cannot be stacked on one Dwarf. Each target checks whenever any character in the company becomes wounded. The Hazard side can therefore turn one wound into several checks; it must still spend one Hazard Limit slot per Despair and choose the strongest legal attack line.
+
 ## Debrief checklist
 
 - [ ] I counted origin and destination when checking Region Movement.
