@@ -88,7 +88,7 @@ Do not call either line universally optimal. The solo instruction is to choose t
 
 ## 5. The two proposed replacements
 
-- **Arouse Minions:** a legal candidate at Moria and Goblin-gate because both are Shadow-holds. It cannot target an automatic attack at Blue Mountain because that site is a Free-hold and has no automatic attack. Its +3 prowess matters only if the company enters and faces the modified attack. It is not in the baseline list.
+- **Arouse Minions:** a legal candidate at Moria and Goblin-gate because both are Shadow-holds. It cannot target an automatic attack at Blue Mountain because that site is a Free-hold and has no automatic attack. It may be played during the Movement/Hazard Phase even if the company later declines to enter; its +3 prowess matters only if the modified attack is actually faced. It is not in the baseline list.
 - **Brigands:** a legal candidate on all three routes through the Wilderness key. It has two strikes at 8 prowess; if any strike wounds a character, the company discards one item of the defender's choice. It is not in the baseline list.
 
 Neither candidate justifies changing the fixed list before the first three baseline games.
