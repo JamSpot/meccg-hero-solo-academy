@@ -30,11 +30,11 @@ For a move to a Haven, use the origin site's draw numbers. For example, Moria �
 | Neeker-breekers | Legal | Legal | Legal | The Wilderness region key is met. It does not affect Wizards; each affected character faces one strike at prowess equal to mind, and a would-be wound becomes a tap rather than a body check. |
 | Wargs | Legal | Legal | Legal | The Wilderness region key is met. |
 | Watcher in the Water | Legal | Legal | Legal | Each route meets its double-Wilderness key. The first route also reaches Moria, where the card has explicit site permission. |
-| Despair of the Heart | Legal if a target is present | Same | Same | Target a non-Hobbit, non-Wizard, non-Ringwraith character. The five Dwarves are legal; Gandalf is not. |
+| Despair of the Heart | Legal if a target is present | Same | Same | Target a non-Hobbit, non-Wizard, non-Ringwraith character. The target receives 2 corruption points and makes a corruption check each time a character in his company becomes wounded. The five Dwarves are legal; Gandalf is not. |
 | Full of Froth and Rage | Conditional | Conditional | Conditional | It needs a Spider or Animal attack to affect. It gives +2 prowess and is discarded if such an attack is defeated. |
 | Wake of War | Conditional | Conditional | Conditional | It needs a Wolf, Spider or Animal attack. It gives +1 strike and +1 prowess; the stronger Wolf modifier needs Doors of Night, absent from the baseline. |
 | River | Legal on the new site | Legal on the new site | Legal on the new site | The company is moving to that site this turn. Óin may tap as a Ranger at the start of the Site Phase to cancel River. |
-| Seized by Terror | Illegal | Illegal | Illegal | None of the routes contains a Shadow-land [{s}] or Dark-domain [{d}]. The fact that Moria and Goblin-gate are Shadow-holds [{S}] does not satisfy this region key. |
+| Seized by Terror | Illegal | Illegal | Illegal | None of the routes contains a Shadow-land [{s}] or Dark-domain [{d}]. If it were legal, a roll plus the target's mind below 12 would split the character off and send the new company back to the origin. The fact that Moria and Goblin-gate are Shadow-holds [{S}] does not satisfy this region key. |
 | Twilight | No target in baseline | No target in baseline | No target in baseline | No Environment is in play or declared in the same chain. Twilight does not count against the Hazard Limit, but it cannot cancel an ordinary non-Environment event. |
 
 ## 3. Why the routes do not change the creature package very much
@@ -83,6 +83,8 @@ This line uses four or five Hazard Limit slots depending on whether River is cho
 Replace one creature attack with River if denying the Site Phase is more valuable than the extra attack. The Hero player can tap Óin to cancel River, but that spends a Ranger's action. If Óin is already tapped or needed for another purpose, River can deny the company's site actions for the turn.
 
 Do not call either line universally optimal. The solo instruction is to choose the most disadvantageous legal combination **for the actual company and mission**.
+
+**Strike-count check:** Wake of War's +1 strike does not add extra strikes to attacks that specify that each character faces one strike, such as Neeker-breekers and Watcher in the Water. Their applicable prowess modifiers still apply. By contrast, Giant Spiders and Lesser Spiders can receive both Full of Froth and Rage (+2 prowess) and Wake of War (+1 prowess and +1 strike). If a Spider or Animal attack is defeated, Full of Froth and Rage is discarded before a later attack; do not keep applying its +2 bonus.
 
 ## 5. The two proposed replacements
 
