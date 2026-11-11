@@ -35,6 +35,8 @@ Use the [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | r
 
 Use the new [Site-Keying Workshop]({{ '/scenarios/site-keying-workshop/' | relative_url }}) to distinguish lowercase region-type keys from uppercase site-type keys. It uses Moria to demonstrate why a card can be legal through the route's Wilderness regions even though Moria is not the Ruins & Lairs site type printed on the Hazard.
 
+Use the [Route Exposure Matrix]({{ '/scenarios/route-exposure-matrix/' | relative_url }}) and its [model answer]({{ '/scenarios/route-exposure-matrix/answer-key/' | relative_url }}) to audit every baseline Hazard against the three connected teaching routes, separate legal cards from conditional/dead draws, and choose the strongest legal five within the Hazard Limit.
+
 Use the [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }}) when you are ready to test how the actual Dwarven Quest Hazard cards interact. It focuses on legality, timing, keying, support cards, and repeatable evidence rather than assumed combos.
 
 ## Curriculum
