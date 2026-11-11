@@ -60,7 +60,7 @@ The locked creature package is route-active on all three teaching legs:
 - Full of Froth and Rage and Wake of War have eligible Spider/Animal/Wolf attacks available in the baseline creature package.
 - River can target each new destination site.
 
-Two baseline Hazards remain conditional dead draws on this campaign: **Seized by Terror** has no Shadow-land/Dark-domain route, and **Twilight** has no Environment target. That is not a reason to redraw or to pretend they are playable.
+On this specific campaign, **26 of the 30 physical Hazard cards have a route or target available on every leg**. The four that do not are the two copies of **Seized by Terror** (no Shadow-land/Dark-domain route) and the two copies of **Twilight** (no Environment target). Full of Froth and Rage and Wake of War are counted as conditional because eligible Spider/Animal/Wolf attacks are in the baseline creature package. These are campaign-specific dead draws, not universally dead cards; a different route or an Environment can change their status. That is not a reason to redraw or to pretend they are playable.
 
 The biggest pressure difference between these routes is therefore not a wholesale change in the creature keying. It is the **8 / 6 / 4 solo Hazard draw**, the destination's automatic attack, the Hero objective, and the company's condition on arrival.
 
