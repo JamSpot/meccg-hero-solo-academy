@@ -68,7 +68,7 @@ The biggest pressure difference between these routes is therefore not a wholesal
 
 | Candidate | Moria | Goblin-gate | Blue Mountain | Why it is only a test |
 |---|---|---|---|---|
-| **Arouse Minions** | Yes — Shadow-hold | Yes — Shadow-hold | No — Free-hold | Raises one automatic attack at the target site by +3 prowess for the turn. Its benefit matters only if the company enters and faces that attack. It counts against the Hazard Limit. |
+| **Arouse Minions** | Yes — Shadow-hold | Yes — Shadow-hold | No — Free-hold | Raises one automatic attack at the target site by +3 prowess for the turn. It may be played during the Movement/Hazard Phase even if the company later declines to enter; the modifier matters only if the attack is actually faced. It counts against the Hazard Limit. |
 | **Brigands** | Yes — Wilderness key | Yes — Wilderness key | Yes — Wilderness key | Two strikes at 8 prowess; if any strike wounds a character, the company discards one item of the defender's choice. |
 
 Neither card belongs in the locked list. Check your physical collection before considering a purchase, and test any replacement only after the baseline games have been recorded.
