@@ -20,11 +20,7 @@ The same five-Dwarf company is used for the route comparison.
 | Moria → Goblin-gate | Redhorn Gate → Hollin → Rhudaur → High Pass | 4 | {w}{w}{w}{w} | 2/1 | Up to 1 | **6** | **5** | Orcs — 3 strikes at 6 |
 | Goblin-gate → Blue Mountain Dwarf-hold | High Pass → Rhudaur → Arthedain → Númeriador | 4 | {w}{w}{w}{w} | 1/1 | Up to 1 | **4** | **5** | None |
 
-The notation is **normal Hazard-player draw / Hero-player draw** from the Hero site card. The Academy's selected solitaire procedure changes the Hazard draw to:
-
-\[
-\text{Solo Hazard draw}=2+2\times\text{normal Hazard draw}
-\]
+The notation is **normal Hazard-player draw / Hero-player draw** from the Hero site card. The Academy's selected solitaire procedure uses **Solo Hazard draw = 2 + (2 × normal Hazard draw)**.
 
 The five-Dwarf company has a base Hazard Limit of five. Drawing eight cards at Moria does not allow eight ordinary Hazard plays. The Hero draw is separate: this company qualifies because it contains characters of mind 3 or greater, and must draw at least one, up to the lighter number shown on the site card. Reconcile the Hero hand to five after the Movement/Hazard Phase.
 
