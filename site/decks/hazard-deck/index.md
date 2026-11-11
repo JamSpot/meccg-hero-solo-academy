@@ -69,6 +69,8 @@ Use the [integrated Campaign Walkthrough]({{ '/games/campaign-walkthrough/' | re
 
 ## Baseline route-coverage audit
 
+The detailed [Route Exposure Matrix]({{ '/scenarios/route-exposure-matrix/' | relative_url }}) checks every card against Rivendell → Moria, Moria → Goblin-gate and Goblin-gate → Blue Mountain. All three declared paths are Wilderness-only, so the core creature keys remain live across all three legs. Seized by Terror has no Shadow-land/Dark-domain route, and Twilight has no Environment target in the closed-sideboard baseline. The different route pressures come chiefly from the 8/6/4 solo Hazard draws and the destination's automatic attack, not from a wholesale change in creature legality.
+
 The three opening legs are all Wilderness-region routes, and the fixed list has a clear pattern:
 
 | Cards | Copies | Status on the three opening legs |
