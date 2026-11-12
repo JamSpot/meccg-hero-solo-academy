@@ -16,7 +16,7 @@ This lab corrects a common but costly misunderstanding: a **+1 corruption-check 
 2. Add +1 for each other character in the same company tapped to support the check.
 3. Compare the modified roll with the bearer's total corruption points.
 4. The check succeeds only when the modified roll is **greater** than the total corruption points.
-5. A Hero who rolls equal to the CP total or one below is discarded; two or more below is eliminated. If the character is a Wizard avatar, a failed check ends the game.
+5. Under current Council of Elrond rule 7.1, a Hero result equal to or one below the CP total is normally a discard, while a modified result below 2 is an elimination. The current wording overlaps when a result of 1 is also one below the CP total. The older printed *The Wizards* categories treat that narrow result as a discard instead. The Book-only Kíli example (natural 2, modified to 1) is the edge case; the [Book Storage & Corruption Workshop]({{ '/scenarios/book-storage-corruption-workshop/' | relative_url }}) explains it. If the character is a Wizard avatar, a failed check ends the game.
 6. Count every corruption point on every card the bearer controls, not just Book of Mazarbul.
 
 ## The bearer candidates
