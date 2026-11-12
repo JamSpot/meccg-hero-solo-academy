@@ -11,6 +11,8 @@ The first Game 1 review exposed a common beginner trap: the Hero player and the 
 
 After your first game and the movement lesson, complete the [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practice/' | relative_url }}) and its separate [model answer]({{ '/scenarios/hero-resource-practice/answer-key/' | relative_url }}). It checks which starting Dwarf can use each Resource, the real limitations of Not at Home and Marvels Told, the extra Hazard slot created by Hundreds of Butterflies, and a two-leg non-Haven route to store Book of Mazarbul.
 
+Use the [Resource Route Planner]({{ '/scenarios/resource-route-planner/' | relative_url }}) and its [model answer]({{ '/scenarios/resource-route-planner/answer-key/' | relative_url }}) to turn the Challenge Deck C Resource target list into a focused campaign: Book first, optional Gollum, and later faction or item objectives only when the route justifies them.
+
 Before storing the Book, complete [Corruption Check Lab — Choose the Book Bearer]({{ '/scenarios/corruption-check-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/corruption-check-lab/answer-key/' | relative_url }}). It teaches the direction of positive and negative modifiers, the safest bearer, support taps and Despair of the Heart's target restrictions.
 
 After you understand the first expedition, complete [Gandalf — One Company or Two?]({{ '/scenarios/gandalf-company/' | relative_url }}) and its [model answer]({{ '/scenarios/gandalf-company/answer-key/' | relative_url }}). It compares Gandalf joining the Dwarves with a separate Grey Havens → Lórien support company, including the separate solo Hazard draws and limits.
