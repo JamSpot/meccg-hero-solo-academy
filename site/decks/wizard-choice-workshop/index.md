@@ -10,7 +10,7 @@ This is a deck-building review, not a change to the active list. The Academy's c
 
 ## 1. The important deck-construction rule
 
-The current *The Wizards* rules allow up to **10 non-avatar character cards** and up to **three avatar cards**, with any combination permitted except three different avatars. For a Wizard player, this allows up to three Wizard-avatar cards, including three copies of the same Wizard. Only one avatar can be in play at a time; if it is eliminated, you cannot reveal another avatar.
+The current **Council of Elrond consolidated rules (section 1.5)** allow up to **10 non-avatar character cards** and up to **three avatar cards**, with any combination permitted except three different avatars. For a Wizard player, this allows up to three Wizard-avatar cards, including three copies of the same Wizard. Only one avatar can be in play at a time; if it is eliminated, you cannot reveal another avatar. The original printed *The Wizards* rulebook says up to two Wizard cards; the Academy follows the current CoE consolidated rule for current play.
 
 That means these are all distinct questions:
 
@@ -101,7 +101,7 @@ These are opening-hand probabilities, not recommendations. Three copies are lega
 
 A second or third copy increases the chance of seeing the Wizard in the opening five. It does not allow multiple Wizards in play. If duplicates are drawn while the Wizard is already in play, they are redundant; if the Wizard is eliminated, the solo rules do not let you reveal another avatar, so extra copies are not replacement Wizards.
 
-The independent 2017 [My Solo Rules](https://meccg.wordpress.com/my-solo-rules/) author deliberately uses a single Wizard in solo games to make them more challenging. That is a useful design recommendation, not a mandatory rule. Its statement that up to three Wizard cards are allowed is consistent with the current official avatar-card limit.
+The independent 2017 [My Solo Rules](https://meccg.wordpress.com/my-solo-rules/) author deliberately uses a single Wizard in solo games to make them more challenging. That is a design recommendation, not a mandatory rule. Its three-Wizard statement aligns with current CoE section 1.5; the original printed *The Wizards* two-Wizard limit is the older text.
 
 ## 6. Academy recommendation for controlled testing
 
@@ -124,9 +124,9 @@ The Academy has not silently switched the active Wizard. Gandalf remains the wor
 
 ## Sources and authority
 
-1. [The Wizards — official rules by expansion](https://meccg.com/rules/by-expansion/the-wizards/): deck construction, Wizard-card limit, Wizard placement, corruption checks and solo procedure.
+1. [Council of Elrond Official Rules](https://www.councilofelrond.org/rules/): current consolidated avatar-card limit, Wizard placement, corruption checks and solo interactions.
 2. [Council of Elrond Official Rules](https://councilofelrond.org/rules/): current consolidated rulings and errata.
 3. [Council of Elrond Official Card Database](https://www.councilofelrond.org/cards/): current card text and errata.
 4. [MECCG Challenge Deck Player Aid, Dwarven Quest / Deck C](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf): historical list and Pallando support-company strategy.
-5. [My Solo Rules — independent solo deck-building guidance](https://meccg.wordpress.com/my-solo-rules/): one-Wizard solo preference and approximate deck ratios; its older three-Wizard limit is superseded by current official rules.
+5. [My Solo Rules — independent solo deck-building guidance](https://meccg.wordpress.com/my-solo-rules/): one-Wizard solo preference and approximate deck ratios. Its one-Wizard preference is a strategy recommendation; its three-Wizard statement aligns with current CoE rules, which supersede the original printed two-Wizard limit.
 6. [Full card spoiler](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf): convenient reference for the printed Gandalf, Pallando and Book of Mazarbûl text.
