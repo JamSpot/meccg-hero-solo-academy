@@ -40,6 +40,8 @@ Kíli has the Book's 2 CP and a -1 modifier.
 
 The earlier numerical calculation for Kíli was correct; the earlier recommendation that his -1 made him a safer bearer was not. A -1 is a penalty.
 
+**Outcome severity at natural 2:** Kíli's modified result is 1. Current CoE rule 7.1's separate “less than two” clause treats that as an elimination; the older printed *The Wizards* categories place a result one below the CP total in the discard category. A natural 3 becomes 2, equal to the Book's CP total, and is a discard under both descriptions. The total failure probability remains **3/36**. The Academy flags this source difference rather than silently blending the two wordings.
+
 ## 4. Despair of the Heart makes Kíli a dangerous target
 
 Despair of the Heart gives its eligible target another 2 corruption points, taking Kíli from 2 CP to **4 CP**. It also causes a corruption check whenever a character in his company becomes wounded.
