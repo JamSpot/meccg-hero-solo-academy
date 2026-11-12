@@ -18,7 +18,7 @@ Use the fixed 36-card Hero play deck, the separate 30-card Hazard deck and the f
 
 The Blue Mountain Dwarf-hold Hero site is a **Free-hold** by its site-type symbol, but it is a Dwarf-hold by name and is the intended destination for the Book's special storage text. Its Hero site card has a 1/1 draw and no automatic attack.
 
-The general storage rule normally names Havens; Book of Mazarbûl's own text supplies the Dwarf-hold exception. A successful storage corruption check moves the Book to the Hero MP pile for 5 MPs. The Book is then no longer borne and is removed from play for other purposes: its 2 CP no longer burden a character, and its Sage hand-size ability is no longer active.
+The general storage rule normally names Havens; Book of Mazarbûl's own text supplies the Dwarf-hold exception. A successful storage corruption check moves the Book to the Hero MP pile for 5 MPs. The Book is then no longer borne: it remains in the marshalling-point pile, its 2 CP no longer burden a character, and its Sage hand-size ability is no longer active. Do not describe a stored card as “removed from play”.
 
 ## 2. Calculate the bearer’s actual check
 
