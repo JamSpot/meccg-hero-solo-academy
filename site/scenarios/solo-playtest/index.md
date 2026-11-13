@@ -131,6 +131,8 @@ For each Movement/Hazard Phase, record:
 
 The aim is not to make the Hazard side win every encounter. Apply the strongest legal pressure consistently so Hero decisions can be compared from one test to the next. If a card is uncertain, check its printed wording and the rules rather than improvising.
 
+Keep the 30-card baseline unchanged for the first three games. Only if the records show repeated route-inactive draws or insufficient pressure should you consider the two-card experiment in the [Hazard Deck Balance Lab]({{ '/scenarios/hazard-deck-balance-lab/' | relative_url }}). Keep the Hero deck, starting company, mission and route fixed while testing it; check your physical collection before considering any purchase.
+
 ## Five practice scenarios
 
 **1 — Eight drawn, only three legal.** A five-character company moves to Moria. Eight cards are drawn under the solo procedure, but only three currently have legal plays.  
