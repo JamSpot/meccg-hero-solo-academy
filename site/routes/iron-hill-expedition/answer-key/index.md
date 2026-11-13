@@ -60,7 +60,7 @@ The five Dwarves' total mind is exactly 20. If all five are moved to general inf
 
 The +2 direct-influence bonus Thorin and Glóin have specifically against the **Blue Mountain Dwarves** faction does not apply to Iron Hill Dwarves. Use only their general Dwarf-faction bonuses here.
 
-These figures assume the influencer is untapped, the site is untapped, and the direct influence is genuinely available at the time of the attempt. If you keep the original follower assignments, do not add direct influence that is already committed.
+These figures assume the influencer is untapped, the site is untapped, and the direct influence is genuinely available at the time of the attempt. If you keep the original follower assignments, do not add direct influence that is already committed. If the check fails, the faction is discarded and the site does not tap; do not treat a failed attempt as a free rehearsal.
 
 ## 6. Which route should the Hero choose?
 
