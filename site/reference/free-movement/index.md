@@ -270,6 +270,14 @@ During the Organization Phase while the company is at Blue Mountain Dwarf-hold, 
 This is the clearest example in the Academy of why Region Movement matters: **Moria → Goblin-gate → Blue Mountain Dwarf-hold** reaches the Dwarf-hold in two legal legs without returning to Rivendell, Lórien or Grey Havens. It is not risk-free; it replaces a Haven recovery stop with two Wilderness-heavy Hazard phases.
 
 
+## 9C. Iron Hill — a five-region Starter path versus a four-region Region path
+
+Iron Hill Dwarf-hold lists Lórien as its nearest Haven and has the printed site path Wilderness → Border-land → Border-land → Wilderness → Wilderness. From Lórien, that is legal Starter Movement even though the site path has five region-type symbols: the four-region maximum applies only to Region Movement. The direct path has no Shadow-land or Dark-domain, so Seized by Terror is not legal, although Cave Worm can use the named Iron Hills destination key.
+
+A staged alternative is Lórien → Eagles' Eyrie by Starter Movement, then Eagles' Eyrie → Iron Hill by Region Movement through Anduin Vales → Grey Mountain Narrows → Northern Rhovanion → Iron Hills. That final leg uses four regions, but it exposes Grey Mountain Narrows (a Shadow-land), making Seized by Terror legal. It also adds a separate four-card solo Hazard draw before the eight-card Iron Hill draw. The destination is a Free-hold in both cases, so Arouse Minions is not legal there.
+
+The full route, faction-influence plan and model answer are in the [Iron Hill Dwarf-hold Expedition]({{ '/routes/iron-hill-expedition/' | relative_url }}). This example shows why you must compare the **actual site path and Hazard keys**, not just count regions or assume that a longer Starter path is automatically worse.
+
 ## Gandalf's Haven-to-Haven example — Grey Havens to Lórien
 
 Gandalf's printed home site is **Any Haven**. If you play him at **Grey Havens** as a separate company, he can move to **Lórien** using Starter Movement because both sites are Havens and their site cards list a path to one another.
