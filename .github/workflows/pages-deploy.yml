@@ -66,10 +66,16 @@ jobs:
           test -f _site/scenarios/route-risk-workshop/answer-key/index.html
           test -f _site/scenarios/resource-route-planner/index.html
           test -f _site/scenarios/resource-route-planner/answer-key/index.html
+          test -f _site/scenarios/hazard-deck-balance-lab/index.html
+          test -f _site/scenarios/hazard-deck-balance-lab/answer-key/index.html
           grep -q 'route-risk-workshop' _site/index.html
           grep -q 'route-risk-workshop' _site/navigation/index.html
           grep -q 'resource-route-planner' _site/index.html
           grep -q 'resource-route-planner' _site/navigation/index.html
+          grep -q 'hazard-deck-balance-lab' _site/index.html
+          grep -q 'hazard-deck-balance-lab' _site/navigation/index.html
+          grep -q 'hazard-deck-balance-lab' _site/scenarios/index.html
+          grep -q 'hazard-deck-balance-lab' _site/decks/hazard-deck/index.html
           test ! -f _site/academy/learning-path.html
           test ! -e _site/drafts
           test ! -f _site/guide/test.html
