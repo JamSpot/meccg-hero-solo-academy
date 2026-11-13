@@ -23,7 +23,7 @@ The card's name includes “Dwarf-hold”, but its actual site type is Free-hold
 
 ## Route A — direct Starter Movement from Lórien
 
-<badge color="success">Legal one-movement route</badge>
+**Legal one-movement route**
 
 Lórien is a Haven, and the Iron Hill Dwarf-hold site card lists Lórien as its nearest Haven. That satisfies the Starter Movement condition.
 
@@ -103,7 +103,7 @@ The crucial difference is **Grey Mountain Narrows**. It is a Shadow-land, so **S
 
 The second leg also exposes the named regions to creatures keyed by name. Cave Worm can be keyed to Iron Hills. The path still contains Wilderness and Border-land, so the proposed Brigands card is legal too.
 
-The price is an extra movement/hazard phase: the staged journey draws **4 + 8 = 12 solo Hazard cards** across two legs, compared with eight on the direct Starter Movement. The company does receive a Site Phase at Eagles’ Eyrie, but the current Hero Resource list has no specific objective there. Do not take the extra stop just because the four-region route looks tidy.
+The price is an extra movement/hazard phase: the staged journey draws **4 + 8 = 12 solo Hazard cards** across two legs, compared with eight on the direct Starter Movement. The company does receive a Site Phase at Eagles’ Eyrie. A generally playable minor item or another legal action may still be worthwhile, but no card in the current Resource list specifically names or rewards Eagles’ Eyrie. Weigh that possible Site Phase against four extra solo Hazard draws; do not take the stop just because the four-region route looks tidy.
 
 ## What the route teaches about the Hazard deck
 
@@ -116,7 +116,7 @@ The price is an extra movement/hazard phase: the staged journey draws **4 + 8 = 
 | Arouse Minions (proposed) | **Illegal** — Free-hold destination | **Illegal** — Free-hold destination |
 | Twilight | No useful Environment target | No useful Environment target |
 
-The direct Starter path gives the baseline Hazard deck 26 cards with a route or target opportunity; the route through Grey Mountain Narrows raises that to 28 because the two Seized by Terror copies gain a legal key. This is not a claim that all 28 can be played in one phase: timing, targets, duplication restrictions and the Hazard Limit still apply.
+The direct Starter path gives the baseline Hazard deck 26 cards with a route or target opportunity; the route through Grey Mountain Narrows raises that to 28 because the two Seized by Terror copies gain a legal key. In the proposed v1.1 variant, the direct path rises to 27/30 because Brigands replaces a card with no key, while the Grey Mountain Narrows route remains 28/30: Seized by Terror is already live there and Arouse Minions is not legal at the Free-hold. This is not a claim that all route-active cards can be played in one phase: timing, targets, duplication restrictions and the Hazard Limit still apply.
 
 This is also why the proposed two-card Hazard variant is route-dependent. Arouse Minions improves the Moria and Goblin-gate legs, but has no target at Iron Hill. On the route through Grey Mountain Narrows, Seized by Terror is useful, so replacing one copy with Brigands does not increase the number of route-active cards. Keep the baseline until the first three games are recorded.
 
@@ -135,7 +135,7 @@ The faction itself gives Dwarves +2 as a standard modification. The influence ch
 
 There is an important Organization Phase choice. In the current starting-company arrangement, Thorin's direct influence is used to control Dori and Kíli, and Glóin's is used to control Óin. That means their direct influence is already committed; do not automatically count the full amount as available for the faction check.
 
-You may move followers to general influence during the Organization Phase if your maximum general influence is not exceeded. The five starting Dwarves have total mind **20** (8 + 1 + 3 + 5 + 3), exactly matching the Wizard player's starting general influence of 20. If you move all three followers to general influence, Thorin and Glóin have their direct influence available for the faction attempt, but all 20 general influence is then committed.
+You may move followers to general influence during the Organization Phase if your maximum general influence is not exceeded. The five starting Dwarves have total mind **20** (8 + 1 + 3 + 5 + 3), exactly matching the Wizard player's starting general influence of 20. If you move all three followers to general influence, Thorin and Glóin have their direct influence available for the faction attempt, but all 20 general influence is then committed. You give up spare general influence for another non-follower character, while freeing direct influence to control new followers; choose the arrangement that best supports the next recruitment step.
 
 The [model answer]({{ '/routes/iron-hill-expedition/answer-key/' | relative_url }}) works through the check modifiers and the route choice. Check the actual untapped characters and available influence before attempting it.
 
