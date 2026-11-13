@@ -84,7 +84,7 @@ The three opening legs are all Wilderness-region routes, and the fixed list has 
 | Seized by Terror | 2 | **Not legal on the three opening paths:** all their regions are Wilderness, with no Shadow-land or Dark-domain. |
 | Twilight | 2 | **No target in Game 1:** the active Hero Resource list has no Environment and the sideboard is closed. It becomes useful if a later game brings an Environment such as Gates of Morning into play. |
 
-So **26 of the 30 cards have an active route or target in the opening campaign**, while four are deliberately conditional on a different route or a later Environment. That is not automatically a flaw: the deck is a historical teaching list and the first three routes are not the whole map. It is, however, something to record during playtesting rather than ignore.
+So **26 of the 30 cards have an active route or target in the opening campaign**, while four are deliberately conditional on a different route or a later Environment. That is not automatically a flaw: the deck is a historical teaching list and the first three routes are not the whole map. It is, however, something to record during playtesting rather than ignore. The [Iron Hill Expedition]({{ '/routes/iron-hill-expedition/' | relative_url }}) demonstrates the exception: a Region Movement path through Grey Mountain Narrows makes Seized by Terror legal, while Arouse Minions is still not legal at the Free-hold destination. The proposed v1.1 improvement is therefore specific to the opening Moria/Goblin-gate routes, not a universal upgrade.
 
 ## What the Hazard deck teaches
 
