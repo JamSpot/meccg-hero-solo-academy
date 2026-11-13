@@ -197,6 +197,7 @@ Complete the [Hazard Deck Balance Lab — model answer]({{ '/scenarios/hazard-de
 4. Does Arouse Minions add three strikes to Moria's automatic attack?
 5. Why can a 30-card deck with 16 creatures still fail to produce five useful creature plays in a given phase?
 6. What evidence would justify changing the baseline?
+7. In the v1.1 variant, the company moves from Goblin-gate to Blue Mountain Dwarf-hold. Why is Arouse Minions not legal on this leg even though the company started at a Shadow-hold? Why is Brigands still legal, and how many Hazard cards are drawn?
 
 ## Sources and authority
 
