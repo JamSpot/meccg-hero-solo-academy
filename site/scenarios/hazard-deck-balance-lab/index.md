@@ -59,7 +59,7 @@ All three declared Region Movement paths contain Wilderness regions. The four ca
 - **Seized by Terror ×2:** requires a moving non-Wizard, non-Ringwraith character in a Shadow-land or Dark-domain region. A Shadow-hold site symbol is not a Shadow-land region symbol.
 - **Twilight ×2:** requires an Environment card in play or declared earlier in the same chain. The active Hero main deck has no Environment and the sideboard is closed; the Hazard list has no other Environment.
 
-These are campaign-inactive cards, not universally dead cards. A different route or an Environment can make them useful.
+These are campaign-inactive cards, not universally dead cards. A different route or an Environment can make them useful. In this solo setup, a Twilight drawn from the separate Hazard deck is used as a Hazard, not played as a Resource.
 
 Other conditional cards still have meaningful opportunities:
 
@@ -88,7 +88,9 @@ The figures above use a fresh, shuffled 30-card baseline and a draw without repl
 - Expected creatures = draw size × 16/30.
 - “At least one campaign-inactive card” means at least one of the two Seized by Terror or two Twilight cards appears in the draw.
 - The chance of seeing at least one Despair of the Heart is 62.1% on the eight-card Moria draw, 50.1% on the six-card Goblin-gate draw, and 36.0% on the four-card Blue Mountain draw.
-- The chance of seeing at least one Full of Froth and Rage or Wake of War is 81.5%, 70.2% and 53.8% respectively.
+- The chance of seeing at least one Full of Froth and Rage or Wake of War is 81.5%, 70.2% and 53.8% respectively. On the eight-card Moria draw, the chance of drawing at least five creatures is 42.6% in the baseline and 51.5% in the proposed variant.
+
+For example, the Moria expectation is 8 × 16/30 = 4.27 creatures. The chance of at least one of the four campaign-inactive cards is 1 − [C(26,8) / C(30,8)] ≈ 73.3%.
 
 These are **composition probabilities, not chances of a successful attack or of winning**. They do not account for the company, exact card timing, earlier cards removed from the Hazard deck, or the choice of which legal Hazards to play. A support event being drawn does not mean it should automatically be played.
 
