@@ -38,6 +38,8 @@ The Academy's first-game baseline is a Challenge Deck C-derived Hero teaching li
 
 There are two separate movement draws: the Hero player draws from the Hero play deck, while the solo Hazard side draws from its own deck. The Hazard Limit is a third number. Complete the [Movement Draw Lab]({{ '/scenarios/movement-draw-lab/' | relative_url }}) to practise all three, then use the [Hazard Draw & Limit Lab]({{ '/scenarios/hazard-draw-limit-lab/' | relative_url }}) for Haven destinations, multi-company turns and Hundreds of Butterflies.
 
+When you are ready to evaluate the opposing deck, use the [Hazard Deck Balance Lab]({{ '/scenarios/hazard-deck-balance-lab/' | relative_url }}). It keeps the Hero list fixed while comparing the baseline Hazard deck with a controlled two-card experiment; do not change the active list before the first three baseline games.
+
 ## After the first expedition
 
 Once you can run the Dwarven company through the first Moria expedition, learn how Gandalf supports the Gandalf-led Academy. He is the Wizard avatar in the Hero play deck, not one of the five starting Dwarves. His separate company creates another Movement/Hazard Phase, so learn the draw and limit calculations before using it.
