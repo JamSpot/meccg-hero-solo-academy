@@ -44,6 +44,7 @@ When you are ready to evaluate the opposing deck, use the [Hazard Deck Balance L
 
 Once you can run the Dwarven company through the first Moria expedition, learn how Gandalf supports the Gandalf-led Academy. He is the Wizard avatar in the Hero play deck, not one of the five starting Dwarves. His separate company creates another Movement/Hazard Phase, so learn the draw and limit calculations before using it.
 
+- [Iron Hill Dwarf-hold Expedition]({{ '/routes/iron-hill-expedition/' | relative_url }}) — an advanced route example showing why Starter Movement and Region Movement expose different Hazard keys.
 - [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }})
 - [Wizard Choice Workshop — compare all five Wizards]({{ '/decks/wizard-choice-workshop/' | relative_url }})
 - [Gandalf — One Company or Two? practice scenario]({{ '/scenarios/gandalf-company/' | relative_url }})
