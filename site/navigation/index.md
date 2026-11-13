@@ -38,6 +38,7 @@ Use the visible header menu on every page to switch sections. This map also link
 - [Expedition Planner]({{ '/routes/expedition-planner/' | relative_url }})
 - [Rivendell → Moria]({{ '/routes/rivendell-moria/' | relative_url }})
 - [Moria → Blue Mountain Dwarf-hold]({{ '/routes/moria-blue-mountain/' | relative_url }})
+- [Iron Hill Dwarf-hold Expedition]({{ '/routes/iron-hill-expedition/' | relative_url }}) — Starter versus Region Movement and route-dependent Hazard keys
 - [Gandalf's Grey Havens → Lórien route and company plan]({{ '/decks/gandalf-support-company/' | relative_url }})
 - [Solo rules used by this Academy]({{ '/reference/solo-ruleset/' | relative_url }})
 - [Captain's Commandments]({{ '/reference/captains-commandments/' | relative_url }})
