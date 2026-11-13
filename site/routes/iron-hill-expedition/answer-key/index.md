@@ -5,6 +5,8 @@ title: Iron Hill Expedition — Model Answer
 
 # Iron Hill Expedition — Model Answer
 
+[Back to the Iron Hill Expedition]({{ '/routes/iron-hill-expedition/' | relative_url }})
+
 ## 1. Direct Starter Movement is legal
 
 The Iron Hill Dwarf-hold card lists Lórien as its nearest Haven. Lórien is a Haven, so the first Starter Movement condition is met.
@@ -66,7 +68,7 @@ These figures assume the influencer is untapped, the site is untapped, and the d
 
 Dáin II (mind 7, base direct influence 3) and Gimli (mind 6, base direct influence 2) both have Iron Hill Dwarf-hold as their home site and +2 direct influence specifically against Iron Hill Dwarves. The current starting company arrangement leaves seven general influence unused (20 maximum minus Thorin's mind 8 and Glóin's mind 5), so either could be played under general influence at the home site if included in the Hero play deck and drawn. Dáin uses all seven; Gimli uses six.
 
-With no followers using their direct influence, Dáin's faction check is 2D6 + 3 base DI + 2 faction-specific DI + 2 Dwarf standard modification = 2D6 + 7. The minimum roll is 2, so the result is at least 9 and passes the greater-than-8 requirement. Gimli's check is 2D6 + 2 + 2 + 2 = 2D6 + 6; a natural 3 or higher passes (35/36). These are optional later-deck candidates, not part of the fixed first-play list.
+With no followers using their direct influence, Dáin's faction check is 2D6 + 3 base DI + 2 faction-specific DI + 2 Dwarf standard modification = 2D6 + 7. The minimum roll is 2, so the result is at least 9 and passes the greater-than-8 requirement. Gimli's check is 2D6 + 2 + 2 + 2 = 2D6 + 6; a natural 3 or higher passes (35/36). Dáin is the stronger dedicated influencer; Gimli is the lower-mind alternative. Adding one to the 36-card baseline makes 37 cards; adding both makes 38. Both are within the standard character-card limit and above the solo minimum of 30, but they change the draw mix. Keep the original follower assignments if you want to use the seven spare general influence for one of them; moving all three followers to general influence leaves no general influence available for Dáin or Gimli. These are optional later-deck candidates, not part of the fixed first-play list.
 
 ## 6. Which route should the Hero choose?
 
