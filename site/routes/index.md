@@ -15,6 +15,7 @@ The Route Atlas treats each trip as a decision, not just a line on a map.
 - [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) — compare one company with two separate companies and plan the Wizard's routes.
 - [Expedition Planner — table worksheet](expedition-planner/) — a reusable pre-move checklist, three worked decision patterns and a post-game debrief.
 - [Route Risk Workshop]({{ '/scenarios/route-risk-workshop/' | relative_url }}) — compare legal routes using mission value, Hazard exposure, arrival condition, future position and fallback options.
+- [Hazard Deck Balance Lab]({{ '/scenarios/hazard-deck-balance-lab/' | relative_url }}) — compare the actual 8/6/4 solo draw pressure across the three non-Haven route legs.
 - [Route Workshop]({{ '/reference/route-workshop/' | relative_url }}) — reusable route scorecard and legality drills.
 - [Free / Player-Directed Movement]({{ '/reference/free-movement/' | relative_url }}) — the movement and site-path rules behind the examples.
 
