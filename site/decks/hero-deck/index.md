@@ -161,6 +161,8 @@ The Challenge Deck C player aid gives the following suggested destinations for i
 | **Wormsbane** | **Dead Marshes**, **Caves of Ûlund**, or **The Lonely Mountain** | A specialist weapon is valuable only if the route and expected threats justify the detour. |
 | **Blue Mountain Dwarves** (sideboard) | **Blue Mountain Dwarf-hold** | Advanced objective: the card is in the sideboard, so sideboard access and the Book-storing plan must be taught first. |
 
+**Iron Hill faction plan:** Iron Hill Dwarves is in the active Resource list, not the sideboard. The [Iron Hill Dwarf-hold Expedition]({{ '/routes/iron-hill-expedition/' | relative_url }}) explains the route and an important Organization Phase choice: the current direct-influence assignments use Thorin's and Glóin's Dwarf bonuses to control followers, so their direct influence is committed. You can reassign followers to general influence (the five Dwarves total exactly 20 mind) to free direct influence for the faction check, but that commits all 20 general influence.
+
 **Source note:** these target sites are taken from the historical *Challenge Decks Player's Guide* (Birk Pinker, last updated May 2011), which lists the suggested sites for Dwarven Quest / Challenge Deck C. The separate [three-page Challenge Decks player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf) confirms the deck list and broad strategy. These are planning aids, not a requirement to visit every site in one game. See the [Challenge Decks Player's Guide (PDF)](https://assets.cardgamegeek.com/public/library/meccg/Challenge_Decks_PG.pdf).
 
 ## Book of Mazarbul — what the expedition is actually securing
