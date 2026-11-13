@@ -60,6 +60,8 @@ Goblin-gate is a legal non-Haven waypoint on the Book-storage route. If the comp
 
 The Academy's worked route is Moria → Goblin-gate → Blue Mountain Dwarf-hold. The direct Moria-to-Blue-Mountain Region Movement would require five regions and is too long for one normal move. Once the company reaches Blue Mountain, store the Book during the next Organization Phase while still at the Dwarf-hold. The Book's special text permits storage at a Dwarf-hold even though the general storage rule normally refers to Havens.
 
+For the alternative **Iron Hill Dwarves** faction objective, use the [Iron Hill Dwarf-hold Expedition]({{ '/routes/iron-hill-expedition/' | relative_url }}). It compares the direct Starter Movement from Lórien with a staged non-Haven route and explains the faction influence check.
+
 ## 4. Practice tasks
 
 1. Mark each of these as **main play deck** or **sideboard**: Iron Hill Dwarves; Blue Mountain Dwarves; Book of Mazarbûl; Gollum.
