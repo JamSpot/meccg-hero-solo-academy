@@ -24,6 +24,14 @@ This repository is **not** the Arda format project. Its active 36-card Gandalf-l
 
 Arda card pools, Arda rules and Arda-specific solitaire variants are maintained in a separate project and are intentionally outside this repository's scope.
 
+## Latest research modules
+
+- [Hazard Deck Balance Lab](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/hazard-deck-balance-lab/) and [model answer](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/hazard-deck-balance-lab/answer-key/) — route-specific draw probabilities, baseline audit and a controlled two-card Hazard experiment.
+- [Iron Hill Dwarf-hold Expedition](https://jamspot.github.io/meccg-hero-solo-academy/routes/iron-hill-expedition/) and [model answer](https://jamspot.github.io/meccg-hero-solo-academy/routes/iron-hill-expedition/answer-key/) — direct five-region Starter Movement versus a four-region Region Movement route through Grey Mountain Narrows, plus the Iron Hill faction influence plan.
+- [Free Movement guide](https://jamspot.github.io/meccg-hero-solo-academy/reference/free-movement/) — now includes the Iron Hill route comparison and explains why Starter Movement and Region Movement have different limits.
+
+The Dáin II / Gimli Iron Hill specialist cards and the Arouse Minions / Brigands Hazard swaps are **future experiments only**. The active 36-card Hero deck and 30-card Hazard baseline remain unchanged until the first three baseline games are recorded.
+
 ## Core learning loop
 Prepare → Travel → Marshal → Grow Stronger → Travel Further → Recover → Repeat
 
