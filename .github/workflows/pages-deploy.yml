@@ -58,6 +58,8 @@ jobs:
           test -f _site/reference/solo-ruleset/index.html
           test -f _site/routes/index.html
           test -f _site/routes/expedition-planner/index.html
+          test -f _site/routes/iron-hill-expedition/index.html
+          test -f _site/routes/iron-hill-expedition/answer-key/index.html
           test -f _site/scenarios/index.html
           test -f _site/scenarios/hazard-combo-lab/index.html
           test -f _site/scenarios/expedition-decision-lab/index.html
@@ -76,6 +78,13 @@ jobs:
           grep -q 'hazard-deck-balance-lab' _site/navigation/index.html
           grep -q 'hazard-deck-balance-lab' _site/scenarios/index.html
           grep -q 'hazard-deck-balance-lab' _site/decks/hazard-deck/index.html
+          grep -q 'iron-hill-expedition' _site/index.html
+          grep -q 'iron-hill-expedition' _site/navigation/index.html
+          grep -q 'iron-hill-expedition' _site/routes/index.html
+          grep -q 'iron-hill-expedition' _site/reference/free-movement/index.html
+          grep -q 'iron-hill-expedition' _site/decks/hero-deck/index.html
+          grep -q 'iron-hill-expedition' _site/decks/hazard-deck/index.html
+          grep -q 'iron-hill-expedition' _site/scenarios/resource-route-planner/index.html
           test ! -f _site/academy/learning-path.html
           test ! -e _site/drafts
           test ! -f _site/guide/test.html
