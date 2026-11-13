@@ -139,6 +139,12 @@ You may move followers to general influence during the Organization Phase if you
 
 The [model answer]({{ '/routes/iron-hill-expedition/answer-key/' | relative_url }}) works through the check modifiers and the route choice. Check the actual untapped characters and available influence before attempting it.
 
+### Optional Iron Hill specialists — not in the active baseline
+
+The official card database identifies **Dáin II** and **Gimli** as stronger, site-specific candidates: both have Iron Hill Dwarf-hold as their home site and +2 direct influence against the Iron Hill Dwarves faction. Dáin has mind 7 and base direct influence 3; Gimli has mind 6 and base direct influence 2. Under the current follower assignments, seven general influence is unused, so either character could fit at the home site if included in the Hero play deck and drawn. Dáin would use all seven available general influence.
+
+With their direct influence available, Dáin would have 3 + 2 against the faction, plus the faction's Dwarf standard +2: total modifier +7, which clears the greater-than-8 check on any natural 2D6 result. Gimli would have 2 + 2 + 2 = +6, succeeding on a natural 3 or higher (35/36). This is a strong **future Iron Hill-focused deck experiment**, not a change to the 36-card teaching baseline. Neither character is in the current list; check your physical collection before considering either, and do not buy cards just for this test.
+
 ## Practice questions
 
 1. Why is Lórien → Iron Hill Dwarf-hold legal by Starter Movement even though the printed path has five region types?
