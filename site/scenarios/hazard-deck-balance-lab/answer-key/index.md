@@ -73,7 +73,7 @@ One defensible five-slot line is:
 4. Lesser Spiders.
 5. Cave Worm.
 
-Wake of War makes the Spider attacks +1 strike and +1 prowess. Full of Froth and Rage adds a further +2 prowess while it remains in play. Giant Spiders is a sensible first Spider attack because it is harder to defeat than Lesser Spiders; if Giant Spiders is defeated, Full of Froth and Rage is discarded before the next Spider attack. If it is not defeated, the bonus remains for Lesser Spiders.
+Wake of War makes the Spider attacks +1 strike and +1 prowess. Full of Froth and Rage adds a further +2 prowess while it remains in play. Choose which Spider attack to lead with based on the actual company: compare its available prowess, taps, strike assignments and defensive resources. There is no universal order. If the first Spider attack is defeated, Full of Froth and Rage is discarded before the next Spider attack; if it survives, the bonus remains for the next one.
 
 Cave Worm is unaffected by either support event. It is a separate one-strike, 16-prowess threat.
 
@@ -115,7 +115,11 @@ A possible pressure line is Arouse Minions, Wake of War, Full of Froth and Rage,
 
 At Blue Mountain Dwarf-hold, Arouse Minions is illegal because the destination is a Free-hold. Brigands remains keyed by the Wilderness route.
 
-## 6. Why the probability figures are not win probabilities
+## 6. Blue Mountain variant check
+
+On Goblin-gate → Blue Mountain Dwarf-hold, the destination is a Free-hold. Arouse Minions is not legal on that destination, even though the company is leaving a Shadow-hold: during this movement/hazard phase the event must target the company's new site, and the new site does not meet the card's Shadow-hold/Dark-hold requirement. Brigands remains legal because the declared site path contains Wilderness. The normal Hazard draw is one, so the solo draw is 2 + (2 × 1) = **4 cards**. The five-Dwarf Hazard Limit is still five, but only four cards have been drawn, so no more than four drawn cards can be played.
+
+## 7. Why the probability figures are not win probabilities
 
 The table uses a hypergeometric draw from a fresh 30-card deck. For example, the baseline Moria draw takes eight cards from a list containing 16 creatures and 14 non-creatures. The expected number of creatures is 8 × 16/30 = 4.27.
 
@@ -125,7 +129,7 @@ That does not mean 73.3% of Moria turns are weak. The other cards may be conditi
 
 The proposed variant has 17 creatures, so the expected Moria creature count rises to \(8 \times 17/30 = 4.53\). Its chance of drawing at least one campaign-inactive card falls to 46.9% on the Moria route, but this says nothing by itself about whether the Hero company is more likely to be wounded or lose the Book.
 
-## 7. The actual decision rule
+## 8. The actual decision rule
 
 Keep the baseline until three games have been recorded. Test the two-card variant only if the baseline shows a repeated problem and you already own the cards.
 
