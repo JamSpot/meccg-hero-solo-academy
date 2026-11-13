@@ -117,17 +117,9 @@ At Blue Mountain Dwarf-hold, Arouse Minions is illegal because the destination i
 
 ## 6. Why the probability figures are not win probabilities
 
-The table uses a hypergeometric draw from a fresh 30-card deck. For example, the baseline Moria draw takes eight cards from a list containing 16 creatures and 14 non-creatures. The expected number of creatures is:
+The table uses a hypergeometric draw from a fresh 30-card deck. For example, the baseline Moria draw takes eight cards from a list containing 16 creatures and 14 non-creatures. The expected number of creatures is 8 × 16/30 = 4.27.
 
-\[
-8 \times \frac{16}{30} = 4.27
-\]
-
-The chance of drawing at least one of the four campaign-inactive cards is:
-
-\[
-1-\frac{\binom{26}{8}}{\binom{30}{8}} \approx 73.3\%
-\]
+The chance of drawing at least one of the four campaign-inactive cards is 1 − [C(26,8) / C(30,8)] ≈ 73.3%.
 
 That does not mean 73.3% of Moria turns are weak. The other cards may be conditional, a drawn creature may be strategically inferior to an event, and the Hazard Limit is five. The probability is only a way to compare list composition before play.
 
