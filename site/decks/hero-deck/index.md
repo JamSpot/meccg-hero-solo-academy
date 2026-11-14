@@ -150,7 +150,7 @@ The normal Organization Phase allows **one character action per turn**: play one
 
 The five-card opening hand contains at least one of the three Sage-capable cards (Gandalf, Balin or Celeborn) only about **37.0%** of the time. Gandalf alone appears in the first five about **13.9%** of the time. Treat the Book's Sage benefit as a useful option, not something the opening hand guarantees.
 
-**Company-size reminder:** the five starting Dwarves plus Gandalf and one recruited support character make seven characters. Seven is the maximum size of a company away from a Haven. A further character must wait, remain in another company, or require a reorganisation before the company moves away from a Haven. The company's base Hazard Limit also rises with its size.
+**Company-size reminder:** the five starting Dwarves plus Gandalf and one recruited support character make seven characters. Companies at a Haven have no maximum size; a company away from a Haven may contain no more than seven characters. The base Hazard Limit is the current company size, or two if the company has fewer than two characters, and is fixed for that Movement/Hazard Phase. So the five-Dwarf company has a base limit of 5; adding Gandalf makes it 6; adding one support character as well makes it 7. A further character must wait, remain in another company, or require a reorganisation before the company moves away from a Haven.
 
 **Practice:** use the [Support Character Recruitment Lab]({{ '/scenarios/character-recruitment-lab/' | relative_url }}) to test the one-character-per-turn rule, avatar-site restrictions, the seven-point influence budget and the effect of company size on Hazard Limit.
 
