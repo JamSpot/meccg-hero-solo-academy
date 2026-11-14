@@ -68,7 +68,7 @@ Route-keying consequences:
 - **Arouse Minions:** not legal; Iron Hill is a Free-hold, not a Shadow-hold or Dark-hold.
 - **Brigands:** would be legal by Border-land or Wilderness, but it is only a proposed future variant and is not in the baseline Hazard deck.
 
-The solo draw is 2 + (2 × 3) = **8**. The five-card Hazard Limit is a separate restriction.
+The solo draw is 2 + (2 × 3) = **8**. The five-card Hazard Limit is a separate restriction. The Hero draw is from the **36-card Hero play deck** (Resources and characters), not a Resource-only pile. This five-Dwarf company qualifies for the Hero draw because it contains characters with mind 3 or more; the Hero may draw up to the light number, subject to the normal minimum-one condition if choosing to draw.
 
 ## Case B — direct Region Movement from Lórien to Iron Hill
 
