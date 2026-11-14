@@ -94,7 +94,7 @@ Use Starter Movement. The Hero Eagles' Eyrie site card is a Free-hold in Anduin 
 | Five-Dwarf base Hazard Limit | **5** |
 | Site automatic attack | None |
 
-**Important site check:** the Hero Eagles' Eyrie card lists no playable Resource category. The current Academy Resource deck therefore has no item, faction or ally to play there. It is a waypoint in this exercise, not a Resource stop. Do not enter merely because the site is a Free-hold.
+**Important site check:** the Hero Eagles' Eyrie card lists no playable Resource category. The current Academy Resource deck therefore has no item, faction or ally to play there. It is a waypoint in this exercise, not a site-playable Resource stop. General Resource events such as Marvels Told may still be played when their own timing and target conditions allow; they do not make Eagles' Eyrie a better destination. Do not enter merely because the site is a Free-hold.
 
 ### Leg 2: Eagles' Eyrie → Iron Hill Dwarf-hold
 
