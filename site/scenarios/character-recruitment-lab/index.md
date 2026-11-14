@@ -65,7 +65,7 @@ Assume all characters join the same company:
 | Five Dwarves + Gandalf | 6 | ? |
 | Five Dwarves + Gandalf + Balin | 7 | ? |
 
-1. Which is the maximum company size away from a Haven?
+1. What is the maximum company size away from a Haven, and what is the limit at a Haven?
 2. Does adding characters change the solo Hazard **draw formula**?
 3. Does it change the base Hazard **Limit**?
 
