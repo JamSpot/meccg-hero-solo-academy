@@ -49,6 +49,8 @@ Neither destination has a printed automatic attack. That does not prevent the Ha
 
 The Hero Eagles’ Eyrie site card lists no playable Resource category. The current deck therefore has no item, ally, faction or information Resource to play there. General Resource events such as Marvels Told may still be played when their own timing and target conditions allow, but they are not a site reward. The staged route is a waypoint demonstration, not a Resource stop.
 
+Eagles’ Eyrie is not in the locked 15-site first-play Location deck. Treat this route as a supplementary map exercise unless you deliberately use the genuine Hero site card in a separate test; it is not an available baseline campaign stop.
+
 ## 5. Faction influence check
 
 Iron Hill Dwarves is a unique four-MP faction. It is playable at Iron Hill Dwarf-hold if the influence check is greater than 8. The faction's standard modification gives a Dwarf +2.
