@@ -43,7 +43,7 @@ The Iron Hill Dwarf-hold site card has normal Hazard draw 3 and Hero draw 3.
 - Lórien → Eagles’ Eyrie: normal Hazard 1 → solo Hazard draw 2 + (2 × 1) = **4**; Hero draws up to **1**.
 - Eagles’ Eyrie → Iron Hill: normal Hazard 3 → solo Hazard draw 2 + (2 × 3) = **8**; Hero draws up to **3**.
 
-Route B therefore draws 12 solo Hazard cards across two movement/hazard phases and up to four Hero cards. Route A draws eight solo Hazard cards and up to three Hero cards. The base Hazard Limit is five for the five-Dwarf company in each phase; on the four-card Eagles’ Eyrie leg, only four cards have been drawn, so no more than four drawn cards can be played.
+Route B therefore draws 12 solo Hazard cards across two separate turns and two movement/hazard phases. The Hero may draw up to one card on the first leg and up to three on the later leg, with hand resets handled separately after each phase. Route A draws eight solo Hazard cards and up to three Hero cards in one movement/hazard phase. The base Hazard Limit is five for the five-Dwarf company in each phase; on the four-card Eagles’ Eyrie leg, only four cards have been drawn, so no more than four drawn cards can be played.
 
 Neither destination has a printed automatic attack. That does not prevent the Hazard player from playing legal movement Hazards.
 
