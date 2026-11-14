@@ -116,6 +116,42 @@ These six cards are shuffled **with the 30 Hero Resources** to make the active 3
 
 A Wizard may be brought into play at his home site or Rivendell if you do not already have a Wizard in play. Gandalf's home site is Any Haven. He does **not** increase your hand size: the Academy hand target remains five unless the Sage bearer uses the Book's own ability. His +1 corruption modifier is a bonus; Kíli's -1 is a penalty. If Gandalf is present, he is the safest default Book bearer and can use the Book's Sage-only hand-size ability.
 
+### What the five support characters actually add
+
+The starting Dwarves already cover several skills, but **none is a Sage**:
+
+- All five are Warriors.
+- Kíli is the starting Scout.
+- Óin is the starting Ranger.
+- Glóin is the starting Diplomat.
+- Sage access comes from Gandalf, Balin or Celeborn in the active 36-card deck.
+
+This matters for Book of Mazarbûl and the deck's Sage-dependent Resource options. Gandalf is the most efficient all-round Sage, but he is not guaranteed in the opening hand.
+
+| Active deck card | Mind / DI | Skills | Useful contribution to this company | General influence if added under GI* |
+|---|---:|---|---|---:|
+| **Balin** | 5 / 2 | Warrior, Sage | Dwarf Sage; +2 prowess against Orcs; +1 DI against Dwarves and Dwarf factions | 5 of 7; 2 left |
+| **Boromir II** | 4 / 1 | Warrior | -1 to his corruption checks; +2 DI against Men of Anórien only | 4 of 7; 3 left |
+| **Celeborn** | 6 / 1 | Warrior, Sage | Second non-Wizard Sage; his +5 DI applies only against Galadriel | 6 of 7; 1 left |
+| **Fíli** | 2 / 0 | Warrior, Scout | Low mind cost; +1 prowess against Orcs; -1 to his corruption checks; -1 to faction influence checks | 2 of 7; 5 left |
+| **Gildor Inglorion** | 4 / 0 | Warrior, Ranger | +2 prowess against Orcs; adds no new skill because Óin is already a Ranger | 4 of 7; 3 left |
+| **Gandalf** | Avatar; DI 10 | Warrior, Scout, Sage, Diplomat | No mind cost as the avatar; +1 to his own corruption checks; may tap to test a Gold Ring | Not charged to GI |
+
+*The GI column assumes the original Thorin/Glóin follower assignments stay unchanged and the recruit is controlled by general influence. The starting company has 7 unused GI after Thorin II and Glóin's mind (13) is deducted. Recalculate if you change control assignments; do not treat a character's printed DI as extra general influence.*
+
+**Recruitment recommendation for this Dwarf plan:**
+
+1. **Gandalf** is the best all-round addition when drawn: he supplies Sage, Scout and Diplomat as well as his Wizard abilities, and his +1 corruption modifier makes him the preferred Book bearer.
+2. If Gandalf is not yet in play, **Balin** is the strongest non-Wizard backup for this company. He supplies Sage without abandoning the Dwarf theme and is a better fit than Celeborn for the Iron Hill / Dwarf-faction plan.
+3. **Fíli** is the cheapest combat-oriented recruit; **Gildor** is the stronger Orc-fighting option. Both duplicate a skill already present, so choose them for their combat text rather than skill coverage.
+4. **Celeborn** is a Sage alternative, but uses six of the seven currently unused GI and his special influence bonus is irrelevant unless influencing Galadriel. **Boromir II** is a sound Warrior with a useful personal corruption modifier, but does not fill a missing skill.
+
+The normal Organization Phase allows **one character action per turn**: play one Hero character or your avatar, or discard a non-avatar character. You cannot play Gandalf and Balin in the same Organization Phase. Once an avatar is in play, the rules also restrict where you may play further characters: they must be played at the avatar's current site or under direct influence with an existing company. Plan recruitment before moving the Wizard away from the Haven where you intend to assemble the company.
+
+The five-card opening hand contains at least one of the three Sage-capable cards (Gandalf, Balin or Celeborn) only about **37.0%** of the time. Gandalf alone appears in the first five about **13.9%** of the time. Treat the Book's Sage benefit as a useful option, not something the opening hand guarantees.
+
+**Company-size reminder:** the five starting Dwarves plus Gandalf and one recruited support character make seven characters. Seven is the maximum size of a company away from a Haven. A further character must wait, remain in another company, or require a reorganisation before the company moves away from a Haven. The company's base Hazard Limit also rises with its size.
+
 **Deck status: working baseline for the first three recorded tests.** Use exactly these 36 cards: the 30 Resources above, the five non-Wizard characters retained from Challenge Deck C, and one Gandalf. No additional character slots are required for this 36-card test build. Do not add two extra Wizard cards simply to reproduce the historical 38-card Pallando package; that would change the comparison. The original three-Pallando list is legal, but it is not the active Gandalf baseline. This is an Academy adaptation, not the original Challenge Deck C list. Keep this list unchanged through the first three recorded games, then tune only in response to a specific playtest finding.
 
 See [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) for his actual role, route options, separate-company Hazard calculations and sideboard plan. The [historical Pallando reference]({{ '/decks/pallando-support-company/' | relative_url }}) is not part of the active course.
