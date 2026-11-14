@@ -93,6 +93,14 @@ For example, the teaching route **Rhudaur → Hollin → Redhorn Gate** from Riv
 
 The site path does not direct movement by itself. It tells you which region types are exposed to creature keying, with named-region card text checked separately.
 
+### A five-symbol Starter path can be legal
+
+The Hero Iron Hill Dwarf-hold card lists Lórien as its nearest Haven. Lórien → Iron Hill is therefore a legal Starter Movement even though the printed site path contains five region symbols. The same five-region adjacency chain is **not** a legal direct Region Movement. This is not a contradiction: the four-region maximum belongs to Region Movement, not Starter Movement.
+
+The difference can change Hazard legality. The direct Starter path has no Shadow-land or Dark-domain, so Seized by Terror is not legal. A staged Region Movement from Eagles’ Eyrie through Grey Mountain Narrows includes a Shadow-land and makes Seized by Terror legal against an eligible non-Wizard character. However, the Hero Eagles’ Eyrie site card lists no playable Resource category, so it is only a waypoint for this teaching deck and not a Resource stop. The staged route also adds a separate Movement/Hazard Phase and four extra solo Hazard draws.
+
+Complete the [Site Path Tactics Lab]({{ '/scenarios/site-path-tactics-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/site-path-tactics-lab/answer-key/' | relative_url }}) before using the Iron Hill route as a deck-building example.
+
 ### Read the symbols carefully: region type is not site type
 
 MECCG uses different symbols for region types and site types. The case matters:
