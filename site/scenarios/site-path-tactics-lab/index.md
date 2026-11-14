@@ -123,7 +123,7 @@ The declared site path includes **Grey Mountain Narrows**, a Shadow-land. **Seiz
 
 Cave Worm is also legal by the named Iron Hills or Grey Mountain Narrows region. Giant Spiders is legal by double Wilderness. Arouse Minions remains illegal because the destination is a Free-hold.
 
-Across the two legs, the solo Hazard side draws **4 + 8 = 12 cards**. These are two separate Movement/Hazard Phases, each with its own Hazard Limit of five. Do not add the two limits together and call it one ten-card limit. The Hero side may draw up to **1 + 3 = 4 cards** across the two legs.
+Across the two legs, the solo Hazard side draws **4 + 8 = 12 cards**. In ordinary play these are movements on **two different turns**: Leg 2 happens after a later Organization Phase, not immediately after Leg 1. Each turn has its own Movement/Hazard Phase and its own Hazard Limit of five. Do not add the two limits together and call it one ten-card limit. The Hero side may draw up to **one card on Leg 1 and three on Leg 2**; these are separate draw steps, with the hand reset separately after each phase under the Academy solo procedure.
 
 The route is deliberately less efficient for the current objective: it draws four more solo Hazards than direct Starter Movement, takes an extra movement phase, and the waypoint has no playable Resource category in this deck. Its value here is teaching how a Region Movement site path can expose a region name and type that Starter Movement does not.
 
