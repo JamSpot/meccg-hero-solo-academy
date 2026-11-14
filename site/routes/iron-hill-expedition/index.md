@@ -58,6 +58,8 @@ The route has a high solo draw of eight Hazards, but it avoids the Shadow-land k
 
 ## Route B — stage at Eagles’ Eyrie, then use Region Movement
 
+**Supplementary route only:** Hero Eagles’ Eyrie is not in the locked 15-card first-play Location deck. This is a map and Hazard-keying exercise, not a route available in the baseline campaign unless you deliberately use the genuine Hero site card in a separate test. Keep the 15-site baseline unchanged for Game 1.
+
 This alternative demonstrates how to move between non-Haven sites without returning to a Haven every turn.
 
 ### Leg 1: Lórien → Eagles’ Eyrie
