@@ -79,7 +79,7 @@ If the only objective is to play Iron Hill Dwarves and there is no specific Reso
 - no Shadow-land in the printed site path, so Seized by Terror is not legal;
 - still allows Cave Worm to be keyed to Iron Hills.
 
-The Eagles’ Eyrie route is a useful alternative only if the extra Site Phase has a real benefit. It also exposes Grey Mountain Narrows and makes Seized by Terror legal. It is not automatically safer merely because its final Region Movement uses four regions.
+The Eagles’ Eyrie route is a useful **rules demonstration**, but it has no Resource-play benefit for the current deck: the Hero site card lists no playable Resource category. It exposes Grey Mountain Narrows and makes Seized by Terror legal, but adds four solo Hazard draws and a movement phase. It is not automatically safer merely because its final Region Movement uses four regions. See the [Site Path Tactics Lab]({{ '/scenarios/site-path-tactics-lab/' | relative_url }}) for the full comparison.
 
 ## 7. Hazard deck implications
 
