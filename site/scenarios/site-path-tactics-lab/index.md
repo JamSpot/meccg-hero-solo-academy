@@ -173,6 +173,7 @@ Try these before opening the model answer:
 
 ## Sources and verification
 
+- [Academy Solo Rules reference]({{ '/reference/solo-ruleset/' | relative_url }}) — five-card hand and the solo Hazard draw procedure.
 - [Council of Elrond Official Game Rules](https://councilofelrond.org/rules/) — movement declaration, Starter Movement, Region Movement, site paths and creature keying.
 - [The Wizards rules and clarifications](https://meccg.com/rules/by-expansion/the-wizards/) — printed movement and site-path explanations.
 - [MECCG Full Spoiler List — Region cards and Hero sites](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf) — site and region reference used to build this worked example.
