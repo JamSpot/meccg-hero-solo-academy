@@ -68,7 +68,7 @@ This timing distinction matters:
 
 1. **During Organization:** choose the destination and declare movement. Check that the movement can be legal.
 2. **During the Movement/Hazard Phase:** reveal the new site. If using Region Movement, declare the actual sequence of regions for the company's site path.
-3. The chosen Region Movement route must be legal and the declared site path must match the regions actually used.
+3. The chosen Region Movement route must be legal and the declared site path must match the regions actually used. The route must already have been capable of being legal when movement was initially declared during Organization; do not invent a new path after seeing the Hazard hand.
 
 If the movement proves illegal when the new site is revealed, it is negated and the company remains at its origin, although it still conducts its Movement/Hazard Phase.
 
