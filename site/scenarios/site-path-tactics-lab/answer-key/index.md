@@ -7,6 +7,8 @@ title: Site Path Tactics Lab — Model Answer
 
 [Back to the Site Path Tactics Lab]({{ '/scenarios/site-path-tactics-lab/' | relative_url }})
 
+**Collection note:** the Eagles' Eyrie leg is a supplementary map exercise, not part of the locked 15-site Location deck. Use the genuine Hero site card only in a separate test; otherwise treat that leg as a paper route calculation.
+
 ## 1. Five symbols can be legal Starter Movement
 
 The four-region maximum applies to normal Region Movement. Lórien is a Haven and is listed as the nearest Haven on the Hero Iron Hill Dwarf-hold site card, so Starter Movement is permitted. The printed five-symbol site path is used as printed.
