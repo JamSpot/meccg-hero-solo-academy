@@ -48,7 +48,7 @@ The table assumes each recruit is controlled by general influence and the origin
 | Five Dwarves + Gandalf | 6 | **6** |
 | Five Dwarves + Gandalf + Balin | 7 | **7** |
 
-The normal maximum company size away from a Haven is **seven characters**. At a Haven the company-size restriction is different, but reorganise before leaving if the company would exceed the non-Haven limit.
+Companies at a Haven have **no maximum size**. A company away from a Haven may contain no more than **seven characters**; reorganise before leaving if the company would exceed the non-Haven limit.
 
 Adding characters does **not** change the solo Hazard draw formula. That formula is based on the destination site's normal Hazard draw number. Adding characters **does** increase the base Hazard Limit because the limit is based on company size (minimum two). A larger company can therefore face more ordinary Hazard plays in the same Movement/Hazard Phase.
 
