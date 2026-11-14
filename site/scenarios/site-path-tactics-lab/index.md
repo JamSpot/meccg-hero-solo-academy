@@ -9,6 +9,8 @@ title: Site Path Tactics Lab — Starter vs Region Movement
 
 The rules used here are the current Council of Elrond movement and creature-keying rules, combined with the Academy's clearly labelled solo Hazard draw procedure. It is not an Arda exercise.
 
+**Collection and Location-deck note:** Hero Eagles' Eyrie is **not** one of the 15 active Location cards in the locked first-play build. Case C is a supplementary map-only route demonstration. It is not available in the first-play Location deck unless you deliberately include the genuine Hero site card in a separate test. Do not alter the locked 15-site baseline just to complete this exercise. If you do not own the Hero Eagles' Eyrie card, complete the route calculations on paper; no proxy is intended.
+
 ## The rule distinction
 
 A **movement route** is how the company legally gets from its origin region to its destination region. A **company site path** is the information used to determine which creatures can be keyed to that moving company.
