@@ -49,7 +49,7 @@ This is the key lesson: a region type and a site type are different things. A Sh
 | Lórien → Eagles' Eyrie (Starter) | 1 | **4** | Up to 1 | 5 |
 | Eagles' Eyrie → Iron Hill (Region) | 3 | **8** | Up to 3 | 5 |
 
-The Academy solo draw is 2 + (2 × normal Hazard draw). The two-leg route therefore draws 12 Hazard cards across two separate phases. Each phase has its own base Hazard Limit of five. The first leg draws only four cards, so at most four of those drawn cards can be played in that phase.
+The Academy solo draw is 2 + (2 × normal Hazard draw). The two-leg route therefore draws 12 Hazard cards across two separate phases on different turns in ordinary play. Each phase has its own base Hazard Limit of five. The first leg draws only four cards, so at most four of those drawn cards can be played in that phase. The Hero draws up to one card on the first turn and up to three on the later turn, with the Academy's hand reset handled separately after each phase.
 
 The Hazard Limit is not the number of cards drawn. The solo Hazard side must choose the most disadvantageous legal combination within the limit.
 
