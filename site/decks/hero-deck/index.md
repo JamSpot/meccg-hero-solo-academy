@@ -152,6 +152,8 @@ The five-card opening hand contains at least one of the three Sage-capable cards
 
 **Company-size reminder:** the five starting Dwarves plus Gandalf and one recruited support character make seven characters. Seven is the maximum size of a company away from a Haven. A further character must wait, remain in another company, or require a reorganisation before the company moves away from a Haven. The company's base Hazard Limit also rises with its size.
 
+**Practice:** use the [Support Character Recruitment Lab]({{ '/scenarios/character-recruitment-lab/' | relative_url }}) to test the one-character-per-turn rule, avatar-site restrictions, the seven-point influence budget and the effect of company size on Hazard Limit.
+
 **Deck status: working baseline for the first three recorded tests.** Use exactly these 36 cards: the 30 Resources above, the five non-Wizard characters retained from Challenge Deck C, and one Gandalf. No additional character slots are required for this 36-card test build. Do not add two extra Wizard cards simply to reproduce the historical 38-card Pallando package; that would change the comparison. The original three-Pallando list is legal, but it is not the active Gandalf baseline. This is an Academy adaptation, not the original Challenge Deck C list. Keep this list unchanged through the first three recorded games, then tune only in response to a specific playtest finding.
 
 See [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) for his actual role, route options, separate-company Hazard calculations and sideboard plan. The [historical Pallando reference]({{ '/decks/pallando-support-company/' | relative_url }}) is not part of the active course.
