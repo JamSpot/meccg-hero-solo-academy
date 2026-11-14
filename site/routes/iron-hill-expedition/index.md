@@ -103,7 +103,9 @@ The crucial difference is **Grey Mountain Narrows**. It is a Shadow-land, so **S
 
 The second leg also exposes the named regions to creatures keyed by name. Cave Worm can be keyed to Iron Hills. The path still contains Wilderness and Border-land, so the proposed Brigands card is legal too.
 
-The price is an extra movement/hazard phase: the staged journey draws **4 + 8 = 12 solo Hazard cards** across two legs, compared with eight on the direct Starter Movement. If the company enters Eagles’ Eyrie, it receives a Site Phase there. A generally playable minor item or another legal action may still be worthwhile, but no card in the current Resource list specifically names or rewards Eagles’ Eyrie. Weigh that possible Site Phase against four extra solo Hazard draws; do not take the stop just because the four-region route looks tidy.
+The price is an extra movement/hazard phase: the staged journey draws **4 + 8 = 12 solo Hazard cards** across two legs, compared with eight on the direct Starter Movement. The Hero Eagles’ Eyrie site card lists **no playable Resource category**, so none of the current Resource deck’s items, allies, factions or information cards can be played there. It has no automatic attack, but it offers no Resource action in this teaching build. Treat it as a waypoint used to demonstrate a legal Region Movement path, not as a rewarding stop. Do not take the detour merely because the four-region route looks tidy.
+
+Work through the [Site Path Tactics Lab]({{ '/scenarios/site-path-tactics-lab/' | relative_url }}) to compare the exact keys and the same Hazard hand on both routes.
 
 ## What the route teaches about the Hazard deck
 
