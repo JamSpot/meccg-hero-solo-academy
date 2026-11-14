@@ -70,7 +70,7 @@ The solo draw is 2 + (2 × 3) = **8**. The five-card Hazard Limit is a separate 
 
 ## Case B — direct Region Movement from Lórien to Iron Hill
 
-The shortest legal adjacency sequence is:
+A shortest legal adjacency sequence is:
 
 **Wold & Foothills → Anduin Vales → Grey Mountain Narrows → Northern Rhovanion → Iron Hills**
 
