@@ -23,13 +23,19 @@ The historical *Challenge Decks Player's Guide* gives these suggested sites for 
 | **Men of Dorwinion** | **Shrel-Kain** | A later faction objective; do not divert from the Book mission without a reason. |
 | **Bow of Dragon-horn** | **Ovir Hollow**, or the *Bounty of the Hoard* line | Check the exact item and site conditions before committing to the trip. |
 | **Magical Harp** | **Ovir Hollow**, or the *Bounty of the Hoard* line | A possible later item objective, not an automatic detour. |
-| **Durin's Axe** | **Sarn Goriwing** or **Buhr Widu** | Powerful for a Dwarf bearer, but include its corruption points in the risk calculation. |
-| **Hauberk of Bright Mail** | **Sarn Goriwing** or **Buhr Widu** | Compare the item's defensive value with the route and site danger. |
+| **Durin's Axe** | **Sarn Goriwing**, **Buhr Widu** or **The Wind Throne** | Powerful for a Dwarf bearer, but include its corruption points in the risk calculation. |
+| **Hauberk of Bright Mail** | **Sarn Goriwing**, **Buhr Widu** or **The Wind Throne** | Compare the item's defensive value with the route and site danger. |
 | **Enruned Shield** | **Caves of Ûlund** or **The Lonely Mountain** | Check the site's automatic attack and whether the company can still attempt the item. |
-| **Wormsbane** | **Dead Marshes**, **Caves of Ûlund**, or **The Lonely Mountain** | A specialist weapon; pursue it when the route and expected threats justify it. |
+| **Wormsbane** | **Caves of Ûlund** or **The Lonely Mountain** | A specialist weapon; pursue it when the route and expected threats justify it. |
 | **Quickbeam** | **Wellinghall** | Ally objective with its own site and company requirements. |
 
 **Important distinction:** *Iron Hill Dwarves* is in the active Resource list and is playable at Iron Hill Dwarf-hold. *Blue Mountain Dwarves* is a sideboard card and is playable at Blue Mountain Dwarf-hold. They are different factions at different sites.
+
+### Location-deck correction
+
+The historical Challenge Deck C-derived list included Dead Marshes. That site card is Minion-alignment, so it cannot be used in a Wizard/Hero Location deck. The active Academy list replaces it with the Hero version of The Wind Throne. The Wind Throne is a legal Major Item site, so it gives Durin's Axe and Hauberk of Bright Mail another destination; it does **not** allow Greater Items such as Wormsbane.
+
+See the [Location Deck Legality & Wind Throne Lab]({{ '/scenarios/location-deck-legality-lab/' | relative_url }}) for the card-by-card site and route audit.
 
 ## 2. What must be true before a Resource is played?
 
