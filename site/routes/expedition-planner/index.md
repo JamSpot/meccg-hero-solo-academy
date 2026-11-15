@@ -159,6 +159,36 @@ This plan protects Gandalf from Moria's site attack, but it does not make the Wi
 
 [Read the full Gandalf support-company guide]({{ '/decks/gandalf-support-company/' | relative_url }}) · [Complete the decision scenario]({{ '/scenarios/gandalf-company/' | relative_url }}) · [Model answer]({{ '/scenarios/gandalf-company/answer-key/' | relative_url }}).
 
+## Worked plan F — Lórien to The Wind Throne
+
+This route is now available in the corrected 15-site Hero Location deck.
+
+**Movement:** Starter Movement. The Wind Throne lists Lórien as its nearest Haven, so a company at Lórien can travel directly there. The printed site path is Wilderness → Border-land → Shadow-land; it is used for Hazard keying, not declared as a Region Movement route.
+
+| Forecast | Result |
+|---|---:|
+| Site-card numbers (Hazard / Hero) | 2/2 |
+| Hero draw | Up to 2 |
+| Normal Hazard draw | 2 |
+| Solo Hazard draw | **6** |
+| Five-Dwarf base Hazard Limit | **5** |
+| Automatic attack if entered | Orcs — 3 strikes at 7 |
+
+**Resource opportunity:** The site permits Information and minor/major Items. It is an additional legal destination for Durin's Axe and Hauberk of Bright Mail, but not for the Greater Item Wormsbane.
+
+**Hazard exposure:**
+
+- Cave Worm can be keyed to Grey Mountain Narrows.
+- Seized by Terror can target an eligible character moving through the Shadow-land.
+- Lesser Spiders, Neeker-breekers and Wargs have matching region/site keys.
+- Giant Spiders is not legal: the path has only one Wilderness and is not in one of its special Mirkwood regions.
+- Watcher in the Water is not legal: it requires two Wilderness plus a Coastal Sea, or its explicit Moria permission.
+- Arouse Denizens is a possible later test because The Wind Throne is a Ruins & Lairs. Arouse Minions is not legal because the site is not a Shadow-hold or Dark-hold.
+
+**Captain's decision:** The automatic attack is faced only if the company enters. If you decline, you avoid the Orc attack but take no site actions. Decide whether the Major Item opportunity is worth the six-card Hazard draw, the five-slot Hazard Limit and the possible Orc attack.
+
+Use the [Location Deck Legality & Wind Throne Lab]({{ '/scenarios/location-deck-legality-lab/' | relative_url }}) to practise the full card-by-card decision.
+
 ## Solo Hazard decision worksheet
 
 Before resolving the draw, work through the [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}) and its [model answer]({{ '/scenarios/hazard-legality-workshop/answer-key/' | relative_url }}). It demonstrates how the declared path changes creature legality and why support-event timing matters.
