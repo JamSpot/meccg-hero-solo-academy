@@ -76,7 +76,7 @@ The declared path is four Wilderness regions and includes the named regions Redh
 | **Lesser Spiders** | Candidate | Wilderness is one of its region-type keys. Goblin-gate is a Shadow-hold, not a Ruins & Lairs site. |
 | **Wargs** | Candidate | Wilderness is one of its keys. |
 | **Neeker-breekers** | Candidate | Wilderness is one of its keys. Apply the one-strike-per-character text exactly. |
-| **Watcher in the Water** | Candidate | Double Wilderness is satisfied. Do not use the special Moria permission: the destination is Goblin-gate. |
+| **Watcher in the Water** | Illegal | It requires two Wilderness regions plus a Coastal Sea, or may be played at Moria. The route has no Coastal Sea and the destination is Goblin-gate. |
 | **Seized by Terror** | Illegal | The path contains no Shadow-land or Dark-domain region. A Shadow-hold site symbol is not a Shadow-land region symbol. |
 | **Full of Froth and Rage** | Conditional candidate | It needs a Spider or Animal attack whose prowess it can modify. Check timing and whether it is already duplicated. |
 | **Wake of War** | Conditional candidate | It can affect Wolf, Spider and Animal attacks. Check timing, duration and whether it is already in play. |
@@ -93,7 +93,7 @@ The path is **High Pass → Rhudaur → Arthedain → Númeriador**. All four re
 - Cave Worm can use its named-region key to **High Pass** or **Númeriador**.
 - Giant Spiders can use double Wilderness.
 - Lesser Spiders, Wargs and Neeker-breekers can use their Wilderness keys.
-- Watcher in the Water can use double Wilderness; its Moria-specific site permission is irrelevant here.
+- Watcher in the Water is illegal: the route has no Coastal Sea and the destination is not Moria. Two Wilderness regions alone do not satisfy its printed key.
 - Seized by Terror remains illegal because the path has no Shadow-land or Dark-domain region.
 - River's current erratum lets the Hero tap a Ranger by the beginning of the Site Phase; the starting company has Óin. If Óin is available, the Hazard play costs the Hero a tap rather than automatically denying the site phase. If the company was already going to skip the site phase, River may add little practical pressure. It does not cancel a later Organization Phase storage attempt.
 
@@ -122,7 +122,7 @@ Suppose the constructed practice hand for Moria → Goblin-gate is:
 - Full of Froth and Rage
 - Wake of War
 
-All six are potential legal candidates on the declared path, subject to their exact card text, target, timing and current state. With a base Hazard Limit of five, you cannot play all six if all count against the limit.
+Five of the six cards are potential legal candidates on the declared path. **Watcher in the Water is illegal**: the route has no Coastal Sea and the destination is not Moria. With a base Hazard Limit of five, the five legal cards can fill all five slots if their targets and timing remain valid.
 
 A strong line to evaluate is:
 
@@ -130,9 +130,9 @@ A strong line to evaluate is:
 2. Wake of War.
 3. Giant Spiders.
 4. Wargs.
-5. Watcher in the Water.
+5. Cave Worm.
 
-Apply the effects carefully: Full of Froth and Rage gives +2 prowess to Spider and Animal attacks. Wake of War gives +1 strike and +1 prowess to Wolf, Spider and Animal attacks, but its extra strike does **not** change Watcher in the Water's instruction that each character faces one strike. Its +1 prowess still applies. The same one-strike-per-character exception matters for Neeker-breekers.
+Apply the effects carefully: Full of Froth and Rage gives +2 prowess to Spider and Animal attacks. Wake of War gives +1 strike and +1 prowess to Wolf, Spider and Animal attacks. Giant Spiders receives both attack bonuses; Wargs receives Wake of War but not Full of Froth and Rage; Cave Worm is a Drake and receives neither. The one-strike-per-character exception still matters for Neeker-breekers and Watcher in the Water if they are legal on another route.
 
 This is a **model combination to test**, not a universal script. Cave Worm remains a legal alternative: compare its single high-prowess strike against the extra strike volume and modified prowess of the other creatures. Choose the most disadvantageous legal combination for the actual company.
 
