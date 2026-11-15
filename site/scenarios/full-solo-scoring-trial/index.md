@@ -72,7 +72,7 @@ For each company that moves, identify the relevant Hero site card first.
 
 **Solo Hazard draw = 2 + (2 × normal Hazard-player draw number)**
 
-A company that does not move has no normal movement draw under the ordinary rules. The generic printed solitaire paragraph does not fully settle every stationary-company case; use a scenario that states its procedure rather than inventing a universal number.
+A company that does not move has a normal movement draw of **0** under the ordinary rules. The printed solitaire paragraph still says to draw for each company, so the Academy applies the formula literally: **2 + (2 × 0) = 2 Hazard cards**. The Hero player makes no movement draw, and creature Hazards may only be keyed to the current site because there is no new site path. This is a text-based application, not a separate CoE ruling. A scenario-specific instruction overrides it; *The Wood of Greenleaves* explicitly says to draw up to four Hazards for a company remaining in Lórien.
 
 The Hazard Limit is a third, separate calculation. Under the current normal rules, the base limit is the company's size or two, whichever is greater; Hobbits and Orc scouts count as half a character, rounded up. The base limit is fixed at the beginning of that company's Movement/Hazard Phase. A card such as Hundreds of Butterflies can modify the limit, but does not change either draw.
 
