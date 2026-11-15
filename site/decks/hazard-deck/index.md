@@ -51,18 +51,29 @@ In this solo setup, a Twilight drawn from the separate Hazard deck is used only 
 
 A non-Dragon option worth testing **after** the baseline games is **Arouse Minions** (The Wizards). It is a Hazard short-event playable on a Shadow-hold or Dark-hold and increases one automatic attack at that site by +3 prowess for the turn. Moria and Goblin-gate are both Shadow-holds, so it would add a direct, route-relevant threat to their Orc automatic attacks without adding a Dragon creature.
 
-A controlled first experiment would be **one Arouse Minions replacing one Twilight**, leaving one Twilight available for future Environment cards. This is only a proposed v1.1 test, not part of the locked 30-card list. Do not change the baseline list during the first three recorded games, and do not buy the card just for this test until your physical collection has been checked. If you later test it, count it against the Hazard Limit and remember that the Hero may choose not to enter the site.
+A controlled first experiment for the Moria/Goblin-gate route would be **one Arouse Minions replacing one Twilight**, leaving one Twilight available for future Environment cards. This is only a proposed test, not part of the locked 30-card list. Do not change the baseline list during the first three recorded games, and do not buy the card just for this test until your physical collection has been checked. If you later test it, count it against the Hazard Limit and remember that the Hero may choose not to enter the site.
 
-### Proposed v1.1 two-card test — only after baseline games
+### Proposed v1.1 route-specific two-card tests — only after baseline games
 
-The route audit suggests two controlled one-for-one swaps for a later test build:
+The corrected 15-site Hero Location deck now includes The Wind Throne. That changes the experiment: **do not remove Seized by Terror**. The Wind Throne site path includes a Shadow-land, so Seized by Terror is a legitimate Hazard there.
 
-| Remove | Add | Why it is worth testing |
-|---|---|---|
-| 1 Twilight | 1 Arouse Minions | Arouse Minions raises one automatic attack at a Shadow-hold or Dark-hold by +3 prowess. It is relevant to the Moria and Goblin-gate Orc attacks and does not add a Dragon. It counts against the Hazard Limit, and can be played during the Movement/Hazard Phase even if the Hero later declines to face the attack. |
-| 1 Seized by Terror | 1 Brigands | Brigands is a two-strike, 8-prowess Men creature keyed to Border-lands and Wilderness. If it wounds a character, the company discards one item of the defender's choice. It is legal on all three Wilderness routes and directly pressures the Hero deck's item plan. |
+Keep the 30-card baseline unchanged for the first three recorded games. If the results justify a variant, test one of these alternatives:
 
-This would leave one Twilight for a later Environment campaign and one Seized by Terror for a future Shadow-land/Dark-domain route. The variant would move the deck from 16 creatures / 14 non-creature Hazards (53/47) to **17 / 13 (57/43)**: slightly more attack-heavy, but still close to the solo guide's approximate 50/50 balance and still with no Dragon creatures. It would also raise the number of cards with an active route or target in the opening campaign from **26/30 to 28/30**: Brigands is legal on all three Wilderness legs, while Arouse Minions can target the Moria and Goblin-gate automatic attacks. The two-card variant is a **proposal only**. The timing for Arouse Minions follows the official *The Wizards* clarification: it may be played during the Movement/Hazard Phase on the automatic attack at the new Shadow-hold/Dark-hold site, even if the company later declines to enter. Check current text in the [Council of Elrond card database](https://www.councilofelrond.org/cards/) and the [official rules](https://meccg.com/rules/by-expansion/the-wizards/). Keep the exact Challenge Deck C-derived 30-card list unchanged for the first three recorded games, check whether you already own Arouse Minions and Brigands before buying anything, and do not change the Hazard deck and Wizard choice in the same test.
+| Variant | Remove | Add | Intended route |
+|---|---|---|---|
+| **Moria / Goblin-gate** | 1 Twilight; 1 Watcher in the Water | 1 Arouse Minions; 1 Brigands | Arouse Minions can raise the automatic attack at the Moria or Goblin-gate Shadow-hold. Brigands is keyed to Border-land/Wilderness and pressures the company's Items. |
+| **Wind Throne** | 1 Twilight; 1 Watcher in the Water | 1 Arouse Denizens; 1 Brigands | Arouse Denizens can raise the automatic attack at the Wind Throne Ruins & Lairs. Brigands is keyed to the site's Border-land/Wilderness path. |
+
+Both variants keep **16 creatures / 14 non-creature Hazards (53/47)** and add no Dragon creatures. Each keeps both copies of Seized by Terror. They are alternative experiments, not a combined four-card package.
+
+- **Arouse Minions** is the correct automatic-attack modifier for a Shadow-hold or Dark-hold. It is relevant at Moria and Goblin-gate, but not at The Wind Throne.
+- **Arouse Denizens** is the correct modifier for a Ruins & Lairs. It is relevant at The Wind Throne, but not at Moria or Goblin-gate.
+- **Brigands** is a two-strike, 8-prowess Men creature keyed to Border-lands and Wilderness. If it wounds a character, the company discards one item of the defender's choice.
+- **Watcher in the Water** is a Moria / Coastal Sea threat, not a generic double-Wilderness creature. Replacing one copy preserves two copies for the Moria leg while freeing a slot for a broader route key.
+
+The Moria/Goblin-gate variant improves the campaign-wide route/target count from 26/30 to 28/30 across the three initial legs; the Wind Throne variant improves that route from 22/30 to 24/30. These are composition measures, not win probabilities. The detailed calculations are in the [Hazard Deck Balance Lab]({{ '/scenarios/hazard-deck-balance-lab/' | relative_url }}).
+
+Do not change the active deck before the baseline games, do not change the Wizard choice at the same time, and check your physical collection before buying anything.
 
 Keep this Hazard deck separate from the 36-card Hero play deck, Hero discard pile, Location deck and sideboard.
 
@@ -70,21 +81,24 @@ Use the [integrated Campaign Walkthrough]({{ '/games/campaign-walkthrough/' | re
 
 ## Baseline route-coverage audit
 
-The detailed [Route Exposure Matrix]({{ '/scenarios/route-exposure-matrix/' | relative_url }}) checks every card against Rivendell → Moria, Moria → Goblin-gate and Goblin-gate → Blue Mountain. All three declared paths are Wilderness-only, so the core creature keys remain live across all three legs. Seized by Terror has no Shadow-land/Dark-domain route, and Twilight has no Environment target in the closed-sideboard baseline. The different route pressures come chiefly from the 8/6/4 solo Hazard draws and the destination's automatic attack, not from a wholesale change in creature legality.
-
-The three opening legs are all Wilderness-region routes, and the fixed list has a clear pattern:
+The detailed [Route Exposure Matrix]({{ '/scenarios/route-exposure-matrix/' | relative_url }}) checks every card against Rivendell → Moria, Moria → Goblin-gate and Goblin-gate → Blue Mountain. All three paths contain Wilderness, but **Watcher in the Water is not a generic double-Wilderness creature**: its card requires two Wilderness regions plus a Coastal Sea, or it may be played at Moria. It is legal on the first leg through the explicit Moria permission, but not on either later leg.
 
 | Cards | Copies | Status on the three opening legs |
 |---|---:|---|
-| Cave Worm, Giant Spiders, Lesser Spiders, Neeker-breekers, Wargs, Watcher in the Water | 16 | Each has a legal route key on at least one of the declared paths; all six creature families are relevant to this expedition. |
-| Despair of the Heart | 3 | Live against the non-Wizard, non-Hobbit Dwarves. It cannot target Gandalf. |
+| Cave Worm, Giant Spiders, Lesser Spiders, Neeker-breekers, Wargs | 13 | Each has a legal key on all three legs: named region for Cave Worm, double Wilderness for Giant Spiders, and single Wilderness / other printed keys for the remaining creatures. |
+| Watcher in the Water | 3 | Legal on Rivendell → Moria through its explicit Moria permission; not legal on Moria → Goblin-gate or Goblin-gate → Blue Mountain because there is no Coastal Sea and the new site is not Moria. |
+| Despair of the Heart | 3 | Live against eligible non-Wizard, non-Hobbit Dwarves. It cannot target Gandalf. |
 | Full of Froth and Rage | 3 | Live when a Spider or Animal attack is available. |
 | River | 2 | Live against the company's new site, subject to the Ranger response. |
 | Wake of War | 2 | Live when a Wolf, Spider or Animal attack is available. |
-| Seized by Terror | 2 | **Not legal on the three opening paths:** all their regions are Wilderness, with no Shadow-land or Dark-domain. |
-| Twilight | 2 | **No target in Game 1:** the active Hero Resource list has no Environment and the sideboard is closed. It becomes useful if a later game brings an Environment such as Gates of Morning into play. |
+| Seized by Terror | 2 | Not legal on the three initial paths: all are Wilderness-only, with no Shadow-land or Dark-domain. |
+| Twilight | 2 | No target in the closed-sideboard baseline because no Environment is in play. |
 
-So **26 of the 30 cards have an active route or target in the opening campaign**, while four are deliberately conditional on a different route or a later Environment. That is not automatically a flaw: the deck is a historical teaching list and the first three routes are not the whole map. It is, however, something to record during playtesting rather than ignore. The [Iron Hill Expedition]({{ '/routes/iron-hill-expedition/' | relative_url }}) demonstrates the exception: a supplementary Region Movement path through Grey Mountain Narrows makes Seized by Terror legal, while Arouse Minions is still not legal at the Free-hold destination. That Grey Mountain route uses Hero Eagles’ Eyrie, which is **not** in the locked 15-site first-play Location deck; the 28/30 figure is a map comparison, not a baseline campaign availability claim. The [Site Path Tactics Lab]({{ '/scenarios/site-path-tactics-lab/' | relative_url }}) lets you compare the same Hazard hand against the Starter and Region Movement paths. The proposed v1.1 improvement is therefore specific to the opening Moria/Goblin-gate routes, not a universal upgrade.
+The route-active count is **26/30 on Rivendell → Moria** and **23/30 on each later leg**. Across the whole three-leg opening expedition, 26/30 cards have at least one route or target opportunity; the four that never become active anywhere on those three legs are Seized by Terror ×2 and Twilight ×2. On the later two legs, Watcher in the Water ×3 are additional route-inactive cards.
+
+The optional Hero **The Wind Throne** route changes that profile. Its site path from Lórien is Wilderness / Border-land / Shadow-land, and its site type is Ruins & Lairs. It makes Seized by Terror and Cave Worm legal, but not Giant Spiders or Watcher in the Water. The baseline has **22/30** route/target opportunities there. The [Location Deck Legality & Wind Throne Lab]({{ '/scenarios/location-deck-legality-lab/' | relative_url }}) gives the exact card-by-card audit.
+
+The [Iron Hill Expedition]({{ '/routes/iron-hill-expedition/' | relative_url }}) remains a supplementary map exercise: its route through Grey Mountain Narrows also makes Seized by Terror legal, while Arouse Minions is not legal at the Free-hold destination. The new Wind Throne route is different because it is now an actual Hero site in the corrected 15-card Location deck.
 
 ## What the Hazard deck teaches
 
@@ -113,7 +127,7 @@ The list is a mixture of creatures, ongoing attack support and disruption. Read 
 | **Lesser Spiders** | Spider; four strikes at 7 prowess. | Keys include Wilderness, Shadow-land and Ruins & Lairs site type. Moria and Goblin-gate are Shadow-holds, not Ruins & Lairs; on these routes the Wilderness region key is the relevant one. |
 | **Wargs** | Wolves; two strikes at 9 prowess. | Keys include Border-land, Wilderness and Shadow-land. Wake of War can improve Wolf attacks; Full of Froth and Rage does not affect Wolves. |
 | **Neeker-breekers** | Animal; each non-Wizard character faces one strike, with prowess equal to that character's mind. A character who would be wounded is only tapped; no body check is made. | Keys include Border-land, Wilderness, Shadow-land, Dark-domain and Ruins & Lairs site type. It does not affect Wizards. The one-strike-per-character wording matters when applying strike modifiers. |
-| **Watcher in the Water** | Animal; each character faces one strike at 8 prowess. | Has a double-Wilderness key and may also be played at **Moria**. Its Moria permission is site-specific; do not carry it over to Goblin-gate. |
+| **Watcher in the Water** | Animal; each character faces one strike at 8 prowess. | Requires two Wilderness regions plus a Coastal Sea, or may also be played at **Moria**. It is not a generic double-Wilderness creature; on the three opening routes it is legal only when Moria is the new site. |
 
 ### Events and attack support
 
@@ -146,13 +160,15 @@ For the Dwarven Quest company, all five starting Dwarves are eligible. If a non-
 
 The solo draw is **2 + twice the normal Hazard draw**. The Hazard Limit remains separate. The site automatic attack is also separate from the Hazard plays.
 
-On **Rivendell → Moria** (Rhudaur → Hollin → Redhorn Gate), all three regions are Wilderness and Redhorn Gate is named. That makes Cave Worm, Giant Spiders, Lesser Spiders, Wargs, Neeker-breekers and Watcher in the Water candidates under their respective printed keys; Despair of the Heart and River have their own target rules. Seized by Terror is **not** legal on this route because there is no Shadow-land or Dark-domain region.
+On **Rivendell → Moria** (Rhudaur → Hollin → Redhorn Gate), all three regions are Wilderness and Redhorn Gate is named. Cave Worm, Giant Spiders, Lesser Spiders, Wargs and Neeker-breekers are candidates under their respective keys. **Watcher in the Water is legal here because the new site is Moria**, which its card explicitly names. Despair of the Heart and River have their own target rules. Seized by Terror is not legal because there is no Shadow-land or Dark-domain region.
 
-On **Moria → Goblin-gate** (Redhorn Gate → Hollin → Rhudaur → High Pass), all four regions are Wilderness. The route still makes the Wilderness-keyed creatures candidates and includes Redhorn Gate and High Pass for Cave Worm. Watcher in the Water can use its double-Wilderness key; its special permission to be played at Moria does not apply because Goblin-gate is the new site. Seized by Terror is still illegal: Goblin-gate's site type is Shadow-hold [{S}], not a Shadow-land region [{s}].
+On **Moria → Goblin-gate** (Redhorn Gate → Hollin → Rhudaur → High Pass), all four regions are Wilderness. The route makes Giant Spiders and the single-Wilderness creatures candidates and includes Redhorn Gate and High Pass for Cave Worm. **Watcher in the Water is not legal:** its non-Moria key requires a Coastal Sea as well as two Wilderness regions, and this route has no Coastal Sea. Seized by Terror is still illegal: Goblin-gate's site type is Shadow-hold [{S}], not a Shadow-land region [{s}].
 
-On **Goblin-gate → Blue Mountain Dwarf-hold** (High Pass → Rhudaur → Arthedain → Númeriador), all four regions are also Wilderness. The Wilderness-keyed creatures remain candidates, and Cave Worm can be keyed to High Pass. The normal Hazard draw for Blue Mountain Dwarf-hold is one, so the solo draw is four. The site has no automatic attack. The company may choose not to enter Goblin-gate on the previous turn and use it as a waypoint; if it does, it still faces the six-card Hazard draw on arrival, but does not face Goblin-gate's automatic attack or take any site-phase actions.
+On **Goblin-gate → Blue Mountain Dwarf-hold** (High Pass → Rhudaur → Arthedain → Númeriador), all four regions are also Wilderness. The Wilderness-keyed creatures remain candidates, and Cave Worm can be keyed to High Pass or Númeriador. Watcher in the Water is not legal for the same reason as on the previous leg: no Coastal Sea and no Moria destination. The normal Hazard draw for Blue Mountain Dwarf-hold is one, so the solo draw is four. The site has no automatic attack.
 
-This is the practical test of fair solo play: the Hazard side should exploit every legal key and target, but must not treat a Shadow-hold site as a Shadow-land region or play a card whose condition is absent.
+The optional **Lórien → The Wind Throne** Starter Movement route has a different profile: Wilderness / Border-land / Shadow-land and a Ruins & Lairs destination. Seized by Terror is legal, Cave Worm can use Grey Mountain Narrows, and Arouse Denizens is the matching later automatic-attack modifier. Giant Spiders and Watcher in the Water are not legal on that route. See the [Location Deck Legality & Wind Throne Lab]({{ '/scenarios/location-deck-legality-lab/' | relative_url }}).
+
+This is the practical test of fair solo play: the Hazard side should exploit every legal key and target, but must not treat a Shadow-hold site as a Shadow-land region, or two Wilderness regions as a complete Watcher key when the Coastal Sea is missing.
 
 ## Three numbers and rules that must not be confused
 
@@ -244,7 +260,7 @@ On the teaching route **Rivendell → Moria** using **Rhudaur → Hollin → Red
 | **Lesser Spiders** | Its keys include Wilderness and Shadow-land region types, plus a Ruins & Lairs [{R}] site key. The route exposes Wilderness. | Moria is a Shadow-hold [{S}], not a Ruins & Lairs site; this route makes the card a candidate via Wilderness, not via Moria's site type. |
 | **Wargs** | Its key includes Wilderness. | Check the Wolf attack text and whether Wake of War is active. |
 | **Neeker-breekers** | Its keys include Wilderness among its region-type keys; the route exposes Wilderness. | Moria is a Shadow-hold [{S}], not a Ruins & Lairs [{R}] site. The card is a candidate via Wilderness, not via Moria's site type. Read its one-strike-per-character wording exactly. |
-| **Watcher in the Water** | Its card text permits play at **Moria**; it also has a double-Wilderness key. | Check its special attack wording and the ruling on attacks where each character faces one strike. |
+| **Watcher in the Water** | The card explicitly permits play at **Moria**. Its alternative region key requires two Wilderness regions **and** a Coastal Sea. | On this route, use the explicit Moria permission. Do not describe the card as a generic double-Wilderness creature. Check its one-strike-per-character wording. |
 
 The lesson is important: **route choice is also Hazard-deck choice**. Rhudaur → Hollin → Redhorn Gate exposes three Wilderness regions and names Redhorn Gate; arriving at Moria adds the explicit Moria option for Watcher in the Water. Moria itself is a Shadow-hold [{S}], not a Ruins & Lairs [{R}] site. The Hazard player must still obey the actual card text, timing, target restrictions and Hazard Limit.
 
@@ -256,17 +272,19 @@ The [Book of Mazarbul — Second Expedition workbook]({{ '/scenarios/book-journe
 
 | Leg | Declared Region Movement path | Normal Hazard draw | Solo draw | Main route keys to check |
 |---|---|---:|---:|---|
-| Moria → Goblin-gate | Redhorn Gate → Hollin → Rhudaur → High Pass | 2 | **6** | Cave Worm can use High Pass or Redhorn Gate; double-Wilderness and Wilderness creatures can use the four Wilderness regions. |
-| Goblin-gate → Blue Mountain Dwarf-hold | High Pass → Rhudaur → Arthedain → Númeriador | 1 | **4** | Cave Worm can use High Pass or Númeriador; double-Wilderness and Wilderness creatures can use the four Wilderness regions. |
+| Moria → Goblin-gate | Redhorn Gate → Hollin → Rhudaur → High Pass | 2 | **6** | Cave Worm can use High Pass or Redhorn Gate; Giant Spiders uses double Wilderness; Lesser Spiders, Neeker-breekers and Wargs have single-region keys. Watcher in the Water is not legal. |
+| Goblin-gate → Blue Mountain Dwarf-hold | High Pass → Rhudaur → Arthedain → Númeriador | 1 | **4** | Cave Worm can use High Pass or Númeriador; Giant Spiders uses double Wilderness; Lesser Spiders, Neeker-breekers and Wargs have single-region keys. Watcher in the Water is not legal. |
 
 **Important legality distinctions:**
 
 - **Seized by Terror** is not keyed by a Shadow-hold site. Its Shadow-land/Dark-domain region requirement is not met on either all-Wilderness route.
-- **Watcher in the Water** can be considered through its double-Wilderness key on these legs. Its special permission to be played at Moria is not the reason when the destination is Goblin-gate or Blue Mountain.
+- **Watcher in the Water** requires two Wilderness regions plus a Coastal Sea, or may be played at Moria. Neither later leg contains a Coastal Sea or ends at Moria, so do not play it on either leg.
 - **Goblin-gate's Orc automatic attack** (three strikes at 6 prowess) is a separate site encounter. It happens only if the company enters; it is not one of the six drawn Hazards or one of the five Hazard Limit slots.
-- **Blue Mountain Dwarf-hold** is a Free-hold by site type but is the named Dwarf-hold required by Book of Mazarbul. Its Hero site card has no automatic attack, but the company still faces the four-card solo Hazard draw on arrival.
+- **Blue Mountain Dwarf-hold** is a Free-hold by site type but is the named Dwarf-hold required by Book of Mazarbûl. Its Hero site card has no automatic attack, but the company still faces the four-card solo Hazard draw on arrival.
 
-The figures assume the normal Challenge Deck C site cards and a five-character company with no relevant modifiers. Recalculate the Hazard Limit if the company changes. The workbook and separate [model answer]({{ '/scenarios/book-journey/answer-key/' | relative_url }}) give the card-by-card exercise.
+The optional Lórien → The Wind Throne route is different: its Shadow-land makes Seized by Terror legal, while its one Wilderness and lack of Coastal Sea leave Watcher in the Water illegal. The [Location Deck Legality & Wind Throne Lab]({{ '/scenarios/location-deck-legality-lab/' | relative_url }}) covers that route.
+
+The figures assume the corrected Hero site cards and a five-character company with no relevant modifiers. Recalculate the Hazard Limit if the company changes. The workbook and separate [model answer]({{ '/scenarios/book-journey/answer-key/' | relative_url }}) give the card-by-card exercise.
 
 ## Physical construction
 
