@@ -51,7 +51,7 @@ For each card, write down the exact route or site key that makes it legal here. 
 | Lesser Spiders | Region-type keys and {R} site key | |
 | Neeker-breekers | Region-type keys and {R} site key | |
 | Wargs | Region-type keys | |
-| Watcher in the Water | Double-region key and explicit Moria wording | |
+| Watcher in the Water | Two Wilderness regions plus a Coastal Sea, or its explicit Moria permission | |
 
 Then answer:
 
