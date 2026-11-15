@@ -79,7 +79,7 @@ Both variants keep **16 creatures / 14 non-creature Hazards (53/47)** and add no
 - **Brigands** is a two-strike, 8-prowess Men creature keyed to Border-lands and Wilderness. If it wounds a character, the company discards one item of the defender's choice.
 - **Watcher in the Water** is a Moria / Coastal Sea threat, not a generic double-Wilderness creature. Replacing one copy preserves two copies for the Moria leg while freeing a slot for a broader route key.
 
-The Moria/Goblin-gate variant improves the campaign-wide route/target count from 26/30 to 28/30 across the three initial legs; the Wind Throne variant improves that route from 22/30 to 24/30. These are composition measures, not win probabilities. The detailed calculations are in the [Hazard Deck Balance Lab]({{ '/scenarios/hazard-deck-balance-lab/' | relative_url }}).
+The Moria/Goblin-gate variant improves the campaign-wide route/target count from 26/30 to 27/30 across the three initial legs; the Wind Throne variant improves that route from 22/30 to 24/30. These are composition measures, not win probabilities. The detailed calculations are in the [Hazard Deck Balance Lab]({{ '/scenarios/hazard-deck-balance-lab/' | relative_url }}).
 
 Do not change the active deck before the baseline games, do not change the Wizard choice at the same time, and check your physical collection before buying anything.
 
