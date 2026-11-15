@@ -98,7 +98,7 @@ The figures assume a fresh, shuffled 30-card deck and draws without replacement:
 
 - Expected total creatures = draw size × 16/30.
 - Expected route-legal creatures = draw size × number of route-legal creature cards / 30.
-- Chance of at least one route-inactive card = (1 - \binom{30-k}{n}/\binom{30}{n}), where (k) is the route-inactive card count and (n) is the solo draw size.
+- Chance of at least one route-inactive card = 1 - C(30-k, n) / C(30, n), where (k) is the route-inactive card count and (n) is the solo draw size.
 - Chance of seeing at least one Despair of the Heart is 62.1% on the eight-card Moria draw, 50.1% on a six-card draw, and 36.0% on the four-card Blue Mountain draw.
 - The chance of seeing at least one Full of Froth and Rage or Wake of War is 81.5%, 70.2% and 53.8% for draws of eight, six and four respectively.
 
