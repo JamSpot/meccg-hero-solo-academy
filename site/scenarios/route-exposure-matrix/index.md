@@ -53,7 +53,7 @@ All three declared paths contain only Wilderness regions. The route-specific nam
 
 ## 3. What the route audit tells us
 
-The locked creature package is route-active on all three teaching legs:
+The locked creature package has route opportunities across the three teaching legs, but **not every creature is legal on every leg**:
 
 - Cave Worm has a named-region key on each route.
 - Giant Spiders has a double-Wilderness key.
