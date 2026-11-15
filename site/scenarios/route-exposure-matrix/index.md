@@ -37,7 +37,7 @@ All three declared paths contain only Wilderness regions. The route-specific nam
 | **Lesser Spiders** | Wilderness or Shadow-land region key; it also has a separate Ruins & Lairs site key. | Yes — via {w} | Yes — via {w} | Yes — via {w} |
 | **Neeker-breekers** | Wilderness is one of its region keys. It does not affect Wizards; each affected character faces one strike at prowess equal to that character's mind, and a character who would be wounded is tapped instead. | Yes — via {w} | Yes — via {w} | Yes — via {w} |
 | **Wargs** | Border-land, Wilderness or Shadow-land region key. | Yes — via {w} | Yes — via {w} | Yes — via {w} |
-| **Watcher in the Water** | Double-Wilderness key; it also has explicit permission to be played at Moria. | Yes — both routes satisfy a key | Yes — via double {w} | Yes — via double {w} |
+| **Watcher in the Water** | Requires two Wilderness regions plus a Coastal Sea, or it may also be played at Moria. It is not a generic double-Wilderness creature. | Yes — explicit Moria permission | No — no Coastal Sea and the new site is not Moria | No — no Coastal Sea and the new site is not Moria |
 | **Despair of the Heart** | Target restriction, not a route key: target a non-Hobbit, non-Wizard, non-Ringwraith character. The target receives 2 corruption points and makes a corruption check each time a character in his company becomes wounded. During Organization, the target may tap and roll; a result greater than 4 removes the card. Despair cannot be duplicated on a given character, and the rules allow only one corruption card per character per turn. This is a per-character restriction, not a per-company cap: three copies can target three different Dwarves. Each Corruption card must be played as the first action in a new chain of effects. The Dwarves are legal targets; Gandalf is not. Dori, Kíli and Óin each have -1 to all their corruption checks; Thorin II and Glóin have no printed modifier. | Conditional on target | Conditional on target | Conditional on target |
 | **Full of Froth and Rage** | A Spider or Animal attack must be present. It gives those attacks +2 prowess, cannot be duplicated, and is discarded if a Spider or Animal attack is defeated. | Conditional on attack | Conditional on attack | Conditional on attack |
 | **Wake of War** | A Wolf, Spider or Animal attack must be present. It gives that attack +1 strike and +1 prowess and cannot be duplicated. The extra Wolf bonus requires Doors of Night, which is absent from this baseline. | Conditional on attack | Conditional on attack | Conditional on attack |
@@ -56,15 +56,18 @@ All three declared paths contain only Wilderness regions. The route-specific nam
 The locked creature package is route-active on all three teaching legs:
 
 - Cave Worm has a named-region key on each route.
-- Giant Spiders and Watcher in the Water have double-Wilderness access.
+- Giant Spiders has a double-Wilderness key.
+- Watcher in the Water requires two Wilderness regions **and** a Coastal Sea, or its explicit Moria permission. On these three routes it is legal only on Rivendell → Moria.
 - Lesser Spiders, Neeker-breekers and Wargs have a Wilderness region key.
 - Despair of the Heart can target the Dwarves on any of the three legs.
 - Full of Froth and Rage and Wake of War have eligible Spider/Animal/Wolf attacks available in the baseline creature package.
 - River can target each new destination site.
 
-On this specific campaign, **26 of the 30 physical Hazard cards have a route or target available on every leg**. The four that do not are the two copies of **Seized by Terror** (no Shadow-land/Dark-domain route) and the two copies of **Twilight** (no Environment target). Full of Froth and Rage and Wake of War are counted as conditional because eligible Spider/Animal/Wolf attacks are in the baseline creature package. These are campaign-specific dead draws, not universally dead cards; a different route or an Environment can change their status. That is not a reason to redraw or to pretend they are playable.
+The route-active count is **26/30 on Rivendell → Moria**, but only **23/30 on each later leg**. The difference is the three copies of **Watcher in the Water**: its printed key is two Wilderness regions plus a Coastal Sea, or its explicit Moria permission. The Moria leg qualifies through the site permission; the Goblin-gate and Blue Mountain legs have no Coastal Sea and do not end at Moria.
 
-The biggest pressure difference between these routes is therefore not a wholesale change in the creature keying. It is the **8 / 6 / 4 solo Hazard draw**, the destination's automatic attack, the Hero objective, and the company's condition on arrival.
+Across the whole three-leg expedition, **26 of the 30 physical Hazard cards have at least one route or target opportunity**. The four that never become active anywhere in these three routes are the two copies of **Seized by Terror** (no Shadow-land/Dark-domain route) and the two copies of **Twilight** (no Environment target). On the later two legs, the three Watcher copies are additional route-inactive cards. Full of Froth and Rage and Wake of War are counted as conditional because eligible Spider/Animal/Wolf attacks are in the baseline creature package. These are route-specific dead draws, not universally dead cards; a different route or an Environment can change their status.
+
+The pressure difference is therefore not just the **8 / 6 / 4 solo Hazard draw** and destination automatic attack. The Hazard side also loses the Watcher option after leaving Moria. The corrected Location deck adds a separate Lórien → The Wind Throne route; that route has a different key profile and is audited in the [Location Deck Legality & Wind Throne Lab]({{ '/scenarios/location-deck-legality-lab/' | relative_url }}).
 
 ### Later test cards — not part of the 30-card baseline
 
