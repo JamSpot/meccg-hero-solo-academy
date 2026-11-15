@@ -22,6 +22,7 @@ Use the visible header menu on every page to switch sections. This map also link
 ## Build and check the decks
 - [Decks overview]({{ '/decks/' | relative_url }})
 - [Hero Deck Construction]({{ '/decks/hero-deck/' | relative_url }})
+- [Location Deck Legality & Wind Throne Lab]({{ '/scenarios/location-deck-legality-lab/' | relative_url }}) — correct the historical Minion Dead Marshes entry and verify the Hero Location deck.
 - [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }})
 - [Hazard Deck Construction]({{ '/decks/hazard-deck/' | relative_url }})
 - [Hazard Combination Lab — research draft]({{ '/decks/hazard-combos/' | relative_url }})
@@ -54,6 +55,7 @@ Use the visible header menu on every page to switch sections. This map also link
 - [Hero Resource Timing Workshop — model answers]({{ '/scenarios/hero-resource-practice/answer-key/' | relative_url }})
 - [Resource Route Planner]({{ '/scenarios/resource-route-planner/' | relative_url }})
 - [Resource Route Planner — model answer]({{ '/scenarios/resource-route-planner/answer-key/' | relative_url }})
+- [Location Deck Legality & Wind Throne Lab — model answer]({{ '/scenarios/location-deck-legality-lab/answer-key/' | relative_url }})
 - [Corruption Check Lab — Choose the Book Bearer]({{ '/scenarios/corruption-check-lab/' | relative_url }})
 - [Corruption Check Lab — Model Answer]({{ '/scenarios/corruption-check-lab/answer-key/' | relative_url }})
 - [Gandalf — One Company or Two?]({{ '/scenarios/gandalf-company/' | relative_url }})
