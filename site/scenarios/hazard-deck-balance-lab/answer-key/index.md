@@ -142,7 +142,7 @@ For a fresh 30-card draw, the route-inactive counts and expected route-legal cre
 
 The raw expected creature counts (before checking route legality) are 4.27, 3.20, 2.13 and 3.20 respectively. The lower route-legal figures on the later routes reflect the three Watcher copies; on The Wind Throne route, both Giant Spiders and Watcher are inactive.
 
-The probability formula is (1 - \binom{30-k}{n}/\binom{30}{n}), where (k) is the route-inactive card count and (n) is the draw size. These are composition measures, not win probabilities. A route-inactive card may be useful on another route; a legal creature may still be a poor play; and the Hazard Limit is five.
+The probability formula is 1 - C(30-k, n) / C(30, n), where (k) is the route-inactive card count and (n) is the draw size. These are composition measures, not win probabilities. A route-inactive card may be useful on another route; a legal creature may still be a poor play; and the Hazard Limit is five.
 
 ### Moria / Goblin-gate variant
 
