@@ -13,6 +13,8 @@ After your first game and the movement lesson, complete the [Hero Resource Timin
 
 Use the [Resource Route Planner]({{ '/scenarios/resource-route-planner/' | relative_url }}) and its [model answer]({{ '/scenarios/resource-route-planner/answer-key/' | relative_url }}) to turn the Challenge Deck C Resource target list into a focused campaign: Book first, optional Gollum, and later faction or item objectives only when the route justifies them.
 
+Complete the [Location Deck Legality & Wind Throne Lab]({{ '/scenarios/location-deck-legality-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/location-deck-legality-lab/answer-key/' | relative_url }}) before using the 15-site Location deck. It corrects the historical Dead Marshes entry (Minion site, not legal for a Wizard) and teaches the Lórien → The Wind Throne Starter Movement route, including its Shadow-land keying and Ruins & Lairs automatic attack.
+
 Before storing the Book, complete [Corruption Check Lab — Choose the Book Bearer]({{ '/scenarios/corruption-check-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/corruption-check-lab/answer-key/' | relative_url }}). It teaches the direction of positive and negative modifiers, the safest bearer, support taps and Despair of the Heart's target restrictions.
 
 After you understand the first expedition, complete [Gandalf — One Company or Two?]({{ '/scenarios/gandalf-company/' | relative_url }}) and its [model answer]({{ '/scenarios/gandalf-company/answer-key/' | relative_url }}). It compares Gandalf joining the Dwarves with a separate Grey Havens → Lórien support company, including the separate solo Hazard draws and limits.
