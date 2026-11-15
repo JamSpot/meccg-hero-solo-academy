@@ -351,6 +351,33 @@ For Kíli carrying only the Book (2 CP, -1 modifier), two supporting characters 
 
 This is a useful example of the difference between **movement legality** and **expedition quality**: a route may be legal, but the company may be in a poor condition to take it after paying for a corruption check.
 
+## 9D. Starter Movement — Lórien to The Wind Throne
+
+The corrected Hero Location deck now includes the **Hero version** of The Wind Throne. It lists Lórien as its nearest Haven, so a company at Lórien can move directly there using Starter Movement.
+
+The site path is **Wilderness → Border-land → Shadow-land**. Read it as the printed site path for Hazard keying, not as a Region Movement route that must be declared with region cards.
+
+| Item | Result |
+|---|---:|
+| Site-card numbers (Hazard / Hero) | 2/2 |
+| Hero draw | Up to 2 |
+| Normal Hazard draw | 2 |
+| Solo Hazard draw | **6** |
+| Five-Dwarf base Hazard Limit | **5** |
+| Site automatic attack if entered | Orcs — 3 strikes at 7 |
+
+This is a useful route because it exposes a Shadow-land and the named region Grey Mountain Narrows. Seized by Terror can target an eligible character moving through the Shadow-land; Cave Worm can use its Grey Mountain Narrows key. The route also demonstrates why region type and site type must be checked separately: The Wind Throne is a **Ruins & Lairs**, not a Shadow-hold. Arouse Denizens is the matching automatic-attack modifier; Arouse Minions is not legal there.
+
+See the [Location Deck Legality & Wind Throne Lab]({{ '/scenarios/location-deck-legality-lab/' | relative_url }}) for the full Hazard-keying audit.
+
+## 9E. If the company stays at its current site
+
+A company may choose not to move. Under the ordinary rules it makes no movement-based card draw, and there is no new site path. Creature Hazards may only be keyed to the current site; Hazard events can still be played if their text permits.
+
+The printed solitaire rule says to draw Hazards for each company using **2 + twice the normal Hazard draw**. The Academy applies this literally: no movement means a normal draw of 0, so the solo Hazard draw is **2**. The Hero player makes no movement draw. This is a textual application of the printed procedure, not a separate CoE ruling.
+
+A scenario-specific instruction overrides the general procedure. *The Wood of Greenleaves*, for example, explicitly instructs a company remaining in Lórien to draw up to four Hazards. Do not import that special number into an unrelated game.
+
 ## 10. The four-part route declaration
 
 Before moving, say:
