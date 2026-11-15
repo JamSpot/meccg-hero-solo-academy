@@ -21,7 +21,7 @@ The route Rhudaur → Hollin → Redhorn Gate contains three Wilderness [{w}] re
 | **Lesser Spiders** | It can key to Wilderness [{w}], and this route contains three Wilderness regions. | Its uppercase {R} key is a Ruins & Lairs **site** key. Moria is {S}, not {R}. Its lowercase {s} key is a Shadow-land **region** type, not a Shadow-hold site type. |
 | **Neeker-breekers** | It can key to Wilderness [{w}], which is present in the route. | Its uppercase {R} key does not match Moria's uppercase {S} site type. It is legal here via Wilderness, not via Moria's site type. |
 | **Wargs** | Its region-type keys are Border-land [{b}], Wilderness [{w}] and Shadow-land [{s}]; this route satisfies the Wilderness key. | Do not infer a site key from the card's creature theme; use its printed region key. |
-| **Watcher in the Water** | It can key to double Wilderness, and its own text also says it may be played at Moria. Either is a valid reason to examine it here. | Do not generalise its explicit Moria permission to other creatures. |
+| **Watcher in the Water** | It is legal on this Moria route through its explicit Moria permission. Its alternative region key requires two Wilderness regions **plus a Coastal Sea**. | Do not describe it as a generic double-Wilderness creature or generalise its Moria permission to other creatures. |
 
 ## 2. The five key distinctions
 
@@ -45,7 +45,7 @@ Giant Spiders has a double-Wilderness key. Its card text also allows certain sit
 
 ### Watcher in the Water's explicit Moria permission
 
-Watcher in the Water is the exception in this group: its printed text expressly permits it to be played at Moria. This is a card-specific permission, not a general rule that all Animal creatures can be played there.
+Watcher in the Water is the exception in this group: its printed text expressly permits it to be played at Moria. Its alternative region key is two Wilderness regions plus a Coastal Sea, not two Wilderness regions alone. This is a card-specific permission, not a general rule that all Animal creatures can be played there.
 
 ### Cave Worm's named region
 
