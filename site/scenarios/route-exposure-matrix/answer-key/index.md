@@ -29,7 +29,7 @@ For a move to a Haven, use the origin site's draw numbers. For example, Moria �
 | Lesser Spiders | Legal | Legal | Legal | The Wilderness region key is met. Do not use Moria's or Goblin-gate's Shadow-hold [{S}] site type as though it were Ruins & Lairs [{R}]. |
 | Neeker-breekers | Legal | Legal | Legal | The Wilderness region key is met. It does not affect Wizards; each affected character faces one strike at prowess equal to mind, and a would-be wound becomes a tap rather than a body check. |
 | Wargs | Legal | Legal | Legal | The Wilderness region key is met. |
-| Watcher in the Water | Legal | Legal | Legal | Each route meets its double-Wilderness key. The first route also reaches Moria, where the card has explicit site permission. |
+| Watcher in the Water | Legal | Illegal | Illegal | The card requires two Wilderness regions plus a Coastal Sea, or it may be played at Moria. The first route qualifies through the explicit Moria permission; the other two have no Coastal Sea and do not end at Moria. |
 | Despair of the Heart | Legal if a target is present | Same | Same | Target a non-Hobbit, non-Wizard, non-Ringwraith character. The target receives 2 corruption points and makes a corruption check each time a character in his company becomes wounded. During Organization, the target may tap and roll; a result greater than 4 removes the card. Despair cannot be duplicated on a given character, and the rules allow only one corruption card per character per turn. This is a per-character restriction, not a per-company cap, so three copies can target three different Dwarves. The five Dwarves are legal; Gandalf is not. Dori, Kíli and Óin each have -1 to all their corruption checks; Thorin II and Glóin have no printed modifier. |
 | Full of Froth and Rage | Conditional | Conditional | Conditional | It needs a Spider or Animal attack to affect. It gives +2 prowess, cannot be duplicated, and is discarded if such an attack is defeated. |
 | Wake of War | Conditional | Conditional | Conditional | It needs a Wolf, Spider or Animal attack. It gives +1 strike and +1 prowess and cannot be duplicated; the stronger Wolf modifier needs Doors of Night, absent from the baseline. |
@@ -39,15 +39,17 @@ For a move to a Haven, use the origin site's draw numbers. For example, Moria �
 
 ## 3. Why the routes do not change the creature package very much
 
-All three route paths are entirely Wilderness:
+All three route paths are entirely Wilderness, but that does **not** mean every creature card is legal on every leg:
 
 - **Rivendell → Moria:** Rhudaur, Hollin, Redhorn Gate.
 - **Moria → Goblin-gate:** Redhorn Gate, Hollin, Rhudaur, High Pass.
 - **Goblin-gate → Blue Mountain:** High Pass, Rhudaur, Arthedain, Númeriador.
 
-The named-region key changes for Cave Worm, but every route contains at least one of its listed regions. The double-Wilderness and single-Wilderness creature keys are satisfied throughout. The important pressure changes are the number of Hazard cards drawn, the site's automatic attack, the objective and the company's arrival condition.
+The named-region key changes for Cave Worm, but every route contains at least one of its listed regions. Giant Spiders has a double-Wilderness key and is legal on all three. **Watcher in the Water is different:** it requires two Wilderness regions plus a Coastal Sea, or its explicit Moria permission. It is therefore legal on Rivendell → Moria only; it is not legal on the Goblin-gate or Blue Mountain legs.
 
-This is why the current list has a coherent teaching identity: it can challenge the company across the connected expedition without relying on Dragons or changing the deck between legs. **26 of the 30 physical Hazard cards have a route or target available on every leg**; the four campaign-specific inactive cards are the two Seized by Terror and two Twilight. Seized by Terror needs a Shadow-land or Dark-domain, while Twilight needs an Environment. A different route or an Environment could make them relevant.
+The route-active count is **26/30 on Rivendell → Moria** and **23/30 on each later leg**. Across the whole three-leg expedition, 26/30 cards have at least one route or target opportunity. The four cards that never become active anywhere in these three routes are Seized by Terror ×2 and Twilight ×2. On the later two legs, Watcher in the Water ×3 are additional route-inactive cards. A different route can change the result: the corrected Location deck now includes The Wind Throne, whose Shadow-land site path makes Seized by Terror legal. See the [Location Deck Legality & Wind Throne Lab]({{ '/scenarios/location-deck-legality-lab/' | relative_url }}).
+
+This is why the list still has a coherent teaching identity: it creates meaningful pressure without relying on Dragons or changing the deck between the three initial legs, but its exact legal creature mix is route-dependent.
 
 ## 4. Constructed eight-card hand
 
