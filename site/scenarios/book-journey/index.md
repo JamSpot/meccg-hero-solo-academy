@@ -79,7 +79,7 @@ Check the actual card text, but the Challenge Deck C list gives several route-re
 | **Lesser Spiders** | The path contains Wilderness. Do not rely on a Ruins & Lairs site key: Goblin-gate is a Shadow-hold. |
 | **Wargs** | The path contains Wilderness. |
 | **Neeker-breekers** | The path contains Wilderness. Read its one-strike-per-character wording exactly. |
-| **Watcher in the Water** | Its double-Wilderness key is satisfied. Its special permission to be played at Moria is **not** the reason here: the new site is Goblin-gate. |
+| **Watcher in the Water** | **Illegal** — its alternative key requires two Wilderness regions plus a Coastal Sea, or it may be played at Moria. This path has no Coastal Sea and the new site is Goblin-gate. |
 | **Seized by Terror** | **Not legal via this route:** there is no Shadow-land or Dark-domain region in the path. Goblin-gate's Shadow-hold site type does not substitute for a Shadow-land region. |
 
 **Despair of the Heart** is a particularly relevant corruption threat: it can be played on a non-Wizard, non-Hobbit character, gives that character 2 corruption points, and causes a corruption check each time a character in that character's company becomes wounded. The Dwarves are eligible targets. **River** is a site-targeting short-event: if the company that moved to the site this turn does not tap a Ranger, it must do nothing during its Site Phase. The company may tap a Ranger by the beginning of the Site Phase to avoid that restriction; Óin is the starting company's Ranger. River counts against the Hazard Limit. **Full of Froth and Rage** and **Wake of War** have their own timing and attack-type effects. A route does not make an event automatically playable. **One-strike-per-character exception:** Watcher in the Water and Neeker-breekers each say that every character faces one strike. Under the rules, a card that changes an attack's number of strikes (including Wake of War) does not change that one-strike-per-character instruction. Prowess modifiers still apply. Do not turn either attack into two strikes per character.
@@ -122,7 +122,7 @@ Blue Mountain Dwarf-hold is a **Free-hold** by site type, but its name identifie
 | **Cave Worm** | The path includes the named regions **High Pass** and **Númeriador**. |
 | **Giant Spiders** | Four Wilderness regions satisfy double Wilderness. |
 | **Lesser Spiders, Wargs and Neeker-breekers** | The path contains Wilderness; check the exact card key and target. |
-| **Watcher in the Water** | Its double-Wilderness key is satisfied; the Moria-only site permission is not relevant at Blue Mountain. |
+| **Watcher in the Water** | **Illegal** — the path has no Coastal Sea and the new site is not Moria. Two Wilderness regions alone do not satisfy its printed key. |
 | **Seized by Terror** | **Not legal via this route:** all four regions are Wilderness, not Shadow-land or Dark-domain. |
 | **River** | Playable on the destination site. Unless the company taps a Ranger by the beginning of its Site Phase, it must do nothing during that Site Phase. Óin can pay this cost if he is able to tap. The card does not rewrite the next turn's Organization Phase storage action. |
 
@@ -182,7 +182,7 @@ The table assumes Kíli has only the Book's 2 CP. Recalculate if he controls any
 3. If you use Goblin-gate, do you enter for Gollum or pass through as a waypoint?
 4. Which Challenge Deck C creatures can be keyed on the first leg? State the exact key for each.
 5. Why is Seized by Terror illegal on both legs?
-6. Why is Watcher in the Water still potentially legal on the Goblin-gate leg even though its Moria-specific permission does not apply?
+6. Why is Watcher in the Water illegal on the Goblin-gate and Blue Mountain legs despite the four Wilderness regions?
 7. When exactly can the Book be stored at Blue Mountain?
 8. What changes if one Dwarf is eliminated before the second Movement/Hazard Phase?
 
