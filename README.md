@@ -11,7 +11,7 @@ https://jamspot.github.io/meccg-hero-solo-academy/
 
 ## Academy baseline
 - Conventional Hero solo play: one player controls one or more Hero companies against a separate Hazard deck; the first lesson uses one company.
-- Current working first-play Hero play deck: 36 cards (30 Resources, five non-Wizard characters and one Gandalf); separate 30-card Hazard deck and 15-card Location deck.
+- Current working first-play Hero play deck: 36 cards (30 Resources, five non-Wizard characters and one Gandalf); separate 30-card Hazard deck and 15-card **Hero-only** Location deck. The historical Dead Marshes entry was Minion-alignment and has been replaced by the Hero version of The Wind Throne.
 - Hero only.
 - Gandalf as the Academy Wizard.
 - Primary card pool: The Wizards + The Dragons.
@@ -27,12 +27,13 @@ Arda card pools, Arda rules and Arda-specific solitaire variants are maintained 
 ## Latest research modules
 
 - [Hazard Deck Balance Lab](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/hazard-deck-balance-lab/) and [model answer](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/hazard-deck-balance-lab/answer-key/) — route-specific draw probabilities, baseline audit and a controlled two-card Hazard experiment.
+- [Location Deck Legality & Wind Throne Lab](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/location-deck-legality-lab/) and [model answer](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/location-deck-legality-lab/answer-key/) — corrects the historical Minion-site entry, audits the Hero The Wind Throne card, and works through its Starter Movement route and Hazard keys.
 - [Iron Hill Dwarf-hold Expedition](https://jamspot.github.io/meccg-hero-solo-academy/routes/iron-hill-expedition/) and [model answer](https://jamspot.github.io/meccg-hero-solo-academy/routes/iron-hill-expedition/answer-key/) — direct five-symbol Starter Movement versus a four-region Region Movement route through Grey Mountain Narrows, plus the Iron Hill faction influence plan. The Eagles' Eyrie leg is a supplementary map exercise because that Hero site is not in the locked 15-site first-play Location deck.
 - [Site Path Tactics Lab](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/site-path-tactics-lab/) and [model answer](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/site-path-tactics-lab/answer-key/) — compare Starter and Region Movement site paths, Hazard keys, separate turn draws and the five-card Hazard Limit.
 - [Support Character Recruitment Lab](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/character-recruitment-lab/) and [model answer](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/character-recruitment-lab/answer-key/) — practise the Gandalf/Balin decision, avatar-site restriction, seven-point general-influence budget and company-size/Hazard-Limit trade-off.
 - [Free Movement guide](https://jamspot.github.io/meccg-hero-solo-academy/reference/free-movement/) — explains why Starter Movement can use a five-symbol site path while Region Movement is limited to four regions, and how the two movement methods expose different Hazard keys.
 
-The Dáin II / Gimli Iron Hill specialist cards and the Arouse Minions / Brigands Hazard swaps are **future experiments only**. The active 36-card Hero deck and 30-card Hazard baseline remain unchanged until the first three baseline games are recorded.
+The Dáin II / Gimli Iron Hill specialist cards and the Arouse Minions / Arouse Denizens / Brigands Hazard swaps are **future experiments only**. The active 36-card Hero deck and 30-card Hazard baseline remain unchanged until the first three baseline games are recorded.
 
 ## Core learning loop
 Prepare → Travel → Marshal → Grow Stronger → Travel Further → Recover → Repeat
