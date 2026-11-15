@@ -43,6 +43,12 @@ The Challenge Deck C player aid identifies **Shrel-Kain** as its suggested site.
 
 Each detour adds movement, Hazard exposure, a site-entry decision, and the risk of losing characters or spending key Resources. The company has a coherent primary mission: acquire the Book at Moria and store it at a Dwarf-hold. Gollum can be an optional objective if the company is fit. Factions and equipment at other sites are later opportunities when a route, hand and company state make them worthwhile. A card in hand is not a command to travel to its site.
 
+## 8. Correct the historical Dead Marshes entry
+
+Do not put Dead Marshes in the Hero Location deck. The current official rules require Hero site cards for a Wizard, and the Dead Marshes card is Minion-alignment. The Academy replaces it with the Hero version of The Wind Throne.
+
+The Wind Throne is a Ruins & Lairs in Grey Mountain Narrows and permits Information plus minor/major Items. It is therefore a legal alternative destination for the Major Items Durin's Axe and Hauberk of Bright Mail. It does not permit Greater Items, so Wormsbane remains a Caves of Ûlund or The Lonely Mountain objective. The old Dead Marshes suggestion for Wormsbane is invalid for both alignment and item-category reasons.
+
 ## Next steps
 
 - [Book of Mazarbûl — Second Expedition workbook]({{ '/scenarios/book-journey/' | relative_url }})
