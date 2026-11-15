@@ -134,9 +134,11 @@ Useful objectives already supported by this teaching deck include:
 | Men of Dorwinion | Shrel-Kain |
 | Quickbeam | Wellinghall |
 | Bow of Dragon-horn / Magical Harp | Ovir Hollow, subject to the exact card and site conditions |
-| Durin's Axe / Hauberk of Bright Mail | Sarn Goriwing or Buhr Widu |
+| Durin's Axe / Hauberk of Bright Mail | Sarn Goriwing, Buhr Widu or The Wind Throne |
 | Enruned Shield | Caves of Ûlund or The Lonely Mountain |
-| Wormsbane | Dead Marshes, Caves of Ûlund or The Lonely Mountain |
+| Wormsbane | Caves of Ûlund or The Lonely Mountain |
+
+The corrected 15-card Hero Location deck uses The Wind Throne in place of the Minion Dead Marshes site from the historical player aid. The Wind Throne is an additional Major Item destination for Durin's Axe and Hauberk, but it does not permit Greater Items such as Wormsbane. See the [Location Deck Legality & Wind Throne Lab]({{ '/scenarios/location-deck-legality-lab/' | relative_url }}).
 
 Use the [Free / Player-Directed Movement guide]({{ '/reference/free-movement/' | relative_url }}) and [Expedition Planner]({{ '/routes/expedition-planner/' | relative_url }}) before committing. Normal Region Movement is limited to four consecutive regions, including both endpoints, with no repeated region and legal adjacency. Starter Movement remains limited by the nearest-Haven conditions on the actual site cards.
 
