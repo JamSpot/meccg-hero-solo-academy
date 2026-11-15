@@ -53,6 +53,14 @@ A non-Dragon option worth testing **after** the baseline games is **Arouse Minio
 
 A controlled first experiment for the Moria/Goblin-gate route would be **one Arouse Minions replacing one Twilight**, leaving one Twilight available for future Environment cards. This is only a proposed test, not part of the locked 30-card list. Do not change the baseline list during the first three recorded games, and do not buy the card just for this test until your physical collection has been checked. If you later test it, count it against the Hazard Limit and remember that the Hero may choose not to enter the site.
 
+### Candidate for the Wind Throne — Arouse Denizens
+
+The corrected Location deck adds **The Wind Throne**, a Hero Ruins & Lairs. That creates a different non-Dragon option: **Arouse Denizens** (The Wizards), a Hazard short-event playable on a Ruins & Lairs. It increases one automatic attack at that site by +3 prowess for the turn and cannot be duplicated at that site.
+
+At The Wind Throne, the Orc automatic attack changes from **three strikes at 7** to **three strikes at 10**. It does not add strikes. Arouse Denizens counts against the Hazard Limit. Do not confuse it with Arouse Minions: that card requires a Shadow-hold or Dark-hold and is not legal at the Wind Throne's Ruins & Lairs.
+
+Arouse Denizens is a candidate only for a later Wind Throne test; it is not in the locked 30-card Hazard deck.
+
 ### Proposed v1.1 route-specific two-card tests — only after baseline games
 
 The corrected 15-site Hero Location deck now includes The Wind Throne. That changes the experiment: **do not remove Seized by Terror**. The Wind Throne site path includes a Shadow-land, so Seized by Terror is a legitimate Hazard there.
