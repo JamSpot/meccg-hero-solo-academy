@@ -158,25 +158,29 @@ The five-card opening hand contains at least one of the three Sage-capable cards
 
 See [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) for his actual role, route options, separate-company Hazard calculations and sideboard plan. The [historical Pallando reference]({{ '/decks/pallando-support-company/' | relative_url }}) is not part of the active course.
 
-## 15 site cards
+## 15 Hero site cards — corrected Location deck
 
-Use these sites for the historical teaching deck:
+The historical Challenge Deck C-derived player aid lists 15 sites, but its **Dead Marshes** entry is not legal for a conventional Wizard/Hero Location deck. Current official rules restrict a Wizard Location deck to Hero site cards; the official card database identifies Dead Marshes as a **Minion** site.
+
+Use this corrected 15-site Hero Location deck:
 
 1. Blue Mountain Dwarf-hold
 2. Buhr Widu
 3. Caves of Ûlund
-4. Dead Marshes
-5. Goblin-gate
-6. Grey Havens
-7. Iron Hill Dwarf-hold
-8. Lórien
-9. Moria
-10. Ovir Hollow
-11. Rivendell
-12. Sarn Goriwing
-13. Shrel-Kain
-14. The Lonely Mountain
+4. Goblin-gate
+5. Grey Havens
+6. Iron Hill Dwarf-hold
+7. Lórien
+8. Moria
+9. Ovir Hollow
+10. Rivendell
+11. Sarn Goriwing
+12. Shrel-Kain
+13. The Lonely Mountain
+14. The Wind Throne (**Hero version**, The Wizards)
 15. Wellinghall
+
+**Do not use the Minion Dead Marshes site card** in this Hero deck. Replace it with the Hero version of **The Wind Throne** (not the separate Minion version). The Hero site is in Grey Mountain Narrows, lists Lórien as its nearest Haven, has a 2/2 draw, is a Ruins & Lairs, permits Information and minor/major Items, and has an automatic attack of three Orc strikes at 7 prowess. This preserves the 15-card count and adds no Dragon site.
 
 Keep the Location deck separate from the shuffled 36-card Hero play deck.
 
@@ -189,21 +193,21 @@ The Challenge Deck C player aid gives the following suggested destinations for i
 | **Book of Mazarbul** | **Moria** | This is the Game 1 objective. The follow-up campaign can aim to store it at Blue Mountain Dwarf-hold, but that is a later expedition. |
 | **Bow of Dragon-horn** | **Ovir Hollow**, or the player aid's Bounty of the Hoard line | Check the exact conditions and compare the site's danger with the benefit of the item. |
 | **Magical Harp** | **Ovir Hollow**, or the player aid's Bounty of the Hoard line | Do not make the trip just because the card is in hand; decide whether it improves the current mission. |
-| **Durin's Axe** | **Sarn Goriwing** or **Buhr Widu** | Compare both legal destinations against route exposure and company condition. |
-| **Hauberk of Bright Mail** | **Sarn Goriwing** or **Buhr Widu** | Armour may help later, but reaching it while already weakened can defeat the purpose. |
+| **Durin's Axe** | **Sarn Goriwing**, **Buhr Widu** or **The Wind Throne** | All three permit Major Items; compare route exposure and company condition. |
+| **Hauberk of Bright Mail** | **Sarn Goriwing**, **Buhr Widu** or **The Wind Throne** | All three permit Major Items; armour may help later, but reaching it while already weakened can defeat the purpose. |
 | **Enruned Shield** | **Caves of Ûlund** or **The Lonely Mountain** | Check the site's automatic attack and whether the company can still attempt the item. |
 | **Gollum** | **Goblin-gate** | Treat this as a separate objective; don't divert from the Book mission without a reason. |
 | **Iron Hill Dwarves** | **Iron Hill Dwarf-hold** | Faction attempts need their own influence and site-entry plan. |
 | **Men of Dorwinion** | **Shrel-Kain** | This is a later campaign option, not a reason to abandon the opening objective. |
 | **Quickbeam** | **Wellinghall** | The ally's value depends on the company and campaign plan. |
-| **Wormsbane** | **Dead Marshes**, **Caves of Ûlund**, or **The Lonely Mountain** | A specialist weapon is valuable only if the route and expected threats justify the detour. |
+| **Wormsbane** | **Caves of Ûlund** or **The Lonely Mountain** | Both are Hero sites that permit Greater Items. The historical Dead Marshes suggestion is invalid: Dead Marshes is Minion-alignment and does not permit Greater Items. The Wind Throne permits only minor/major Items, so it is not a Wormsbane site. |
 | **Blue Mountain Dwarves** (sideboard) | **Blue Mountain Dwarf-hold** | Advanced objective: the card is in the sideboard, so sideboard access and the Book-storing plan must be taught first. |
 
 **Iron Hill faction plan:** Iron Hill Dwarves is in the active Resource list, not the sideboard. The [Iron Hill Dwarf-hold Expedition]({{ '/routes/iron-hill-expedition/' | relative_url }}) explains the route and an important Organization Phase choice: the current direct-influence assignments use Thorin's and Glóin's Dwarf bonuses to control followers, so their direct influence is committed. You can reassign followers to general influence (the five Dwarves total exactly 20 mind) to free direct influence for the faction check, but that commits all 20 general influence.
 
 **Later specialist option:** Dáin II is the stronger dedicated Iron Hill Dwarves influencer (mind 7, base direct influence 3, +2 direct influence against that exact faction, home site Iron Hill Dwarf-hold). The current setup leaves seven general influence unused, exactly enough to bring him into play at his home site if he is added to the play deck. Gimli is a slightly lower-mind alternative (mind 6, base direct influence 2, +2 against Iron Hill Dwarves). Neither is in the current 36-card baseline; adding one makes 37 cards, adding both makes 38. Keep the existing follower assignments if you want to use the spare general influence for one of them. Test only as a later physical-card variant after the baseline games.
 
-**Source note:** these target sites are taken from the historical *Challenge Decks Player's Guide* (Birk Pinker, last updated May 2011), which lists the suggested sites for Dwarven Quest / Challenge Deck C. The separate [three-page Challenge Decks player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf) confirms the deck list and broad strategy. These are planning aids, not a requirement to visit every site in one game. See the [Challenge Decks Player's Guide (PDF)](https://assets.cardgamegeek.com/public/library/meccg/Challenge_Decks_PG.pdf).
+**Source note and correction:** the target map is based on the historical *Challenge Decks Player's Guide* (Birk Pinker, last updated May 2011), but that guide's Dead Marshes entry cannot be used in a Wizard Location deck under the current Hero-site restriction. Its Wormsbane suggestion is also invalid because Dead Marshes is Minion-alignment and only permits minor/major Items, while Wormsbane is a Greater Item. The Academy preserves the guide as a historical planning source but uses the corrected Hero-only 15-site list above. See the [Challenge Decks Player's Guide (PDF)](https://assets.cardgamegeek.com/public/library/meccg/Challenge_Decks_PG.pdf).
 
 ## Book of Mazarbul — what the expedition is actually securing
 
