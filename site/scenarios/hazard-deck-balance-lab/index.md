@@ -46,20 +46,23 @@ The Hero play deck is the teaching build, not a claim of tournament optimisation
 
 That is **16 creatures (53%)** and **14 non-creature Hazards (47%)**. The independent *My Solo Rules* guide suggests roughly half creatures and half general Hazards as a useful starting point, not a rule. The baseline is close to that guide and preserves the historical teaching list.
 
-### What is live on the three teaching routes?
+### What is live on the three opening routes?
 
-The opening campaign uses:
+The opening Book campaign uses:
 
 1. Rivendell → Moria: Rhudaur → Hollin → Redhorn Gate.
 2. Moria → Goblin-gate: Redhorn Gate → Hollin → Rhudaur → High Pass.
 3. Goblin-gate → Blue Mountain Dwarf-hold: High Pass → Rhudaur → Arthedain → Númeriador.
 
-All three declared Region Movement paths contain Wilderness regions. The four cards with no route/target in this closed-sideboard campaign are:
+All three paths contain Wilderness, but **Watcher in the Water is not a generic double-Wilderness creature**. Its printed key requires two Wilderness regions plus a Coastal Sea, or it may be played at Moria. It is therefore legal on the first leg through the explicit Moria permission, but not on the later two legs.
 
-- **Seized by Terror ×2:** requires a moving non-Wizard, non-Ringwraith character in a Shadow-land or Dark-domain region. A Shadow-hold site symbol is not a Shadow-land region symbol.
-- **Twilight ×2:** requires an Environment card in play or declared earlier in the same chain. The active Hero main deck has no Environment and the sideboard is closed; the Hazard list has no other Environment.
+On these three opening routes:
 
-These are campaign-inactive cards, not universally dead cards. A different route or an Environment can make them useful. In this solo setup, a Twilight drawn from the separate Hazard deck is used as a Hazard, not played as a Resource.
+- **Seized by Terror ×2** is inactive because none of the paths contains a Shadow-land or Dark-domain. A Shadow-hold site symbol is not a Shadow-land region symbol.
+- **Twilight ×2** has no target because the active Hero main deck has no Environment and the sideboard is closed.
+- **Watcher in the Water ×3** is legal only on the Moria leg; it is route-inactive on the Goblin-gate and Blue Mountain legs.
+
+These cards are not universally dead. The corrected Hero Location deck also includes **The Wind Throne**, whose site path from Lórien contains a Shadow-land and whose named region is Grey Mountain Narrows. That route makes Seized by Terror and Cave Worm legal, but not Watcher in the Water or Giant Spiders. The full audit is in the [Location Deck Legality & Wind Throne Lab]({{ '/scenarios/location-deck-legality-lab/' | relative_url }}).
 
 Other conditional cards still have meaningful opportunities:
 
@@ -69,67 +72,64 @@ Other conditional cards still have meaningful opportunities:
 - **River:** can disrupt the destination Site Phase. Óin is a Ranger in the starting company, so he can tap to cancel River; that still costs the company an action and may remove him as a support character.
 - **Creatures:** check the actual site path and printed key every time. Do not assume that a card is legal merely because the destination sounds dangerous.
 
-## 3. Route pressure: three different draw sizes
+## 3. Route pressure: draw size is not the same as usable pressure
 
-The site-card numbers are shown as **normal Hazard draw / Hero draw**. The solo Hazard side draws \(2 + 2 \times\) the normal Hazard draw. The five-Dwarf company has a base Hazard Limit of five in these examples.
+The five-Dwarf company has a base Hazard Limit of five in these examples. The solo Hazard draw is **2 + twice the normal Hazard draw**. The first three rows are the connected opening expedition; the final row is the optional Starter Movement route to The Wind Throne.
 
-| Journey | Regions | Hero draw | Solo Hazard draw | Expected creatures in a fresh draw — baseline | Chance of at least one campaign-inactive card — baseline |
-|---|---:|---:|---:|---:|---:|
-| Rivendell → Moria | 3 | Up to 2 | **8** | 4.27 | 73.3% |
-| Moria → Goblin-gate | 4 | Up to 1 | **6** | 3.20 | 61.2% |
-| Goblin-gate → Blue Mountain Dwarf-hold | 4 | Up to 1 | **4** | 2.13 | 45.4% |
+| Journey | Movement | Hero draw | Solo Hazard draw | Route-inactive cards | Expected total creatures | Expected route-legal creatures | Chance of at least one route-inactive card |
+|---|---|---:|---:|---:|---:|---:|---:|
+| Rivendell → Moria | Region (3 regions) | Up to 2 | **8** | 4 | 4.27 | **4.27** | **73.3%** |
+| Moria → Goblin-gate | Region (4 regions) | Up to 1 | **6** | 7 | 3.20 | **2.60** | **83.0%** |
+| Goblin-gate → Blue Mountain Dwarf-hold | Region (4 regions) | Up to 1 | **4** | 7 | 2.13 | **1.73** | **67.7%** |
+| Lórien → The Wind Throne | Starter | Up to 2 | **6** | 8 | 3.20 | **2.00** | **87.4%** |
 
-These are not three different Hazard Limits. The company limit remains five; the number drawn changes with the destination's normal Hazard draw number. The route is still legal Region Movement: count both endpoint regions, use no more than four consecutive regions, do not repeat a region, and check every adjacency.
+For the first three routes, the inactive-card counts are:
+
+- **Moria:** Seized by Terror ×2 and Twilight ×2 = 4.
+- **Goblin-gate / Blue Mountain:** Watcher in the Water ×3, Seized by Terror ×2 and Twilight ×2 = 7.
+
+For The Wind Throne route, the eight inactive cards are Giant Spiders ×3, Watcher in the Water ×3 and Twilight ×2. Seized by Terror is now legal because the printed site path includes a Shadow-land.
+
+The expected total-creature count uses all 16 creatures in the deck. The expected **route-legal** count uses only creatures that can actually be keyed on that route: 16 on the Moria leg, 13 on the later two legs, and 10 on the Wind Throne route. The five-Dwarf Hazard Limit remains five; it does not change with the number drawn.
 
 ### What the probabilities mean
 
-The figures above use a fresh, shuffled 30-card baseline and a draw without replacement:
+The figures assume a fresh, shuffled 30-card deck and draws without replacement:
 
-- Expected creatures = draw size × 16/30.
-- “At least one campaign-inactive card” means at least one of the two Seized by Terror or two Twilight cards appears in the draw.
-- The chance of seeing at least one Despair of the Heart is 62.1% on the eight-card Moria draw, 50.1% on the six-card Goblin-gate draw, and 36.0% on the four-card Blue Mountain draw.
-- The chance of seeing at least one Full of Froth and Rage or Wake of War is 81.5%, 70.2% and 53.8% respectively. On the eight-card Moria draw, the chance of drawing at least five creatures is 42.6% in the baseline and 51.5% in the proposed variant.
-
-For example, the Moria expectation is 8 × 16/30 = 4.27 creatures. The chance of at least one of the four campaign-inactive cards is 1 − [C(26,8) / C(30,8)] ≈ 73.3%.
+- Expected total creatures = draw size × 16/30.
+- Expected route-legal creatures = draw size × number of route-legal creature cards / 30.
+- Chance of at least one route-inactive card = (1 - \binom{30-k}{n}/\binom{30}{n}), where (k) is the route-inactive card count and (n) is the solo draw size.
+- Chance of seeing at least one Despair of the Heart is 62.1% on the eight-card Moria draw, 50.1% on a six-card draw, and 36.0% on the four-card Blue Mountain draw.
+- The chance of seeing at least one Full of Froth and Rage or Wake of War is 81.5%, 70.2% and 53.8% for draws of eight, six and four respectively.
 
 These are **composition probabilities, not chances of a successful attack or of winning**. They do not account for the company, exact card timing, earlier cards removed from the Hazard deck, or the choice of which legal Hazards to play. A support event being drawn does not mean it should automatically be played.
 
-## 4. Proposed v1.1 — two swaps, not an extra deck
+## 4. Proposed route-specific variants — only after baseline games
 
-Only after the baseline games, test this exact two-card change:
+Keep the 30-card baseline unchanged for the first three recorded games. If those games show a real weakness, test **one** of these route-specific two-card variants:
 
-| Remove | Add | Why test it? |
-|---|---|---|
-| 1 Twilight | 1 Arouse Minions | Adds a route-relevant way to increase one automatic attack at a Shadow-hold or Dark-hold by +3 prowess. |
-| 1 Seized by Terror | 1 Brigands | Adds a two-strike, 8-prowess Men creature keyed to Border-land or Wilderness; if any strike wounds a character, the company discards one item chosen by the defender. |
+| Variant | Remove | Add | Intended route |
+|---|---|---|---|
+| **Moria / Goblin-gate** | 1 Twilight; 1 Watcher in the Water | 1 Arouse Minions; 1 Brigands | Arouse Minions can raise the automatic attack at a Shadow-hold. Brigands is keyed to Border-land/Wilderness and pressures the company's Items. |
+| **Wind Throne** | 1 Twilight; 1 Watcher in the Water | 1 Arouse Denizens; 1 Brigands | Arouse Denizens can raise the automatic attack at a Ruins & Lairs. Brigands is keyed to the site's Border-land/Wilderness path. |
 
-The variant remains 30 cards:
+Both variants keep **16 creatures / 14 non-creature Hazards (53/47)** and add no Dragon creatures. Both retain the two Seized by Terror copies. Do not remove Seized by Terror: The Wind Throne route makes it a live card.
 
-- **17 creatures (57%)**
-- **13 non-creature Hazards (43%)**
-- One Twilight remains for a later Environment campaign.
-- One Seized by Terror remains for a later Shadow-land/Dark-domain route.
-- No Dragon creatures are added.
+### Moria / Goblin-gate variant
 
-### The route-specific trade-off
+- Moria: 27/30 route/target opportunities; 3 route-inactive cards; expected route-legal creatures 4.27; chance of at least one inactive card 62.1%.
+- Goblin-gate: 25/30 opportunities; 5 inactive; expected route-legal creatures 2.80; chance 70.2%.
+- Blue Mountain: 24/30 opportunities; 6 inactive; expected route-legal creatures 1.87; chance 61.2%.
 
-| Destination | Arouse Minions? | Brigands? | Cards with no route/target in this campaign — variant |
-|---|---|---|---:|
-| Moria | Yes — 4 Orc strikes rise from 7 to 10 prowess | Yes — Wilderness key | 2/30 |
-| Goblin-gate | Yes — 3 Orc strikes rise from 6 to 9 prowess | Yes — Wilderness key | 2/30 |
-| Blue Mountain Dwarf-hold | No — this is a Free-hold, not a Shadow-hold/Dark-hold | Yes — Wilderness key | 3/30 |
+The variant improves the three-leg campaign-wide count from 26/30 to 27/30. It preserves the creature/event ratio; it does not raise the raw expected number of creatures drawn.
 
-For a fresh draw, the variant's expected creature counts are 4.53, 3.40 and 2.27 for the 8-, 6- and 4-card draws. Its chance of drawing at least one campaign-inactive card is 46.9%, 36.6% and 36.0% respectively.
+### Wind Throne variant
 
-The variant therefore makes more cards potentially relevant on the first two legs, but it does **not** guarantee stronger play:
+- Wind Throne: 24/30 route/target opportunities; 6 inactive; expected route-legal creatures 2.20; chance of at least one inactive card 77.3%.
 
-- Arouse Minions consumes a normal Hazard Limit slot. It does not add strikes; it raises the prowess of one automatic attack at the site.
-- The Hero company can decline to enter the site, in which case it does not face that site's automatic attack.
-- Brigands' item-discard effect only matters if a strike wounds a character and the company has an item to discard.
-- At Blue Mountain, Arouse Minions is not legal on the Free-hold destination.
-- A support card still consumes a Hazard slot that could have been used for a creature or disruption card.
+Arouse Denizens is the correct site-attack modifier for The Wind Throne because it is a Ruins & Lairs. Arouse Minions is not legal there. The card increases one automatic attack's prowess by +3; it does not add strikes. Brigands adds a route-keyed creature that can threaten the company's Items.
 
-Do not buy either candidate just for this test. Check your physical collection first. No proxy or printed replacement is part of the Academy.
+Both variants are proposals only. Check your physical collection before buying anything. Keep the Hero deck, starting company, route and decision standards fixed while testing; do not change the Wizard choice at the same time.
 
 ## 5. A worked Moria pressure check
 
@@ -174,7 +174,7 @@ Do not count an unplayed but legal card as an automatic failure of the deck. The
 
 ### Variant — only if the baseline shows a real weakness
 
-If the first three records show repeated campaign-inactive draws or an obvious lack of pressure, and you physically own both candidate cards, run three further games with only the two Hazard swaps.
+If the first three records show repeated route-inactive draws or an obvious lack of pressure, and you physically own the relevant candidate cards, run three further games with only one of the route-specific two-card variants. Do not combine the Moria/Goblin-gate and Wind Throne variants.
 
 Keep the Hero deck, starting company, mission, location cards and decision standards unchanged. Compare:
 
@@ -191,13 +191,13 @@ Do not change the Wizard choice or Hero Resources at the same time. If the varia
 
 Complete the [Hazard Deck Balance Lab — model answer]({{ '/scenarios/hazard-deck-balance-lab/answer-key/' | relative_url }}) only after attempting these questions:
 
-1. Why are Seized by Terror and Twilight unavailable on the three opening routes?
-2. Why is Arouse Minions legal at Moria and Goblin-gate but not Blue Mountain Dwarf-hold?
-3. Does Brigands' item-discard effect happen if no character is wounded?
-4. Does Arouse Minions add three strikes to Moria's automatic attack?
-5. Why can a 30-card deck with 16 creatures still fail to produce five useful creature plays in a given phase?
-6. What evidence would justify changing the baseline?
-7. In the v1.1 variant, the company moves from Goblin-gate to Blue Mountain Dwarf-hold. Why is Arouse Minions not legal on this leg even though the company started at a Shadow-hold? Why is Brigands still legal, and how many Hazard cards are drawn?
+1. Why is Watcher in the Water legal at Moria but not on the Goblin-gate or Blue Mountain legs?
+2. Why are Seized by Terror and Twilight inactive on the three opening routes, but Seized by Terror legal on the Wind Throne route?
+3. Why is Arouse Minions legal at Moria and Goblin-gate but not Blue Mountain or The Wind Throne?
+4. Why is Arouse Denizens the matching candidate for The Wind Throne?
+5. Does Brigands' item-discard effect happen if no character is wounded?
+6. Why do the expected route-legal creature counts differ from the raw expected creature counts?
+7. What evidence would justify changing the baseline?
 
 ## Sources and authority
 
