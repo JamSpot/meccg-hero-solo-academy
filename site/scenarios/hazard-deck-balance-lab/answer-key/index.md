@@ -7,13 +7,15 @@ title: Hazard Deck Balance Lab — Model Answer
 
 Use this after attempting the [Hazard Deck Balance Lab]({{ '/scenarios/hazard-deck-balance-lab/' | relative_url }}). The purpose is to make every decision traceable to a card, site, route or rule.
 
-## 1. Why the four baseline cards are campaign-inactive
+## 1. Route-inactive cards are not the same on every leg
 
-**Seized by Terror ×2** requires a non-Wizard, non-Ringwraith character moving in a Shadow-land or Dark-domain region. The three Academy site paths are Wilderness-only. Moria and Goblin-gate have the **Shadow-hold site type**, but that is not the same thing as a **Shadow-land region type**. The printed key is not met.
+On the three initial Book routes:
 
-**Twilight ×2** cancels an Environment card in play or declared earlier in the same chain. The fixed Hero main deck has no Environment Resource, the sideboard is closed, and the Hazard list has no other Environment. Twilight is not a generic cancellation card and cannot be played merely to discard it.
+- **Seized by Terror ×2** is inactive because the routes are Wilderness-only. Moria and Goblin-gate are **Shadow-holds** (site type), not **Shadow-lands** (region type).
+- **Twilight ×2** has no Environment target because the active Hero main deck has no Environment and the sideboard is closed.
+- **Watcher in the Water ×3** is legal on Rivendell → Moria through its explicit Moria permission, but not on the Goblin-gate or Blue Mountain legs. Its other key requires two Wilderness regions **plus a Coastal Sea**.
 
-These cards are conditional, not universally useless. A later campaign that includes Shadow-land/Dark-domain movement or an Environment can make them relevant.
+The corrected Hero Location deck includes The Wind Throne. Its site path from Lórien contains a Shadow-land, so **Seized by Terror becomes legal** there. The Wind Throne route does not make Watcher legal: it has only one Wilderness, no Coastal Sea and is not Moria. A different route can change the live-card count; never label Seized by Terror universally dead.
 
 ## 2. Why Arouse Minions changes by destination
 
@@ -27,7 +29,15 @@ It does not add strikes. It is a Hazard short-event, so it uses one ordinary Haz
 
 The automatic attack can be affected while the site is in play during the Movement/Hazard Phase. The Hero player still decides whether to enter the site; the Hazard player must not pretend that the company is forced to face the attack merely because Arouse Minions was played.
 
-## 3. What Brigands actually threatens
+## 3. Why Arouse Denizens is the Wind Throne alternative
+
+The Wind Throne is a **Ruins & Lairs** site. Arouse Denizens is a Hazard short-event playable on a Ruins & Lairs; it increases one automatic attack at that site by **+3 prowess** for the turn and cannot be duplicated at that site.
+
+The Wind Throne's Orc automatic attack is three strikes at 7. Arouse Denizens changes it to **three strikes at 10**, not six strikes and not four strikes. It counts against the Hazard Limit.
+
+Arouse Minions is not legal there: it requires a Shadow-hold or Dark-hold. The Shadow-land in the route is a region type, not the site's type. Use Arouse Denizens for the Ruins & Lairs; use Arouse Minions for Moria or Goblin-gate.
+
+## 4. What Brigands actually threatens
 
 Brigands is a Men creature with two strikes at 8 prowess, keyed to Border-land or Wilderness. All three declared route paths include Wilderness, so it has a legal route key on each.
 
@@ -35,7 +45,7 @@ If any Brigands strike wounds a character, the company must immediately discard 
 
 If no character is wounded, the item-discard clause does not happen. The creature can still threaten wounds and taps, but its special item pressure has not been realised. If the company has no item in play, the special clause has no item to remove.
 
-## 4. The baseline Moria hand
+## 5. The baseline Moria hand
 
 Assume the fixed eight-card hand is:
 
@@ -91,7 +101,7 @@ River can force Óin to tap to preserve the Site Phase. If Óin is needed for a 
 
 There is no universal answer without the actual board state. The solitaire Hazard side should choose the line most disadvantageous to the Hero company **in that state**, while respecting all printed restrictions.
 
-## 5. The variant Moria hand
+## 6. The variant Moria hand
 
 Assume a later test hand contains:
 
@@ -115,23 +125,51 @@ A possible pressure line is Arouse Minions, Wake of War, Full of Froth and Rage,
 
 At Blue Mountain Dwarf-hold, Arouse Minions is illegal because the destination is a Free-hold. Brigands remains keyed by the Wilderness route.
 
-## 6. Blue Mountain variant check
+## 7. Blue Mountain variant check
 
 On Goblin-gate → Blue Mountain Dwarf-hold, the destination is a Free-hold. Arouse Minions is not legal on that destination, even though the company is leaving a Shadow-hold: during this movement/hazard phase the event must target the company's new site, and the new site does not meet the card's Shadow-hold/Dark-hold requirement. Brigands remains legal because the declared site path contains Wilderness. The normal Hazard draw is one, so the solo draw is 2 + (2 × 1) = **4 cards**. The five-Dwarf Hazard Limit is still five, but only four cards have been drawn, so no more than four drawn cards can be played.
 
-## 7. Why the probability figures are not win probabilities
+## 8. Route-specific probabilities
 
-The table uses a hypergeometric draw from a fresh 30-card deck. For example, the baseline Moria draw takes eight cards from a list containing 16 creatures and 14 non-creatures. The expected number of creatures is 8 × 16/30 = 4.27.
+For a fresh 30-card draw, the route-inactive counts and expected route-legal creatures are:
 
-The chance of drawing at least one of the four campaign-inactive cards is 1 − [C(26,8) / C(30,8)] ≈ 73.3%.
+| Route | Draw | Inactive cards | Route-legal creature cards | Expected route-legal creatures | Chance of at least one inactive |
+|---|---:|---:|---:|---:|---:|
+| Rivendell → Moria | 8 | 4 | 16 | 4.27 | 73.3% |
+| Moria → Goblin-gate | 6 | 7 | 13 | 2.60 | 83.0% |
+| Goblin-gate → Blue Mountain | 4 | 7 | 13 | 1.73 | 67.7% |
+| Lórien → The Wind Throne | 6 | 8 | 10 | 2.00 | 87.4% |
 
-That does not mean 73.3% of Moria turns are weak. The other cards may be conditional, a drawn creature may be strategically inferior to an event, and the Hazard Limit is five. The probability is only a way to compare list composition before play.
+The raw expected creature counts (before checking route legality) are 4.27, 3.20, 2.13 and 3.20 respectively. The lower route-legal figures on the later routes reflect the three Watcher copies; on The Wind Throne route, both Giant Spiders and Watcher are inactive.
 
-The proposed variant has 17 creatures, so the expected Moria creature count rises to \(8 \times 17/30 = 4.53\). Its chance of drawing at least one campaign-inactive card falls to 46.9% on the Moria route, but this says nothing by itself about whether the Hero company is more likely to be wounded or lose the Book.
+The probability formula is (1 - \binom{30-k}{n}/\binom{30}{n}), where (k) is the route-inactive card count and (n) is the draw size. These are composition measures, not win probabilities. A route-inactive card may be useful on another route; a legal creature may still be a poor play; and the Hazard Limit is five.
 
-## 8. The actual decision rule
+### Moria / Goblin-gate variant
 
-Keep the baseline until three games have been recorded. Test the two-card variant only if the baseline shows a repeated problem and you already own the cards.
+The variant removes one Twilight and one Watcher, adding Arouse Minions and Brigands. It keeps 16 creatures / 14 non-creatures and retains both Seized by Terror copies.
+
+| Route | Inactive cards | Expected route-legal creatures | Chance of at least one inactive |
+|---|---:|---:|---:|
+| Moria | 3 | 4.27 | 62.1% |
+| Goblin-gate | 5 | 2.80 | 70.2% |
+| Blue Mountain | 6 | 1.87 | 61.2% |
+
+The campaign-wide route/target count rises from 26/30 to 27/30. The raw expected number of creatures drawn does **not** increase, because the creature count remains 16.
+
+### Wind Throne variant
+
+The Wind Throne variant removes one Twilight and one Watcher, adding Arouse Denizens and Brigands. It also keeps 16/14 and both Seized by Terror copies.
+
+- Route-active cards: **24/30**.
+- Route-inactive cards: **6**.
+- Expected route-legal creatures: **2.20** (11 legal creature cards in the variant).
+- Chance of at least one inactive card in six draws: **77.3%**.
+
+That is a route-specific improvement, not a general improvement to the Moria/Goblin-gate campaign.
+
+## 9. The actual decision rule
+
+Keep the baseline until three games have been recorded. Then choose **one** route-specific two-card variant only if the baseline shows a repeated problem and you already own the cards. Do not combine the Moria/Goblin-gate and Wind Throne variants.
 
 Change no other deck or rule at the same time. Compare the number of legal plays, actual Hazard Limit use, wounds, taps, corruption checks, item losses, denied Site Phase actions and objective progress.
 
