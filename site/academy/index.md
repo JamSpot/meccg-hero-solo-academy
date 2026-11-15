@@ -18,13 +18,13 @@ Prepare these distinct areas:
 
 - **Hero play deck** — shuffle the 30 Hero Resources and six character/Wizard cards together: **36 cards total**, with no Hazards.
 - **Hazard deck** — the separate 30-card opposing deck.
-- **Location deck** — the 15 site cards, kept separate and not shuffled.
+- **Location deck** — the corrected 15-card Hero-only list on the [Hero deck page]({{ '/decks/hero-deck/' | relative_url }}), kept separate and not shuffled. Do not include Dead Marshes: the available card is Minion-alignment. The Academy replaces it with the Hero version of The Wind Throne.
 - **Starting company/setup cards** — the five starting Dwarves and two Cram items.
 - **Hero discard** and **Hazard discard** — kept separate.
 - **Sideboard** — separate and unused in Game 1.
 - **Company area** — characters, followers, items and other cards currently associated with the company.
 
-For the first lessons, keep the zones physically distinct even though you control both sides of the solo game.
+For the first lessons, keep the zones physically distinct even though you control both sides of the solo game. Complete the [Location Deck Legality & Wind Throne Lab]({{ '/scenarios/location-deck-legality-lab/' | relative_url }}) to learn why the historical Dead Marshes entry is excluded.
 
 ## Step 2 — Know which card list this lesson uses
 
