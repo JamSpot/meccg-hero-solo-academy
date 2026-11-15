@@ -74,7 +74,7 @@ The company remains at its current site for the turn.
 
 **Task:** Does it still have a Movement/Hazard Phase? What kind of creatures, if any, can be keyed to its situation?
 
-**Model principle:** a company that does not move still has a Movement/Hazard Phase, but there is no newly declared region site path. Use the current site and official rules to determine which plays are legal.
+**Model principle:** a company that does not move still has a Movement/Hazard Phase, but there is no newly declared region site path. The ordinary movement draw is 0; applying the printed solo formula for each company gives **2 Hazard cards** (2 + 2 × 0), with no Hero movement draw. This is the Academy's textual application, not a separate CoE ruling. Creature Hazards must be keyed to the current site; do not invent a region path. A scenario-specific instruction overrides the general procedure.
 
 ## Drill 9 — Same destination, different route
 
