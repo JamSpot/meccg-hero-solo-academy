@@ -61,9 +61,15 @@ Record both draws and the Hazard Limit. Explain why you do not use Rivendell's n
 
 ## Exercise 5 — No movement
 
-A company stays at its current site.
+A five-Dwarf company stays at its current site.
 
-Under the normal Movement/Hazard rules, no cards are drawn based on movement. The printed solitaire paragraph does not clearly settle every stationary-company draw case. Do not invent a universal solo number. State what additional scenario instruction you would need before drawing from the Hazard deck.
+- Normal movement draw: **0** — the ordinary rules say no cards are drawn based on movement when the company does not move.
+- Academy's literal application of the printed solo rule: **2 Hazard cards** — the solitaire paragraph says to draw for each company, so apply 2 + (2 × 0).
+- Hero movement draw: **0**.
+- Base Hazard Limit: **5**.
+- Creature Hazards may only be keyed to the company's current site; there is no new site path to key against.
+
+This is a text-based application of the printed formula, not a separate Council of Elrond ruling that states “two” in a standalone sentence. A scenario-specific instruction overrides it: *The Wood of Greenleaves*, for example, explicitly tells a company remaining in Lórien to draw up to four Hazards.
 
 ## Final check
 
