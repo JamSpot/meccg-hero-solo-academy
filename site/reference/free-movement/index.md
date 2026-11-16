@@ -113,6 +113,10 @@ MECCG uses different symbols for region types and site types. The case matters:
 
 ## 6. A legal route is not automatically a good route
 
+Before comparing maps, inspect the **Hero hand you actually drew**. The [Hero Opening Hand & Access Lab]({{ '/scenarios/hero-opening-hand-lab/' | relative_url }}) shows why a one-copy objective such as Book of Mazarbûl is not guaranteed in the five-card hand, and how the first two-card Moria draw changes access. A route to a site is only useful if the Resource is in hand (or a legal effect can find it), the site is in the Location deck, and the company can survive the trip. Do not choose a destination from the deck list as though every named Resource were already available.
+
+
+
 When comparing two legal routes, ask:
 
 - Which region types are exposed?

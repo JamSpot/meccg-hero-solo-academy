@@ -89,6 +89,10 @@ Use the [integrated Campaign Walkthrough]({{ '/games/campaign-walkthrough/' | re
 
 ## Baseline route-coverage audit
 
+**Keep route legality separate from draw volume.** The declared site path (or printed Starter Movement path) determines which region-type and named-region creature keys are available. It does **not** multiply the number of Hazards drawn. The normal Hazard draw number comes from the destination site for a non-Haven move, or the site of origin when moving to a Haven; the Academy then applies its solo formula of 2 + twice that normal number. A longer legal route may make more creature cards legal without increasing the draw count. Use the [Expedition Planner]({{ '/routes/expedition-planner/' | relative_url }}) to record both separately, and the [Hero Opening Hand & Access Lab]({{ '/scenarios/hero-opening-hand-lab/' | relative_url }}) to check whether the objective is actually available before choosing the route.
+
+
+
 The detailed [Route Exposure Matrix]({{ '/scenarios/route-exposure-matrix/' | relative_url }}) checks every card against Rivendell → Moria, Moria → Goblin-gate and Goblin-gate → Blue Mountain. All three paths contain Wilderness, but **Watcher in the Water is not a generic double-Wilderness creature**: its card requires two Wilderness regions plus a Coastal Sea, or it may be played at Moria. It is legal on the first leg through the explicit Moria permission, but not on either later leg.
 
 | Cards | Copies | Status on the three opening legs |

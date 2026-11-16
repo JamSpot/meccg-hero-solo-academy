@@ -31,6 +31,17 @@ Fill this in before declaring movement.
 
 **Do not move on until the route is legal.** A promising destination cannot rescue an illegal route.
 
+## Check the actual Hero hand before choosing a route
+
+The [Hero Opening Hand & Access Lab]({{ '/scenarios/hero-opening-hand-lab/' | relative_url }}) gives the five-card access probabilities and three worked hands. Record the actual objective card before you draw a route:
+
+- Is the Resource actually in hand, or is there a legal way to find it?
+- Is its printed playable site present in the 15-card Hero Location deck?
+- Does the company have the skill, influence and untapped character needed?
+- If the objective is absent, are you deliberately making a search expedition, pursuing another objective, or changing the mission?
+
+Do not count a card as available merely because it is in the 36-card list. Mark it as **not seen**, **seen but discarded**, or **seen but unusable**; these are different deck-performance results.
+
 ## Four separate decisions
 
 Keep these steps distinct:
