@@ -47,7 +47,7 @@ The Hazard side separately draws eight cards: 2 + (2 × 3) = **8**. The five-Dwa
 ## 4. Hand A — Book and Gandalf
 
 - Gandalf can be played at Rivendell, a Haven, during the Organization Phase.
-- Only one character/avatar action is available that phase; do not also play Balin.
+- You may play only one character or Wizard in that Organization Phase; do not also play Balin. Other legal Organization actions remain available.
 - If Gandalf joins the Dwarves, the company becomes six characters and its base Hazard Limit becomes six.
 - Book of Mazarbûl is the mission Resource and is only playable at Moria.
 - Concealment is a Scout response to an actual attack; retain it until a legal attack exists.

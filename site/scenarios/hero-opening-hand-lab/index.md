@@ -62,7 +62,7 @@ If a Dwarf acquires the Book before a Sage joins, its normal play and storage va
 
 ## 5. The first Organization Phase matters
 
-Only one character action is available in the Organization Phase. You cannot play Gandalf and Balin in the same phase.
+You may play at most one character or Wizard in the Organization Phase. This does not prevent other legal Organization actions such as reorganizing companies, transferring items or storing items. You cannot play Gandalf and Balin in the same phase.
 
 If Gandalf is in the opening hand, he may be revealed at Rivendell. If he joins the five Dwarves before movement, the company becomes six characters and its base Hazard Limit becomes six. That gives the Hazard side one additional ordinary play if enough legal cards are available. In return, Gandalf supplies Sage, Scout and Diplomat skills, +1 to his own corruption checks, and a possible Sage bearer for the Book.
 
