@@ -12,7 +12,7 @@ It uses the fixed Academy list: 30 Resources, five non-Wizard characters and one
 
 ## 1. The five-card opening hand
 
-The printed solitaire procedure reduces the normal hand target to five. The Academy uses no mulligan. Shuffle the full 36-card Hero play deck and draw five.
+The printed solitaire procedure sets the base hand target to five. The Academy uses no mulligan. Shuffle the full 36-card Hero play deck and draw five. Card effects can modify the target during play.
 
 The starting company is already in play: Thorin II, Dori, Kíli, Glóin and Óin. Those five Dwarves are not drawn from the 36-card deck. The six character/Wizard cards in the play deck are additional cards that may be played later when legal.
 
