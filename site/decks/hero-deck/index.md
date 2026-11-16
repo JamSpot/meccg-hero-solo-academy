@@ -419,6 +419,17 @@ Use the new [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practic
 
 Use the [Site Entry & Automatic Attack Lab]({{ '/scenarios/site-entry-lab/' | relative_url }}) to practise the moment when the company chooses whether to enter Moria, why the Orc automatic attack is separate from the Hazard Limit, and why Book storage at Blue Mountain happens during the Organization Phase.
 
+## Opening-hand access — probability, not guesswork
+
+The [Hero Opening Hand & Access Lab]({{ '/scenarios/hero-opening-hand-lab/' | relative_url }}) calculates the chance of seeing one-copy, two-copy and three-copy cards in the five-card solo opening hand, then shows how Moria's two-card Hero draw changes those odds. It also explains why the Book of Mazarbûl and the Sage needed for its hand-size ability are separate pieces of access.
+
+The key figures are:
+- Book of Mazarbûl or Gandalf (one copy): **13.9%** in the opening five; **19.4%** after two further Hero cards have been seen.
+- Any of Gandalf, Balin or Celeborn (three Sage-capable cards): **37.0%** in the opening five; **48.8%** after two further cards.
+- At least one of the 12 site-playable Resources: **88.7%** in the opening five; **95.9%** after two further cards.
+
+A low opening chance for a singleton is normal, not proof that the deck needs another copy. Keep the 36-card baseline fixed for the first three recorded games and distinguish “not seen” from “seen but unusable”.
+
 ## How to physically construct it
 
 1. Find the 30 Hero Resource cards listed above and check every quantity.
