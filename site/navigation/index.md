@@ -71,7 +71,6 @@ Use the visible header menu on every page to switch sections. This map also link
 - [Expedition Decision Lab answer key]({{ '/scenarios/expedition-decision-lab/answer-key/' | relative_url }})
 - [Hazard Draw & Limit Lab]({{ '/scenarios/hazard-draw-limit-lab/' | relative_url }})
 - [Hazard Draw & Limit Lab — model answer]({{ '/scenarios/hazard-draw-limit-lab/answer-key/' | relative_url }})
-- [Solo Deck Cycle Lab]({{ '/scenarios/solo-deck-cycle-lab/' | relative_url }}) · [Model answer]({{ '/scenarios/solo-deck-cycle-lab/answer-key/' | relative_url }})
 - [Site Entry & Automatic Attack Lab]({{ '/scenarios/site-entry-lab/' | relative_url }})
 - [Site Entry & Automatic Attack Lab — model answer]({{ '/scenarios/site-entry-lab/answer-key/' | relative_url }})
 - [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }})
