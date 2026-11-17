@@ -22,6 +22,7 @@ After three short sessions, aim to answer:
 Use a **five-card hand** for this solo teaching setup. Keep separate: the 36-card Hero play deck, the 30-card Hazard deck, Location deck, character pool, Hero and Hazard discard piles, and any sideboard. Keep the sideboard out of the beginner test unless the selected rules explicitly call for it.
 
 Read [Which Solo Rules Are We Using?]({{ '/reference/solo-ruleset/' | relative_url }}) first. The Academy combines normal MECCG rules for movement, site paths, card legality and Hazard Limits with a separately identified solitaire draw procedure. Do not silently import individual rules from another solo system.
+Track the two Hero-hand reset points: after each company's Movement/Hazard Phase and again at End of Turn. For Hazard cards, record ordinary unplayed draws separately from any card saved because it requires Doors of Night. The active baseline has no Doors of Night, so this saved area should normally remain empty. Complete the [Solo Deck Cycle Lab]({{ '/scenarios/solo-deck-cycle-lab/' | relative_url }}) before evaluating a later Hazard variant.
 
 ## Test A — Baseline expedition
 
@@ -128,6 +129,10 @@ For each Movement/Hazard Phase, record:
 | Did the route make a creature legal by region type or name? | |
 | Did the combination materially change the expedition? | |
 | Was any play uncertain and later checked? | |
+| Ordinary unplayed Hazards sent to discard | |
+| Any card saved for Doors of Night? | |
+| Did the Hazard draw deck recycle during this phase? | |
+| Were defeated creatures handled for the selected mission/scoring mode? | |
 
 The aim is not to make the Hazard side win every encounter. Apply the strongest legal pressure consistently so Hero decisions can be compared from one test to the next. If a card is uncertain, check its printed wording and the rules rather than improvising.
 

@@ -42,6 +42,7 @@ The Academy's first-game baseline is a Challenge Deck C-derived Hero teaching li
 There are two separate movement draws: the Hero player draws from the Hero play deck, while the solo Hazard side draws from its own deck. The Hazard Limit is a third number. Complete the [Movement Draw Lab]({{ '/scenarios/movement-draw-lab/' | relative_url }}) to practise all three, then use the [Hazard Draw & Limit Lab]({{ '/scenarios/hazard-draw-limit-lab/' | relative_url }}) for Haven destinations, multi-company turns and Hundreds of Butterflies.
 
 When you are ready to evaluate the opposing deck, use the [Hazard Deck Balance Lab]({{ '/scenarios/hazard-deck-balance-lab/' | relative_url }}). It keeps the Hero list fixed while comparing the baseline Hazard deck with a controlled two-card experiment; do not change the active list before the first three baseline games.
+Before moving beyond the first campaign, complete the [Solo Deck Cycle Lab]({{ '/scenarios/solo-deck-cycle-lab/' | relative_url }}). It explains the two five-card Hero-hand resets, what happens to unplayed Hazard draws, how the Hazard deck recycles, and why Doors of Night-dependent cards are saved rather than discarded.
 
 ## After the first expedition
 

@@ -33,6 +33,9 @@ Use the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | rel
 
 Use the new [Route Risk Workshop]({{ '/scenarios/route-risk-workshop/' | relative_url }}) and its [model answers]({{ '/scenarios/route-risk-workshop/answer-key/' | relative_url }}) to compare legal routes, account for the actual Hazard hand, weigh arrival condition and future position, and log evidence across three games.
 
+Complete the [Solo Deck Cycle Lab]({{ '/scenarios/solo-deck-cycle-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/solo-deck-cycle-lab/answer-key/' | relative_url }}) to practise both five-card Hero-hand resets, the separate Hazard discard, recycling when the Hazard deck empties, the official Doors of Night saved-card rule, and the difference between the Book tutorial and full scoring game.
+
+
 Complete the [Hazard Draw & Limit Lab]({{ '/scenarios/hazard-draw-limit-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/hazard-draw-limit-lab/answer-key/' | relative_url }}) before the more complex Hazard workshops. It tests which site's normal draw number applies, the 2 + twice formula, company-size rounding, separate company limits, and the Hundreds of Butterflies / Twilight exceptions.
 
 Use the [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relative_url }}) to sort a fixed eight-card hand against the Rivendell–Moria site path, choose five legal plays, and account for support-event timing. Open its [model answer]({{ '/scenarios/hazard-legality-workshop/answer-key/' | relative_url }}) only after making your decision.

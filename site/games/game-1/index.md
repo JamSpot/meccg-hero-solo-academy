@@ -273,6 +273,9 @@ Winning efficiently is **not** the objective of Game 1. Learning to make the dec
 
 Gandalf is in the 36-card Hero play deck but is not one of the five starting Dwarves. When you draw him, decide whether to build the separate support company. Do not automatically add him to the Moria company: doing so raises that company's Hazard Limit from five to six and exposes the Wizard to the Moria journey. See [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) after you have learned the basic one-company loop.
 
+## End-of-Turn hand reset
+
+The five-card Hero hand target applies at two points: after the company's Movement/Hazard Phase and again during the End-of-Turn Phase. Your hand may temporarily exceed five after a Hero movement draw during the Movement/Hazard Phase; reset when that phase ends, before the Site Phase. The End-of-Turn Phase is the second reset after Site Phase actions. The active Gandalf baseline returns to five unless an effect such as a Sage bearing Book of Mazarbûl changes the target. See the [Solo Deck Cycle Lab]({{ '/scenarios/solo-deck-cycle-lab/' | relative_url }}) for the full card-zone sequence.
 ## After Game 1
 
 Record:
