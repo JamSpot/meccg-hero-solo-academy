@@ -59,6 +59,11 @@ Use this check in order:
 
 **Important:** relevant does not mean automatically playable. A creature may be dangerous to this company but still be illegal because the route does not meet its keying requirements, the target is unavailable, or the timing is wrong.
 
+## Doors of Night: save the right cards, not every awkward draw
+
+The printed *The Wizards* solitaire rules say that Hazard cards requiring Doors of Night are saved and played when a Doors of Night is drawn. If a future Hazard package contains one, keep it in a clearly marked saved area; do not discard it with ordinary unplayed draws. When it becomes available, it still has to meet its own text and fit within the current company's Hazard Limit. The active Academy 30-card list contains no Doors of Night and no card that requires it. Wake of War's extra Wolf bonus is conditional, not a requirement, so Wake of War remains playable without Doors of Night. Ordinary drawn-but-unplayed cards follow the Academy's separate end-of-phase discard convention. Practise this in the [Solo Deck Cycle Lab]({{ '/scenarios/solo-deck-cycle-lab/' | relative_url }}).
+
+
 ## How to stop yourself going easy on yourself
 
 Use these safeguards every game:

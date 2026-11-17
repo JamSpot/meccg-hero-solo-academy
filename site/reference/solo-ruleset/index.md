@@ -23,7 +23,7 @@ The official printed solitaire procedure appears in the **Solitaire Rules** sect
 | Hazard deck | Use the separate fixed 30-card teaching list; shuffle it. |
 | Location deck | Keep the 15 site cards separate. Do not shuffle them as a play deck. |
 | Starting pool / setup | Use the five starting Dwarves and two Cram items specified by Challenge Deck C. The six character/Wizard cards are in the Hero play deck, not this starting group. Gandalf is the Academy's Wizard avatar; he is not one of the five starting Dwarves. Pallando ×3 belongs to the historical Challenge Deck C reference, not the active Gandalf-led deck. |
-| Hand size | The base solitaire hand size is **5**. Apply active card/effect modifiers when resetting the Hero hand (for example, Pallando or a Sage using Book of Mazarbûl). Do not use the unmodified multiplayer base of 8. |
+| Hand size | The base solitaire hand size is **5**. Reset after each company's Movement/Hazard Phase and again at End of Turn; apply active card/effect modifiers (for example, a Sage bearing Book of Mazarbûl). Do not use the multiplayer base of 8. |
 | Hero movement draw | Draw normally from the Hero play deck using the **you draw** number on the relevant Hero site card (the lighter box). The company must contain an avatar or a character with mind 3 or greater; if it qualifies, draw at least one and up to the printed number. |
 | Movement and card play | Follow the normal MECCG rules and current card text. |
 | Hazard draw | Separately draw from the Hazard deck using **2 + twice the normal Hazard-player draw number** for the relevant site. |
@@ -56,11 +56,14 @@ For each company that moves:
 1. Identify the relevant Hero site card. A move to a **non-Haven** uses the new site; a move to a **Haven** uses the site of origin.
 2. Read the site-card numbers in the common **opponent draws / you draw** order. The second number is the Hero/resource-player draw. The Hero player may draw up to that number if the company contains an avatar or a character with mind 3 or greater; a qualifying company must draw at least one.
 3. Use the first number, the normal Hazard-player draw, for the separate solo Hazard calculation below.
-4. After the company's Movement/Hazard Phase is complete, reset the Hero hand to its current target: **5** for the active Gandalf baseline, modified if a card such as Pallando or Book of Mazarbûl has increased hand size.
+4. After the company's Movement/Hazard Phase, reset the Hero hand to its current target: **5** for the active Gandalf baseline, modified if a card such as Pallando or a Sage bearing Book of Mazarbûl has increased hand size. Reset it to the same target again in the End-of-Turn Phase.
 
 **Game 1 example:** Moria is **3/2** (opponent draws / you draw). The five-Dwarf company draws up to two Hero cards from its Hero play deck. The solo Hazard side separately draws **2 + (2 × 3) = 8** cards. Its base Hazard Limit is five. These are three different values, not competing versions of one draw.
 
 The Hero draw is not a Hazard play and does not use the Hazard Limit. The Hazard cards never enter the Hero hand.
+## The Hero hand resets twice
+
+The printed solitaire rule replaces every normal reset to eight cards with a reset to **five**. The Hero hand is therefore reset after each company's Movement/Hazard Phase and again during the End-of-Turn Phase. The hand may temporarily exceed five after a movement draw; wait for the appropriate reset point. Apply any active hand-size modifier when calculating the target. The [Solo Deck Cycle Lab]({{ '/scenarios/solo-deck-cycle-lab/' | relative_url }}) provides a worked two-leg example.
 
 ## The solo Hazard draw
 
@@ -100,6 +103,9 @@ The solitaire instruction is to play **as many of the drawn Hazards as possible 
 
 Do not automatically play the first five cards. Do not leave a useful legal slot empty just to make the Hero turn easier. Equally, do not invent extra attacks, ignore a restriction, or assume two effects combine unless their text and the relevant rulings allow it.
 
+### Doors of Night dependency
+
+The printed *The Wizards* solitaire paragraph adds: Hazard cards that require Doors of Night are saved and played when a Doors of Night is drawn. Keep those cards separate from ordinary unplayed draws; when they become available, they still obey their own text and the current Hazard Limit. The active Academy 30-card Hazard list contains no Doors of Night and no card that requires it. Wake of War has an extra Wolf bonus if Doors of Night is in play, but it is playable without Doors of Night. Practise the distinction in the [Solo Deck Cycle Lab]({{ '/scenarios/solo-deck-cycle-lab/' | relative_url }}).
 For the step-by-step method, use the [Hazard Player guide]({{ '/reference/hazard-player/' | relative_url }}) and the [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }}).
 
 ## Multiple companies — one Hazard phase per company

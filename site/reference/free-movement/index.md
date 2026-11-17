@@ -282,6 +282,18 @@ During the Organization Phase while the company is at Blue Mountain Dwarf-hold, 
 This is the clearest example in the Academy of why Region Movement matters: **Moria → Goblin-gate → Blue Mountain Dwarf-hold** reaches the Dwarf-hold in two legal legs without returning to Rivendell, Lórien or Grey Havens. It is not risk-free; it replaces a Haven recovery stop with two Wilderness-heavy Hazard phases.
 
 
+## Each non-Haven leg is its own Hazard phase
+
+The Book route **Moria → Goblin-gate → Blue Mountain Dwarf-hold** is two separate movement legs, not one combined Hazard draw. For the five-Dwarf company:
+
+| Leg | Hero draw | Solo Hazard draw | Base Hazard Limit |
+|---|---:|---:|---:|
+| Moria → Goblin-gate | Up to 1 | **6** | **5** |
+| Goblin-gate → Blue Mountain Dwarf-hold | Up to 1 | **4** | **5** |
+
+That is ten Hazard cards across two separate Movement/Hazard Phases, with a fresh five-card base limit in each phase. The second leg does not inherit unused slots from the first. The site path for each leg is checked separately, and the destination's normal Hazard draw number—not the number of regions travelled—sets the solo draw. The Hero hand resets to five after each company's Movement/Hazard Phase and again at End of Turn. The [Solo Deck Cycle Lab]({{ '/scenarios/solo-deck-cycle-lab/' | relative_url }}) shows how the Hazard discard and recycling work between those legs.
+
+
 ## 9C. Iron Hill — a five-region Starter path versus a four-region Region path
 
 Iron Hill Dwarf-hold lists Lórien as its nearest Haven and has the printed site path Wilderness → Border-land → Border-land → Wilderness → Wilderness. From Lórien, that is legal Starter Movement even though the site path has five region-type symbols: the four-region maximum applies only to Region Movement. The direct path has no Shadow-land or Dark-domain, so Seized by Terror is not legal, although Cave Worm can use the named Iron Hills destination key.

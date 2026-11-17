@@ -314,6 +314,9 @@ The figures assume the corrected Hero site cards and a five-character company wi
 - When the Hazard deck is exhausted and more cards must be drawn, shuffle the Hazard discard pile to form a new Hazard deck.
 - In this Book of Mazarbul mission, non-unique defeated creatures go to the Hazard discard so they can return when the deck is recycled. Follow the normal rules for unique creatures; this mission does not award kill MPs as its victory objective.
 - Keep the Hero play-deck discard and Hazard discard separate. Do not return unused drawn Hazards straight to the deck.
+### Official Doors of Night exception
+
+The printed *The Wizards* solitaire rules say that Hazards requiring Doors of Night are saved and played when a Doors of Night is drawn. This is not the same as an ordinary unplayed draw: keep such a card in a separate saved area until the condition is met, then apply its card text and the current Hazard Limit. The active 30-card baseline contains no Doors of Night and no card that requires it. Wake of War is still playable without Doors of Night; that Environment only increases its Wolf bonus. The [Solo Deck Cycle Lab]({{ '/scenarios/solo-deck-cycle-lab/' | relative_url }}) teaches the difference between saved cards, ordinary unused draws and the Hazard discard.
 
 ## Multi-company solo play — resolve each company separately
 
@@ -336,6 +339,7 @@ If Gandalf joins the Dwarves instead, the company has six characters: the Moria 
 Gandalf's +1 corruption-check modifier is a separate character effect. It does not change the five-card Hero hand target, Hazard draw or Hazard Limit.
 
 See [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) and the [Gandalf company practice scenario]({{ '/scenarios/gandalf-company/' | relative_url }}) for the full decision and model answer.
+Use the [Solo Deck Cycle Lab]({{ '/scenarios/solo-deck-cycle-lab/' | relative_url }}) to practise Hazard-discard recycling, the Doors of Night exception and the difference between the Book tutorial and full scoring game.
 
 ## Solo play: a fair test, not an easy test
 
