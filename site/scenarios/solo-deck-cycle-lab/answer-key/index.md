@@ -25,7 +25,7 @@ The correct reset points are:
 
 A movement draw can temporarily take the Hero hand above five. Do not discard down immediately after drawing; wait for the Movement/Hazard Phase reset. The Site Phase happens between the two reset points.
 
-For the active Gandalf baseline, the target is five. If a Sage bears Book of Mazarbûl, apply the Book's hand-size modifier. Gandalf's corruption-check bonus is unrelated.
+For the active Gandalf baseline, the target is five. The Book's hand-size modifier is active only after its Sage bearer taps the Book during the Organization Phase, and it lasts until the next Untap Phase. Merely bearing the Book does not change the hand target. Gandalf's corruption-check bonus is unrelated.
 
 ## 3. Moria: eight drawn, five limit
 
