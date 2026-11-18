@@ -226,7 +226,7 @@ The [Three-Turn Expedition workbook]({{ '/scenarios/three-turn-expedition/' | re
 | Moria → Goblin-gate → Blue Mountain | 6 | 4 | **10** | Lower draw total; Goblin-gate's 3 Orc strikes at 6 apply only if you enter; no Haven healing |
 | Moria → Rivendell → Blue Mountain | 8 | 4 | **12** | Two extra draws; avoids Goblin-gate's site attack and allows wounded characters to heal to tapped at Rivendell |
 
-The totals are cards drawn across two separate Movement/Hazard Phases. Each phase has its own Hazard Limit of six for the six-character company. Haven healing does not untap the wounded characters immediately; they heal to tapped and need a later Untap Phase to become ready.
+The totals are cards drawn across two separate Movement/Hazard Phases. Each phase has its own Hazard Limit of six for the six-character company. Haven healing does not untap the wounded characters immediately; they heal to tapped and need a later Untap Phase to become ready. Gollum is an Ally, not a character, so recruiting him at Goblin-gate does not increase the company's size or its Hazard Limit.
 
 ## Worked decision — store the Book, then move or wait?
 
