@@ -126,7 +126,7 @@ After the Hazard phase, inspect the actual company:
 
 If you enter Moria and survive its automatic attack, play Book of Mazarbûl if an eligible untapped character can do so. Gandalf is the preferred bearer in this example if he is available to tap: he is a Sage and has +1 to his own corruption checks. If he cannot act, do not pretend a tapped or wounded character can tap to play the item.
 
-If you decline to enter, you avoid the automatic attack but cannot play the Book or take another Site Phase action that turn. The Book remains in hand; you will need to return to Moria to play it.
+If you decline to enter, you avoid the automatic attack but cannot play the Book or take actions that require entering Moria. Other Resource events may still be playable if their own text allows them without entering. The Book remains in hand; you will need to return to Moria to play it.
 
 ### Book and hand size
 
@@ -156,7 +156,7 @@ This is four regions, including both endpoints. All four are Wilderness regions,
 | Six-character Hazard Limit | **6** |
 | Automatic attack if entered | Orcs — 3 strikes at 6 |
 
-The company can use Goblin-gate as a waypoint without entering it. If it declines to enter, it avoids the Orc automatic attack but cannot take Site Phase actions there. If it wants to play Gollum, it must enter and face the automatic attack.
+The company can use Goblin-gate as a waypoint without entering it. If it declines to enter, it avoids the Orc automatic attack but cannot take Site Phase actions there. If it wants to play Gollum, it must enter and face the automatic attack. Gollum is an Ally, not a character, so recruiting him does not increase company size or the next Hazard Limit.
 
 ### Route B — use Rivendell as a Haven stop
 
