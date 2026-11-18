@@ -33,7 +33,7 @@ The six legal cards use the six-character company's full Hazard Limit. The Hazar
 
 The three Despairs are placed on three different Dwarves. The rule is one corruption card per character per turn, not one per company. Each Despair must start a new chain of effects.
 
-Dori, Kíli and Óin each have a -1 corruption-check modifier, so they are the more vulnerable starting targets. If any character in the company becomes wounded, each of the three targets makes a corruption check. The Despair ruling places that check before the body check.
+Dori, Kíli and Óin each have a -1 corruption-check modifier, so they are the more vulnerable starting targets. If any character in the company becomes wounded, each of the three targets makes a corruption check. The Despair ruling places that check before the body check. If several Despair checks are triggered, the Hero player resolves them one at a time in an order of their choice. Characters and Wizards in the company may tap to support a corruption check for +1 each, but each helper can contribute to only one of the checks. This corruption-check support rule is separate from combat support: a character assigned a strike cannot tap to support another character against that same attack.
 
 ### Why both attack modifiers?
 
