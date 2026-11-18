@@ -95,7 +95,7 @@ With Gandalf in the company, the Hazard Limit is six. The six legal cards can th
 3. Play Full of Froth and Rage.
 4. Play Wake of War.
 
-The three Dwarves each have a -1 corruption-check modifier. If any character in the company becomes wounded, each Despair target makes a corruption check. The Despair check occurs before the associated body check. If more than one character becomes wounded, the trigger can happen more than once.
+The three Dwarves each have a -1 corruption-check modifier. If any character in the company becomes wounded, each Despair target makes a corruption check. The Despair check occurs before the associated body check. If more than one character becomes wounded, the trigger can happen more than once. For the corruption checks, other characters and the Wizard in the company may tap to add +1 each. Resolve multiple checks one at a time in an order chosen by the Hero player; each helper can contribute to only one check. This is separate from combat support: every character is assigned a Watcher strike, so none is left outside that attack to support another strike.
 
 Watcher in the Water gives **one strike to each character**. Full of Froth and Rage adds +2 prowess to the Animal attack; Wake of War adds another +1 prowess. The Watcher attack is therefore at **11 prowess**.
 
