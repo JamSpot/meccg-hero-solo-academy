@@ -85,7 +85,7 @@ Do not change the active deck before the baseline games, do not change the Wizar
 
 Keep this Hazard deck separate from the 36-card Hero play deck, Hero discard pile, Location deck and sideboard.
 
-Use the [integrated Campaign Walkthrough]({{ '/games/campaign-walkthrough/' | relative_url }}) to see how the fixed Hero and Hazard lists work together across the Moria mission, the two route choices and Book storage.
+Use the [integrated Campaign Walkthrough]({{ '/games/campaign-walkthrough/' | relative_url }}) to see how the fixed Hero and Hazard lists work together across the Moria mission, the two route choices and Book storage. The new [Three-Turn Expedition — Worked Solo Run]({{ '/scenarios/three-turn-expedition/' | relative_url }}) adds a fixed sample Hazard draw and shows how three Despairs, Watcher in the Water, Full of Froth and Rage, and Wake of War fit within a five- or six-character Hazard Limit.
 
 ## Baseline route-coverage audit
 
