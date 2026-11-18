@@ -290,7 +290,7 @@ Record:
 - whether the company recovered or pressed on;
 - what you would change next time.
 
-Use the [Game 1 Turn Workbook]({{ '/games/game-1/turn-workbook/' | relative_url }}) for the full debrief, then replay Game 1 once. The second play should not be about trying a completely different deck. It should be about making **better decisions with the same teaching pool**.
+Use the [Game 1 Turn Workbook]({{ '/games/game-1/turn-workbook/' | relative_url }}) for the full debrief, then replay Game 1 once. The second play should not be about trying a completely different deck. It should be about making **better decisions with the same teaching pool**. When you are ready to join the Hero and Hazard choices across several turns, use the [Three-Turn Expedition workbook]({{ '/scenarios/three-turn-expedition/' | relative_url }}).
 
 ## Captain's question
 
