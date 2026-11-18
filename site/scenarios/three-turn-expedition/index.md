@@ -43,7 +43,7 @@ For this worked line, use this **constructed opening Hero hand**:
 - Fellowship
 - Risky Blow
 
-Play Gandalf at Rivendell during the Organization Phase and join him to the five Dwarves. The company now has six characters, so its base Hazard Limit is six. The five starting Dwarves remain the same; Gandalf is an additional character, not a replacement.
+Play Gandalf at Rivendell during the Organization Phase and join him to the five Dwarves. The company now has six characters, so its base Hazard Limit is six. The five starting Dwarves remain the same; Gandalf is an additional character, not a replacement. The Hazard Limit is fixed when this Movement/Hazard Phase begins, so it does not shrink during the phase if a character is later eliminated.
 
 The Book is in hand, not in play. Gandalf is a Sage, but the Book's hand-size ability is not active merely because a Sage is present.
 
@@ -126,7 +126,7 @@ After the Hazard phase, inspect the actual company:
 
 If you enter Moria and survive its automatic attack, play Book of Mazarbûl if an eligible untapped character can do so. Gandalf is the preferred bearer in this example if he is available to tap: he is a Sage and has +1 to his own corruption checks. If he cannot act, do not pretend a tapped or wounded character can tap to play the item.
 
-If you decline to enter, you avoid the automatic attack but cannot play the Book or take actions that require entering Moria. Other Resource events may still be playable if their own text allows them without entering. The Book remains in hand; you will need to return to Moria to play it.
+If you decline to enter, you avoid the automatic attack, but the Site Phase ends immediately and no Site Phase actions are taken. The Book remains in hand; you will need to return to Moria to play it.
 
 ### Book and hand size
 
