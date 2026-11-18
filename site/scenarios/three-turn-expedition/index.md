@@ -247,7 +247,7 @@ Write down the rule and card text that supports each answer, then use the [model
 - [Council of Elrond — Official Game Rules](https://www.councilofelrond.org/rules/) — movement, company size, Hazard Limit, combat, corruption checks, Haven healing and storing items.
 - [Council of Elrond — Official Card Database](https://www.councilofelrond.org/cards/) — Book of Mazarbûl, Watcher in the Water, Despair of the Heart, Full of Froth and Rage, Wake of War and Hero site cards.
 - [CRF 17 — Despair of the Heart ruling](https://meccg.com/rules/collected-rulings-and-errata-crf/crf-17/card-errata-and-rulings/) — the corruption check occurs before the body check.
-- [The Wizards — Solitaire Rules](https://meccg.com/rules/by-expansion/the-wizards/) — separate Hazard deck, five-card hand and solo Hazard draw/play procedure.
+- [The Lidless Eye — Solitaire Rules](https://meccg.com/rules/by-expansion/the-lidless-eye/) — the printed solitaire section appears in Part III of this rules page and gives the five-card hand and solo Hazard draw/play procedure for the Wizard player. The Academy uses the separate Hazard-deck handling from the variant below.
 - [My Solo Rules](https://meccg.wordpress.com/my-solo-rules/) — the supplementary handling of ordinary unplayed Hazard draws adopted by this Academy.
 
 ---
