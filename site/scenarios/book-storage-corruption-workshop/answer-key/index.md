@@ -137,7 +137,7 @@ If Gandalf joins the five Dwarves at Rivendell before they leave:
 - Company size and base Hazard Limit rise from five to six.
 - Fellowship on that company is discarded because a character joined.
 - Gandalf cannot be targeted by Despair; his own corruption checks receive +1.
-- Gandalf is a Sage and can use the Book's hand-size ability while he bears it.
+- Gandalf is a Sage and can use the Book's hand-size ability while he bears it and taps the Book during the Organization Phase.
 - Gandalf can tap to support one other character's corruption check, but each helper can support only one check.
 
 If Gandalf stays separate, the Dwarves keep any Fellowship bonuses and their base Hazard Limit stays five. Gandalf cannot support their checks or bear their Book while separate. Moria is not a Haven, so do not plan to combine the companies there.
