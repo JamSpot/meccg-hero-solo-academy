@@ -56,7 +56,7 @@ For each company that moves:
 1. Identify the relevant Hero site card. A move to a **non-Haven** uses the new site; a move to a **Haven** uses the site of origin.
 2. Read the site-card numbers in the common **opponent draws / you draw** order. The second number is the Hero/resource-player draw. The Hero player may draw up to that number if the company contains an avatar or a character with mind 3 or greater; a qualifying company must draw at least one.
 3. Use the first number, the normal Hazard-player draw, for the separate solo Hazard calculation below.
-4. After the company's Movement/Hazard Phase, reset the Hero hand to its current target: **5** for the active Gandalf baseline, modified if a card such as Pallando or a Sage bearing Book of Mazarbûl has increased hand size. Reset it to the same target again in the End-of-Turn Phase.
+4. After the company's Movement/Hazard Phase, reset the Hero hand to its current target: **5** for the active Gandalf baseline, modified by an active card effect such as Pallando's hand-size ability or the Book of Mazarbûl only if a Sage bearer tapped the Book during the Organization Phase. Reset it to the same target again in the End-of-Turn Phase.
 
 **Game 1 example:** Moria is **3/2** (opponent draws / you draw). The five-Dwarf company draws up to two Hero cards from its Hero play deck. The solo Hazard side separately draws **2 + (2 × 3) = 8** cards. Its base Hazard Limit is five. These are three different values, not competing versions of one draw.
 
