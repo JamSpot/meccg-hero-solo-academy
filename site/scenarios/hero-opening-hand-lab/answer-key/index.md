@@ -40,7 +40,7 @@ Moria is 3/2. The Hero company may draw up to two cards from its Hero play deck,
 - Chance of seeing at least one of Gandalf, Balin or Celeborn: **48.8%**.
 - Chance of seeing at least one of the 12 site-playable Resources: **95.9%**.
 
-The Hero hand is then reset to its current target (normally five; six while the Book's Sage ability is active). The player may retain a key card and discard less useful cards. Do not leave all seven cards in hand, and do not mistake the seven-card “seen” sample for a seven-card hand.
+The Hero hand is then reset to its current target (normally five; six only while the Book's Sage ability is active after a Sage bearer has tapped the Book during the Organization Phase). The player may retain a key card and discard less useful cards. Do not leave all seven cards in hand, and do not mistake the seven-card “seen” sample for a seven-card hand.
 
 The Hazard side separately draws eight cards: 2 + (2 × 3) = **8**. The five-Dwarf base Hazard Limit is **5**. If Gandalf or another character has joined the Dwarves before the phase, recalculate company size; a six-character company has a base Hazard Limit of six.
 
