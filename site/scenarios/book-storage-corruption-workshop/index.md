@@ -70,7 +70,7 @@ The five Dwarves have a base Hazard Limit of five. If Gandalf joins them, compan
 Joining Gandalf is not a free defensive upgrade:
 
 - Gandalf cannot be targeted by Despair and has +1 to his own corruption checks.
-- He is a Sage and can use the Book's hand-size ability while he bears it.
+- He is a Sage and can use the Book's hand-size ability while he bears it **and taps the Book during the Organization Phase**.
 - He can tap to support one Dwarf corruption check.
 - His joining the company discards any Fellowship cards on that company, removing their company-wide check and prowess bonuses.
 - The larger company gives the Hazard side a higher base Hazard Limit.
