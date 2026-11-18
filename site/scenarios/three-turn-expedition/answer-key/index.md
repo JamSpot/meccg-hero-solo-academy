@@ -43,7 +43,7 @@ Watcher in the Water is an Animal attack.
 - Wake of War: +1 prowess and +1 strike to Wolf, Spider and Animal attacks.
 - Combined prowess increase: +3, so Watcher is at 11 prowess.
 
-The attack says each character faces one strike. The current combat rule prevents a strike-count modifier from adding more strikes to this kind of attack. Wake's +1 prowess still applies; its extra-strike modifier does not. Wake of War's Animal bonus does not require Doors of Night; Doors of Night changes its Wolf bonus. Full of Froth and Rage remains only while its stated Spider/Animal-attack condition has not caused it to be discarded.
+The attack says each character faces one strike. The current combat rule prevents a strike-count modifier from adding more strikes to this kind of attack. Wake's +1 prowess still applies; its extra-strike modifier does not. Wake of War's +1 Animal bonus does not require Doors of Night; Doors of Night changes its Wolf bonus. Full of Froth and Rage is discarded if a Spider or Animal attack is defeated.
 
 If Gandalf is in the company, Watcher assigns one strike to each of the six characters. Gandalf cannot be targeted by Despair of the Heart because he is a Wizard, but he is still a character in the company and faces Watcher's strike.
 
