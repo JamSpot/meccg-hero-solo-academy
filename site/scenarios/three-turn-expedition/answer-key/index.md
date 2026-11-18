@@ -27,7 +27,7 @@ The Book is still in hand. Gandalf's Sage skill does not increase the hand size 
 | Seized by Terror | No | Do not play: no Shadow-land or Dark-domain appears in the declared site path |
 | Twilight | No target | Do not play: no Environment is in play |
 
-The six legal cards use the six-character company's full Hazard Limit. The Hazard side does not get a seventh play because Twilight is outside the limit; Twilight still has to have a legal target. Here it has none.
+The six legal cards use the six-character company's full Hazard Limit. The Hazard side does not get a seventh play because Twilight is outside the limit; Twilight still has to have a legal target. Here it has none. The base Hazard Limit was fixed at the start of the Movement/Hazard Phase; it remains six for this phase even if a character is eliminated during the Despair/Watcher sequence.
 
 ### Why three Despairs?
 
@@ -43,7 +43,7 @@ Watcher in the Water is an Animal attack.
 - Wake of War: +1 prowess and +1 strike to Wolf, Spider and Animal attacks.
 - Combined prowess increase: +3, so Watcher is at 11 prowess.
 
-The attack says each character faces one strike. The current combat rule prevents a strike-count modifier from adding more strikes to this kind of attack. Wake's +1 prowess still applies; its extra-strike modifier does not.
+The attack says each character faces one strike. The current combat rule prevents a strike-count modifier from adding more strikes to this kind of attack. Wake's +1 prowess still applies; its extra-strike modifier does not. Wake of War's Animal bonus does not require Doors of Night; Doors of Night changes its Wolf bonus. Full of Froth and Rage remains only while its stated Spider/Animal-attack condition has not caused it to be discarded.
 
 If Gandalf is in the company, Watcher assigns one strike to each of the six characters. Gandalf cannot be targeted by Despair of the Heart because he is a Wizard, but he is still a character in the company and faces Watcher's strike.
 
