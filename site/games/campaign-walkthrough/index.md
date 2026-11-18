@@ -8,7 +8,7 @@ permalink: /games/campaign-walkthrough/
 
 **Use this after Game 1 and the Second Expedition workbook.** It joins the deck, the route, the Hazard side and the Book's storage into one campaign sequence you can follow with your physical cards.
 
-This is a teaching walkthrough, not a scripted game result. Shuffle normally, use the cards you actually draw, roll your own dice and record what happens. No Hazard draw, combat result or successful storage check is predetermined.
+This is a teaching walkthrough, not a scripted game result. Shuffle normally, use the cards you actually draw, roll your own dice and record what happens. For a fixed example with a sample opening hand, a worked six-card Hazard combination and the direct-versus-Haven route comparison, use the [Three-Turn Expedition — Worked Solo Run]({{ '/scenarios/three-turn-expedition/' | relative_url }}) and its [model answer]({{ '/scenarios/three-turn-expedition/answer-key/' | relative_url }}). No Hazard draw, combat result or successful storage check is predetermined.
 
 ## What rules are we using?
 
