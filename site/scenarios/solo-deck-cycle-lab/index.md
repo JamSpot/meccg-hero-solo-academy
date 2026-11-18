@@ -34,7 +34,7 @@ The printed solitaire rules replace the normal eight-card hand target with **fiv
 
 The hand is not capped at five every second of the turn. If the Hero player draws two cards during movement while already holding five, the hand can temporarily contain seven. Keep those cards while the Movement/Hazard Phase is being resolved; reset when that phase ends, before the Site Phase. After the Site Phase, the End-of-Turn Phase is the second reset.
 
-The active Gandalf baseline has a target of five. If a Sage bears Book of Mazarbûl, apply the Book's hand-size ability when determining the reset target. Gandalf's +1 corruption-check modifier does not increase hand size.
+The active Gandalf baseline has a target of five. The Book's hand-size ability is an action, not a passive bonus: its bearer must be a Sage and you must tap the Book during the Organization Phase. The +1 lasts only until the next Untap Phase. If the Book is not tapped, keep the base target of five. Gandalf's +1 corruption-check modifier does not itself increase hand size.
 
 ## 3. Keep the three movement numbers separate
 
