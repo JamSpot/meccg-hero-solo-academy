@@ -15,6 +15,8 @@ Use the visible header menu on every page to switch sections. This map also link
 - [Game 1 teaching script]({{ '/games/game-1/teaching-script/' | relative_url }})
 - [Integrated Campaign Walkthrough]({{ '/games/campaign-walkthrough/' | relative_url }})
 - [Campaign Walkthrough — Model Answer]({{ '/games/campaign-walkthrough/answer-key/' | relative_url }})
+- [Three-Turn Expedition — Worked Solo Run]({{ '/scenarios/three-turn-expedition/' | relative_url }})
+- [Three-Turn Expedition — Model Answer]({{ '/scenarios/three-turn-expedition/answer-key/' | relative_url }})
 - [Site Entry & Automatic Attack Lab]({{ '/scenarios/site-entry-lab/' | relative_url }})
 - [Site Entry & Automatic Attack Lab — Model Answer]({{ '/scenarios/site-entry-lab/answer-key/' | relative_url }})
 - [Games and lessons]({{ '/games/' | relative_url }})
