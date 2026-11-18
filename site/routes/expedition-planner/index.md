@@ -217,6 +217,17 @@ For this Academy's solo draw procedure, draw **two plus twice the normal Hazard 
 ## Track the Hazard deck across the route
 
 For the non-Haven route **Moria → Goblin-gate → Blue Mountain Dwarf-hold**, the five-Dwarf company draws six solo Hazards on the Goblin-gate leg and four on the Blue Mountain leg. These are two separate company Movement/Hazard Phases, each with its own base Hazard Limit of five. The total of ten cards is a route total, not one ten-card draw and not ten plays in one phase. At the end of each phase, ordinary unplayed draws go to the Hazard discard under the Academy supplement; if the draw deck runs out, recycle that discard. The Hero hand resets to five after each Movement/Hazard Phase and again at End of Turn. Use the [Solo Deck Cycle Lab]({{ '/scenarios/solo-deck-cycle-lab/' | relative_url }}) to practise the complete sequence.
+## Worked route comparison — direct waypoint or Haven recovery
+
+The [Three-Turn Expedition workbook]({{ '/scenarios/three-turn-expedition/' | relative_url }}) compares two six-character routes after acquiring the Book:
+
+| Route after Moria | Turn 2 solo draw | Turn 3 solo draw | Two-leg total | Trade-off |
+|---|---:|---:|---:|---|
+| Moria → Goblin-gate → Blue Mountain | 6 | 4 | **10** | Lower draw total; Goblin-gate's 3 Orc strikes at 6 apply only if you enter; no Haven healing |
+| Moria → Rivendell → Blue Mountain | 8 | 4 | **12** | Two extra draws; avoids Goblin-gate's site attack and allows wounded characters to heal to tapped at Rivendell |
+
+The totals are cards drawn across two separate Movement/Hazard Phases. Each phase has its own Hazard Limit of six for the six-character company. Haven healing does not untap the wounded characters immediately; they heal to tapped and need a later Untap Phase to become ready.
+
 ## Worked decision — store the Book, then move or wait?
 
 At Blue Mountain Dwarf-hold, the company can attempt to store Book of Mazarbul during the Organization Phase before deciding its next movement.
