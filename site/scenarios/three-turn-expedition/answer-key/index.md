@@ -88,7 +88,7 @@ If no Sage is available, the Book can still be played and stored. Among the five
 
 **Turn 2:** Redhorn Gate → Hollin → Rhudaur → High Pass. Four regions, all Wilderness. Goblin-gate is 2/1, so the Hero draws up to one and the solo Hazard side draws six. The six-character Hazard Limit is six.
 
-Goblin-gate's automatic attack is three Orc strikes at 6, but only if the company enters. Declining entry avoids the attack but also prevents site actions such as playing Gollum.
+Goblin-gate's automatic attack is three Orc strikes at 6, but only if the company enters. Declining entry avoids the attack but also prevents site actions such as playing Gollum. Gollum is an Ally, not a character, so recruiting him does not increase company size or the Hazard Limit.
 
 **Turn 3:** High Pass → Rhudaur → Arthedain → Númeriador. Four regions, all Wilderness. Blue Mountain is 1/1, so Hero draw up to one and solo Hazard draw four. There is no automatic attack.
 
