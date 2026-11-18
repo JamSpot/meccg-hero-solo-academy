@@ -23,7 +23,7 @@ The official printed solitaire procedure appears in the **Solitaire Rules** sect
 | Hazard deck | Use the separate fixed 30-card teaching list; shuffle it. |
 | Location deck | Keep the 15 site cards separate. Do not shuffle them as a play deck. |
 | Starting pool / setup | Use the five starting Dwarves and two Cram items specified by Challenge Deck C. The six character/Wizard cards are in the Hero play deck, not this starting group. Gandalf is the Academy's Wizard avatar; he is not one of the five starting Dwarves. Pallando ×3 belongs to the historical Challenge Deck C reference, not the active Gandalf-led deck. |
-| Hand size | The base solitaire hand size is **5**. Reset after each company's Movement/Hazard Phase and again at End of Turn; apply active card/effect modifiers (for example, a Sage bearing Book of Mazarbûl). Do not use the multiplayer base of 8. |
+| Hand size | The base solitaire hand size is **5**. Reset after each company's Movement/Hazard Phase and again at End of Turn. Book of Mazarbûl changes the target to 6 only after a Sage bearer taps the Book during the Organization Phase; the +1 lasts until the next Untap Phase. Do not use the multiplayer base of 8. |
 | Hero movement draw | Draw normally from the Hero play deck using the **you draw** number on the relevant Hero site card (the lighter box). The company must contain an avatar or a character with mind 3 or greater; if it qualifies, draw at least one and up to the printed number. |
 | Movement and card play | Follow the normal MECCG rules and current card text. |
 | Hazard draw | Separately draw from the Hazard deck using **2 + twice the normal Hazard-player draw number** for the relevant site. |
