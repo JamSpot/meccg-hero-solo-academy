@@ -221,7 +221,7 @@ Neither route is automatically safer. If the company is fit and wants to avoid t
 
 ## Turn 4 — store the Book
 
-After arriving at Blue Mountain during Turn 3, the company has not yet stored the Book. Storage is an **Organization Phase** action, so it is attempted in the next turn's Organization Phase while the company is at the Dwarf-hold.
+After arriving at Blue Mountain during Turn 3, the company has not yet stored the Book. Storage is an **Organization Phase** action, so it is attempted in the next turn's Organization Phase while the company is at the Dwarf-hold. It is not a Site Phase play; the company does not need to enter Blue Mountain just to store the Book.
 
 - Make the required corruption check for the Book's bearer.
 - If the check succeeds, store the Book in the Hero marshalling-point pile for 5 MPs.
