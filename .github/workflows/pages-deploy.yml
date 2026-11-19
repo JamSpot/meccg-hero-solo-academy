@@ -70,6 +70,8 @@ jobs:
           test -f _site/scenarios/resource-route-planner/answer-key/index.html
           test -f _site/scenarios/hazard-deck-balance-lab/index.html
           test -f _site/scenarios/hazard-deck-balance-lab/answer-key/index.html
+          test -f _site/scenarios/hazard-decision-lab/index.html
+          test -f _site/scenarios/hazard-decision-lab/answer-key/index.html
           grep -q 'route-risk-workshop' _site/index.html
           grep -q 'route-risk-workshop' _site/navigation/index.html
           grep -q 'resource-route-planner' _site/index.html
@@ -78,6 +80,14 @@ jobs:
           grep -q 'hazard-deck-balance-lab' _site/navigation/index.html
           grep -q 'hazard-deck-balance-lab' _site/scenarios/index.html
           grep -q 'hazard-deck-balance-lab' _site/decks/hazard-deck/index.html
+          grep -q 'hazard-decision-lab' _site/index.html
+          grep -q 'hazard-decision-lab' _site/navigation/index.html
+          grep -q 'hazard-decision-lab' _site/scenarios/index.html
+          grep -q 'hazard-decision-lab' _site/reference/hazard-player/index.html
+          grep -q 'hazard-decision-lab' _site/reference/free-movement/index.html
+          grep -q 'hazard-decision-lab' _site/routes/expedition-planner/index.html
+          grep -q 'hazard-decision-lab' _site/decks/hero-deck/index.html
+          grep -q 'hazard-decision-lab' _site/decks/hazard-deck/index.html
           grep -q 'iron-hill-expedition' _site/index.html
           grep -q 'iron-hill-expedition' _site/navigation/index.html
           grep -q 'iron-hill-expedition' _site/routes/index.html
