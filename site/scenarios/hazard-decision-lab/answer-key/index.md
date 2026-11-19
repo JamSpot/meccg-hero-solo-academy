@@ -46,7 +46,7 @@ Wake's extra-strike modifier does not add another strike to Watcher. Council of 
 
 Despair of the Heart is a corruption permanent-event. It places 2 corruption points on an eligible target. Each target makes a corruption check every time a character in that target's company becomes wounded. It cannot be duplicated on the same character.
 
-The three Despairs can therefore be placed on three different Dwarves. Dori, Kíli and Óin are particularly punishing targets because each has a −1 corruption-check modification. If a character is wounded by Watcher, each of the three targets makes a corruption check. The Despair ruling says that check occurs before the associated body check.
+The three Despairs can therefore be placed on three different Dwarves. Dori, Kíli and Óin are particularly punishing targets because each has a −1 corruption-check modification. If a character is wounded by Watcher, each of the three targets makes a corruption check. If several characters are wounded, this trigger repeats for each wound; it is not one shared check per attack. The Despair ruling says each check occurs before the associated body check.
 
 The Hero player chooses the order in which multiple corruption checks are resolved. Before each roll, other characters in the company may tap to give that check +1 each, but a character tapped to help can contribute to only one of the checks, not all three. This makes the post-Watcher state important: characters already tapped by earlier strikes or other effects may leave fewer helpers. A wounded character is not automatically tapped, so check its actual tapped status rather than assuming it cannot help. The Hero player must allocate the available support among three separate checks.
 
