@@ -14,7 +14,7 @@ The solo instruction is not “play the strongest creature first”. It is to pl
 
 ### Draw and limit
 
-Moria's normal Hazard draw is 3, so the solo Hazard draw is 2 + (2 × 3) = 8. The six-character company has a base Hazard Limit of 6. The Hero player separately draws up to two cards from the Hero play deck because the company contains an avatar and characters with mind 3 or greater.
+Moria's normal Hazard draw is 3, so the solo Hazard draw is 2 + (2 × 3) = 8. The six-character company has a base Hazard Limit of 6. The Hero player separately draws at least one and up to two cards from the Hero play deck because the company contains an avatar and characters with mind 3 or greater.
 
 ### Legality
 
