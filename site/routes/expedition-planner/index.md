@@ -288,6 +288,10 @@ Copy these prompts into a notebook after each practice game:
 - [Solo rules used by the Academy]({{ '/reference/solo-ruleset/' | relative_url }})
 - [Integrated Campaign Walkthrough]({{ '/games/campaign-walkthrough/' | relative_url }})
 
+## After the route is declared: choose the Hazard line
+
+The site path controls creature keying; the relevant site's normal Hazard number controls the solo draw; company size controls the base Hazard Limit. Do not merge those three checks. Once the route is fixed, use the [Hazard Decision Lab]({{ '/scenarios/hazard-decision-lab/' | relative_url }}) to practise selecting and sequencing the strongest legal response. Its answer key includes the Moria, Goblin-gate and Blue Mountain legs used in this planner.
+
 ---
 
 <div class="next-lesson">
