@@ -368,6 +368,10 @@ Once Games 1–3 are comfortable, the Academy can move beyond the historical tea
 The card list is based on the published [Challenge Deck C player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf). The Academy combines that historical card-list baseline with normal MECCG rules and the explicitly identified solo draw procedure. These are separate layers; the page does not claim the historical Challenge Deck was originally built for this exact solitaire procedure.
 
 
+## Practical selection and sequencing lab
+
+The [Hazard Decision Lab]({{ '/scenarios/hazard-decision-lab/' | relative_url }}) gives three constructed draws for the current routes: Moria, Goblin-gate and Blue Mountain. Use it to practise the difference between legal cards, the cards actually drawn, the fixed Hazard Limit, and the sequence that makes the company most vulnerable. Its answer key explains the Despair/Watcher line and the Full of Froth and Rage / Wake of War interaction.
+
 ## Optional advanced module — Hazard combinations
 
 After you have completed Game 1 and the core course, use the [Hazard Combination Lab]({{ '/decks/hazard-combos/' | relative_url }}) and [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }}), then check the [detailed answer key]({{ '/scenarios/hazard-combo-lab/answer-key/' | relative_url }}), to compare creature families, site-path support and tactical combinations. This is optional advanced research, not a step you need before your first game.
