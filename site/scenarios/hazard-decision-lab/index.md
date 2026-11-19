@@ -61,6 +61,8 @@ There is not one universal ranking of creatures. A single high-prowess strike ma
 | Twilight | 1 |
 | **Total** | **8** |
 
+**Frequency note:** this is an intentionally extreme stress-test hand, not a representative Moria draw. In a uniformly shuffled 30-card deck, an eight-card draw has about a **7.66%** chance of containing at least one Despair, one Full of Froth and Rage, one Wake of War and one Watcher in the Water. The exact composition shown here (all three Despairs plus one each of Watcher, Full of Froth, Wake, Seized and Twilight) is about **0.00123%**, or roughly 1 in 81,300 eight-card draws. Use it to learn the interaction, not to assume it will happen often.
+
 Answer before opening the key:
 
 - Which six cards can be played?
