@@ -434,6 +434,10 @@ For a complete practice run that joins route legality, Hazard exposure, Hero han
 
 References: [Council of Elrond Official Game Rules](https://www.councilofelrond.org/rules/) (movement declaration, Region Movement, site-path declaration and creature keying); [MECCG rules by expansion](https://meccg.com/rules/by-expansion/the-wizards/) (site-entry choice and storing items).
 
+## Movement creates the Hazard menu
+
+The declared site path determines which region-type and named-region creature keys are available, while the destination (or origin when moving to a Haven) determines the normal Hazard draw number. Company size separately fixes the Hazard Limit for that phase. A longer route can therefore expose more creature keys without increasing the number of Hazard cards drawn. Practise the resulting decisions in the [Hazard Decision Lab]({{ '/scenarios/hazard-decision-lab/' | relative_url }}), which compares the actual Moria, Goblin-gate and Blue Mountain paths.
+
 ---
 
 <div class="next-lesson">
