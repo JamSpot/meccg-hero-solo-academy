@@ -8,13 +8,13 @@ permalink: /scenarios/hazard-decision-lab/
 
 This lab teaches the solo Hazard player's most important judgement: **do not simply play the biggest-looking creature first. Build the most disadvantageous legal sequence from the cards actually drawn, while respecting the route, target, timing and Hazard Limit.**
 
-The solo procedure says to draw (2 + 2 \times) the normal Hazard-player draw for the site, then play as many drawn Hazards as possible within the company's Hazard Limit. It also directs the player to choose the Hazards in the fashion most disadvantageous for the Hero company. The exercises below use constructed hands so you can practise decisions; they are not promised or stacked real draws.
+The solo procedure says to draw 2 + 2 × the normal Hazard-player draw for the site, then play as many drawn Hazards as possible within the company's Hazard Limit. It also directs the player to choose the Hazards in the fashion most disadvantageous for the Hero company. The exercises below use constructed hands so you can practise decisions; they are not promised or stacked real draws.
 
 ## Before choosing a card: keep five numbers and facts separate
 
 1. **Hero movement draw:** the Hero player draws from the 36-card Hero play deck using the lighter site-card number, if the company qualifies.
 2. **Normal Hazard draw:** read the darker site-card number. For a move to a Haven, use the site of origin; otherwise use the new site.
-3. **Solo Hazard draw:** (2 + 2 \times) the normal Hazard draw. This is how many cards you inspect from the separate Hazard deck.
+3. **Solo Hazard draw:** 2 + 2 × the normal Hazard draw. This is how many cards you inspect from the separate Hazard deck.
 4. **Hazard Limit:** normally the company size or two, whichever is greater (apply the relevant rounding and card effects). It is fixed for that company's Movement/Hazard Phase.
 5. **Site automatic attack:** this is faced later in the Site Phase only if the Hero company enters. It is not one of the Hazard Limit slots.
 
@@ -46,7 +46,7 @@ There is not one universal ranking of creatures. A single high-prowess strike ma
 
 - Hero movement draw: up to 2 cards.
 - Normal Hazard draw: 3.
-- Solo Hazard draw: (2 + 2 \times 3 = 8).
+- Solo Hazard draw: 2 + (2 × 3) = 8.
 - Base Hazard Limit: 6, fixed for this phase.
 
 **Constructed eight-card Hazard draw:**
@@ -79,7 +79,7 @@ Answer before opening the key:
 
 - Hero movement draw: up to 1 card.
 - Normal Hazard draw: 2.
-- Solo Hazard draw: (2 + 2 \times 2 = 6).
+- Solo Hazard draw: 2 + (2 × 2) = 6.
 - Base Hazard Limit: 6.
 
 **Constructed six-card Hazard draw:**
@@ -112,7 +112,7 @@ Answer before opening the key:
 
 - Hero movement draw: up to 1 card.
 - Normal Hazard draw: 1.
-- Solo Hazard draw: (2 + 2 \times 1 = 4).
+- Solo Hazard draw: 2 + (2 × 1) = 4.
 - Base Hazard Limit: 6.
 
 **Constructed four-card Hazard draw:**
