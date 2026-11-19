@@ -167,6 +167,7 @@ After the exercise, compare your notes with the [separate model answer]({{ '/sce
 - [The Wizards — solitaire rules](https://meccg.com/rules/by-expansion/the-wizards/) — separate Hazard deck, five-card solo hand, solo Hazard draw formula, most-disadvantageous play instruction and Doors of Night exception.
 - [My Solo Rules](https://meccg.wordpress.com/my-solo-rules/) — supplementary unplayed-Hazard discard and recycling procedure adopted by this Academy.
 - [Council of Elrond Rulings Digest #50](https://meccg.es/meta/rules/MeCCG%20Rulings%20Digests%20v1.0.pdf) — Wake of War does not add strikes to an attack that specifies one strike for each character.
+- [Council of Elrond Rulings Digest #112](https://meccg.es/meta/rules/MeCCG%20Rulings%20Digests%20v1.0.pdf) — Twilight does not count against the Hazard Limit.
 - [MECCG full card spoiler](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf) — card wording and attack details; check current errata where applicable.
 
 [Return to Practice Scenarios]({{ '/scenarios/' | relative_url }}) · [Continue to Hazard Player]({{ '/reference/hazard-player/' | relative_url }}) · [Use the Expedition Planner]({{ '/routes/expedition-planner/' | relative_url }})
