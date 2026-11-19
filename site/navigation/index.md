@@ -83,6 +83,7 @@ Use the visible header menu on every page to switch sections. This map also link
 - [Solo Deck Cycle Lab]({{ '/scenarios/solo-deck-cycle-lab/' | relative_url }}) · [Model answer]({{ '/scenarios/solo-deck-cycle-lab/answer-key/' | relative_url }})
 - [Site Path Tactics Lab]({{ '/scenarios/site-path-tactics-lab/' | relative_url }}) · [Model answer]({{ '/scenarios/site-path-tactics-lab/answer-key/' | relative_url }})
 - [Support Character Recruitment Lab]({{ '/scenarios/character-recruitment-lab/' | relative_url }}) · [Model answer]({{ '/scenarios/character-recruitment-lab/answer-key/' | relative_url }})
+- [Hazard Decision Lab]({{ '/scenarios/hazard-decision-lab/' | relative_url }}) · [Model answer]({{ '/scenarios/hazard-decision-lab/answer-key/' | relative_url }})
 - [Solo Playtest Protocol]({{ '/scenarios/solo-playtest/' | relative_url }})
 - [Full Solo Scoring Trial — Second Deck Exhaustion]({{ '/scenarios/full-solo-scoring-trial/' | relative_url }})
 
