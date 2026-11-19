@@ -96,7 +96,7 @@ A creature attack resolves immediately when that creature is played. Full of Fro
 - If the first Spider attack is not defeated, Full remains in play and can continue to modify a later Spider/Animal attack.
 - Wake of War remains in play for its duration and continues to modify eligible attacks.
 
-There is no universal best Spider order. Compare the company's actual prowess, body values, taps, wounds and defensive Resources. A line that makes the Hero spend an important cancellation or defensive card on the first attack may leave the next attack much more dangerous. Do not choose attack order by strike count alone.
+There is no universal best Spider order. Giant Spiders has an extra danger beyond its two strikes: if a non-Wizard character wounded by it makes a body check equal to that character's body, that character is discarded. This makes the attack especially threatening to the Dwarf company, and may justify giving Giant Spiders the +2 Full of Froth bonus first. Compare the company's actual body values, prowess, taps, wounds and defensive Resources. A line that makes the Hero spend an important cancellation or defensive card on the first attack may leave the next attack much more dangerous. Do not choose attack order by strike count alone.
 
 A defensible sequence is to establish Wake and Full first, then consider whether Cave Worm's high single strike should force an important defender/resource commitment before the Spider attacks. After that, choose which Spider attack should receive Full's bonus first. This is a tactical judgement, not a compulsory order.
 
