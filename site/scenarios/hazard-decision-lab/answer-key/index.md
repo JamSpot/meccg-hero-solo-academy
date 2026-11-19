@@ -29,6 +29,8 @@ Moria's normal Hazard draw is 3, so the solo Hazard draw is 2 + (2 × 3) = 8. Th
 
 The six legal ordinary plays fill the six slots: three Despairs, Watcher, Full of Froth and Wake. The unplayable Seized by Terror and Twilight are handled under the Academy's supplementary end-of-phase discard convention; Twilight does not count against the limit, but still cannot be played without a legal Environment target.
 
+This is a deliberate stress-test hand, not a typical draw. The chance of seeing at least one of each of Despair, Full of Froth, Wake and Watcher in eight cards is about 7.66%; the exact eight-card composition in the exercise is about 0.00123% (roughly 1 in 81,300). The lesson is how to resolve a legal combination when it occurs, not that this exact line is common.
+
 ### The Watcher attack
 
 Watcher in the Water normally gives each character one strike at 8 prowess.
