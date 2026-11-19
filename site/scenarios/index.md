@@ -7,7 +7,9 @@ title: Practice Scenarios
 
 Start with the [First Session Practice Workbook]({{ '/scenarios/first-session/' | relative_url }}). It contains foundation exercises, with a separate [answer key]({{ '/scenarios/first-session/answer-key/' | relative_url }}).
 
-The new [Hero Opening Hand & Access Lab]({{ '/scenarios/hero-opening-hand-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/hero-opening-hand-lab/answer-key/' | relative_url }}) calculate how often the fixed 36-card Hero deck presents Book of Mazarbûl, Gandalf, Sage access and site-playable Resources. It turns opening-hand probability into a practical decision about whether to recruit, move or pursue another objective.\n\nThe first Game 1 review exposed a common beginner trap: the Hero player and the solo Hazard side draw from **different decks** during a moving company's Movement/Hazard Phase. Complete the [Movement Draw Lab]({{ '/scenarios/movement-draw-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/movement-draw-lab/answer-key/' | relative_url }}) to practise the site-card notation, Hero draw, solo Hazard formula, Hazard Limit and five-card hand reset.
+The new [Hero Opening Hand & Access Lab]({{ '/scenarios/hero-opening-hand-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/hero-opening-hand-lab/answer-key/' | relative_url }}) calculate how often the fixed 36-card Hero deck presents Book of Mazarbûl, Gandalf, Sage access and site-playable Resources. It turns opening-hand probability into a practical decision about whether to recruit, move or pursue another objective.
+
+The first Game 1 review exposed a common beginner trap: the Hero player and the solo Hazard side draw from **different decks** during a moving company's Movement/Hazard Phase. Complete the [Movement Draw Lab]({{ '/scenarios/movement-draw-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/movement-draw-lab/answer-key/' | relative_url }}) to practise the site-card notation, Hero draw, solo Hazard formula, Hazard Limit and five-card hand reset.
 
 After your first game and the movement lesson, complete the [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practice/' | relative_url }}) and its separate [model answer]({{ '/scenarios/hero-resource-practice/answer-key/' | relative_url }}). It checks which starting Dwarf can use each Resource, the real limitations of Not at Home and Marvels Told, the extra Hazard slot created by Hundreds of Butterflies, and a two-leg non-Haven route to store Book of Mazarbul.
 
@@ -65,3 +67,5 @@ The Academy uses a labelled teaching hybrid. See [Which Solo Rules Are We Using?
 ## Test the teaching decks
 
 Use the [Solo Playtest Protocol]({{ '/scenarios/solo-playtest/' | relative_url }}) to test the Hero and Hazard lists over three repeatable sessions before changing card quantities. It includes a route comparison scorecard, a recovery drill, and a three-game log.
+
+Use the new [Hazard Decision Lab]({{ '/scenarios/hazard-decision-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/hazard-decision-lab/answer-key/' | relative_url }}) to practise choosing the most disadvantageous legal Hazard sequence from constructed Moria, Goblin-gate and Blue Mountain draws. It separates route keying, solo draw volume, fixed Hazard Limit, support-event timing and Site Phase automatic attacks.
