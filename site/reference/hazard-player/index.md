@@ -103,6 +103,10 @@ This is an example under the Academy procedure, not a universal rule for every s
 
 References: [Council of Elrond Official Game Rules](https://www.councilofelrond.org/rules/) and the [Academy solo ruleset]({{ '/reference/solo-ruleset/' | relative_url }}).
 
+## Practise the full decision, not just legality
+
+Use the [Hazard Decision Lab]({{ '/scenarios/hazard-decision-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/hazard-decision-lab/answer-key/' | relative_url }}) after the route has been declared. The three constructed hands show how the same company-size limit interacts with different draw volumes, why support events must be sequenced before attacks, and how Despair of the Heart can continue to matter during a later Site Phase automatic attack.
+
 ---
 
 <div class="next-lesson">
