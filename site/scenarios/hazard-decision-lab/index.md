@@ -44,7 +44,7 @@ There is not one universal ranking of creatures. A single high-prowess strike ma
 
 **Site-card numbers:** Moria is 3/2 (opponent / Hero).
 
-- Hero movement draw: up to 2 cards.
+- Hero movement draw: must draw at least 1 and may draw up to 2 cards.
 - Normal Hazard draw: 3.
 - Solo Hazard draw: 2 + (2 × 3) = 8.
 - Base Hazard Limit: 6, fixed for this phase.
@@ -79,7 +79,7 @@ Answer before opening the key:
 
 **Site-card numbers:** Goblin-gate is 2/1 (opponent / Hero).
 
-- Hero movement draw: up to 1 card.
+- Hero movement draw: must draw at least 1 and may draw up to 1 card.
 - Normal Hazard draw: 2.
 - Solo Hazard draw: 2 + (2 × 2) = 6.
 - Base Hazard Limit: 6.
