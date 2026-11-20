@@ -99,11 +99,12 @@ It does not wound or eliminate the character. It removes that character from the
 | Dori | 1 | 2D6 result 2–10 | **33/36 = 91.7%** |
 | Kíli | 3 | 2D6 result 2–8 | **26/36 = 72.2%** |
 | Óin | 3 | 2D6 result 2–8 | **26/36 = 72.2%** |
+| Gildor | 4 | 2D6 result 2–7 | **21/36 = 58.3%** |
 | Glóin | 5 | 2D6 result 2–6 | **15/36 = 41.7%** |
 | Thorin II | 8 | 2D6 result 2–3 | **3/36 = 8.3%** |
 | Gandalf | — | Cannot be targeted | **Not eligible: Wizard** |
 
-**Default Hazard-side target: Dori.** He has the lowest mind and the highest chance of being split off. A different target could still be tactically preferable if the company state makes that character more important, but do not overlook the probability difference.
+**Do not target Dori automatically.** Dori is the easiest character to split (91.7%), so he is the best general attrition target when River is absent or the River requirement is already impossible to satisfy. But when River is in the Hazard hand, count the company's **untapped Rangers** and the number of Rivers first. If Seized by Terror can reduce the available Rangers below the number of Rivers, target a Ranger instead. In the five-Dwarf company, Óin is the only Ranger; against one River, splitting Óin can skip the Site Phase. If Gildor has joined and two Rivers are drawn, splitting Óin (mind 3) leaves only Gildor, which is still one Ranger short. In those situations, the lower split probability can be more valuable than targeting Dori.
 
 The original company's base Hazard Limit was fixed at the start of the phase. Do not lower it mid-phase simply because Seized by Terror has separated a character.
 
@@ -139,14 +140,15 @@ All six have a legal route or target opportunity on the Lórien → Wind Throne 
 
 **Your decisions:**
 
-1. Which character should the Hazard side normally target with Seized by Terror?
-2. What is the chance that target splits off?
-3. How many Hazard plays can be made against the five-Dwarf company?
-4. What changes if Gandalf has joined before the Movement/Hazard Phase?
-5. How many Rangers must the Hero player tap to satisfy both Rivers?
-6. What happens if the company has only Óin as a Ranger?
-7. What changes if Gildor has joined and both Óin and Gildor are untapped?
-8. If the company cannot satisfy both Rivers, what happens to its entire Site Phase? Can it enter the site or face the automatic attack?
+1. Assume the company has five Dwarves, Gandalf and Gildor, with Óin and Gildor both untapped, and the Hazard hand contains two Rivers. Which character should Seized by Terror target to deny entry?
+2. What is that character's chance of splitting off?
+3. How does the answer change if Gildor is absent and the company has only Óin as a Ranger?
+4. How does it change if the Hazard hand contains only one River?
+5. When is Dori the better target?
+6. How many Hazard plays can be made against the five-Dwarf company?
+7. What changes if Gandalf has joined before the Movement/Hazard Phase?
+8. How many untapped Rangers are needed to satisfy both Rivers?
+9. If the company cannot satisfy both Rivers, what happens to its entire Site Phase? Can it enter the site or face the automatic attack?
 
 Do not assume that the company automatically enters the site. Resolve the movement and Hazards first, then apply the River requirement at the beginning of the Site Phase.
 
@@ -174,7 +176,7 @@ Before looking at the answer key:
 
 ## What this teaches about the Hero deck
 
-The five starting Dwarves contain only one Ranger: Óin. Gandalf does not add Ranger skill. The active 36-card Hero deck does contain Gildor Inglorion, a Warrior/Ranger with mind 4.
+The five starting Dwarves contain only one Ranger: Óin. Gandalf does not add Ranger skill. The active 36-card Hero deck does contain Gildor Inglorion, a Warrior/Ranger with mind 4 and +2 prowess against Orcs.
 
 Gildor's Ranger skill is usually redundant because Óin already supplies it. **The Wind Throne route gives Gildor a specific second-Ranger role:** if Gildor is legally recruited into the company and remains untapped, he can help satisfy a second River.
 
@@ -184,7 +186,7 @@ There is a real cost:
 - With Óin and Gildor, both can be tapped to satisfy two Rivers.
 - Both Rangers are then tapped before the company faces The Wind Throne's three Orc strikes at 7 if it chooses to enter.
 
-Gildor is therefore a situational route-support recruit, not an automatic addition to the opening company. He is already in the 36-card deck; no deck change or purchase is required.
+Gildor is therefore a situational route-support recruit, not an automatic addition to the opening company. His +2 prowess against Orcs also helps against The Wind Throne's automatic attack, although tapping him for River applies the normal tapped-character penalty. He is already in the 36-card deck; no deck change or purchase is required.
 
 ## References
 
