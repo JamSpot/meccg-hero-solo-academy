@@ -29,15 +29,15 @@ The Site Phase automatic attack is three Orc strikes at 7. It is separate from t
 
 ## 2. Seized by Terror target
 
-The Hazard side should normally target **Dori**:
+There is no universal target. **Dori is the best probability target** when the Hazard side wants the highest chance of separating a non-Wizard character and River is absent or already guarantees a skipped Site Phase. But if River is in the Hazard hand, first count the number of Rivers and the company's untapped Rangers.
 
-- Dori has mind 1.
-- A normal roll is 2D6.
-- The total must remain below 12 after adding mind.
-- With Dori's mind of 1, any 2D6 result from 2 through 10 splits him off.
-- Those sums have 33 of the 36 possible 2D6 outcomes.
+- With one River and only Óin as an untapped Ranger, target **Óin**. If he splits off, no Ranger remains to satisfy River and the Site Phase is skipped. Óin's split chance is 26/36 (72.2%).
+- With two Rivers and Óin plus Gildor as the only two untapped Rangers, target **Óin**. If he splits off, only Gildor remains; one Ranger cannot satisfy two Rivers, so the Site Phase is skipped. Óin is more vulnerable than Gildor (72.2% versus 58.3%).
+- With two Rivers but only Óin as a Ranger, the Rivers already make the Site Phase impossible. Target **Dori** for the higher 91.7% chance of removing a character, unless Óin is otherwise the more valuable target.
+- With one River and both Óin and Gildor untapped, splitting either Ranger leaves one Ranger for the one River. Target Dori or another tactically important character instead.
+- With no River, Dori is the highest-probability target.
 
-Therefore Dori splits off on **33/36 = 91.7%** of unmodified rolls.
+The roll is 2D6 plus the target's mind. The total must remain below 12 for the target to split. Dori's mind 1 means results 2–10 split him, giving 33 of 36 outcomes and **33/36 = 91.7%**.
 
 The comparison is:
 
@@ -46,6 +46,7 @@ The comparison is:
 | Dori | 1 | 91.7% |
 | Kíli | 3 | 72.2% |
 | Óin | 3 | 72.2% |
+| Gildor | 4 | 58.3% |
 | Glóin | 5 | 41.7% |
 | Thorin II | 8 | 8.3% |
 | Gandalf | Wizard | Not a legal target |
@@ -78,7 +79,7 @@ The starting Dwarves have one Ranger: Óin. Gandalf is not a Ranger.
 - With two Rivers, Óin can satisfy only one. Without another untapped Ranger, the company must do nothing during its Site Phase.
 - If Gildor is in the company and both Gildor and Óin are untapped, they can each tap to satisfy one River.
 
-This is why Gildor's Ranger skill has a route-specific use even though Óin already supplies Ranger skill in the starting company.
+This is why Gildor's Ranger skill has a route-specific use even though Óin already supplies Ranger skill in the starting company. Gildor also has +2 prowess against Orcs, which helps against the site's three Orc strikes at 7. If he taps to satisfy River, the normal tapped-character penalty still applies, so the bonus is reduced but not erased.
 
 ### The cost of using Gildor
 
