@@ -585,6 +585,18 @@ When these boxes are checked, you have the actual physical card set needed to be
 
 The historical Challenge Deck C card identities and quantities are cross-checked against the published [Challenge Decks Player's Guide card list (PDF)](https://assets.cardgamegeek.com/public/library/meccg/Challenge_Decks_PG.pdf). The Academy keeps that historical list separate from its solo procedures and teaching adaptations. Before buying missing cards, use the checklist above and verify the physical card's title and quantity.
 
+## Gildor's second-Ranger role on the Wind Throne route
+
+The support-character table above correctly notes that Gildor duplicates Óin's Ranger skill in the starting company. That does not make the skill redundant on every route.
+
+The Wind Throne route can expose the company to **two copies of River**. The current ruling requires one Ranger to be tapped for each River; one Ranger cannot satisfy both copies. The starting company has only Óin as a Ranger, and Gandalf is not a Ranger. If two Rivers are played on the site, Óin can satisfy one, but the company still cannot take Site Phase actions unless it has a second untapped Ranger.
+
+Gildor Inglorion is already one of the five non-Wizard characters in the active 36-card Hero deck. He is a Warrior/Ranger with mind 4 and costs four of the starting company's seven unused general-influence points if controlled by general influence. If he is legally recruited before the Wind Throne expedition and remains untapped, he can provide the second Ranger.
+
+This is a **situational recruitment reason**, not a general recommendation to add Gildor to every company. If both Rivers are present, tapping Óin and Gildor satisfies them, but both Rangers are then tapped before the company faces The Wind Throne's three Orc strikes at 7 if it enters. The Hero player must weigh access to Site Phase actions against the tapped-character combat penalty.
+
+Practise the complete interaction in the [Shadow-land Route & Seized by Terror Lab]({{ '/scenarios/shadowland-route-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/shadowland-route-lab/answer-key/' | relative_url }}). The active Hero deck remains 36 cards; no character substitution is proposed.
+
 ## The Hero company's vulnerability is part of Hazard selection
 
 The Hazard side should respond to the company you actually built, not to a generic six-character target. The starting Dwarves' corruption modifiers, Gandalf's Wizard status, the Book bearer, the available Ranger, and which characters remain untapped all change the value of a Hazard line. The [Hazard Decision Lab]({{ '/scenarios/hazard-decision-lab/' | relative_url }}) shows how Despair of the Heart can target three different Dwarves while Watcher in the Water pressures the whole company, and why wounds from a later site automatic attack can still trigger those Despairs.
