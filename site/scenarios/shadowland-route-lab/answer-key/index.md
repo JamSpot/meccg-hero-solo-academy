@@ -70,7 +70,7 @@ All six are legal:
 
 River is played on a site. If the company has moved to that site this turn, it must tap a Ranger for each River or do nothing during its Site Phase.
 
-The ruling is not “tap one Ranger for all copies.” It is **one Ranger per River**. The Hero player has until the beginning of the Site Phase to satisfy the requirement and may tap the Ranger at the beginning of the Site Phase without entering.
+The ruling is not “tap one Ranger for all copies.” It is **one Ranger per River**. The Hero player has until the beginning of the Site Phase to satisfy the requirement and may tap the Ranger at the beginning of the Site Phase without entering. If any River remains unsatisfied, the Site Phase is wholly skipped: the company cannot enter the site, cannot take Site Phase actions and does not face the site's automatic attack.
 
 The starting Dwarves have one Ranger: Óin. Gandalf is not a Ranger.
 
@@ -86,7 +86,7 @@ Gildor is a 4-mind Ranger in the active Hero play deck. If he is legally recruit
 
 If the company enters The Wind Throne, it must face three Orc strikes at 7. The tapped Rangers have the normal tapped-character prowess penalty if they are assigned strikes. The Hero player must compare the value of taking Site Phase actions against the weakened combat position.
 
-If the company cannot satisfy both Rivers, it cannot take Site Phase actions. It should not pretend that it can enter and play a Resource anyway.
+If the company cannot satisfy both Rivers, its Site Phase is skipped in its entirety. It cannot enter The Wind Throne, cannot play a Resource there and does not face the three Orc automatic-attack strikes.
 
 ### Five-Dwarf versus six-character Hazard Limit
 
@@ -163,5 +163,5 @@ His Ranger skill is normally redundant beside Óin. The Wind Throne route reveal
 ## References
 
 - [Council of Elrond Official Game Rules](https://www.councilofelrond.org/rules/) — movement, Hazard Limit, draws, keying, event Hazards and Site Phase.
-- [Council of Elrond Ruling Digest archive](https://meccg.es/meta/rules/MeCCG%20Rulings%20Digests%20v1.0.pdf) — River ruling: one Ranger per River, with the tap permitted at the beginning of the Site Phase.
+- [Council of Elrond Ruling Digest archive](https://meccg.es/meta/rules/MeCCG%20Rulings%20Digests%20v1.0.pdf) — Digest #89: one Ranger per River and the tap timing; Digest #106: a company forced to do nothing has its entire Site Phase skipped and cannot enter.
 - [Middle-earth CCG Full Spoiler List](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf) — site and card text.
