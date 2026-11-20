@@ -36,6 +36,7 @@ Arda card pools, Arda rules and Arda-specific solitaire variants are maintained 
 The Dáin II / Gimli Iron Hill specialist cards and the Arouse Minions / Arouse Denizens / Brigands Hazard swaps are **future experiments only**. The active 36-card Hero deck and 30-card Hazard baseline remain unchanged until the first three baseline games are recorded.
 
 - [Hazard Decision Lab](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/hazard-decision-lab/) and [model answer](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/hazard-decision-lab/answer-key/) — constructed route-specific Hazard draws that teach legality, sequencing, support-event expiry, corruption pressure and the distinction between draw volume and Hazard Limit.
+- [Shadow-land Route & Seized by Terror Lab](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/shadowland-route-lab/) and [model answer](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/shadowland-route-lab/answer-key/) — a worked Lórien → Wind Throne route, exact 2D6 + mind probabilities, one-Ranger-per-River ruling, and Gildor's situational second-Ranger role. The active decks remain unchanged.
 
 ## Core learning loop
 Prepare → Travel → Marshal → Grow Stronger → Travel Further → Recover → Repeat
