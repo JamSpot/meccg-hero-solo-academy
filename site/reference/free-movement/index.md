@@ -428,6 +428,25 @@ For a complete worked example that joins route declaration, creature keying, sup
 
 For a complete practice run that joins route legality, Hazard exposure, Hero hand management and the decision to enter a site, use the [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practice/' | relative_url }}) and the [Expedition Decision Lab]({{ '/scenarios/expedition-decision-lab/' | relative_url }}). The [Campaign Walkthrough]({{ '/games/campaign-walkthrough/' | relative_url }}) then joins the first Moria journey, the Haven/non-Haven choice and the Blue Mountain storage sequence.
 
+## Worked Shadow-land route — Lórien to The Wind Throne
+
+The Hero version of The Wind Throne lists Lórien as its nearest Haven, so a company at Lórien can use Starter Movement. Its printed site path is Wilderness → Border-land → Shadow-land. The destination lies in Grey Mountain Narrows, which is itself a Shadow-land.
+
+This is a useful counterexample to the idea that a site's type and its region type are the same thing:
+
+- The Wind Throne is a **Ruins & Lairs** site.
+- It lies in a **Shadow-land** region.
+- Seized by Terror is legal because of the Shadow-land region type.
+- Arouse Denizens would be the relevant automatic-attack modifier for the Ruins & Lairs site in a future variant; Arouse Minions is not legal there.
+
+The destination card shows Hazard/Hero draw numbers of 2/2. The solo Hazard draw is six cards (2 + twice 2). The five-Dwarf company has a base Hazard Limit of five; adding Gandalf makes it six. The site has three Orc strikes at 7 if the company enters, but that automatic attack is separate from the Hazard Limit.
+
+A Region Movement route to The Wind Throne must still include Grey Mountain Narrows as the destination region, so the Shadow-land exposure cannot be avoided by choosing a different sequence of intervening regions. The site path determines the creature-key menu; the site draw number determines the solo draw; company size determines the Hazard Limit. Keep those three calculations separate.
+
+The two Rivers in the baseline Hazard deck create a further route-specific problem: one Ranger must be tapped for each River. Óin is the only Ranger in the starting Dwarves. Gildor, already in the active Hero deck, can provide a second Ranger if legally recruited before the expedition. The complete example is in the [Shadow-land Route & Seized by Terror Lab]({{ '/scenarios/shadowland-route-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/shadowland-route-lab/answer-key/' | relative_url }}).
+
+The Book of Mazarbûl is not playable at The Wind Throne. It is a Special Item playable only at Moria; the Wind Throne site lists Information and minor/major Items. Do not treat every item category as interchangeable.
+
 ## The rule to remember
 
 **Destination first. Legality second. Site path third. Hazard forecast fourth.**
