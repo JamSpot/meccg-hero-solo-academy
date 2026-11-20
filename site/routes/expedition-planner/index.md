@@ -309,7 +309,7 @@ The destination's region is a Shadow-land, so Seized by Terror is legal against 
 
 ### The double-River checkpoint
 
-The baseline Hazard deck contains two Rivers. One Ranger must tap for each River. The starting company has Óin as its only Ranger; Gandalf is not a Ranger. If both Rivers are played, Óin cannot satisfy both. Gildor is a Ranger in the active Hero deck and can provide a second untapped Ranger if legally recruited before departure. Tapping both Rangers allows Site Phase actions, but leaves both tapped before the three Orc strikes at 7 if the company enters.
+The baseline Hazard deck contains two Rivers. One Ranger must tap for each River. The starting company has Óin as its only Ranger; Gandalf is not a Ranger. If both Rivers are played, Óin cannot satisfy both and the entire Site Phase is skipped: the company cannot enter and does not face the automatic attack. Gildor is a Ranger in the active Hero deck and can provide a second untapped Ranger if legally recruited before departure. Tapping both Rangers satisfies the Rivers and allows entry, but leaves both tapped before the three Orc strikes at 7.
 
 **Do not plan to play Book of Mazarbûl here.** It is a Special Item playable only at Moria; The Wind Throne lists Information and minor/major Items.
 
