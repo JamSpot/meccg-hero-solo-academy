@@ -288,6 +288,33 @@ Copy these prompts into a notebook after each practice game:
 - [Solo rules used by the Academy]({{ '/reference/solo-ruleset/' | relative_url }})
 - [Integrated Campaign Walkthrough]({{ '/games/campaign-walkthrough/' | relative_url }})
 
+## Worked route C — Lórien to The Wind Throne
+
+**Mission:** test the optional Wind Throne expedition and its site-playable Resources; this is not the Book of Mazarbûl route.  
+**Origin:** Lórien.  
+**Destination:** The Wind Throne, Grey Mountain Narrows.  
+**Movement:** Starter Movement, because Lórien is listed as the nearest Haven on the Hero site card.  
+**Printed site path:** Wilderness → Border-land → Shadow-land.
+
+### Draw and limit
+
+- Hero draw: up to 2.
+- Normal Hazard draw: 2.
+- Solo Hazard draw: 2 + (2 × 2) = **6**.
+- Five-Dwarf base Hazard Limit: **5**.
+- Five Dwarves plus Gandalf: **6**.
+- Site automatic attack if entered: **three Orc strikes at 7**.
+
+The destination's region is a Shadow-land, so Seized by Terror is legal against a non-Wizard character. Dori is the default target by probability: mind 1 gives a 33/36 (91.7%) chance of splitting him off. The destination site type is Ruins & Lairs, which is a different property; it makes Arouse Denizens a possible future variant card, not Arouse Minions.
+
+### The double-River checkpoint
+
+The baseline Hazard deck contains two Rivers. One Ranger must tap for each River. The starting company has Óin as its only Ranger; Gandalf is not a Ranger. If both Rivers are played, Óin cannot satisfy both. Gildor is a Ranger in the active Hero deck and can provide a second untapped Ranger if legally recruited before departure. Tapping both Rangers allows Site Phase actions, but leaves both tapped before the three Orc strikes at 7 if the company enters.
+
+**Do not plan to play Book of Mazarbûl here.** It is a Special Item playable only at Moria; The Wind Throne lists Information and minor/major Items.
+
+Work through the six-card Hazard hand and the exact target probabilities in the [Shadow-land Route & Seized by Terror Lab]({{ '/scenarios/shadowland-route-lab/' | relative_url }}) and [model answer]({{ '/scenarios/shadowland-route-lab/answer-key/' | relative_url }}).
+
 ## After the route is declared: choose the Hazard line
 
 The site path controls creature keying; the relevant site's normal Hazard number controls the solo draw; company size controls the base Hazard Limit. Do not merge those three checks. Once the route is fixed, use the [Hazard Decision Lab]({{ '/scenarios/hazard-decision-lab/' | relative_url }}) to practise selecting and sequencing the strongest legal response. Its answer key includes the Moria, Goblin-gate and Blue Mountain legs used in this planner.
