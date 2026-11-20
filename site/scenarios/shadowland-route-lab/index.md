@@ -146,7 +146,7 @@ All six have a legal route or target opportunity on the Lórien → Wind Throne 
 5. How many Rangers must the Hero player tap to satisfy both Rivers?
 6. What happens if the company has only Óin as a Ranger?
 7. What changes if Gildor has joined and both Óin and Gildor are untapped?
-8. If the company cannot satisfy both Rivers, can it still take Site Phase actions?
+8. If the company cannot satisfy both Rivers, what happens to its entire Site Phase? Can it enter the site or face the automatic attack?
 
 Do not assume that the company automatically enters the site. Resolve the movement and Hazards first, then apply the River requirement at the beginning of the Site Phase.
 
@@ -189,7 +189,7 @@ Gildor is therefore a situational route-support recruit, not an automatic additi
 ## References
 
 - [Council of Elrond Official Game Rules](https://www.councilofelrond.org/rules/) — Starter Movement, site paths, Hazard Limit, card draws, creature keying, event Hazards and Site Phase.
-- [Council of Elrond Ruling Digest archive (PDF)](https://meccg.es/meta/rules/MeCCG%20Rulings%20Digests%20v1.0.pdf) — River: one Ranger must be tapped for each River, with the Ranger tapped at the beginning of the Site Phase if necessary.
+- [Council of Elrond Ruling Digest archive (PDF)](https://meccg.es/meta/rules/MeCCG%20Rulings%20Digests%20v1.0.pdf) — Digest #89: one Ranger per River and the tap timing; Digest #106: an unsatisfied River requirement skips the Site Phase entirely and the company cannot enter.
 - [Middle-earth CCG Full Spoiler List (PDF)](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf) — Hero The Wind Throne, Grey Mountain Narrows, Seized by Terror, River, Book of Mazarbûl and creature card text.
 
 [Open the model answer]({{ '/scenarios/shadowland-route-lab/answer-key/' | relative_url }}) · [Return to the Practice Scenarios index]({{ '/scenarios/' | relative_url }})
