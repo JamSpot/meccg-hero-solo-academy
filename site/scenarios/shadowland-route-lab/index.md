@@ -118,9 +118,9 @@ For a fresh six-card draw without replacement:
 | At least one Seized by Terror | 53/145 | **36.6%** |
 | At least one River | 53/145 | **36.6%** |
 | Both River copies | 3/87 | **3.45%** |
-| At least one Seized by Terror and at least one River |  | **11.9%** |
+| At least one Seized by Terror and at least one River | 31/261 | **11.9%** |
 
-If Seized by Terror is drawn and played on Dori, the roll splits him off 91.7% of the time. The chance that a fresh six-card draw both contains Seized by Terror and then splits Dori, assuming it is played and no modifier changes the roll, is about **33.5%**.
+If Seized by Terror is drawn and played on Dori, the unmodified roll splits him off 91.7% of the time. If both copies are drawn, each is a separate potential play; do not treat the one-copy roll probability as the exact combined chance for two attempts.
 
 These are exact deck-composition probabilities. They are not win probabilities and do not mean a card will always be chosen when drawn.
 
