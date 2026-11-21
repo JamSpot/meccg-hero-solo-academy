@@ -55,7 +55,7 @@ This is a supplementary map exercise. Hero Eagles’ Eyrie is **not** in the loc
 
 ### Leg 1: Lórien → Eagles’ Eyrie
 
-Eagles’ Eyrie is a Hero Free-hold in Anduin Vales, with Lórien as its nearest Haven. Starter Movement is legal.
+Eagles’ Eyrie is a Hero Free-hold in Anduin Vales, with Lórien as its nearest Haven. Starter Movement is legal. Its printed Hero site path is **Wilderness → Border-land**, so Seized by Terror is not legal on this first leg either.
 
 | Measure | Lórien → Eagles’ Eyrie |
 |---|---:|
