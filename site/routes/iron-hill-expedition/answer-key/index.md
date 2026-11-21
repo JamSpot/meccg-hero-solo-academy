@@ -90,3 +90,8 @@ The Eagles’ Eyrie route is a useful **rules demonstration**, but it has no Res
 The route confirms that Seized by Terror is not a universally dead card: it is inactive on the three opening campaign paths but becomes legal on the route through Grey Mountain Narrows. The proposed Arouse Minions swap does not help at Iron Hill because the destination is a Free-hold. Brigands is legal on both routes because each includes Border-land and/or Wilderness.
 
 This is why the Academy keeps the baseline list fixed until the first three games are recorded and tests variants by route rather than declaring one universal Hazard list superior.
+
+
+## Further practice: River and Seized by Terror
+
+The direct Starter Movement route makes Seized by Terror illegal, while the staged Region Movement route through Grey Mountain Narrows makes it legal. Combine that route difference with River's one-Ranger-per-copy requirement in the [Iron Hill — River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/iron-hill-river-lab/answer-key/' | relative_url }}).
