@@ -170,3 +170,8 @@ See the [model answer]({{ '/routes/iron-hill-expedition/answer-key/' | relative_
 - [Hazard deck audit]({{ '/decks/hazard-deck/' | relative_url }})
 
 **Teaching point:** the longest printed Starter site path is not automatically illegal or more dangerous. Compare the actual movement method, region types, named regions, card keys and draw numbers before choosing a route.
+
+
+## Further practice: River and Seized by Terror
+
+The direct Starter Movement route makes Seized by Terror illegal, while the staged Region Movement route through Grey Mountain Narrows makes it legal. Combine that route difference with River's one-Ranger-per-copy requirement in the [Iron Hill — River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/iron-hill-river-lab/answer-key/' | relative_url }}).
