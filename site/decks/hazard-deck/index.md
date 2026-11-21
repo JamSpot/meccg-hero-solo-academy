@@ -401,3 +401,10 @@ The Wind Throne is a **Ruins & Lairs in a Shadow-land**, not a Shadow-hold. Seiz
 
 Use the [Shadow-land Route & Seized by Terror Lab]({{ '/scenarios/shadowland-route-lab/' | relative_url }}) for the six-card draw, exact probabilities, River timing and Gildor recruitment decision. Its [model answer]({{ '/scenarios/shadowland-route-lab/answer-key/' | relative_url }}) distinguishes the baseline deck from the proposed Arouse Denizens variant.
 
+
+
+## River + Seized by Terror: route-dependent Site Phase denial
+
+The two River copies and two Seized by Terror copies are not a universal combination: Seized by Terror requires a Shadow-land or Dark-domain in the company's site path, while River is playable on the destination site. On the direct Lórien → Iron Hill Starter Movement path, Seized is illegal. On the supplementary Eagles’ Eyrie → Iron Hill Region Movement path through Grey Mountain Narrows, it is legal.
+
+Against five Dwarves, Óin is the only Ranger. If one River and Seized are both drawn on the Shadow-land route, target Óin: his 2D6 + mind result splits him on 26/36 outcomes (72.2%), leaving no Ranger to satisfy River. If two Rivers are drawn, the five-Dwarf company already lacks the two Rangers required; target Dori for the higher 91.7% split chance unless another tactical consideration matters. With Óin and Gildor both untapped, one River can still be satisfied after one Ranger splits, but two Rivers cannot. See the [Iron Hill River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/iron-hill-river-lab/answer-key/' | relative_url }}).
