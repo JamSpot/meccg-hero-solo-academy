@@ -43,7 +43,7 @@ Grey Mountain Narrows is the decisive difference: **Seized by Terror is legal** 
 
 The Iron Hill destination still has normal Hazard draw 3, so the final leg draws **8** solo Hazard cards and up to **3** Hero cards. The five-Dwarf Hazard Limit is 5.
 
-Across the two separate movement/hazard phases, the route draws **4 + 8 = 12** solo Hazard cards and up to **1 + 3 = 4** Hero cards. These are separate phases on separate turns, not one combined twelve-card draw. The first phase's Hazard Limit does not carry over to the second; it is set again at the start of the later phase.
+Across the two separate movement/hazard phases on **two separate turns**, the route draws **4 + 8 = 12** solo Hazard cards and up to **1 + 3 = 4** Hero cards. These are separate draws with the Hero hand reset handled at each phase boundary, not one combined twelve-card draw. The first phase's Hazard Limit does not carry over to the second; it is set again at the start of the later phase.
 
 Eagles’ Eyrie is not in the locked first-play 15-site Location deck and offers no playable Resource category for the active deck. The route is a supplementary rules exercise, not a recommended detour for the Iron Hill faction campaign.
 
