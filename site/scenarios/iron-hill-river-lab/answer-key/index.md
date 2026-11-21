@@ -137,3 +137,17 @@ Therefore, for the actual Iron Hill Dwarves objective, **direct Starter Movement
 Do not change the Hero or Hazard list because of this exercise. The 36-card Hero play deck already contains Gildor, and the 30-card Hazard deck already contains River ×2 and Seized by Terror ×2. First record how often these cards actually appear and whether River meaningfully denies the faction attempt during the baseline or a deliberately configured supplementary test.
 
 [Return to the Iron Hill — River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }})
+
+
+## 9. Fresh-draw probability check
+
+For a fresh eight-card draw from 30 cards containing two River and two Seized by Terror:
+
+- At least one River: **68/145 = 46.9%**.
+- At least one Seized by Terror: **68/145 = 46.9%**.
+- At least one of each: **802/3915 = 20.5%**.
+- Both River copies: **28/435 = 6.44%**.
+
+The joint probability is calculated without replacement as 1 − 2 × C(28,8)/C(30,8) + C(26,8)/C(30,8).
+
+This is an isolated fresh-draw calculation. In the actual staged expedition, the first four-card Hazard draw and the end-of-phase discard/recycling procedure change the second leg's available cards, so do not quote 20.5% as the exact continuous-campaign probability.
