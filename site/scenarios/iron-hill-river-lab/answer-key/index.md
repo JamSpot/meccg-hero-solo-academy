@@ -85,7 +85,7 @@ Therefore:
 - One River requires one Ranger.
 - Two Rivers require two Rangers.
 - If the company cannot meet the number of Rangers required, it must do nothing during its Site Phase. It cannot enter Iron Hill or attempt Iron Hill Dwarves.
-- Because Iron Hill has no automatic attack, the River interaction is about denying the faction and other site actions, not avoiding an automatic attack.
+- Because Iron Hill has no automatic attack, the River interaction is about denying the faction and other site actions, not avoiding an automatic attack. If enough Rangers tap, the Site Phase proceeds; the Rangers used for River are tapped, but an untapped eligible influencer such as Thorin II or Glóin can still attempt the faction.
 
 ## 5. Correct Hazard target
 
