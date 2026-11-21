@@ -105,7 +105,7 @@ The route passes through Grey Mountain Narrows, a Shadow-land. Seized by Terror 
 | River at Iron Hill | Yes | Yes |
 | Iron Hill automatic attack | None | None |
 
-The detour adds a separate movement/hazard phase and four more solo Hazard draws. It does not improve the Iron Hill faction objective, and Eagles’ Eyrie has no site-playable Resource for this deck. Do not take this detour in a real campaign merely to visit another site.
+The detour takes **two turns**: reach Eagles’ Eyrie on the first, then move to Iron Hill on a later turn. It adds a separate movement/hazard phase and four more solo Hazard draws. It does not improve the Iron Hill faction objective, and Eagles’ Eyrie has no site-playable Resource for this deck. Do not take this detour in a real campaign merely to visit another site.
 
 ## The River–Seized by Terror combination
 
