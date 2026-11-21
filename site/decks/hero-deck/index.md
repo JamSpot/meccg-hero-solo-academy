@@ -612,3 +612,10 @@ Keep this Hero list unchanged for your first run. Now assemble the Hazard deck, 
 [Build the Hazard deck →]({{ '/decks/hazard-deck/' | relative_url }})
 
 </div>
+
+
+## Route choice is part of Hero defence: Iron Hill
+
+The direct Lórien → Iron Hill Starter Movement path has no Shadow-land or Dark-domain, so Seized by Terror is not legal. A staged route through Eagles’ Eyrie and Grey Mountain Narrows makes it legal but adds a separate Movement/Hazard Phase and four more solo Hazard draws. The [Iron Hill River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) shows why the direct route is the better default for the faction objective.
+
+Gildor is already in this 36-card deck and provides a second Ranger alongside Óin. That redundancy can satisfy one River after one Ranger is split, but two Rivers still require two untapped Rangers. The exercise explains why the Hero player should preserve both Rangers until the Site Phase rather than assume Gildor makes the company immune.
