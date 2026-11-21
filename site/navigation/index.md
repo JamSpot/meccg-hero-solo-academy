@@ -85,6 +85,7 @@ Use the visible header menu on every page to switch sections. This map also link
 - [Support Character Recruitment Lab]({{ '/scenarios/character-recruitment-lab/' | relative_url }}) · [Model answer]({{ '/scenarios/character-recruitment-lab/answer-key/' | relative_url }})
 - [Hazard Decision Lab]({{ '/scenarios/hazard-decision-lab/' | relative_url }}) · [Model answer]({{ '/scenarios/hazard-decision-lab/answer-key/' | relative_url }})
 - [Shadow-land Route & Seized by Terror Lab]({{ '/scenarios/shadowland-route-lab/' | relative_url }}) · [Model answer]({{ '/scenarios/shadowland-route-lab/answer-key/' | relative_url }})
+- [Iron Hill — River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) · [Model answer]({{ '/scenarios/iron-hill-river-lab/answer-key/' | relative_url }})
 - [Solo Playtest Protocol]({{ '/scenarios/solo-playtest/' | relative_url }})
 - [Full Solo Scoring Trial — Second Deck Exhaustion]({{ '/scenarios/full-solo-scoring-trial/' | relative_url }})
 
