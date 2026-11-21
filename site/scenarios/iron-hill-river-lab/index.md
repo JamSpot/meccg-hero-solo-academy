@@ -33,7 +33,7 @@ The printed site path is:
 
 **Wilderness → Border-land → Border-land → Wilderness → Wilderness**
 
-That is five region-type symbols. It is still legal Starter Movement: the four-region maximum applies to normal Region Movement, not Starter Movement.
+That is five region-type symbols. It is still legal Starter Movement: the four-region maximum applies to normal Region Movement, not Starter Movement. A direct Region Movement from Lórien to Iron Hills would require five regions including both endpoints, so it is not legal.
 
 | Measure | Direct route |
 |---|---:|
@@ -121,7 +121,7 @@ The two cards attack different parts of the turn:
 - Seized by Terror removes a character from the moving company and sends that character back to the origin.
 - River checks whether enough Rangers remain to permit any Site Phase actions at the destination.
 
-Both are ordinary Hazard plays and count against the Hazard Limit. Against the five starting Dwarves, the limit is five. The solo side draws eight cards on the Iron Hill leg but may play no more than five ordinary Hazards.
+Both are ordinary Hazard plays and count against the Hazard Limit. Against the five starting Dwarves, the limit is five. The solo side draws eight cards on the Iron Hill leg but may play no more than five ordinary Hazards, assuming the Hazard player did not access the sideboard during the turn's Untap Phase. If the sideboard was accessed, the base limit is halved, rounded up. The limit is fixed at the start of the Movement/Hazard Phase, even if Seized by Terror later splits a character away.
 
 ## Exact Seized by Terror probabilities
 
