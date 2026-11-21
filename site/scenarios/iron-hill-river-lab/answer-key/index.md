@@ -26,7 +26,7 @@ River is legal because it is playable on a site. If played, it requires one Rang
 
 ## 2. The supplementary route via Eagles’ Eyrie
 
-Lórien → Eagles’ Eyrie is legal Starter Movement because Eyrie lists Lórien as its nearest Haven. Its normal Hazard draw is 1 and Hero draw is 1:
+Lórien → Eagles’ Eyrie is legal Starter Movement because Eyrie lists Lórien as its nearest Haven. Its printed Hero site path is Wilderness → Border-land, with no Shadow-land or Dark-domain, so Seized by Terror is illegal on this first leg too. Its normal Hazard draw is 1 and Hero draw is 1:
 
 - Solo Hazard draw: 2 + (2 × 1) = **4**.
 - Hero draw: up to **1**.
