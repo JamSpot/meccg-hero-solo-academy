@@ -55,3 +55,8 @@ Use the [Games and Lessons index]({{ '/games/' | relative_url }}) for the later 
 Every lesson should tell you what to accomplish, what cards you need, what to do physically, where to stop and decide, which rule explains the choice, and what to practise next.
 
 > **Course rule:** do not introduce a new system merely because it exists. Introduce it when it solves a problem you have already encountered at the table.
+
+
+## Advanced route practice — Iron Hill
+
+After the basic movement and Hazard lessons, complete the [Iron Hill — River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/iron-hill-river-lab/answer-key/' | relative_url }}). It compares a direct Starter Movement route with a staged Region Movement route through Grey Mountain Narrows, then tests whether the remaining Rangers can satisfy River.
