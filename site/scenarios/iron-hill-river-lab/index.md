@@ -138,6 +138,10 @@ The result is **2D6 + target mind**. A total below 12 splits the character.
 
 A failed split does not wound or tap the target. It simply means the split effect does not occur.
 
+### How often do River and Seized appear together?
+
+In an **isolated fresh eight-card draw** from the 30-card Hazard deck, the chance of at least one River and at least one Seized by Terror is **802/3915 = 20.5%** (about one in five). The chance of seeing both River copies is **28/435 = 6.44%**. These are deck-composition probabilities, not win probabilities. They are not the exact probability for the second leg of a continuous two-leg expedition, because the first leg changes which cards remain in the draw pile and discard pile.
+
 ## Hazard-side decision rule: count Rangers before choosing a target
 
 The starting five Dwarves have only one Ranger: **Óin**. Gandalf is not a Ranger. Gildor Inglorion, already in the active Hero play deck, is a second Ranger if he has been legally recruited and is in the company.
