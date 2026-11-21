@@ -114,7 +114,7 @@ The active Hazard deck contains **two River** and **two Seized by Terror**.
 - **River** is a short-event playable on a site. If a company moved to that site this turn, it must tap a Ranger for each River played there or do nothing during its Site Phase.
 - **Seized by Terror** is a short-event playable on a non-Wizard character moving in a Shadow-land or Dark-domain. The target rolls 2D6 and adds his mind. If the result is less than 12, he splits into a separate company and immediately returns to the original company's site of origin.
 
-The River erratum/ruling allows the Ranger to be tapped at the beginning of the Site Phase, without first entering the site. It requires **one Ranger for each River**. If the requirement is not met, the company must do nothing during its Site Phase: it cannot enter Iron Hill or attempt the Iron Hill Dwarves faction.
+The River erratum/ruling allows the Ranger to be tapped at the beginning of the Site Phase, without first entering the site. It requires **one Ranger for each River**. If the requirement is not met, the company must do nothing during its Site Phase: it cannot enter Iron Hill or attempt the Iron Hill Dwarves faction. If the requirement is met, the company may proceed with its Site Phase, but every Ranger used to satisfy a River is now tapped. River does not itself cancel the faction attempt; an untapped eligible influencer such as Thorin II or Glóin may still make it.
 
 The two cards attack different parts of the turn:
 
