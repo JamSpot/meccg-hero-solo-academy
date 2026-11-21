@@ -151,3 +151,17 @@ For a fresh eight-card draw from 30 cards containing two River and two Seized by
 The joint probability is calculated without replacement as 1 − 2 × C(28,8)/C(30,8) + C(26,8)/C(30,8).
 
 This is an isolated fresh-draw calculation. In the actual staged expedition, the first four-card Hazard draw and the end-of-phase discard/recycling procedure change the second leg's available cards, so do not quote 20.5% as the exact continuous-campaign probability.
+
+
+## 10. Company size when Gildor or Gandalf joins
+
+The five-Dwarf route calculations use a five-character company, so the base Hazard Limit is 5. Do not keep using five after recruiting support characters:
+
+| Moving company | Characters | Base Hazard Limit |
+|---|---:|---:|
+| Five starting Dwarves | 5 | 5 |
+| Five Dwarves + Gandalf | 6 | 6 |
+| Five Dwarves + Gildor | 6 | 6 |
+| Five Dwarves + Gandalf + Gildor | 7 | 7 |
+
+The solo Hazard draw on the Iron Hill leg remains eight because the site's normal Hazard draw is still three. Company size changes the number of Hazards the Hazard player may play, not the number drawn. The limit is fixed at the start of that company's Movement/Hazard Phase even if Seized by Terror later splits one character away.
