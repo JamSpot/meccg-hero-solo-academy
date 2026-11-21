@@ -56,6 +56,8 @@ Use the new [Hazard Deck Balance Lab]({{ '/scenarios/hazard-deck-balance-lab/' |
 
 Use the [Hazard Combination Practice Lab]({{ '/scenarios/hazard-combo-lab/' | relative_url }}) when you are ready to test how the actual Dwarven Quest Hazard cards interact. It focuses on legality, timing, keying, support cards, and repeatable evidence rather than assumed combos.
 
+Use the new [Iron Hill — River & Seized by Terror Route Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/iron-hill-river-lab/answer-key/' | relative_url }}) to compare direct Starter Movement with a staged four-region Region Movement through Grey Mountain Narrows. It tests the exact Seized by Terror split odds, the one-Ranger-per-River ruling, the Site Phase denial decision, and why the direct route remains the better default for the Iron Hill faction objective.
+
 ## Curriculum
 
 The practice bank builds progressively through Foundation, Movement, Hazard, Combat, Expedition, Compression, Position, Corruption, Abort, Campaign, and Masterclass. Only completed and published exercises count as part of the bank.
