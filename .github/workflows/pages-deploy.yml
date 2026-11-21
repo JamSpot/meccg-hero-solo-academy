@@ -104,6 +104,8 @@ jobs:
           grep -q 'iron-hill-river-lab' _site/scenarios/index.html
           grep -q 'iron-hill-river-lab' _site/routes/index.html
           grep -q 'iron-hill-river-lab' _site/routes/expedition-planner/index.html
+          grep -q 'iron-hill-river-lab' _site/routes/iron-hill-expedition/index.html
+          grep -q 'iron-hill-river-lab' _site/routes/iron-hill-expedition/answer-key/index.html
           grep -q 'iron-hill-river-lab' _site/reference/free-movement/index.html
           grep -q 'iron-hill-river-lab' _site/reference/hazard-player/index.html
           grep -q 'iron-hill-river-lab' _site/decks/hero-deck/index.html
