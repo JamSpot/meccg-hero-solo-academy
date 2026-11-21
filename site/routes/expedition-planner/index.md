@@ -330,3 +330,8 @@ Use the route you just planned. Now examine the Hazard hand and decide what can 
 [Open the Hazard Player guide →]({{ '/reference/hazard-player/' | relative_url }})
 
 </div>
+
+
+## Iron Hill route decision: don't take a detour without a reward
+
+The direct Lórien → Iron Hill Starter Movement route draws eight solo Hazards in one phase and keeps Seized by Terror illegal. The optional route via Eagles’ Eyrie draws four Hazards on the first leg and eight on the second, and exposes the company to Seized by Terror through Grey Mountain Narrows. Eyrie has no playable Resource category for the active deck, so this is a rules exercise rather than a recommended campaign waypoint. Compare the routes in the [Iron Hill River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) and use its [model answer]({{ '/scenarios/iron-hill-river-lab/answer-key/' | relative_url }}) before planning the faction attempt.
