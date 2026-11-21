@@ -8,7 +8,7 @@ permalink: /scenarios/iron-hill-river-lab/
 
 This advanced exercise compares two legal ways to reach the **same Iron Hill Dwarf-hold**. It shows why a route is not merely a way to reach a site: the declared site path changes which Hazards can be played.
 
-The lesson uses only cards already in the fixed Hero and Hazard lists. It does **not** change Game 1, the 36-card Hero play deck, the 30-card Hazard deck, or the 15-site first-play Location deck.
+The lesson uses only cards already in the fixed Hero and Hazard lists. It does **not** change Game 1, the 36-card Hero play deck, the 30-card Hazard deck, or the 15-site first-play Location deck. Unless a practice case explicitly adds Gildor, the worked route calculations assume the **five starting Dwarves only**. Gandalf is the Wizard avatar in the Hero play deck, not part of the five-Dwarf starting company.
 
 ## The destination
 
@@ -121,7 +121,7 @@ The two cards attack different parts of the turn:
 - Seized by Terror removes a character from the moving company and sends that character back to the origin.
 - River checks whether enough Rangers remain to permit any Site Phase actions at the destination.
 
-Both are ordinary Hazard plays and count against the Hazard Limit. Against the five starting Dwarves, the limit is five. The solo side draws eight cards on the Iron Hill leg but may play no more than five ordinary Hazards, assuming the Hazard player did not access the sideboard during the turn's Untap Phase. If the sideboard was accessed, the base limit is halved, rounded up. The limit is fixed at the start of the Movement/Hazard Phase, even if Seized by Terror later splits a character away.
+Both are ordinary Hazard plays and count against the Hazard Limit. Against the five starting Dwarves, the limit is five. If Gandalf or Gildor joins, the company has six characters and its base limit becomes six; if both join, it has seven characters and its base limit becomes seven. The solo side still draws eight cards on the Iron Hill leg because the site's normal Hazard draw remains three. These limits assume the Hazard player did not access the sideboard during the turn's Untap Phase. If the sideboard was accessed, the base limit is halved, rounded up. The limit is fixed at the start of the Movement/Hazard Phase, even if Seized by Terror later splits a character away.
 
 ## Exact Seized by Terror probabilities
 
