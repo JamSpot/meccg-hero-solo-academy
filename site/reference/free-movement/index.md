@@ -468,3 +468,10 @@ Now apply movement rules to a real decision. Choose the destination, verify a le
 [Open the Expedition Planner →]({{ '/routes/expedition-planner/' | relative_url }})
 
 </div>
+
+
+## Iron Hill: the same destination, different Hazard keys
+
+Direct Starter Movement from Lórien to Iron Hill uses the printed five-symbol path Wilderness → Border-land → Border-land → Wilderness → Wilderness. It is legal because Iron Hill lists Lórien as its nearest Haven, and the four-region maximum does not apply to Starter Movement. No Shadow-land or Dark-domain appears, so Seized by Terror is illegal.
+
+A supplementary route via Eagles’ Eyrie uses Region Movement through Anduin Vales → Grey Mountain Narrows → Northern Rhovanion → Iron Hills. This is four adjacent regions and includes a Shadow-land, making Seized by Terror legal. The staged route adds a separate Movement/Hazard Phase and four more solo Hazard draws; Eagles’ Eyrie is not in the locked 15-site first-play Location deck. The [Iron Hill River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) works through the route comparison and the one-Ranger-per-River Site Phase rule.
