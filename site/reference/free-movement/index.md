@@ -475,3 +475,17 @@ Now apply movement rules to a real decision. Choose the destination, verify a le
 Direct Starter Movement from Lórien to Iron Hill uses the printed five-symbol path Wilderness → Border-land → Border-land → Wilderness → Wilderness. It is legal because Iron Hill lists Lórien as its nearest Haven, and the four-region maximum does not apply to Starter Movement. No Shadow-land or Dark-domain appears, so Seized by Terror is illegal.
 
 A supplementary route via Eagles’ Eyrie uses Region Movement through Anduin Vales → Grey Mountain Narrows → Northern Rhovanion → Iron Hills. This is four adjacent regions and includes a Shadow-land, making Seized by Terror legal. The staged route adds a separate Movement/Hazard Phase and four more solo Hazard draws; Eagles’ Eyrie is not in the locked 15-site first-play Location deck. The [Iron Hill River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) works through the route comparison and the one-Ranger-per-River Site Phase rule.
+
+## River and Seized by Terror: route choice changes legality, not draw volume
+
+Compare the three routes below before declaring movement:
+
+| Route | Movement | Solo Hazard draw | Seized by Terror |
+|---|---|---:|---|
+| Lórien → The Wind Throne | Starter | 6 | Legal: printed path includes a Shadow-land |
+| Lórien → Iron Hill | Starter | 8 | Illegal: printed path has no Shadow-land or Dark-domain |
+| Eagles’ Eyrie → Iron Hill | Region | 8 | Legal: Grey Mountain Narrows is a Shadow-land |
+
+The direct Iron Hill route and the Eyrie-to-Iron-Hill leg both draw eight solo Hazards because Iron Hill's normal Hazard draw is three. The route changes which creature/event keys are legal; it does not multiply the draw. Eagles’ Eyrie remains a supplementary map exercise outside the locked 15-site Location deck.
+
+Before moving, count the Rangers who will still be untapped at the beginning of the Site Phase. One River needs one Ranger; two Rivers need two. If Seized by Terror can be played, ask whether splitting one Ranger would actually leave too few Rangers. The [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) works through the six- and eight-card draws and the exact one- versus two-Ranger probabilities.

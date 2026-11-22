@@ -22,6 +22,8 @@ The Route Atlas treats each trip as a decision, not just a line on a map.
 - [Route Workshop]({{ '/reference/route-workshop/' | relative_url }}) — reusable route scorecard and legality drills.
 - [Free / Player-Directed Movement]({{ '/reference/free-movement/' | relative_url }}) — the movement and site-path rules behind the examples.
 
+- [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) — compare one- and two-Ranger companies against River and Seized by Terror.
+
 ## The route rule
 
 For normal Region Movement, count the origin and destination regions. Four is the maximum; no region may repeat; every adjacent pair must be legal. A route that reaches the destination in fewer turns is not automatically safer or better.
