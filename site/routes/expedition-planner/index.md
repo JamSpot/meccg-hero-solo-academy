@@ -335,3 +335,19 @@ Use the route you just planned. Now examine the Hazard hand and decide what can 
 ## Iron Hill route decision: don't take a detour without a reward
 
 The direct Lórien → Iron Hill Starter Movement route draws eight solo Hazards in one phase and keeps Seized by Terror illegal. The optional route via Eagles’ Eyrie draws four Hazards on the first leg and eight on the second, and exposes the company to Seized by Terror through Grey Mountain Narrows. Eyrie has no playable Resource category for the active deck, so this is a rules exercise rather than a recommended campaign waypoint. Compare the routes in the [Iron Hill River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) and use its [model answer]({{ '/scenarios/iron-hill-river-lab/answer-key/' | relative_url }}) before planning the faction attempt.
+
+## Add a Ranger-capacity check before committing to a route
+
+For a route with a site destination, record the following alongside the normal movement and Hazard calculations:
+
+| Check | Your note |
+|---|---|
+| Does the printed/declared site path contain a Shadow-land or Dark-domain? | |
+| Is Seized by Terror legal on this movement? | |
+| How many Rangers are in the moving company? | |
+| How many of those Rangers should still be untapped at the start of the Site Phase? | |
+| Could one or two Rivers be played on the destination? | |
+| If Seized splits one Ranger, can the remaining Rangers still pay the River cost? | |
+| Is the objective worth the route exposure? | |
+
+Do not count Gandalf as a Ranger. Gildor is the second Ranger in the current support package. The [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) supplies the worked probabilities and model answers.
