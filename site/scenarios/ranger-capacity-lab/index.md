@@ -37,6 +37,8 @@ Count the Rangers who are actually in the moving company. Gandalf is a Scout, no
 
 The five-Dwarf company has only Óin as a Ranger. Gandalf increases company size and therefore the Hazard Limit, but does **not** add a Ranger. Gildor is the only character in the active six-card support package who adds a second Ranger. Balin, Boromir II, Celeborn and Fíli do not add Ranger skill.
 
+The **five Dwarves + Gildor** row measures that moving company with Gandalf in a separate company (or otherwise not part of this moving company). A separate Gandalf company has its own Movement/Hazard Phase and Hazard Limit. If Gandalf joins the Dwarves and Gildor, use the seven-character row.
+
 A company away from a Haven cannot exceed seven characters. The seven-character profile is therefore the largest version of this Dwarf company that can move together away from a Haven.
 
 ## What River actually asks you to do
