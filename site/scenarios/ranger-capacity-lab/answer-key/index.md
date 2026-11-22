@@ -28,6 +28,8 @@ This is the central distinction: company size changes the Hazard Limit, but only
 
 The company has six characters and two Rangers: Óin and Gildor. Its base Hazard Limit is six. One River can be satisfied by either Ranger; two Rivers can be satisfied by tapping both, provided both are untapped and remain in the company.
 
+This six-character example is the Dwarf/Gildor moving company while Gandalf is in a separate company. That separate company has its own Movement/Hazard Phase and Hazard Limit. If Gandalf joins the Dwarves and Gildor, the moving company has seven characters and a base Hazard Limit of seven.
+
 ## 5. One River, Seized by Terror, and two untapped Rangers
 
 If Seized by Terror splits Óin, Gildor remains and can tap for River. If it splits Gildor, Óin remains. One split cannot remove both Rangers, so the Hazard player cannot guarantee Site Phase denial with one River and one Seized by Terror.
