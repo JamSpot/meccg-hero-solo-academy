@@ -108,7 +108,7 @@ The chance both split is:
 | 6 cards | 1381/131544 = **1.05%** |
 | 8 cards | 3941/140940 = **2.80%** |
 
-These figures assume both Rangers begin untapped, no other effect changes the company, the Hazard player chooses the River/Seized line, and all cards come from a fresh shuffled deck. They are not the probability of winning the game, nor the exact probability of a later draw in a continuous expedition.
+These figures assume both Rangers begin untapped, no other effect changes the company, the Hazard player chooses the River/Seized line, no sideboard access has halved the Hazard Limit, and all cards come from a fresh shuffled deck. They are not the probability of winning the game, nor the exact probability of a later draw in a continuous expedition.
 
 The one-Ranger profile is more vulnerable because two Rivers alone can deny the Site Phase. A second Ranger sharply reduces the number of River/Seized combinations that can do so. A larger company that adds no Ranger increases the Hazard Limit but does not improve River capacity.
 
