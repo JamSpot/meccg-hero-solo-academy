@@ -411,3 +411,18 @@ Against five Dwarves, Óin is the only Ranger. If one River and Seized are both 
 
 
 For an isolated fresh eight-card sample, the chance of drawing at least one River and at least one Seized by Terror is **802/3915 = 20.5%**. This gives a useful stress-test frequency for the Iron Hill Shadow-land route, but it is not the exact probability of the second leg in a continuous staged expedition because the first leg changes the Hazard deck's draw/discard state. The [Iron Hill River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) keeps that distinction explicit.
+
+## River denial depends on Ranger capacity, not total company size
+
+The active deck has River ×2 and Seized by Terror ×2. A five-Dwarf company has one Ranger (Óin); adding Gandalf increases its Hazard Limit but does not add a Ranger. Recruiting Gildor adds the second Ranger.
+
+For a fresh draw from the 30-card Hazard deck, the chance that the Hazard player can force a Site Phase denial with River/Seized alone is:
+
+| Moving company | Six-card Wind Throne draw | Eight-card Iron Hill draw |
+|---|---:|---:|
+| One untapped Ranger | **11.35%** | **19.42%** |
+| Two untapped Rangers | **1.05%** | **2.80%** |
+
+These are probabilities of a complete denial line, including the required Seized split rolls—not merely the chance of drawing both card names. They assume a fresh deck, no prior discard/recycle state, and no other effect tapping or protecting Rangers. The two-Ranger line is much harder to assemble: with one River, both Rangers must split; with two Rivers, at least one must split.
+
+The full calculation and decision table are in the [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/ranger-capacity-lab/answer-key/' | relative_url }}). No card substitution is recommended; use the current 30-card baseline for the first three recorded games.
