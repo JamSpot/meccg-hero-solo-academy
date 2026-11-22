@@ -105,6 +105,7 @@ The probability that a fresh draw contains at least one River **and** at least o
 
 - All cards are drawn from a fresh, shuffled 30-card Hazard deck.
 - No cards have been seen, discarded, recycled or sideboarded earlier in the expedition.
+- The Hazard player did not access the sideboard during this turn’s Untap Phase, so the full base Hazard Limit applies.
 - The company has moved to the site this turn.
 - The listed Rangers are untapped before River and Seized by Terror resolve.
 - No other card effect taps, removes or protects a Ranger.
