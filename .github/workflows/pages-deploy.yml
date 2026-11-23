@@ -128,6 +128,7 @@ jobs:
           grep -q 'seized-terror-aftermath-lab' _site/reference/hazard-player/index.html
           grep -q 'seized-terror-aftermath-lab' _site/reference/free-movement/index.html
           grep -q 'seized-terror-aftermath-lab' _site/reference/solo-ruleset/index.html
+          grep -q 'seized-terror-aftermath-lab' _site/academy/learning-path/index.html
           grep -q 'seized-terror-aftermath-lab' _site/decks/hero-deck/index.html
           grep -q 'seized-terror-aftermath-lab' _site/decks/hazard-deck/index.html
           grep -q 'iron-hill-expedition' _site/index.html
