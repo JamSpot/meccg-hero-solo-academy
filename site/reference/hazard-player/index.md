@@ -127,7 +127,7 @@ When the route includes a Shadow-land or Dark-domain, Seized by Terror may split
 
 ## After Seized by Terror succeeds: follow the split through
 
-The current card text excludes both Wizard and Ringwraith characters. If the roll succeeds, the target character forms a different company and that company immediately returns to the original company's site of origin. Do not treat this as an elimination: the target remains in play, and cards borne by it remain with it.
+The current card text excludes both Wizard and Ringwraith characters. If the roll succeeds, the target character forms a different company and that company normally returns to the original company's site of origin. Promptings of Wisdom on the target Ranger can cancel the return effect, but not the split. Do not treat this as an elimination: the target remains in play, and cards borne by it remain with it.
 
 Then check the company structure. The card names the target character, not its followers. A controller separated from its followers breaks their direct-influence relationship; a follower split away from its controller is also no longer co-located with that controller. The affected followers are not immediately charged to general influence, but must be reassigned under general or eligible direct influence by the end of the next Organization Phase or be discarded. Check Fellowship separately: its own text discards it whenever a character or ally leaves the company, so a successful split discards any Fellowship copy in play on that company.
 
