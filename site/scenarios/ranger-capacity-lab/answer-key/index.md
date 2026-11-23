@@ -32,13 +32,13 @@ This six-character example is the Dwarf/Gildor moving company while Gandalf is i
 
 ## 5. One River, Seized by Terror, and two untapped Rangers
 
-If Seized by Terror targets Óin or Gildor, the other Ranger remains untapped and can satisfy one River. If the targeted Ranger bears Promptings of Wisdom, it may already have been activated earlier in the turn, or he must tap it in response to cancel the return; he still cannot satisfy River. Either way, one Ranger remains available for one River, so the Hazard player cannot guarantee Site Phase denial with one River and one Seized by Terror.
+If Seized by Terror targets Óin or Gildor, the other Ranger remains untapped and can satisfy one River. If the targeted Ranger bears Promptings of Wisdom, it may already have been activated earlier in the turn, or he must tap it in response to cancel the return; he still cannot satisfy River. With one Seized copy, the Hazard player cannot deny the Site Phase using one River and two Rangers. If both Seized copies are drawn, both Rangers must be split successfully; a failed first attempt followed by a retry on the same Ranger still leaves the other Ranger available.
 
 The Hazard player should usually target a different valuable character, such as Dori, if the aim is to maximise the chance of a split rather than deny the Site Phase.
 
 ## 6. Two Rivers, Seized by Terror, and two untapped Rangers
 
-Two Rivers require both Rangers. If Seized by Terror splits either Ranger, only one remains and the company cannot satisfy both River costs. Óin is the stronger target:
+Two Rivers require both Rangers. If Seized by Terror successfully splits either Ranger, only one remains and the company cannot satisfy both River costs. Óin is the stronger target because his mind is lower. If the first Seized attempt fails and a second copy is available, retry Óin; a single successful split is enough when there are two Rivers.
 
 - Óin, mind 3: 26/36 = **72.2%** split chance.
 - Gildor, mind 4: 21/36 = **58.3%** split chance.
@@ -81,14 +81,14 @@ The active 30-card Hazard deck has two River, two Seized by Terror and 26 other 
 A Site Phase denial is available if either:
 
 - both River copies are drawn (automatic denial with one Ranger), or
-- exactly one River and at least one Seized by Terror are drawn, and the Seized split roll succeeds against the sole Ranger.
+- exactly one River and at least one Seized by Terror are drawn, and at least one Seized split roll succeeds against the sole Ranger.
 
-For Óin, the split chance is 26/36.
+For Óin, the split chance is 26/36. Seized by Terror has no Cannot be Duplicated clause. After a failed short-event resolves and is discarded, a second copy can be played on the same Ranger in the same Movement/Hazard Phase. With two copies, the chance of at least one successful split is 1 − (10/36 × 10/36) = 91.98%.
 
 | Draw size | Chance of denial |
 |---|---:|
-| 6 cards | 1867/16443 = **11.35%** |
-| 8 cards | 236/1215 = **19.42%** |
+| 6 cards | 17063/147987 = **11.53%** |
+| 8 cards | 63026/317115 = **19.87%** |
 
 ### Two untapped Rangers
 
@@ -97,20 +97,20 @@ A Site Phase denial is available if either:
 - both Rivers and at least one Seized are drawn, with at least one Ranger successfully split; or
 - one River and both Seized copies are drawn, and both Rangers are successfully split.
 
-For two Seized attempts against Óin and Gildor, the chance that at least one Ranger splits is:
+With two Rivers, one successful split is enough. If the first Seized roll against Óin fails, the second copy can retry Óin; the chance of at least one success is:
 
-**1 − (10/36 × 15/36) = 88.43%.**
+**1 − (10/36 × 10/36) = 91.98%.**
 
-The chance both split is:
+With one River, both Rangers must be split. The two Seized copies must succeed against different Rangers; if the first fails, retrying the same Ranger cannot deny the Site Phase. The chance both split is:
 
-**26/36 × 21/36 = 42.13%.**
+**26/36 × 21/36 = 42.13%.
 
 | Draw size | Chance of denial |
 |---|---:|
-| 6 cards | 1381/131544 = **1.05%** |
-| 8 cards | 3941/140940 = **2.80%** |
+| 6 cards | 6227/591948 = **1.05%** |
+| 8 cards | 17797/634230 = **2.81%** |
 
-These figures assume both Rangers begin untapped, no other effect changes the company, the Hazard player chooses the River/Seized line, no sideboard access has halved the Hazard Limit, and all cards come from a fresh shuffled deck. They are not the probability of winning the game, nor the exact probability of a later draw in a continuous expedition.
+These figures assume both Rangers begin untapped, no other effect has already tapped a Ranger, the Hazard player chooses the River/Seized line, no sideboard access has halved the Hazard Limit, and all cards come from a fresh shuffled deck. Promptings of Wisdom used in response to a successful Seized against its bearer is included only as a return cancellation: the Ranger still taps and is unavailable for River. Promptings activated earlier in the turn is excluded, because that Ranger is already tapped before the Hazard line. They are not the probability of winning the game, nor the exact probability of a later draw in a continuous expedition.
 
 The one-Ranger profile is more vulnerable because two Rivers alone can deny the Site Phase. A second Ranger sharply reduces the number of River/Seized combinations that can do so. A larger company that adds no Ranger increases the Hazard Limit but does not improve River capacity.
 
