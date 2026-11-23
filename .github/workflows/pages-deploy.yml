@@ -78,6 +78,8 @@ jobs:
           test -f _site/scenarios/iron-hill-river-lab/answer-key/index.html
           test -f _site/scenarios/ranger-capacity-lab/index.html
           test -f _site/scenarios/ranger-capacity-lab/answer-key/index.html
+          test -f _site/scenarios/seized-terror-aftermath-lab/index.html
+          test -f _site/scenarios/seized-terror-aftermath-lab/answer-key/index.html
           grep -q 'route-risk-workshop' _site/index.html
           grep -q 'route-risk-workshop' _site/navigation/index.html
           grep -q 'resource-route-planner' _site/index.html
@@ -120,6 +122,13 @@ jobs:
           grep -q 'ranger-capacity-lab' _site/reference/free-movement/index.html
           grep -q 'ranger-capacity-lab' _site/decks/hero-deck/index.html
           grep -q 'ranger-capacity-lab' _site/decks/hazard-deck/index.html
+          grep -q 'seized-terror-aftermath-lab' _site/index.html
+          grep -q 'seized-terror-aftermath-lab' _site/navigation/index.html
+          grep -q 'seized-terror-aftermath-lab' _site/scenarios/index.html
+          grep -q 'seized-terror-aftermath-lab' _site/reference/hazard-player/index.html
+          grep -q 'seized-terror-aftermath-lab' _site/reference/free-movement/index.html
+          grep -q 'seized-terror-aftermath-lab' _site/decks/hero-deck/index.html
+          grep -q 'seized-terror-aftermath-lab' _site/decks/hazard-deck/index.html
           grep -q 'iron-hill-expedition' _site/index.html
           grep -q 'iron-hill-expedition' _site/navigation/index.html
           grep -q 'iron-hill-expedition' _site/routes/index.html
