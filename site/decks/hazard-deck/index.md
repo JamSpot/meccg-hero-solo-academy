@@ -430,7 +430,7 @@ The full calculation and decision table are in the [Ranger Capacity & River Deni
 
 ## Seized by Terror: more than a split roll
 
-The active list keeps both copies of Seized by Terror. The current Council of Elrond text requires a non-Wizard, non-Ringwraith character moving in a Shadow-land or Dark-domain. On success, the target forms a new company that immediately returns to the original company's site of origin.
+The active list keeps both copies of Seized by Terror. The current Council of Elrond text requires a non-Wizard, non-Ringwraith character moving in a Shadow-land or Dark-domain. On success, the target forms a new company that normally returns to the original company's site of origin; Promptings of Wisdom on the target Ranger can cancel that return effect, but not the split.
 
 Choose the target by the consequence, not mind alone. Dori is easiest to split, but targeting a controller such as Thorin or Glóin can break the direct-influence relationships of the followers left with the travelling company. A split follower can also become separated from its controller. Any affected follower must be reassigned under general or eligible direct influence by the end of the next Organization Phase or be discarded. If Fellowship is in play, its own text discards it when any character leaves the company, so Seized can remove that company-wide prowess and corruption protection without winning a strike.
 
