@@ -32,7 +32,7 @@ This six-character example is the Dwarf/Gildor moving company while Gandalf is i
 
 ## 5. One River, Seized by Terror, and two untapped Rangers
 
-If Seized by Terror splits Óin, Gildor remains and can tap for River. If it splits Gildor, Óin remains. One split cannot remove both Rangers, so the Hazard player cannot guarantee Site Phase denial with one River and one Seized by Terror.
+If Seized by Terror targets Óin or Gildor, the other Ranger remains untapped and can satisfy one River. If the targeted Ranger bears Promptings of Wisdom, he may cancel the return but must tap to do so; he still cannot satisfy River. Either way, one Ranger remains available for one River, so the Hazard player cannot guarantee Site Phase denial with one River and one Seized by Terror.
 
 The Hazard player should usually target a different valuable character, such as Dori, if the aim is to maximise the chance of a split rather than deny the Site Phase.
 
