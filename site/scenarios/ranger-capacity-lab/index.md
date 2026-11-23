@@ -163,3 +163,8 @@ A direct Starter Movement route can be strategically safer even if it draws the 
 - [Council of Elrond Official Card Database](https://www.councilofelrond.org/cards/) — current card wording and errata.
 - [Iron Hill — River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) — the original route-specific exercise.
 - [Shadow-land Route & Seized by Terror Lab]({{ '/scenarios/shadowland-route-lab/' | relative_url }}) — the Wind Throne route and target-selection lesson.
+
+
+## Promptings of Wisdom does not add a Ranger for River
+
+The probability exercises assume the Hazard player can target an eligible Ranger with Seized by Terror. The active Hero deck also contains Promptings of Wisdom. If the Ranger bearing it is the target, he may tap and make a corruption check to cancel the return; he still splits, continues to the new site without a separate Movement/Hazard Phase, and rejoins before the Site Phase. Because he is tapped, he cannot also satisfy River. If a different character is targeted, that character returns and Promptings stays with the Ranger's original company. Thus Promptings can preserve the Ranger's arrival at the destination, but it does not increase the number of untapped Rangers available for River. The numerical River-denial results remain valid under the stated target-selection assumptions. See [CoE Rulings Digest #210, Question 6](https://councilofelrond.org/forum/viewtopic.php?f=194&t=5241).
