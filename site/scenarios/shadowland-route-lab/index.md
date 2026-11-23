@@ -58,7 +58,7 @@ The three Orc strikes at 7 are a **Site Phase automatic attack**. They do not co
 
 ## Why Seized by Terror is legal here
 
-Seized by Terror is playable on a non-Wizard character moving in a Shadow-land or Dark-domain. The Wind Throne Starter Movement path contains a Shadow-land, and the destination region Grey Mountain Narrows is also a Shadow-land.
+Seized by Terror is playable on a non-Wizard, non-Ringwraith character moving in a Shadow-land or Dark-domain. The Wind Throne Starter Movement path contains a Shadow-land, and the destination region Grey Mountain Narrows is also a Shadow-land.
 
 This is a **region-type** condition. Do not confuse it with the site's Ruins & Lairs type:
 
@@ -77,7 +77,7 @@ The Book of Mazarbûl is **not** playable here. It is a Special Item playable on
 | Lesser Spiders | **Yes** | The path contains a Shadow-land; the destination is also Ruins & Lairs. |
 | Neeker-breekers | **Yes** | Its printed keys include Shadow-land and Ruins & Lairs. Remember the Hero card's special one-strike-per-character wording and Wizard exclusion. |
 | Wargs | **Yes** | The path contains Border-land and Shadow-land. |
-| Seized by Terror | **Yes** | An eligible non-Wizard character is moving in a Shadow-land. |
+| Seized by Terror | **Yes** | An eligible non-Wizard, non-Ringwraith character is moving in a Shadow-land. |
 | River | **Yes** | It can be played on the new site; one Ranger must be tapped for each River. |
 | Despair of the Heart | **Yes, conditionally** | It needs an eligible non-Wizard, non-Hobbit character. The starting Dwarves qualify. |
 | Full of Froth and Rage | **Yes, conditionally** | A Spider or Animal attack must be available. |
