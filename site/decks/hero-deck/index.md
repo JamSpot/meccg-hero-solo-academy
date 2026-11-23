@@ -634,3 +634,10 @@ The five starting Dwarves contain one Ranger: Óin. Gandalf adds no Ranger skill
 A larger company can face a larger Hazard Limit without gaining any extra ability to satisfy River. Gildor gives genuine redundancy: one Ranger can satisfy a single River if the other is split by Seized by Terror. Two Rivers still require two untapped Rangers.
 
 The [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) calculates how often the current Hazard deck can exploit each company profile. Keep the 36-card Hero list unchanged until the first three baseline games are recorded.
+
+
+## Book bearer and Seized by Terror protection
+
+The current Hazard list contains two Seized by Terror. Its current card text can target a non-Wizard, non-Ringwraith character moving through a Shadow-land or Dark-domain; it cannot target Gandalf. Gandalf is therefore the safest bearer for the Book of Mazarbûl against this particular Hazard, as well as being a Sage who can use the Book's hand-size ability.
+
+If a non-Wizard character bears the Book and is successfully split, the Book stays with that character and returns to the original company's site of origin. The remaining company can continue, but its Book objective has been pulled away. The same principle applies to any other item borne by a split character. Do not change the 36-card Hero list; use the bearer choice deliberately. The [Seized by Terror Aftermath Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}) explains the item, ally, follower and Fellowship consequences.
