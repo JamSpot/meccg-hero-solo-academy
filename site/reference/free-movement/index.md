@@ -489,3 +489,14 @@ Compare the three routes below before declaring movement:
 The direct Iron Hill route and the Eyrie-to-Iron-Hill leg both draw eight solo Hazards because Iron Hill's normal Hazard draw is three. The route changes which creature/event keys are legal; it does not multiply the draw. Eagles’ Eyrie remains a supplementary map exercise outside the locked 15-site Location deck.
 
 Before moving, count the Rangers who will still be untapped at the beginning of the Site Phase. One River needs one Ranger; two Rivers need two. If Seized by Terror can be played, ask whether splitting one Ranger would actually leave too few Rangers. The [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) works through the six- and eight-card draws and the exact one- versus two-Ranger probabilities.
+
+
+## Route choice can protect the company from Seized by Terror
+
+Do not infer Seized by Terror legality from the destination's site type. Its current card text requires a non-Wizard, non-Ringwraith character moving in a Shadow-land or Dark-domain. For Starter Movement, inspect the printed site path's region types; for Region Movement, inspect the declared region sequence.
+
+- Lórien → The Wind Throne is Starter Movement with Wilderness → Border-land → Shadow-land, so Seized by Terror is legal.
+- Lórien → Iron Hill Dwarf-hold is Starter Movement with Wilderness → Border-land → Border-land → Wilderness → Wilderness, so Seized by Terror is not legal.
+- The supplementary Eagles' Eyrie → Iron Hill Region Movement route through Grey Mountain Narrows includes a Shadow-land, so Seized by Terror is legal on that leg.
+
+This is separate from the destination's site type: The Wind Throne is a Ruins & Lairs, but that does not make Seized legal; the Shadow-land in its path does. The [Seized by Terror Aftermath Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}) shows why the route decision matters after a split, including the loss of followers' direct-influence control and Fellowship.
