@@ -78,7 +78,7 @@ On a route containing a Shadow-land or Dark-domain, Seized by Terror can target 
 The best target is determined by the River requirement:
 
 - **One Ranger in the company, one River:** target the only Ranger. If he returns, no Ranger remains; if he bears Promptings and taps to cancel the return, he is tapped and cannot satisfy River. Either way, no untapped Ranger remains for River.
-- **Two Rangers, one River:** splitting one Ranger is not enough; the other can still tap. Target a different valuable character instead.
+- **Two Rangers, one River:** one successful split is not enough; the other Ranger can still tap. If both Seized copies are drawn, both Rangers must be split successfully to deny the Site Phase.
 - **Two Rangers, two Rivers:** splitting either Ranger leaves too few Rangers. Óin is the better target because his split chance is 72.2%, compared with Gildor's 58.3%.
 - **Two Rivers and only one Ranger:** River already denies the Site Phase. Seized by Terror can target Dori or another valuable character rather than being spent on the only Ranger.
 
@@ -92,16 +92,18 @@ The table is the chance that the Hazard player can create a Site Phase denial us
 
 | Moving company | 6-card draw (Wind Throne) | 8-card draw (Iron Hill) |
 |---|---:|---:|
-| One Ranger; all other characters irrelevant to River | **11.35%** | **19.42%** |
-| Two untapped Rangers | **1.05%** | **2.80%** |
+| One Ranger: Óin (mind 3) | **11.53%** | **19.87%** |
+| Two untapped Rangers: Óin (mind 3) + Gildor (mind 4) | **1.05%** | **2.81%** |
 
 Why the two-Ranger figure is much lower:
 
 - With two Rivers, both Rangers can normally tap and proceed. The Hazard player needs Seized by Terror to split at least one Ranger.
-- With one River, the Hazard player needs both Seized by Terror copies and must split both Rangers.
+- With one River and two Rangers, the Hazard player needs both Seized copies and must split both different Rangers. If the first attempt fails, retrying that same Ranger still leaves the other Ranger available, so the second attempt must be used on the other Ranger after the first succeeds.
 - With one Ranger, two Rivers deny the Site Phase automatically; alternatively, one River plus a successful Seized split is enough.
 
-The probability that a fresh draw contains at least one River **and** at least one Seized by Terror is 11.88% for six cards and 20.49% for eight cards. That is not the same as the denial probability: the target's split roll and the number of Rangers still matter.
+The probability that a fresh draw contains at least one River **and** at least one Seized by Terror is 11.88% for six cards and 20.49% for eight cards. That is not the same as the denial probability: the target's split roll, the number of Seized copies, and the number of Rangers still matter.
+
+Seized by Terror has no Cannot be Duplicated clause. It is a short-event that resolves and is discarded; if the first roll fails, a second copy can be played on the same Ranger in the same Movement/Hazard Phase. For a one-Ranger company, two Seized copies therefore give two attempts against Óin. With two Rangers and one River, however, both Rangers must be split, so the two copies must succeed against different Rangers.
 
 ### Assumptions behind the probability table
 
@@ -110,7 +112,7 @@ The probability that a fresh draw contains at least one River **and** at least o
 - The Hazard player did not access the sideboard during this turn’s Untap Phase, so the full base Hazard Limit applies.
 - The company has moved to the site this turn.
 - The listed Rangers are untapped before River and Seized by Terror resolve.
-- No other card effect taps, removes or protects a Ranger.
+- No other effect has already tapped or removed a Ranger before the Hazard line. Promptings of Wisdom activated earlier in the turn is excluded; if its Ranger is already tapped, count that Ranger as unavailable for River from the start. If Promptings is used in response to a successful Seized against its bearer, the tap still leaves that Ranger unavailable for River, so the return cancellation does not change the denial result.
 - The Hazard player prioritises the River/Seized denial line and has enough Hazard Limit to play it.
 
 The relevant lines require at most four Hazard plays, so they fit the normal five-card base Hazard Limit of the starting company. The larger company profiles do not need their extra Hazard Limit to assemble this particular combination. In a continuous multi-leg expedition, the second draw is not a fresh-deck probability; use the actual draw/discard state instead.
@@ -167,4 +169,4 @@ A direct Starter Movement route can be strategically safer even if it draws the 
 
 ## Promptings of Wisdom does not add a Ranger for River
 
-The probability exercises assume the Hazard player can target an eligible Ranger with Seized by Terror. The active Hero deck also contains Promptings of Wisdom. If the Ranger bearing it is the target, Promptings may already have been activated earlier in the turn, or he may tap it in response and make a corruption check to cancel the return; he still splits, continues to the new site without a separate Movement/Hazard Phase, and rejoins before the Site Phase. Because he is tapped, he cannot also satisfy River. If a different character is targeted, that character returns and Promptings stays with the Ranger's original company. Thus Promptings can preserve the Ranger's arrival at the destination, but it does not increase the number of untapped Rangers available for River. The numerical River-denial results remain valid under the stated target-selection assumptions. See [CoE Rulings Digest #210, Question 6](https://councilofelrond.org/forum/viewtopic.php?f=194&t=5241).
+The probability exercises assume the Hazard player can target an eligible Ranger with Seized by Terror. The active Hero deck also contains Promptings of Wisdom. If the Ranger bearing it is the target, Promptings may already have been activated earlier in the turn, or he may tap it in response and make a corruption check to cancel the return; he still splits, continues to the new site without a separate Movement/Hazard Phase, and rejoins before the Site Phase. Because he is tapped, he cannot also satisfy River. If a different character is targeted, that character returns and Promptings stays with the Ranger's original company. Thus Promptings can preserve the Ranger's arrival at the destination, but it does not increase the number of untapped Rangers available for River. The numerical River-denial results remain valid when Promptings is used only in response to a successful Seized against its bearer. They do not apply if Promptings was activated earlier in the turn, because that Ranger is already tapped before the Hazard line. See [CoE Rulings Digest #210, Question 6](https://councilofelrond.org/forum/viewtopic.php?f=194&t=5241).
