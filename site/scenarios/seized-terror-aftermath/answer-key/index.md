@@ -51,7 +51,7 @@ This is a special, officially ruled interaction. Promptings of Wisdom does not c
 
 ### Seized targets the Ranger with Promptings
 
-The target Ranger splits into a different company. Promptings' effect follows him because it targets the Ranger's company. If the Ranger taps and Promptings resolves before the return effect, the return is canceled. He continues to the declared new site alone, without a separate Movement/Hazard Phase, and rejoins his original company at the end of all Movement/Hazard Phases. The original company loses Promptings' protection for the rest of the turn.
+The target Ranger splits into a different company. Promptings' effect follows him because it targets the Ranger's company. If Promptings was already activated earlier in the turn, or the Ranger taps it in response and Promptings resolves first, the return is canceled. He continues to the declared new site alone, without a separate Movement/Hazard Phase, and rejoins his original company at the end of all Movement/Hazard Phases. The original company loses Promptings' protection for the rest of the turn.
 
 The Ranger must tap to use the effect and then makes a corruption check. Include Promptings' 2 corruption points and every other corruption point the Ranger controls. If the Ranger is Óin in the starting company, also account for his Cram (1 corruption point) and his -1 corruption-check modifier.
 
