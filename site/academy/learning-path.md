@@ -60,3 +60,8 @@ Every lesson should tell you what to accomplish, what cards you need, what to do
 ## Advanced route practice — Iron Hill
 
 After the basic movement and Hazard lessons, complete the [Iron Hill — River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/iron-hill-river-lab/answer-key/' | relative_url }}). It compares a direct Starter Movement route with a staged Region Movement route through Grey Mountain Narrows, then tests whether the remaining Rangers can satisfy River.
+
+
+### 6L — Seized by Terror: Aftermath, Followers & Recovery
+
+After learning the split odds and River denial, follow the result through the rest of the turn. Practise bearer cards, allies, broken direct-influence control, Fellowship's discard clause and regrouping in the [Aftermath Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}) and its [model answer]({{ '/scenarios/seized-terror-aftermath/answer-key/' | relative_url }}).
