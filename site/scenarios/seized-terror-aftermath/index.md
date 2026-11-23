@@ -7,7 +7,7 @@ title: Seized by Terror — Aftermath, Followers & Recovery
 
 This lesson starts **after** Seized by Terror succeeds. The earlier labs taught when the card is legal and how likely a character is to split. This one follows the consequences: what travels with the character, what happens to followers, why Fellowship can be lost, and how the companies can reunite.
 
-The active decks do not change. The current Hero list already contains two Seized by Terror in its 30-card Hazard deck and two Fellowship in the 30-card Resource portion.
+The active decks do not change. The fixed 30-card Hazard deck contains two Seized by Terror; the 36-card Hero deck contains two Fellowship among its 30 Resources.
 
 ## 1. Read the current card text precisely
 
@@ -18,7 +18,7 @@ The current Council of Elrond card database gives Seized by Terror these require
 - A result **below 12** makes that character split into a different company.
 - The new company immediately returns to the original company's site of origin.
 
-A successful result is a **company split and return**, not an elimination, discard, wound or body check. The character remains in play. Do not remove the character or the cards it bears just because the company has changed.
+A successful result is a **company split and return**, not an elimination, discard, wound or body check. The character remains in play. Do not remove the character or the cards it bears just because the company has changed. Seized by Terror is a short-event, so playing it uses one of the moving company's Hazard Limit slots.
 
 Source: [Council of Elrond Official Card Database](https://www.councilofelrond.org/cards/), Seized by Terror (DM-88).
 
