@@ -70,8 +70,8 @@ The two groups cannot join merely because they belong to the same player. They m
 
 At the end of all Movement/Hazard Phases:
 
-- Companies at the same non-Haven site must join, provided the resulting company is legal.
-- Companies at the same Haven may join if the resource player chooses.
+- Companies at the same non-Haven site must join. If joining would violate company-composition rules, one company of the Hazard player's choice must return to its site of origin.
+- Companies at the same Haven may join or not as the resource player chooses.
 - Companies at different sites remain separate.
 
 In the Lórien → The Wind Throne example, the main company is at The Wind Throne and the split group is back at Lórien. They cannot join that turn. A later movement that brings them to the same site can allow them to regroup under the normal rules.
