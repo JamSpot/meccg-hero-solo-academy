@@ -131,6 +131,9 @@ jobs:
           grep -q 'seized-terror-aftermath' _site/decks/hero-deck/index.html
           grep -q 'seized-terror-aftermath' _site/decks/hazard-deck/index.html
           grep -q 'seized-terror-aftermath' _site/routes/iron-hill-expedition/index.html
+          grep -q 'seized-terror-aftermath' _site/routes/expedition-planner/index.html
+          grep -q 'seized-terror-aftermath' _site/routes/index.html
+          grep -q 'non-Wizard, non-Ringwraith' _site/reference/hazard-player/index.html
           grep -q 'iron-hill-expedition' _site/index.html
           grep -q 'iron-hill-expedition' _site/navigation/index.html
           grep -q 'iron-hill-expedition' _site/routes/index.html
