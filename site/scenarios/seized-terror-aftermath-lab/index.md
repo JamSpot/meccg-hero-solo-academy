@@ -19,7 +19,7 @@ That means:
 - The target returns to the site from which the moving company began this Movement/Hazard Phase.
 - It is **not** a return to the target's home site or the nearest Haven.
 - The rest of the original company continues its current Movement/Hazard Phase at the revealed destination.
-- The split-off company does not receive a separate Movement/Hazard Phase, a new Hazard draw, or a new Hazard Limit.
+- The returned company's site path immediately disappears and its Movement/Hazard Phase ends. It does not start a second phase, draw a second hand of Hazards, or receive a new Hazard Limit.
 - The returned company cannot initiate actions during its Site Phase.
 
 The distinction between the two companies is essential. The original company remains the current company for the Movement/Hazard Phase; the returned character is no longer moving.
