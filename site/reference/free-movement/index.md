@@ -500,3 +500,8 @@ Do not infer Seized by Terror legality from the destination's site type. Its cur
 - The supplementary Eagles' Eyrie → Iron Hill Region Movement route through Grey Mountain Narrows includes a Shadow-land, so Seized by Terror is legal on that leg.
 
 This is separate from the destination's site type: The Wind Throne is a Ruins & Lairs, but that does not make Seized legal; the Shadow-land in its path does. The [Seized by Terror Aftermath Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}) shows why the route decision matters after a split, including the loss of followers' direct-influence control and Fellowship.
+
+
+## Promptings of Wisdom and route risk
+
+A Shadow-land or Dark-domain in the route makes Seized by Terror legal, but the consequence depends on whether the target is the Ranger carrying Promptings of Wisdom. If that Ranger is targeted and taps Promptings in response, the split still occurs but the return is canceled; he continues to the new site without a separate Movement/Hazard Phase and rejoins before the Site Phase. If another character is targeted, that character returns to the origin while Promptings remains with the Ranger's original company. Promptings does not cancel River, and tapping it makes the Ranger unavailable to satisfy River. See [CoE Rulings Digest #210, Question 6](https://councilofelrond.org/forum/viewtopic.php?f=194&t=5241) and the [Aftermath Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}).
