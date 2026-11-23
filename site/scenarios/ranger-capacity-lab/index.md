@@ -67,7 +67,7 @@ Assume the Rangers are untapped when the Site Phase begins.
 
 ## Second decision table: add Seized by Terror
 
-On a route containing a Shadow-land or Dark-domain, Seized by Terror can target an eligible non-Wizard character in the moving company. The target rolls 2D6 and adds mind. A result below 12 splits that character into a separate company and returns him to the original company's site of origin.
+On a route containing a Shadow-land or Dark-domain, Seized by Terror can target an eligible non-Wizard, non-Ringwraith character in the moving company. The target rolls 2D6 and adds mind. A result below 12 splits that character into a separate company and returns him to the original company's site of origin.
 
 | Target | Mind | Split probability |
 |---|---:|---:|
