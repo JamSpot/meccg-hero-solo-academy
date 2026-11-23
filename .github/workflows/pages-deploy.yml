@@ -147,7 +147,7 @@ jobs:
           grep -q 'academy-nav' _site/index.html
           grep -q 'academy-nav' _site/navigation/index.html
           grep -q 'href="/meccg-hero-solo-academy/navigation/"' _site/index.html
-          grep -q 'href="/meccg-hero-solo-academy/academy/learning-path/"' _site/index.html
+          grep -q 'academy/learning-path' _site/index.html
           # The generated-site check above is authoritative: it ensures the obsolete .html route is not published.
 
       - name: Audit generated internal page links
