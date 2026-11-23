@@ -64,4 +64,4 @@ After the basic movement and Hazard lessons, complete the [Iron Hill — River &
 
 ### 6L — Seized by Terror: Aftermath, Followers & Recovery
 
-After learning the split odds and River denial, follow the result through the rest of the turn. Practise bearer cards, allies, broken direct-influence control, Fellowship's discard clause and regrouping in the [Aftermath Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}) and its [model answer]({{ '/scenarios/seized-terror-aftermath/answer-key/' | relative_url }}).
+After learning the split odds and River denial, follow the result through the rest of the turn. Practise Promptings of Wisdom, bearer cards, allies, broken direct-influence control, Fellowship's discard clause and regrouping in the [Aftermath Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}) and its [model answer]({{ '/scenarios/seized-terror-aftermath/answer-key/' | relative_url }}).
