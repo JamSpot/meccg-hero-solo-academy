@@ -67,7 +67,7 @@ Assume the Rangers are untapped when the Site Phase begins.
 
 ## Second decision table: add Seized by Terror
 
-On a route containing a Shadow-land or Dark-domain, Seized by Terror can target an eligible non-Wizard, non-Ringwraith character in the moving company. The target rolls 2D6 and adds mind. A result below 12 splits that character into a separate company and returns him to the original company's site of origin.
+On a route containing a Shadow-land or Dark-domain, Seized by Terror can target an eligible non-Wizard, non-Ringwraith character in the moving company. The target rolls 2D6 and adds mind. A result below 12 splits that character into a separate company; normally it returns to the original company's site of origin, but Promptings of Wisdom on the target Ranger can cancel the return if he taps and the effect resolves first.
 
 | Target | Mind | Split probability |
 |---|---:|---:|
@@ -77,7 +77,7 @@ On a route containing a Shadow-land or Dark-domain, Seized by Terror can target 
 
 The best target is determined by the River requirement:
 
-- **One Ranger in the company, one River:** target the only Ranger. If he splits, no Ranger remains to satisfy River.
+- **One Ranger in the company, one River:** target the only Ranger. If he returns, no Ranger remains; if he bears Promptings and taps to cancel the return, he is tapped and cannot satisfy River. Either way, no untapped Ranger remains for River.
 - **Two Rangers, one River:** splitting one Ranger is not enough; the other can still tap. Target a different valuable character instead.
 - **Two Rangers, two Rivers:** splitting either Ranger leaves too few Rangers. Óin is the better target because his split chance is 72.2%, compared with Gildor's 58.3%.
 - **Two Rivers and only one Ranger:** River already denies the Site Phase. Seized by Terror can target Dori or another valuable character rather than being spent on the only Ranger.
