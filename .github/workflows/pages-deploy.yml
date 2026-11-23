@@ -134,6 +134,10 @@ jobs:
           grep -q 'seized-terror-aftermath' _site/routes/expedition-planner/index.html
           grep -q 'seized-terror-aftermath' _site/routes/index.html
           grep -q 'non-Wizard, non-Ringwraith' _site/reference/hazard-player/index.html
+          grep -q '6I. Shadow-land Route' _site/index.html
+          grep -q '6J. Iron Hill River' _site/index.html
+          grep -q '6K. Ranger Capacity' _site/index.html
+          grep -q '6L. Seized by Terror' _site/index.html
           grep -q 'iron-hill-expedition' _site/index.html
           grep -q 'iron-hill-expedition' _site/navigation/index.html
           grep -q 'iron-hill-expedition' _site/routes/index.html
