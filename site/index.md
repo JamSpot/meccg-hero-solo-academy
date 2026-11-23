@@ -63,7 +63,7 @@ Once you can run the Dwarven company through the first Moria expedition, learn h
 
 **Prepare → Organise → Move → Draw and resolve Hazards → Enter the site → Attempt the objective → Recover or continue → Debrief**
 
-If you get stuck, return to [Step 1: Start Here]({{ '/academy/' | relative_url }}). Use [Course Path]({{ '/academy/learning-path/' | relative_url }}) for the full sequence and [All Pages]({{ '/navigation/' | relative_url }}) only when looking up a specific reference.
+If you get stuck, return to [Step 1: Start Here]({{ '/academy/' | relative_url }}). Use [Course Path](/meccg-hero-solo-academy/academy/learning-path/) for the full sequence and [All Pages]({{ '/navigation/' | relative_url }}) only when looking up a specific reference.
 
 ---
 
