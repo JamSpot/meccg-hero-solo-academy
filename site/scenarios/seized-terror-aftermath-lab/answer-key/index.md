@@ -30,7 +30,7 @@ The result is 10 + mind 1 = **11**. Seized by Terror succeeds and Dori returns t
 
 ## 4. No second Hazard Limit
 
-The split-off character receives no separate Movement/Hazard Phase and no new Hazard Limit of two. CoE Ruling Digest #52, Query 42, answers this point directly.
+The split-off company's site path disappears and its Movement/Hazard Phase ends; it does not receive a second phase or Hazard draw. It also receives no new Hazard Limit of two. CoE Ruling Digest #52, Query 42, answers the Hazard-Limit point directly.
 
 The original company's Hazard Limit was fixed at the beginning of its Movement/Hazard Phase. It remains the limit for the company that continues moving, even though that company is now smaller.
 
