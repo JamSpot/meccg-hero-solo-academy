@@ -45,6 +45,27 @@ No. The new company returns to the original company's site of origin; it does no
 
 The remaining company is still the company that continues to the declared destination, unless another effect returns it too. Its base Hazard Limit was fixed at the beginning of the phase and is not recalculated after the split.
 
+## 6A. What if Promptings of Wisdom is on a Ranger?
+
+This is a special, officially ruled interaction. Promptings of Wisdom does not cancel the split created by Seized by Terror; it can cancel the **return-to-origin effect** if the Ranger who bears Promptings is the character Seized targets.
+
+### Seized targets the Ranger with Promptings
+
+The target Ranger splits into a different company. Promptings' effect follows him because it targets the Ranger's company. If the Ranger taps and Promptings resolves before the return effect, the return is canceled. He continues to the declared new site alone, without a separate Movement/Hazard Phase, and rejoins his original company at the end of all Movement/Hazard Phases. The original company loses Promptings' protection for the rest of the turn.
+
+The Ranger must tap to use the effect and then makes a corruption check. Include Promptings' 2 corruption points and every other corruption point the Ranger controls. If the Ranger is Óin in the starting company, also account for his Cram (1 corruption point) and his -1 corruption-check modifier.
+
+### Seized targets a different character
+
+The target character splits and returns to the original company's site of origin. Promptings remains with the Ranger's original company and does not cancel the return of the other character. The Ranger's company remains protected from other qualifying Hazard effects that force a return to origin or tap the current/new site.
+
+### Two common mistakes
+
+- Promptings does not cancel the split itself.
+- Promptings does not cancel River, because River does not force a return to origin or tap the site.
+
+This is CoE Rulings Digest #210, Question 6 (9 August 2025). The ruling also confirms that the split-off Ranger who avoids the return continues without a separate Movement/Hazard Phase and rejoins before the Site Phase.
+
 ## 7. Can the companies rejoin while at different sites?
 
 No. They must first be at the same site. Companies at the same site can be joined during an Organization Phase. At the end of all Movement/Hazard Phases, companies at the same non-Haven site must join; joining at a Haven is optional.
@@ -100,4 +121,4 @@ For the first three baseline games, record each time Seized by Terror is drawn:
 - Did the split change the Resource objective or only the company composition?
 - How many turns did it take to regroup, and did any follower have to be discarded?
 
-Do not change the two Seized by Terror copies or the two Fellowship copies until the baseline games are recorded.
+Record whether Promptings of Wisdom was in play, whether the Ranger was the target, whether he tapped and passed his corruption check, and whether the split-off Ranger rejoined before the Site Phase. Do not change the two Seized by Terror copies, two Fellowship copies or two Promptings of Wisdom copies until the baseline games are recorded.
