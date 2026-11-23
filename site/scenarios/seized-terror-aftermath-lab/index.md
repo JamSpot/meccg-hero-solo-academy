@@ -60,6 +60,10 @@ When a follower is removed from direct-influence control outside the Organizatio
 
 This is a consequence of the general follower rules, not a separate Seized by Terror card erratum. If an unusual company composition or a special effect changes the situation, check those rules separately.
 
+## What if the site-of-origin card has already left play?
+
+A return-to-origin effect does not fail merely because the site card has been removed. CoE Digest #125, Query 6, rules that when a company must return to its site of origin and that site card is no longer in play, the site card (or resource card acting as the site) is returned to play in the same orientation it left, even if it had reached the discard or out-of-play pile. This is different from a company simply losing its site card without a return effect; in that case the characters are discarded.
+
 ## Can the two groups immediately rejoin?
 
 Not simply because the split character has returned.
@@ -115,12 +119,13 @@ Answer before opening the model answer.
 8. A Ranger with Promptings of Wisdom is targeted by Seized by Terror. What must he tap in response to cancel the return, and which company remains protected?
 9. The main company and the returned character are at different sites at the end of all Movement/Hazard Phases. Can they simply join?
 10. Which part of the original company's Hazard Limit remains available after the split?
+11. If the site-of-origin card has already left play when the return effect resolves, what happens to that site card?
 
 ## References
 
 - [Council of Elrond — consolidated official rules](https://www.councilofelrond.org/rules/): Organization Phase, Followers, Movement/Hazard Phase, returning to site of origin, and joining companies.
 - [CRF 22 — Rulings by Term](https://meccg.com/rules/collected-rulings-and-errata-crf/crf-22/rulings-by-term/): Character, Company, Followers, Influence and Items.
-- [Council of Elrond Ruling Digests (PDF)](https://meccg.es/meta/rules/MeCCG%20Rulings%20Digests%20v1.0.pdf): Digest #52 Q42 (no new Hazard Limit), Digest #71 Q9 (effects after a split), Digest #120 Q2 (Palantír), and Digest #121 Q2 (a Ringwraith cannot be targeted).
+- [Council of Elrond Ruling Digests (PDF)](https://meccg.es/meta/rules/MeCCG%20Rulings%20Digests%20v1.0.pdf): Digest #52 Q42 (no new Hazard Limit), Digest #71 Q9 (effects after a split), Digest #120 Q2 (Palantír), Digest #121 Q2 (a Ringwraith cannot be targeted), and Digest #125 Q6 (restoring a site-of-origin card).
 - [CoE Digest #210 Q6 — Promptings of Wisdom](https://councilofelrond.org/forum/viewtopic.php?p=43305): the 2025 clarification of Promptings of Wisdom and Seized by Terror.
 
 [Open the separate model answer]({{ '/scenarios/seized-terror-aftermath-lab/answer-key/' | relative_url }}).
