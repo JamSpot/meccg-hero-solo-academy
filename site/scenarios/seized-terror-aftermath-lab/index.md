@@ -70,7 +70,7 @@ Not simply because the split character has returned.
 
 At the end of all Movement/Hazard Phases:
 
-- Companies at the same non-Haven site must join, subject to company-composition rules.
+- Companies at the same non-Haven site must join. If joining would violate company-composition rules, one company of the Hazard player's choice must return to its site of origin. Companies at the same Haven may join or not as the resource player chooses.
 - Companies at the same Haven may join if the resource player chooses.
 - Companies at different sites remain separate.
 
