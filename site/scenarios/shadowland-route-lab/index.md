@@ -195,3 +195,8 @@ Gildor is therefore a situational route-support recruit, not an automatic additi
 - [Middle-earth CCG Full Spoiler List (PDF)](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf) — Hero The Wind Throne, Grey Mountain Narrows, Seized by Terror, River, Book of Mazarbûl and creature card text.
 
 [Open the model answer]({{ '/scenarios/shadowland-route-lab/answer-key/' | relative_url }}) · [Return to the Practice Scenarios index]({{ '/scenarios/' | relative_url }})
+
+
+## Promptings of Wisdom overlay
+
+The active Hero deck contains Promptings of Wisdom. If the Seized target is the Ranger bearing it, the split still occurs but the Ranger may tap (and make a corruption check) to cancel the return-to-origin effect; he continues to the new site without a separate Movement/Hazard Phase and rejoins before the Site Phase. If a different character is targeted, that character returns and Promptings stays with the Ranger's original company. Promptings does not cancel River. See [CoE Rulings Digest #210, Question 6](https://councilofelrond.org/forum/viewtopic.php?f=194&t=5241) and the [Aftermath Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}).
