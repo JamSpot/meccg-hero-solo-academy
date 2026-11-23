@@ -55,6 +55,8 @@ The target Ranger splits into a different company. Promptings' effect follows hi
 
 The Ranger must tap to use the effect and then makes a corruption check. Include Promptings' 2 corruption points and every other corruption point the Ranger controls. If the Ranger is Óin in the starting company, also account for his Cram (1 corruption point) and his -1 corruption-check modifier.
 
+If Óin is the only Ranger and he taps Promptings to cancel his return, he reaches the destination and rejoins before the Site Phase, but he is tapped. If River is also in play, no untapped Ranger remains to pay its cost, so the Site Phase is still skipped. The tactical gain is that Óin remains with the company at the destination instead of being left behind at the origin. If Gildor is also present and untapped, Gildor can satisfy one River.
+
 For the untouched starting loadout, the check risk differs by Ranger:
 
 | Promptings bearer | Corruption points | Check modifier | Failed natural 2D6 results | Failure chance |
