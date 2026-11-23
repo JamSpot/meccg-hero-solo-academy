@@ -45,6 +45,8 @@ The character remains in play, so do not discard cards merely because the charac
 | A resource permanent-event or ongoing effect targeting the original company as an entity | Stays with the original company under the company-splitting rule. |
 | A hazard permanent-event on the original company | The Hazard player chooses which resulting company it accompanies under the company-splitting rule. |
 
+If you want to transfer an item away from the split character, the two characters must be at the same site. They may be in different companies, but the normal Organization Phase transfer procedure and the giver's corruption check still apply. You cannot transfer the item while the two groups are at different sites.
+
 Do not treat every company effect as interchangeable. Read the exact wording: **“his company”** and **“the company”** can produce different results after a split.
 
 ## Followers: who travels with whom?
