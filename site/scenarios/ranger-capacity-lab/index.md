@@ -77,9 +77,9 @@ On a route containing a Shadow-land or Dark-domain, Seized by Terror can target 
 
 The best target is determined by the River requirement:
 
-- **One Ranger in the company, one River:** target the only Ranger. If he returns, no Ranger remains; if he bears Promptings and taps to cancel the return, he is tapped and cannot satisfy River. Either way, no untapped Ranger remains for River.
-- **Two Rangers, one River:** one successful split is not enough; the other Ranger can still tap. If both Seized copies are drawn, both Rangers must be split successfully to deny the Site Phase.
-- **Two Rangers, two Rivers:** splitting either Ranger leaves too few Rangers. Óin is the better target because his split chance is 72.2%, compared with Gildor's 58.3%.
+- **One untapped Ranger in the company, one River:** target the only Ranger. On a successful Seized roll, he either returns to origin or uses Promptings and becomes tapped; either way no untapped Ranger remains for River. If the Seized roll fails and Promptings was not already active, he remains untapped and can satisfy River.
+- **Two untapped Rangers, one River:** one successful split is not enough; the other Ranger can still tap. If both Seized copies are drawn, both Rangers must be split successfully to deny the Site Phase.
+- **Two untapped Rangers, two Rivers:** one successful split leaves too few Rangers. Óin is the better first target because his split chance is 72.2%, compared with Gildor's 58.3%.
 - **Two Rivers and only one Ranger:** River already denies the Site Phase. Seized by Terror can target Dori or another valuable character rather than being spent on the only Ranger.
 
 If one of the two Rangers is already tapped before the Site Phase, count only the remaining untapped Ranger. If all Rangers are already tapped, River alone prevents the Site Phase.
