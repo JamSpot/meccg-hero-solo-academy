@@ -426,3 +426,12 @@ For a fresh draw from the 30-card Hazard deck, the chance that the Hazard player
 These are probabilities of a complete denial line, including the required Seized split rolls—not merely the chance of drawing both card names. They assume a fresh deck, no prior discard/recycle state, and no other effect tapping or protecting Rangers. The two-Ranger line is much harder to assemble: with one River, both Rangers must split; with two Rivers, at least one must split.
 
 The full calculation and decision table are in the [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/ranger-capacity-lab/answer-key/' | relative_url }}). No card substitution is recommended; use the current 30-card baseline for the first three recorded games.
+
+
+## Seized by Terror: more than a split roll
+
+The active list keeps both copies of Seized by Terror. The current Council of Elrond text requires a non-Wizard, non-Ringwraith character moving in a Shadow-land or Dark-domain. On success, the target forms a new company that immediately returns to the original company's site of origin.
+
+Choose the target by the consequence, not mind alone. Dori is easiest to split, but targeting a controller such as Thorin or Glóin can break the direct-influence relationships of the followers left with the travelling company. A split follower can also become separated from its controller. Any affected follower must be reassigned under general or eligible direct influence by the end of the next Organization Phase or be discarded. If Fellowship is in play, its own text discards it when any character leaves the company, so Seized can remove that company-wide prowess and corruption protection without winning a strike.
+
+This is a reason to retain Seized in the baseline, not a reason to increase its quantity. The [Seized by Terror Aftermath Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}) and [model answer]({{ '/scenarios/seized-terror-aftermath/answer-key/' | relative_url }}) teach the complete sequence. Keep the 30-card Hazard list fixed through the first three recorded games.
