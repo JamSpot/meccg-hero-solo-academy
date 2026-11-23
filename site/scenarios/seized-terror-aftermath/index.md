@@ -85,7 +85,7 @@ Council of Elrond Rulings Digest #210, Question 6 (9 August 2025), specifically 
 
 - The split still happens. Promptings does **not** cancel the split.
 - The Promptings effect follows the Ranger into his new company because it targets that Ranger's company.
-- If the Ranger taps and Promptings resolves before the return effect, it cancels the return. The Ranger continues to the declared new site alone, without a separate Movement/Hazard Phase.
+- If Promptings was already activated earlier in the turn, or the Ranger taps it in response and Promptings resolves first, it cancels the return. The Ranger continues to the declared new site alone, without a separate Movement/Hazard Phase.
 - He rejoins the original company at the end of all Movement/Hazard Phases, before the Site Phase.
 - The original company is no longer protected by that Promptings effect for the rest of the turn.
 
