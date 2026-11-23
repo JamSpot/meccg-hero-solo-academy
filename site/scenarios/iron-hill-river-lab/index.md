@@ -190,3 +190,8 @@ Therefore, the main Hero-side answers are route choice, keeping Rangers availabl
 - [Council of Elrond Official Card Database](https://www.councilofelrond.org/cards/) — check current card text and errata.
 - [Full Spoiler List](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf) — Hero site, region, character and card-text reference.
 - [Academy Solo Ruleset]({{ '/reference/solo-ruleset/' | relative_url }}) — the supplementary solo draw procedure used for the 2 + twice-normal Hazard draw.
+
+
+## Promptings does not cancel River
+
+On the supplementary Eagles' Eyrie → Iron Hill route, Seized by Terror is legal because Grey Mountain Narrows is a Shadow-land. If the target Ranger bears Promptings of Wisdom, the split still happens but the Ranger can tap and make a corruption check to cancel the return, then rejoins before the Site Phase. However, Promptings does not cancel River; the tapped Ranger cannot also tap to satisfy a River. The direct Lórien → Iron Hill Starter Movement route remains protected from Seized because its printed path has no Shadow-land or Dark-domain. See [CoE Rulings Digest #210, Question 6](https://councilofelrond.org/forum/viewtopic.php?f=194&t=5241).
