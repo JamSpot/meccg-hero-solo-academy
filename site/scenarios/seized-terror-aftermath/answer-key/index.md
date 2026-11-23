@@ -17,7 +17,7 @@ Do not make a body check and do not remove items simply because the character ha
 
 Óin is Glóin's follower in the starting company. The target named by Seized by Terror is Glóin; Óin is not named as joining the new company. Óin remains with the original travelling company, but he is no longer at the same site as his controller. His direct-influence control is therefore broken.
 
-At the next Organization Phase, Óin must be placed under general influence or under another eligible character's direct influence at his site. If he remains uncontrolled at the end of that phase, he is discarded. In the untouched starting-company configuration, Óin's mind 3 fits within the 7 unused general influence.
+At the next Organization Phase, Óin must be placed under general influence or under another eligible character's direct influence at his site. If he remains uncontrolled at the end of that phase, he is discarded. In the untouched starting-company configuration, Óin's mind 3 fits within the 7 unused general influence. Because Óin starts with a Cram, that Cram travels with him to the origin if Óin is the target; if Glóin is the target, Óin and his Cram remain with the travelling company.
 
 ## 3. If Thorin is split off, what happens to Dori and Kíli?
 
