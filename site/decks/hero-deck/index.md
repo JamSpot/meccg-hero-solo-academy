@@ -634,3 +634,18 @@ The five starting Dwarves contain one Ranger: Óin. Gandalf adds no Ranger skill
 A larger company can face a larger Hazard Limit without gaining any extra ability to satisfy River. Gildor gives genuine redundancy: one Ranger can satisfy a single River if the other is split by Seized by Terror. Two Rivers still require two untapped Rangers.
 
 The [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) calculates how often the current Hazard deck can exploit each company profile. Keep the 36-card Hero list unchanged until the first three baseline games are recorded.
+
+
+## Hero company resilience after Seized by Terror
+
+The Hero player must track where a split character actually ends the phase. A successful Seized by Terror returns its target to the original company's site of origin, not to a nearest Haven. The rest of the company continues moving with its original Hazard Limit.
+
+This matters for the current Dwarf company:
+
+- If Óin is split away on the Lórien → Wind Throne route, the moving company loses its only starting Ranger and cannot cancel even one River.
+- If Dori is split away, Óin remains available to cancel one River.
+- Gildor gives the company a second Ranger, but two Rivers still require both Rangers to remain available.
+- If the target is a follower, it is separated from its controller and loses direct-influence control while at a different site. It must be reassigned at a later Organization Phase or discarded by the end of that phase.
+- If the target is a controller, its followers remain stacked under it and accompany it into the returning company.
+
+Items borne by the target stay with that character; CoE Digest #119 specifically confirms that a Palantír is not discarded merely because Seized by Terror returns its bearer. The full card/effect and regrouping procedure is in the [Seized by Terror — Aftermath & Regrouping Lab]({{ '/scenarios/seized-terror-aftermath-lab/' | relative_url }}).
