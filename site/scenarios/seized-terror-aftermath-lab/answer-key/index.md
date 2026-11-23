@@ -36,9 +36,9 @@ The original company's Hazard Limit was fixed at the beginning of its Movement/H
 
 ## 5. Palantír of Amon Sûl
 
-It is **not** discarded immediately. CoE Ruling Digest #119, Query 2, states that a character successfully affected by Seized by Terror is no longer considered to be moving, so the Palantír is not discarded by this effect.
+It is **not** discarded immediately. CoE Ruling Digest #120, Query 2, states that a character successfully affected by Seized by Terror is no longer considered to be moving, so the Palantír is not discarded by this effect.
 
-If the character attempts to move alone in a later Movement/Hazard Phase, the Palantír is discarded then. The ruling does not make the Palantír permanently safe from its normal movement restriction.
+If the character attempts to move alone in a later Movement/Hazard Phase, the Palantír is discarded then. A Ringwraith cannot be the target in the first place because it has no mind value (CoE Digest #121, Query 2). The ruling does not make the Palantír permanently safe from its normal movement restriction.
 
 ## 6. The target is a follower
 
