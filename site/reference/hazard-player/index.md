@@ -141,3 +141,8 @@ The active Hero deck contains Promptings of Wisdom. CoE Rulings Digest #210, Que
 If Seized targets a different character, that character splits and returns to the origin; Promptings remains with the Ranger's original company and does not cancel the target's return. This is a target-selection decision, not a blanket immunity. Promptings also does not cancel River. If the Ranger taps to use Promptings, he makes a corruption check and is no longer available to tap for River that Site Phase. Fellowship still discards when the split character leaves the company, even if it rejoins later.
 
 Read the full [Seized by Terror Aftermath Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}) and its [model answer]({{ '/scenarios/seized-terror-aftermath/answer-key/' | relative_url }}) before treating a successful Seized play as an automatic return to origin.
+
+
+## Seized by Terror: the second copy can retry
+
+Seized by Terror has no Cannot be Duplicated clause in the current card text. Because it is a short-event that resolves and is discarded, a failed first roll does not prevent a second copy being played on the same eligible Ranger during the same Movement/Hazard Phase. Against one Ranger, retry the same target after a failure. Against two Rangers and one River, both Rangers must be split; after the first success, use the second copy on the other Ranger. If the first attempt fails, retrying that same Ranger cannot deny the Site Phase.
