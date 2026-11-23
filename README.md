@@ -43,3 +43,8 @@ The Dáin II / Gimli Iron Hill specialist cards and the Arouse Minions / Arouse 
 Prepare → Travel → Marshal → Grow Stronger → Travel Further → Recover → Repeat
 
 The companion website is in `site/` and is deployed with GitHub Pages.
+
+
+## New rules lab — Seized by Terror aftermath
+
+The [Seized by Terror — Aftermath & Regrouping Lab](site/scenarios/seized-terror-aftermath-lab/index.md) teaches the return to the original site of origin, the fixed Hazard Limit, carried cards, followers, company effects, and the Promptings of Wisdom clarification. A separate [model answer](site/scenarios/seized-terror-aftermath-lab/answer-key/index.md) contains the worked decisions.

@@ -489,3 +489,19 @@ Compare the three routes below before declaring movement:
 The direct Iron Hill route and the Eyrie-to-Iron-Hill leg both draw eight solo Hazards because Iron Hill's normal Hazard draw is three. The route changes which creature/event keys are legal; it does not multiply the draw. Eagles’ Eyrie remains a supplementary map exercise outside the locked 15-site Location deck.
 
 Before moving, count the Rangers who will still be untapped at the beginning of the Site Phase. One River needs one Ranger; two Rivers need two. If Seized by Terror can be played, ask whether splitting one Ranger would actually leave too few Rangers. The [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) works through the six- and eight-card draws and the exact one- versus two-Ranger probabilities.
+
+
+## Seized by Terror changes the company, not the declared route
+
+A successful Seized by Terror does not rewrite the site path or send the target to the nearest Haven. The target splits into a different company and immediately returns to the **site of origin** for the movement being resolved. The original company continues along its declared route and keeps the Hazard Limit fixed at the value set at the start of its Movement/Hazard Phase.
+
+For route planning, record three separate things:
+
+1. **The route's Hazard keys** — Seized by Terror is legal only if the moving company's site path includes a Shadow-land or Dark-domain.
+2. **The character who is split** — the target returns to the origin; check whether this removes the company's only Ranger or separates a follower from its controller.
+3. **The objective at the destination** — the returned company cannot take Site Phase actions that turn, while the company that continues may still enter if it can satisfy River and other site requirements.
+
+The split-off character does not receive a separate Movement/Hazard Phase, Hazard draw or new Hazard Limit. For the full aftermath, carried-card rules, follower control, regrouping and the Promptings of Wisdom exception, use the [Seized by Terror — Aftermath & Regrouping Lab]({{ '/scenarios/seized-terror-aftermath-lab/' | relative_url }}).
+
+
+A successful return to site of origin also has a site-card safeguard: if the origin site card has already left play, CoE Digest #125 Q6 requires it (or the resource card acting as the site) to return to play in the same orientation, even from the discard or out-of-play pile. This is why the return effect is not treated as an ordinary loss of the site card. See the [Seized by Terror — Aftermath & Regrouping Lab]({{ '/scenarios/seized-terror-aftermath-lab/' | relative_url }}).

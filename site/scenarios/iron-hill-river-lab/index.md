@@ -190,3 +190,10 @@ Therefore, the main Hero-side answers are route choice, keeping Rangers availabl
 - [Council of Elrond Official Card Database](https://www.councilofelrond.org/cards/) — check current card text and errata.
 - [Full Spoiler List](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf) — Hero site, region, character and card-text reference.
 - [Academy Solo Ruleset]({{ '/reference/solo-ruleset/' | relative_url }}) — the supplementary solo draw procedure used for the 2 + twice-normal Hazard draw.
+
+
+## The split character returns to the origin
+
+On the supplementary Eagles' Eyrie → Iron Hill route, a successful Seized by Terror sends its target to the **site of origin for that leg**: Eagles' Eyrie. It does not send the character to a nearest Haven. The rest of the company continues to Iron Hill with its original, fixed Hazard Limit. The returned character receives no separate Movement/Hazard Phase or new Hazard Limit and cannot take Site Phase actions that turn.
+
+Count only Rangers who remain with the moving company at Iron Hill when resolving River. The full aftermath and regrouping rules are in the [Seized by Terror — Aftermath & Regrouping Lab]({{ '/scenarios/seized-terror-aftermath-lab/' | relative_url }}).

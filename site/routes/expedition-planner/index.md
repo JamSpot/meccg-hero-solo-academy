@@ -351,3 +351,16 @@ For a route with a site destination, record the following alongside the normal m
 | Is the objective worth the route exposure? | |
 
 Do not count Gandalf as a Ranger. Gildor is the second Ranger in the current support package. The [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) supplies the worked probabilities and model answers.
+
+
+## Add a Seized by Terror aftermath check
+
+When a route exposes a Shadow-land or Dark-domain, do not merely mark Seized by Terror as legal. Before committing to the move, note:
+
+- the exact **site of origin** to which a successful target returns;
+- which character is most likely to be targeted and what they carry;
+- whether the target is a Ranger needed for River;
+- whether the target is a follower or controls followers;
+- whether a character-specific effect such as Promptings of Wisdom or Stealth changes which company remains protected.
+
+A successful split does not give the target a second Movement/Hazard Phase or new Hazard Limit. The original company continues with its fixed limit; the returned company cannot take Site Phase actions that turn. Use the [Seized by Terror — Aftermath & Regrouping Lab]({{ '/scenarios/seized-terror-aftermath-lab/' | relative_url }}) before using a split as a route-denial tactic.

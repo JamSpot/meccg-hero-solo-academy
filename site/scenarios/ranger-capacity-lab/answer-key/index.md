@@ -125,3 +125,10 @@ The Hero and Hazard deck lists remain unchanged. Record the result in the [Solo 
 - [Council of Elrond Official Game Rules](https://www.councilofelrond.org/rules/)
 - [CRF 22 — Card Errata and Rulings](https://meccg.com/rules/collected-rulings-and-errata-crf/crf-22/card-errata-and-rulings/)
 - [Council of Elrond Official Card Database](https://www.councilofelrond.org/cards/)
+
+
+## Additional consequence of a successful split
+
+The split target is at the original company's **site of origin**, not at a nearest Haven. It has no separate Movement/Hazard Phase or new Hazard Limit; the original moving company continues with its already-fixed limit. The returned company cannot take Site Phase actions that turn. This is why the River calculation must count Rangers remaining with the company at the destination, not Rangers who still exist somewhere in play.
+
+See the [Seized by Terror — Aftermath & Regrouping Lab]({{ '/scenarios/seized-terror-aftermath-lab/' | relative_url }}) for the exact Palantír, follower and company-effect rulings.

@@ -122,4 +122,15 @@ Test your movement, Hazard choices and site-entry decisions together. Answer eac
 
 ## River denial: count available Rangers before choosing Seized by Terror
 
-When the route includes a Shadow-land or Dark-domain, Seized by Terror may split an eligible non-Wizard character. If River is also played on the destination site, count the number of Rivers and the number of Rangers who can still tap at the beginning of the Site Phase. One Ranger is required for each River. Target a Ranger only when removing him would leave fewer available Rangers than Rivers; otherwise choose the highest-value legal target by split probability. On the five-Dwarf Iron Hill example, Óin is the only Ranger and splits on 26/36 (72.2%) of rolls; Dori is the higher-probability attrition target at 33/36 (91.7%). See the [Iron Hill River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) for the full decision table.
+When the route includes a Shadow-land or Dark-domain, Seized by Terror may split an eligible non-Wizard character with a mind value. If River is also played on the destination site, count the number of Rivers and the number of Rangers who can still tap at the beginning of the Site Phase. One Ranger is required for each River. Target a Ranger only when removing him would leave fewer available Rangers than Rivers; otherwise choose the highest-value legal target by split probability. On the five-Dwarf Iron Hill example, Óin is the only Ranger and splits on 26/36 (72.2%) of rolls; Dori is the higher-probability attrition target at 33/36 (91.7%). See the [Iron Hill River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) for the full decision table.
+
+
+## After a successful Seized by Terror
+
+Do not stop at the split roll. The target splits into a different company and immediately returns to the **original company's site of origin**; it does not go to a nearest Haven. The company that remains continues its current Movement/Hazard Phase. The split-off company receives no separate Hazard draw or new Hazard Limit, and the returned character cannot take Site Phase actions that turn.
+
+The target's items remain with that character. Followers and company effects need separate checks: a controller's followers remain stacked with the controller; a follower separated from its controller loses that direct-influence control until it is reassigned during a later Organization Phase. Short-lasting effects that say “his company” follow the named character, while effects that simply say “the company” can spread across the resulting companies.
+
+**Hazard decision:** first decide whether the target's return will remove a Ranger needed for River. Then consider the target's carried item, followers, and the effect wording on any protection such as Stealth or Promptings of Wisdom.
+
+Use the [Seized by Terror — Aftermath & Regrouping Lab]({{ '/scenarios/seized-terror-aftermath-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/seized-terror-aftermath-lab/answer-key/' | relative_url }}) for the full sequence, including the no-new-Hazard-Limit ruling and Promptings of Wisdom exception.

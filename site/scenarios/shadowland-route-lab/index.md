@@ -195,3 +195,10 @@ Gildor is therefore a situational route-support recruit, not an automatic additi
 - [Middle-earth CCG Full Spoiler List (PDF)](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf) — Hero The Wind Throne, Grey Mountain Narrows, Seized by Terror, River, Book of Mazarbûl and creature card text.
 
 [Open the model answer]({{ '/scenarios/shadowland-route-lab/answer-key/' | relative_url }}) · [Return to the Practice Scenarios index]({{ '/scenarios/' | relative_url }})
+
+
+## After Seized by Terror resolves
+
+If the roll succeeds, the target returns to the **site of origin** (Lórien in this exercise), not to a nearest Haven. The rest of the company continues to The Wind Throne. The target does not receive a second Movement/Hazard Phase or a new Hazard Limit, and cannot take Site Phase actions that turn. Count only Rangers still with the moving company when resolving River.
+
+The full aftermath—including followers, carried items, company-specific effects and Promptings of Wisdom—is in the [Seized by Terror — Aftermath & Regrouping Lab]({{ '/scenarios/seized-terror-aftermath-lab/' | relative_url }}).

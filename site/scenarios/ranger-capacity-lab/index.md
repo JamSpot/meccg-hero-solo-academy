@@ -163,3 +163,12 @@ A direct Starter Movement route can be strategically safer even if it draws the 
 - [Council of Elrond Official Card Database](https://www.councilofelrond.org/cards/) — current card wording and errata.
 - [Iron Hill — River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) — the original route-specific exercise.
 - [Shadow-land Route & Seized by Terror Lab]({{ '/scenarios/shadowland-route-lab/' | relative_url }}) — the Wind Throne route and target-selection lesson.
+
+
+## After the split: where did the Ranger go?
+
+A successful Seized by Terror does not send the target to a nearest Haven. The character returns to the **site of origin** for the movement being resolved. The original company continues its current Movement/Hazard Phase with the Hazard Limit set at its beginning; the split character gets no separate Hazard draw or new Hazard Limit and cannot take Site Phase actions that turn.
+
+For the River calculation, count only the Rangers still with the company at the destination. Óin being split away removes him from the River response at The Wind Throne; Dori being split away does not. Gildor adds a second Ranger, but two Rivers still require both Rangers.
+
+The [Seized by Terror — Aftermath & Regrouping Lab]({{ '/scenarios/seized-terror-aftermath-lab/' | relative_url }}) adds the carried-card, follower-control, regrouping and Promptings of Wisdom rules.

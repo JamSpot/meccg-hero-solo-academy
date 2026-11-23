@@ -166,3 +166,10 @@ His Ranger skill is normally redundant beside Óin. The Wind Throne route reveal
 - [Council of Elrond Official Game Rules](https://www.councilofelrond.org/rules/) — movement, Hazard Limit, draws, keying, event Hazards and Site Phase.
 - [Council of Elrond Ruling Digest archive](https://meccg.es/meta/rules/MeCCG%20Rulings%20Digests%20v1.0.pdf) — Digest #89: one Ranger per River and the tap timing; Digest #106: a company forced to do nothing has its entire Site Phase skipped and cannot enter.
 - [Middle-earth CCG Full Spoiler List](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf) — site and card text.
+
+
+## The return destination and what happens next
+
+A successful target returns to the company's site of origin, which is Lórien in this exercise. The original company continues its Movement/Hazard Phase at The Wind Throne. The split character receives no new Hazard Limit or separate Hazard draw and cannot take Site Phase actions that turn. A Palantír borne by the target is not discarded merely because the character is no longer moving.
+
+For the detailed rulings on followers, company effects, regrouping and Promptings of Wisdom, see the [Seized by Terror — Aftermath & Regrouping Lab]({{ '/scenarios/seized-terror-aftermath-lab/' | relative_url }}).

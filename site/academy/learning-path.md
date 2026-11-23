@@ -48,6 +48,10 @@ Only after you can run the core expedition loop comfortably, continue to:
 
 Use the [Games and Lessons index]({{ '/games/' | relative_url }}) for the later sequence, or [All Pages]({{ '/navigation/' | relative_url }}) only when looking up a specific topic.
 
+## Advanced Hazard aftermath — Seized by Terror
+
+Once you can identify a legal Shadow-land route, complete the [Seized by Terror — Aftermath & Regrouping Lab]({{ '/scenarios/seized-terror-aftermath-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/seized-terror-aftermath-lab/answer-key/' | relative_url }}). Follow the target back to the exact site of origin, resolve carried items and followers, keep the original Hazard Limit fixed, restore the origin site card if required, and practise the Promptings of Wisdom exception.
+
 ## The lesson pattern
 
 **DO → STOP → DECIDE → EXPLAIN → CONTINUE → DEBRIEF**
