@@ -445,3 +445,8 @@ Before choosing the target, check whether a Ranger in the company bears Promptin
 - If Seized targets another character, that character splits and returns to the origin. Promptings remains with the Ranger's original company and does not cancel the target's return.
 
 This changes target selection. Dori may still be the highest-probability split, but a controller may be more valuable if the goal is to break follower control. If the Ranger is the target, Promptings can prevent the return but forces the Ranger to tap; River can still deny the Site Phase because Promptings does not cancel River and the tapped Ranger cannot also satisfy it. Fellowship is discarded when a character leaves the company even if the Ranger later rejoins. Keep both Seized copies in the baseline; test the interaction before considering quantity changes.
+
+
+## Seized by Terror: retry after a failed roll
+
+The active Hazard list has two copies. The current Seized by Terror card text does **not** say Cannot be Duplicated. It is a short-event and is discarded after it resolves; if the first target roll fails, a second copy can be played on the same eligible Ranger during the same Movement/Hazard Phase. This makes the pair a genuine two-attempt line against a one-Ranger company. Against two Rangers and one River, however, both Rangers must be split; after the first succeeds, target the other Ranger, while a failed first attempt followed by a retry on the same Ranger still leaves the second Ranger available.
