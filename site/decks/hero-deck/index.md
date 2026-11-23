@@ -649,7 +649,7 @@ The 30-Resource package contains **two Promptings of Wisdom**, but the card cann
 
 The official [CoE Rulings Digest #210, Question 6](https://councilofelrond.org/forum/viewtopic.php?f=194&t=5241) resolves both cases:
 
-- If Seized targets the Ranger bearing Promptings, the Ranger splits off, Promptings follows him, and a tap that resolves before the return effect cancels the return. He continues to the new site alone, without a separate Movement/Hazard Phase, and rejoins the company at the end of all Movement/Hazard Phases. The original company loses Promptings' protection for the rest of the turn.
+- If Seized targets the Ranger bearing Promptings, the Ranger splits off, Promptings follows him, and an effect activated earlier in the turn, or a tap in response that resolves before the return effect, cancels the return. He continues to the new site alone, without a separate Movement/Hazard Phase, and rejoins the company at the end of all Movement/Hazard Phases. The original company loses Promptings' protection for the rest of the turn.
 - If Seized targets a different character, that character splits and returns to the origin. Promptings stays with the Ranger's original company and does not save the other character from returning.
 
 Promptings does **not** cancel River. It only cancels Hazard effects that return the company to origin or tap its current/new site. River still requires the relevant number of Rangers to tap at the beginning of the Site Phase.
