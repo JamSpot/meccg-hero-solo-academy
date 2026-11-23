@@ -147,9 +147,10 @@ jobs:
           grep -q 'Promptings of Wisdom' _site/scenarios/iron-hill-river-lab/answer-key/index.html
           grep -q '11.53%' _site/scenarios/ranger-capacity-lab/index.html
           grep -q '19.87%' _site/scenarios/ranger-capacity-lab/index.html
+          grep -q '2.81%' _site/scenarios/ranger-capacity-lab/index.html
           grep -q '91.98%' _site/scenarios/ranger-capacity-lab/answer-key/index.html
           grep -q 'retry after a failed roll' _site/decks/hazard-deck/index.html
-          grep -q 'retry the same target' _site/reference/hazard-player/index.html
+          grep -q 'second copy can retry' _site/reference/hazard-player/index.html
           grep -q 'iron-hill-expedition' _site/index.html
           grep -q 'iron-hill-expedition' _site/navigation/index.html
           grep -q 'iron-hill-expedition' _site/routes/index.html
