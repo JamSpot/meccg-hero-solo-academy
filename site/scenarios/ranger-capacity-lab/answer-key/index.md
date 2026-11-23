@@ -125,3 +125,8 @@ The Hero and Hazard deck lists remain unchanged. Record the result in the [Solo 
 - [Council of Elrond Official Game Rules](https://www.councilofelrond.org/rules/)
 - [CRF 22 — Card Errata and Rulings](https://meccg.com/rules/collected-rulings-and-errata-crf/crf-22/card-errata-and-rulings/)
 - [Council of Elrond Official Card Database](https://www.councilofelrond.org/cards/)
+
+
+## Promptings of Wisdom and the probability results
+
+The active Hero deck contains Promptings of Wisdom, so the Ranger's return to origin is not automatic in every case. If the targeted character is the Ranger bearing Promptings, the Ranger can tap and make a corruption check to cancel the return effect. The split remains, but he continues to the new site without a separate Movement/Hazard Phase and rejoins before the Site Phase. Because he is tapped, he cannot satisfy River. If Seized targets a different character, that character returns while Promptings stays with the Ranger's original company. This is why the lab's River-denial probabilities remain valid: Promptings can preserve arrival, but it does not provide an untapped Ranger for River. See CoE Rulings Digest #210, Question 6.
