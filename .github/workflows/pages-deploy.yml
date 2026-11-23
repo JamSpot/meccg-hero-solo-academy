@@ -142,6 +142,9 @@ jobs:
           grep -q 'CoE Rulings Digest #210' _site/scenarios/seized-terror-aftermath/index.html
           grep -q 'Promptings of Wisdom' _site/decks/hero-deck/index.html
           grep -q 'Promptings of Wisdom' _site/decks/hazard-deck/index.html
+          grep -q 'Promptings of Wisdom' _site/reference/hazard-player/index.html
+          grep -q 'Promptings of Wisdom' _site/scenarios/ranger-capacity-lab/index.html
+          grep -q 'Promptings of Wisdom' _site/scenarios/iron-hill-river-lab/answer-key/index.html
           grep -q 'iron-hill-expedition' _site/index.html
           grep -q 'iron-hill-expedition' _site/navigation/index.html
           grep -q 'iron-hill-expedition' _site/routes/index.html
