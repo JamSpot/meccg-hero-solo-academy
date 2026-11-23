@@ -69,13 +69,9 @@ Do not generalise this result to every company effect. Fellowship is discarded b
 
 The split-off company returns to the original company's site of origin immediately. It does not arrive at the declared destination.
 
-The consolidated return-to-origin rule says that a company returned to its site of origin during its Movement/Hazard Phase:
+The consolidated return-to-origin rule (2.IV.4) says a company returned to its site of origin during its Movement/Hazard Phase is no longer considered to have a site path or to have moved to a new site that turn, and it cannot initiate actions during its Site Phase. Apply this to the split-off company returned by Seized by Terror. Do not automatically treat the remaining company as having been returned too: it is still the company travelling to its declared destination unless another effect changes that.
 
-- immediately ends that returned company's movement/hazard phase;
-- is no longer considered to have a site path or to have moved to a new site that turn; and
-- cannot initiate actions during its Site Phase.
-
-Apply this to the company that was returned. Do not automatically treat the remaining company as having been returned too: it is still the company travelling to its declared destination unless another effect changes that.
+The original company's base Hazard Limit was fixed at the beginning of its Movement/Hazard Phase. Do not recalculate it because the split changes the company's size.
 
 The two companies are now at different sites. They cannot rejoin while separated. Once both are at the same site, the normal joining rules apply: companies may be joined during an Organization Phase when they are at the same site; at the end of all Movement/Hazard Phases, companies at the same non-Haven site must join, while joining at a Haven is optional.
 
