@@ -77,7 +77,7 @@ The original company's base Hazard Limit was fixed at the beginning of its Movem
 
 ### Important exception: Promptings of Wisdom is in the active Hero deck
 
-The 36-card Hero deck contains two copies of Promptings of Wisdom. It is playable during the Organization Phase on a Ranger. The target Ranger may tap to cancel all Hazard effects for the rest of the turn that force **his company** to return to its site of origin or tap its current or new site. If he taps, he makes a corruption check. The card has 2 corruption points and cannot be duplicated in a given company.
+The 36-card Hero deck contains two copies of Promptings of Wisdom. It is playable during the Organization Phase on a Ranger. The target Ranger may tap to cancel all Hazard effects for the rest of the turn that force **his company** to return to its site of origin or tap its current or new site. If he taps, he makes a corruption check. The card has 2 corruption points and cannot be duplicated in a given company. The check includes those 2 points and any other corruption points the Ranger controls. In the starting company, Óin also bears Cram (1 point) and has a -1 corruption-check modifier, so using Promptings on Óin means a check against 3 corruption points with -1. Gildor has no printed negative check modifier and no starting Cram, but recruiting him raises the company's Hazard Limit.
 
 Council of Elrond Rulings Digest #210, Question 6 (9 August 2025), specifically resolves its interaction with Seized by Terror:
 
