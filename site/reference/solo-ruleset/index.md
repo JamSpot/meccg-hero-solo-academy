@@ -139,7 +139,7 @@ The [Hazard Legality Workshop]({{ '/scenarios/hazard-legality-workshop/' | relat
 
 A successful **Seized by Terror** splits the targeted non-Wizard character with a mind value into a different company and immediately returns that company to the original moving company's site of origin. The target does not go to a nearest Haven. The rest of the original company continues its current Movement/Hazard Phase.
 
-The original Hazard Limit was fixed when that phase began; it does not shrink, and the split-off character receives no separate Hazard draw or new Hazard Limit. The returned company cannot take Site Phase actions that turn. Its items remain with their bearer; check follower control, company-specific effects, and the site-of-origin card if it has already left play.
+The original Hazard Limit was fixed when that phase began; it does not shrink. The returned company's site path disappears and its Movement/Hazard Phase ends; it receives no separate Hazard draw or new Hazard Limit. The returned company cannot take Site Phase actions that turn. Its items remain with their bearer; check follower control, company-specific effects, and the site-of-origin card if it has already left play.
 
 The detailed rulings include the no-new-Hazard-Limit answer (CoE Digest #52 Q42), company effects after a split (#71 Q9), Palantír retention (#120 Q2), Ringwraith target eligibility (#121 Q2), and restoration of the origin site card (#125 Q6). Promptings of Wisdom has a further clarification in CoE Digest #210 Q6 (9 August 2025).
 
