@@ -112,6 +112,8 @@ The starting company has seven points of unused general influence. Thorin's +2 d
 
 Assume the company takes the Lórien → The Wind Throne Starter Movement route. The Hero site path contains a Shadow-land, so Seized by Terror is legal. The site being a Ruins & Lairs is not what makes Seized legal; the region type in the path does.
 
+The table below shows the **default result without Promptings of Wisdom canceling the return**. If Óin is the target and he bears Promptings, use the special result in section 4: he splits but continues to the destination and rejoins before the Site Phase.
+
 | Target | Mind | Split chance | Control consequence |
 |---|---:|---:|---|
 | Dori | 1 | 33/36 = 91.7% | Dori separates from Thorin and must be reassigned at the next Organization Phase |
