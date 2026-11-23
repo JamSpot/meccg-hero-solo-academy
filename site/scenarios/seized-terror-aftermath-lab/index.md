@@ -12,7 +12,7 @@ It does not change the 36-card Hero deck, 30-card Hazard deck, or 15-card Hero L
 
 ## The card's complete consequence
 
-Seized by Terror is playable on a non-Wizard character moving in a Shadow-land or Dark-domain. The target rolls 2D6 and adds mind. If the result is **less than 12**, the target splits into a different company and immediately returns to the original company's **site of origin**.
+Seized by Terror is playable on a non-Wizard character **with a mind value** moving in a Shadow-land or Dark-domain. The target rolls 2D6 and adds mind; a Ringwraith, which has no mind value, cannot be targeted. If the result is **less than 12**, the target splits into a different company and immediately returns to the original company's **site of origin**.
 
 That means:
 
@@ -39,7 +39,7 @@ The character remains in play, so do not discard cards merely because the charac
 | Card or effect | What happens |
 |---|---|
 | An item borne by the split character | Remains with that character unless a specific card effect says otherwise. |
-| Palantír of Amon Sûl / Palantír of Osgiliath | CoE Digest #119, Query 2, explicitly says it is not discarded when Seized by Terror succeeds: the character is no longer considered to be moving. If that character attempts to move alone in a later Movement/Hazard Phase, the Palantír is discarded. |
+| Palantír of Amon Sûl / Palantír of Osgiliath | CoE Digest #120, Query 2, explicitly says it is not discarded when Seized by Terror succeeds: the character is no longer considered to be moving. If that character attempts to move alone in a later Movement/Hazard Phase, the Palantír is discarded. |
 | A short-lasting effect that says “his company” or “the character's company” | Follows the named character into the new company. |
 | A short-lasting effect that simply affects “the company” without naming a character | Spreads across the resulting companies under CoE Digest #71, Query 9. |
 | A resource permanent-event or ongoing effect targeting the original company as an entity | Stays with the original company under the company-splitting rule. |
@@ -120,7 +120,7 @@ Answer before opening the model answer.
 
 - [Council of Elrond — consolidated official rules](https://www.councilofelrond.org/rules/): Organization Phase, Followers, Movement/Hazard Phase, returning to site of origin, and joining companies.
 - [CRF 22 — Rulings by Term](https://meccg.com/rules/collected-rulings-and-errata-crf/crf-22/rulings-by-term/): Character, Company, Followers, Influence and Items.
-- [Council of Elrond Ruling Digests (PDF)](https://meccg.es/meta/rules/MeCCG%20Rulings%20Digests%20v1.0.pdf): Digest #52 Q42 (no new Hazard Limit), Digest #71 Q9 (effects after a split), and Digest #119 Q2 (Palantír).
+- [Council of Elrond Ruling Digests (PDF)](https://meccg.es/meta/rules/MeCCG%20Rulings%20Digests%20v1.0.pdf): Digest #52 Q42 (no new Hazard Limit), Digest #71 Q9 (effects after a split), Digest #120 Q2 (Palantír), and Digest #121 Q2 (a Ringwraith cannot be targeted).
 - [CoE Digest #210 Q6 — Promptings of Wisdom](https://councilofelrond.org/forum/viewtopic.php?p=43305): the 2025 clarification of Promptings of Wisdom and Seized by Terror.
 
 [Open the separate model answer]({{ '/scenarios/seized-terror-aftermath-lab/answer-key/' | relative_url }}).
