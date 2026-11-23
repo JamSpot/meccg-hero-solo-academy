@@ -93,7 +93,7 @@ Therefore:
 
 The company has only Óin as a Ranger. If the Hazard player has one River and Seized by Terror, target Óin.
 
-If Óin splits (72.2%), no untapped Ranger remains for River. If Óin has Promptings of Wisdom, he may tap it and cancel the return, but he is then tapped and still cannot satisfy River; he rejoins the company at the destination before the Site Phase. Without Promptings, or if he does not activate it, he returns to the origin. In either case River prevents the Site Phase. If the Seized roll fails, Óin remains untapped and can tap at the beginning of the Site Phase to satisfy River.
+If Óin splits (72.2%), no untapped Ranger remains for River. If Promptings on Óin was already activated earlier in the turn, or he taps it in response and it resolves first, he cancels the return but is tapped and still cannot satisfy River; he rejoins the company at the destination before the Site Phase. Without Promptings, or if he does not activate it, he returns to the origin. In either case River prevents the Site Phase. If the Seized roll fails, Óin remains untapped and can tap at the beginning of the Site Phase to satisfy River.
 
 ### Five Dwarves, two Rivers, one Ranger
 
