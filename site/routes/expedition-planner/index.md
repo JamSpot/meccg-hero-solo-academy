@@ -351,3 +351,8 @@ For a route with a site destination, record the following alongside the normal m
 | Is the objective worth the route exposure? | |
 
 Do not count Gandalf as a Ranger. Gildor is the second Ranger in the current support package. The [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) supplies the worked probabilities and model answers.
+
+
+## After a successful Seized by Terror split
+
+A route plan should include the cost of a successful split, not just the probability of the roll. Ask whether the target controls followers, bears a mission-critical item, has an ally, or is supporting a company-wide Fellowship. The split-off character returns to the origin; any followers separated from their controller must be reassigned by the end of the next Organization Phase. The [Seized by Terror Aftermath Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}) provides a worked starting-Dwarf example and model answer.
