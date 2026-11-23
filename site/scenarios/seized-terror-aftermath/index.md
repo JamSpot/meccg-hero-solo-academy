@@ -82,7 +82,7 @@ The Academy's starting control relationships are:
 - Thorin II controls Dori and Kíli.
 - Glóin controls Óin.
 
-The starting company has seven points of unused general influence. Thorin's +2 direct influence against Dwarves lets him control Dori (mind 1) and Kíli (mind 3); Glóin's +1 against Dwarves lets him control Óin (mind 3).
+The starting company has seven points of unused general influence. Thorin's +2 direct influence against Dwarves lets him control Dori (mind 1) and Kíli (mind 3); Glóin's +1 against Dwarves lets him control Óin (mind 3). The starting-company setup places a Cram with Thorin and a Cram with Óin.
 
 Assume the company takes the Lórien → The Wind Throne Starter Movement route. The Hero site path contains a Shadow-land, so Seized by Terror is legal. The site being a Ruins & Lairs is not what makes Seized legal; the region type in the path does.
 
