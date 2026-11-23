@@ -426,3 +426,14 @@ For a fresh draw from the 30-card Hazard deck, the chance that the Hazard player
 These are probabilities of a complete denial line, including the required Seized split rolls—not merely the chance of drawing both card names. They assume a fresh deck, no prior discard/recycle state, and no other effect tapping or protecting Rangers. The two-Ranger line is much harder to assemble: with one River, both Rangers must split; with two Rivers, at least one must split.
 
 The full calculation and decision table are in the [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/ranger-capacity-lab/answer-key/' | relative_url }}). No card substitution is recommended; use the current 30-card baseline for the first three recorded games.
+
+
+## Seized by Terror — resolve the return, not just the split roll
+
+The two copies of Seized by Terror are route-dependent: the moving company must be travelling through a Shadow-land or Dark-domain, and the target must be a non-Wizard character. On a successful roll, the target splits into a different company and immediately returns to the original company's site of origin.
+
+The Hazard player should then continue the current Movement/Hazard Phase against the company that remains moving. The split-off character gets no separate Hazard draw or new Hazard Limit; the original company's Hazard Limit remains fixed. If the split target was a Ranger, count only the Rangers still with the moving company when deciding whether River can be cancelled.
+
+Do not assume all company effects follow the same group. Character-specific “his company” effects can follow the named character, while generic company effects can spread across the split companies. Promptings of Wisdom has a specific 2025 clarification when its Ranger is the target.
+
+The [Seized by Terror — Aftermath & Regrouping Lab]({{ '/scenarios/seized-terror-aftermath-lab/' | relative_url }}) covers the target's carried items, followers, Palantír ruling, company effects, no-new-Hazard-Limit ruling and the Promptings of Wisdom exception.
