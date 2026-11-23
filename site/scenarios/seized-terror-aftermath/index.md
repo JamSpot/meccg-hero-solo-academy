@@ -97,6 +97,8 @@ Council of Elrond Rulings Digest #210, Question 6 (9 August 2025), specifically 
 
 Promptings does not cancel River: River requires a Ranger to tap and does not itself force a company to return to its site of origin or tap its current/new site. It cancels only the Hazard effects named by its text.
 
+**One-Ranger example:** Óin is the company's only Ranger and bears Promptings. Seized targets Óin; he taps Promptings and passes the corruption check, so he continues to the destination and rejoins before the Site Phase. If River is also in play, Óin is already tapped and cannot satisfy it. The Site Phase is skipped, but Óin is with the company at the destination rather than stranded at the origin. If Gildor is also present and untapped, he can satisfy one River while Óin remains tapped.
+
 If the split-off Ranger rejoins at the destination before the Site Phase, the companies are no longer separated for the Site Phase. Any Fellowship copy is still discarded: the character did leave the company, and rejoining does not undo Fellowship's discard clause. If the target returns to the origin instead, any follower/controller relationship left separated must be repaired at the next Organization Phase.
 
 The two companies otherwise cannot rejoin while they are at different sites. Once both are at the same site, the normal joining rules apply: companies may be joined during an Organization Phase when they are at the same site; at the end of all Movement/Hazard Phases, companies at the same non-Haven site must join, while joining at a Haven is optional.
