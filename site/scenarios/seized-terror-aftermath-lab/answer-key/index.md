@@ -68,8 +68,6 @@ This is the specific distinction in [CoE Digest #210 Q6](https://councilofelrond
 
 The two groups cannot join merely because they belong to the same player. They must be at the same site when the normal joining rules apply.
 
-If the site-of-origin card has already left play, CoE Digest #125, Query 6, says it is returned to play in the same orientation it left, even if it is in the discard or out-of-play pile. This special restoration applies because an effect requires the company to return; it is not the same as a company simply losing its site card, which would discard its characters.
-
 At the end of all Movement/Hazard Phases:
 
 - Companies at the same non-Haven site must join, provided the resulting company is legal.
@@ -80,15 +78,15 @@ In the Lórien → The Wind Throne example, the main company is at The Wind Thro
 
 A company returned to its site of origin cannot initiate actions during its Site Phase that turn.
 
-## 11. If the origin site card has left play
-
-Restore the site card (or the resource card acting as the site) to play in the same orientation it left. The ruling says this applies even if the card is in the discard pile or out-of-play pile. Do not discard the returning company merely because the site card was previously removed.
-
-## 12. Hazard Limit and further Hazards
+## 10. Hazard Limit and further Hazards
 
 The original moving company's Hazard Limit remains fixed. The Hazard player may continue playing legal Hazards against the company that is still moving, using any unspent portion of that original limit.
 
 The returned character is not the current moving company, has no separate Hazard draw or Hazard Limit, and is not a second target for the original company's creature plays merely because it has split away. Check the exact target and keying rules for any other effect.
+
+## 11. If the origin site card has left play
+
+Restore the site card (or the resource card acting as the site) to play in the same orientation it left. CoE Digest #125, Query 6, says this applies even if the card is in the discard pile or out-of-play pile. Do not discard the returning company merely because the site card was previously removed. This is different from a company simply losing its site card without a return effect; in that case its characters are discarded.
 
 ## Tactical summary
 
