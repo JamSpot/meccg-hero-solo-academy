@@ -43,7 +43,7 @@ This is a direct card-text consequence, not a general rule that every company pe
 
 No. The new company returns to the original company's site of origin; it does not arrive at the destination. Under the consolidated return-to-origin rule (2.IV.4), a company returned to its site of origin is not considered to have moved to a new site and cannot initiate actions during its Site Phase.
 
-The remaining company is still the company that continues to the declared destination, unless another effect returns it too.
+The remaining company is still the company that continues to the declared destination, unless another effect returns it too. Its base Hazard Limit was fixed at the beginning of the phase and is not recalculated after the split.
 
 ## 7. Can the companies rejoin while at different sites?
 
