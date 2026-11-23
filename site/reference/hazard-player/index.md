@@ -136,7 +136,7 @@ The split-off company returns to the origin, not the declared destination. Under
 
 ## Promptings of Wisdom: check before choosing a Seized target
 
-The active Hero deck contains Promptings of Wisdom. CoE Rulings Digest #210, Question 6, is explicit: if Seized by Terror targets the Ranger who bears Promptings, the split still occurs but Promptings follows that Ranger and can cancel the return-to-origin effect if the Ranger taps and the effect resolves first. The Ranger then continues to the new site without a separate Movement/Hazard Phase and rejoins before the Site Phase. The original company loses Promptings' protection for the rest of the turn.
+The active Hero deck contains Promptings of Wisdom. CoE Rulings Digest #210, Question 6, is explicit: if Seized by Terror targets the Ranger who bears Promptings, the split still occurs but Promptings follows that Ranger and can cancel the return-to-origin effect if Promptings was already activated earlier in the turn, or the Ranger taps in response and the effect resolves first. The Ranger then continues to the new site without a separate Movement/Hazard Phase and rejoins before the Site Phase. The original company loses Promptings' protection for the rest of the turn.
 
 If Seized targets a different character, that character splits and returns to the origin; Promptings remains with the Ranger's original company and does not cancel the target's return. This is a target-selection decision, not a blanket immunity. Promptings also does not cancel River. If the Ranger taps to use Promptings, he makes a corruption check and is no longer available to tap for River that Site Phase. Fellowship still discards when the split character leaves the company, even if it rejoins later.
 
