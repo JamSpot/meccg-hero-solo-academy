@@ -502,3 +502,6 @@ For route planning, record three separate things:
 3. **The objective at the destination** — the returned company cannot take Site Phase actions that turn, while the company that continues may still enter if it can satisfy River and other site requirements.
 
 The split-off character does not receive a separate Movement/Hazard Phase, Hazard draw or new Hazard Limit. For the full aftermath, carried-card rules, follower control, regrouping and the Promptings of Wisdom exception, use the [Seized by Terror — Aftermath & Regrouping Lab]({{ '/scenarios/seized-terror-aftermath-lab/' | relative_url }}).
+
+
+A successful return to site of origin also has a site-card safeguard: if the origin site card has already left play, CoE Digest #125 Q6 requires it (or the resource card acting as the site) to return to play in the same orientation, even from the discard or out-of-play pile. This is why the return effect is not treated as an ordinary loss of the site card. See the [Seized by Terror — Aftermath & Regrouping Lab]({{ '/scenarios/seized-terror-aftermath-lab/' | relative_url }}).
