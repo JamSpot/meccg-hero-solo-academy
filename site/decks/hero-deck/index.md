@@ -655,3 +655,10 @@ The official [CoE Rulings Digest #210, Question 6](https://councilofelrond.org/f
 Promptings does **not** cancel River. It only cancels Hazard effects that return the company to origin or tap its current/new site. River still requires the relevant number of Rangers to tap at the beginning of the Site Phase.
 
 Choose the Ranger deliberately. The starting company has Óin as its only Ranger, and he already carries Cram (1 corruption point) and has -1 to his corruption checks. If Promptings is also placed on Óin, tapping it means a check with 3 total corruption points and his -1 modifier. Gildor has no printed negative corruption-check modifier and is a second Ranger, but recruiting him increases the company's Hazard Limit. Keep the chosen Ranger untapped if you want the option to respond to Seized by Terror. This is a real defensive tool, not a free cancellation.
+
+| Promptings bearer | Corruption points when tapped | Modifier | Failed 2D6 outcomes | Failure chance |
+|---|---:|---:|---|---:|
+| Óin with Cram | 3 | -1 | 2, 3, 4 | 16.7% |
+| Gildor with no other CP | 2 | 0 | 2 | 2.8% |
+
+The check uses the card's 2 CP plus every other CP on the Ranger. Gildor is the safer Promptings bearer for this check, but he is a recruit rather than a starting character and increases the Hazard Limit. The second Promptings copy cannot be placed on the same company while the first is there; it is for another company or a later replacement, not a double shield.
