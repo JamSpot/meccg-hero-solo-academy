@@ -166,3 +166,8 @@ His Ranger skill is normally redundant beside Óin. The Wind Throne route reveal
 - [Council of Elrond Official Game Rules](https://www.councilofelrond.org/rules/) — movement, Hazard Limit, draws, keying, event Hazards and Site Phase.
 - [Council of Elrond Ruling Digest archive](https://meccg.es/meta/rules/MeCCG%20Rulings%20Digests%20v1.0.pdf) — Digest #89: one Ranger per River and the tap timing; Digest #106: a company forced to do nothing has its entire Site Phase skipped and cannot enter.
 - [Middle-earth CCG Full Spoiler List](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf) — site and card text.
+
+
+## Promptings of Wisdom ruling
+
+If the company has Promptings of Wisdom on a Ranger, check who Seized by Terror targets. If it targets that Ranger, the split still occurs, but the Ranger may tap and make a corruption check to cancel the return effect; he continues to the new site without a separate Movement/Hazard Phase and rejoins before the Site Phase. If Seized targets another character, that character returns to the origin and Promptings remains with the Ranger's original company. This is CoE Rulings Digest #210, Question 6. Promptings does not cancel River.
