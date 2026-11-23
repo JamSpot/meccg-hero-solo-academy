@@ -634,3 +634,31 @@ The five starting Dwarves contain one Ranger: Óin. Gandalf adds no Ranger skill
 A larger company can face a larger Hazard Limit without gaining any extra ability to satisfy River. Gildor gives genuine redundancy: one Ranger can satisfy a single River if the other is split by Seized by Terror. Two Rivers still require two untapped Rangers.
 
 The [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) calculates how often the current Hazard deck can exploit each company profile. Keep the 36-card Hero list unchanged until the first three baseline games are recorded.
+
+
+## Book bearer and Seized by Terror protection
+
+The current Hazard list contains two Seized by Terror. Its current card text can target a non-Wizard, non-Ringwraith character moving through a Shadow-land or Dark-domain; it cannot target Gandalf. Gandalf is therefore the safest bearer for the Book of Mazarbûl against this particular Hazard, as well as being a Sage who can use the Book's hand-size ability.
+
+If a non-Wizard character bears the Book and is successfully split, the Book stays with that character and returns to the original company's site of origin. The remaining company can continue, but its Book objective has been pulled away. The same principle applies to any other item borne by a split character. Do not change the 36-card Hero list; use the bearer choice deliberately. The [Seized by Terror Aftermath Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}) explains the item, ally, follower and Fellowship consequences.
+
+
+## Promptings of Wisdom: the Seized by Terror return defence
+
+The 30-Resource package contains **two Promptings of Wisdom**, but the card cannot be duplicated in a given company. It is played during the Organization Phase on a Ranger. That Ranger may tap to cancel Hazard effects for the rest of the turn that force his company to return to its site of origin or tap its current/new site. If he taps, he makes a corruption check; Promptings carries **2 corruption points**. It does not cancel the split from Seized by Terror, only the return effect.
+
+The official [CoE Rulings Digest #210, Question 6](https://councilofelrond.org/forum/viewtopic.php?f=194&t=5241) resolves both cases:
+
+- If Seized targets the Ranger bearing Promptings, the Ranger splits off, Promptings follows him, and an effect activated earlier in the turn, or a tap in response that resolves before the return effect, cancels the return. He continues to the new site alone, without a separate Movement/Hazard Phase, and rejoins the company at the end of all Movement/Hazard Phases. The original company loses Promptings' protection for the rest of the turn.
+- If Seized targets a different character, that character splits and returns to the origin. Promptings stays with the Ranger's original company and does not save the other character from returning.
+
+Promptings does **not** cancel River. It only cancels Hazard effects that return the company to origin or tap its current/new site. River still requires the relevant number of Rangers to tap at the beginning of the Site Phase.
+
+Choose the Ranger deliberately. The starting company has Óin as its only Ranger, and he already carries Cram (1 corruption point) and has -1 to his corruption checks. If Promptings is also placed on Óin, tapping it means a check with 3 total corruption points and his -1 modifier. Gildor has no printed negative corruption-check modifier and is a second Ranger, but recruiting him increases the company's Hazard Limit. Keep the chosen Ranger untapped if you want the option to respond to Seized by Terror. This is a real defensive tool, not a free cancellation.
+
+| Promptings bearer | Corruption points when tapped | Modifier | Failed 2D6 outcomes | Failure chance |
+|---|---:|---:|---|---:|
+| Óin with Cram | 3 | -1 | 2, 3, 4 | 16.7% |
+| Gildor with no other CP | 2 | 0 | 2 | 2.8% |
+
+The check uses the card's 2 CP plus every other CP on the Ranger. Gildor is the safer Promptings bearer for this check, but he is a recruit rather than a starting character and increases the Hazard Limit. The second Promptings copy cannot be placed on the same company while the first is there; it is for another company or a later replacement, not a double shield.

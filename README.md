@@ -43,3 +43,5 @@ The Dáin II / Gimli Iron Hill specialist cards and the Arouse Minions / Arouse 
 Prepare → Travel → Marshal → Grow Stronger → Travel Further → Recover → Repeat
 
 The companion website is in `site/` and is deployed with GitHub Pages.
+
+- [Seized by Terror — Aftermath, Followers & Recovery Lab](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/seized-terror-aftermath/) and [model answer](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/seized-terror-aftermath/answer-key/) — follows a successful split through bearer cards, allies, broken direct-influence control, Fellowship's explicit discard clause, the Promptings of Wisdom ruling, return-to-origin timing, and later regrouping. It keeps the fixed Hero and Hazard lists unchanged.

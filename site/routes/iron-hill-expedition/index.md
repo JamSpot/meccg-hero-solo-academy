@@ -175,3 +175,8 @@ See the [model answer]({{ '/routes/iron-hill-expedition/answer-key/' | relative_
 ## Further practice: River and Seized by Terror
 
 The direct Starter Movement route makes Seized by Terror illegal, while the staged Region Movement route through Grey Mountain Narrows makes it legal. Combine that route difference with River's one-Ranger-per-copy requirement in the [Iron Hill — River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/iron-hill-river-lab/answer-key/' | relative_url }}).
+
+
+## Seized by Terror and the route decision
+
+The direct Lórien → Iron Hill Starter Movement path has no Shadow-land or Dark-domain, so Seized by Terror is illegal on that leg. The supplementary Eagles' Eyrie → Iron Hill Region Movement route through Grey Mountain Narrows includes a Shadow-land, so the Hazard becomes legal. That is a change in legality, not a change in Iron Hill's normal Hazard draw. The [Seized by Terror Aftermath Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}) follows the consequences if a character is split, including followers and the Book bearer.

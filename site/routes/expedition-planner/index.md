@@ -351,3 +351,13 @@ For a route with a site destination, record the following alongside the normal m
 | Is the objective worth the route exposure? | |
 
 Do not count Gandalf as a Ranger. Gildor is the second Ranger in the current support package. The [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) supplies the worked probabilities and model answers.
+
+
+## After a successful Seized by Terror split
+
+A route plan should include the cost of a successful split, not just the probability of the roll. Ask whether the target controls followers, bears a mission-critical item, has an ally, or is supporting a company-wide Fellowship. The split-off character returns to the origin; any followers separated from their controller must be reassigned by the end of the next Organization Phase. The [Seized by Terror Aftermath Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}) provides a worked starting-Dwarf example and model answer.
+
+
+## Promptings check before declaring the route
+
+If the route contains a Shadow-land or Dark-domain, Seized by Terror is legal. Before committing to the expedition, check whether a Ranger bears Promptings of Wisdom and whether that Ranger is likely to be the target. Promptings can cancel the return only when its Ranger is the character split off; it does not cancel the split itself and does not cancel River. If the Ranger taps to use it, he must make a corruption check and cannot also tap for River. Use the [Aftermath Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}) for the two target cases.

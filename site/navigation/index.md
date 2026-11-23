@@ -96,3 +96,7 @@ Use the visible header menu on every page to switch sections. This map also link
 
 ---
 **Navigation rule:** use **All pages** in the site header whenever you feel stuck. If a published link fails, record the exact destination and whether the menu or the page itself is missing in the [repository issue tracker](https://github.com/JamSpot/meccg-hero-solo-academy/issues).
+
+
+## New advanced practice
+- [Seized by Terror — Aftermath, Followers & Recovery Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}) · [Model answer]({{ '/scenarios/seized-terror-aftermath/answer-key/' | relative_url }})

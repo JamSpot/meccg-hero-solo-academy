@@ -91,7 +91,7 @@ All four regions are adjacent in sequence, neither endpoint is omitted, and no r
 | Site automatic attack | None |
 | Seized by Terror | **Legal** |
 
-The route passes through Grey Mountain Narrows, a Shadow-land. Seized by Terror can therefore target an eligible non-Wizard character in the moving company. River can also be played on the new Iron Hill site.
+The route passes through Grey Mountain Narrows, a Shadow-land. Seized by Terror can therefore target an eligible non-Wizard, non-Ringwraith character in the moving company. River can also be played on the new Iron Hill site.
 
 ### Compare the actual cost
 
@@ -112,13 +112,13 @@ The detour takes **two turns**: reach Eagles’ Eyrie on the first, then move to
 The active Hazard deck contains **two River** and **two Seized by Terror**.
 
 - **River** is a short-event playable on a site. If a company moved to that site this turn, it must tap a Ranger for each River played there or do nothing during its Site Phase.
-- **Seized by Terror** is a short-event playable on a non-Wizard character moving in a Shadow-land or Dark-domain. The target rolls 2D6 and adds his mind. If the result is less than 12, he splits into a separate company and immediately returns to the original company's site of origin.
+- **Seized by Terror** is a short-event playable on a non-Wizard, non-Ringwraith character moving in a Shadow-land or Dark-domain. The target rolls 2D6 and adds his mind. If the result is less than 12, he splits into a separate company and normally returns to the original company's site of origin. If the target is the Ranger bearing Promptings of Wisdom, the effect may already have been activated earlier in the turn, or he may tap it in response and resolve it first; the return is canceled, but he is tapped and rejoins before the Site Phase.
 
 The River erratum/ruling allows the Ranger to be tapped at the beginning of the Site Phase, without first entering the site. It requires **one Ranger for each River**. If the requirement is not met, the company must do nothing during its Site Phase: it cannot enter Iron Hill or attempt the Iron Hill Dwarves faction. If the requirement is met, the company may proceed with its Site Phase, but every Ranger used to satisfy a River is now tapped. River does not itself cancel the faction attempt; an untapped eligible influencer such as Thorin II or Glóin may still make it.
 
 The two cards attack different parts of the turn:
 
-- Seized by Terror removes a character from the moving company and sends that character back to the origin.
+- Seized by Terror splits the target away from the moving company. Normally the target returns to the origin; if the target Ranger uses Promptings of Wisdom, he can continue to the destination but is tapped.
 - River checks whether enough Rangers remain to permit any Site Phase actions at the destination.
 
 Both are ordinary Hazard plays and count against the Hazard Limit. Against the five starting Dwarves, the limit is five. If Gandalf or Gildor joins, the company has six characters and its base limit becomes six; if both join, it has seven characters and its base limit becomes seven. The solo side still draws eight cards on the Iron Hill leg because the site's normal Hazard draw remains three. These limits assume the Hazard player did not access the sideboard during the turn's Untap Phase. If the sideboard was accessed, the base limit is halved, rounded up. The limit is fixed at the start of the Movement/Hazard Phase, even if Seized by Terror later splits a character away.
@@ -190,3 +190,8 @@ Therefore, the main Hero-side answers are route choice, keeping Rangers availabl
 - [Council of Elrond Official Card Database](https://www.councilofelrond.org/cards/) — check current card text and errata.
 - [Full Spoiler List](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf) — Hero site, region, character and card-text reference.
 - [Academy Solo Ruleset]({{ '/reference/solo-ruleset/' | relative_url }}) — the supplementary solo draw procedure used for the 2 + twice-normal Hazard draw.
+
+
+## Promptings does not cancel River
+
+On the supplementary Eagles' Eyrie → Iron Hill route, Seized by Terror is legal because Grey Mountain Narrows is a Shadow-land. If the target Ranger bears Promptings of Wisdom, the split still happens but the Ranger can tap and make a corruption check to cancel the return, then rejoins before the Site Phase. However, Promptings does not cancel River; the tapped Ranger cannot also tap to satisfy a River. The direct Lórien → Iron Hill Starter Movement route remains protected from Seized because its printed path has no Shadow-land or Dark-domain. See [CoE Rulings Digest #210, Question 6](https://councilofelrond.org/forum/viewtopic.php?f=194&t=5241).

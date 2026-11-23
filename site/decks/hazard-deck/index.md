@@ -426,3 +426,27 @@ For a fresh draw from the 30-card Hazard deck, the chance that the Hazard player
 These are probabilities of a complete denial line, including the required Seized split rolls—not merely the chance of drawing both card names. They assume a fresh deck, no prior discard/recycle state, and no other effect tapping or protecting Rangers. The two-Ranger line is much harder to assemble: with one River, both Rangers must split; with two Rivers, at least one must split.
 
 The full calculation and decision table are in the [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/ranger-capacity-lab/answer-key/' | relative_url }}). No card substitution is recommended; use the current 30-card baseline for the first three recorded games.
+
+
+## Seized by Terror: more than a split roll
+
+The active list keeps both copies of Seized by Terror. The current Council of Elrond text requires a non-Wizard, non-Ringwraith character moving in a Shadow-land or Dark-domain. On success, the target forms a new company that normally returns to the original company's site of origin; Promptings of Wisdom on the target Ranger can cancel that return effect, but not the split.
+
+Choose the target by the consequence, not mind alone. Dori is easiest to split, but targeting a controller such as Thorin or Glóin can break the direct-influence relationships of the followers left with the travelling company. A split follower can also become separated from its controller. Any affected follower must be reassigned under general or eligible direct influence by the end of the next Organization Phase or be discarded. If Fellowship is in play, its own text discards it when any character leaves the company, so Seized can remove that company-wide prowess and corruption protection without winning a strike.
+
+This is a reason to retain Seized in the baseline, not a reason to increase its quantity. The [Seized by Terror Aftermath Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}) and [model answer]({{ '/scenarios/seized-terror-aftermath/answer-key/' | relative_url }}) teach the complete sequence. Keep the 30-card Hazard list fixed through the first three recorded games.
+
+
+## Seized by Terror: Promptings of Wisdom decision
+
+Before choosing the target, check whether a Ranger in the company bears Promptings of Wisdom. CoE Rulings Digest #210, Question 6 (9 August 2025), gives two different results:
+
+- If Seized targets the Ranger bearing Promptings, the split still occurs, but Promptings may already have been activated earlier in the turn, or the Ranger may tap it in response (and make a corruption check) if it resolves first, to cancel the return effect. He continues to the new site without a separate Movement/Hazard Phase and rejoins before the Site Phase. The original company loses Promptings' protection for the rest of the turn.
+- If Seized targets another character, that character splits and returns to the origin. Promptings remains with the Ranger's original company and does not cancel the target's return.
+
+This changes target selection. Dori may still be the highest-probability split, but a controller may be more valuable if the goal is to break follower control. If the Ranger is the target, Promptings can prevent the return but forces the Ranger to tap; River can still deny the Site Phase because Promptings does not cancel River and the tapped Ranger cannot also satisfy it. Fellowship is discarded when a character leaves the company even if the Ranger later rejoins. Keep both Seized copies in the baseline; test the interaction before considering quantity changes.
+
+
+## Seized by Terror: retry after a failed roll
+
+The active Hazard list has two copies. The current Seized by Terror card text does **not** say Cannot be Duplicated. It is a short-event and is discarded after it resolves; if the first target roll fails, a second copy can be played on the same eligible Ranger during the same Movement/Hazard Phase. This makes the pair a genuine two-attempt line against a one-Ranger company. Against two Rangers and one River, however, both Rangers must be split; after the first succeeds, target the other Ranger, while a failed first attempt followed by a retry on the same Ranger still leaves the second Ranger available.

@@ -123,3 +123,26 @@ Test your movement, Hazard choices and site-entry decisions together. Answer eac
 ## River denial: count available Rangers before choosing Seized by Terror
 
 When the route includes a Shadow-land or Dark-domain, Seized by Terror may split an eligible non-Wizard character. If River is also played on the destination site, count the number of Rivers and the number of Rangers who can still tap at the beginning of the Site Phase. One Ranger is required for each River. Target a Ranger only when removing him would leave fewer available Rangers than Rivers; otherwise choose the highest-value legal target by split probability. On the five-Dwarf Iron Hill example, Óin is the only Ranger and splits on 26/36 (72.2%) of rolls; Dori is the higher-probability attrition target at 33/36 (91.7%). See the [Iron Hill River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) for the full decision table.
+
+
+## After Seized by Terror succeeds: follow the split through
+
+The current card text excludes both Wizard and Ringwraith characters. If the roll succeeds, the target character forms a different company and that company normally returns to the original company's site of origin. Promptings of Wisdom on the target Ranger can cancel the return effect, but not the split. Do not treat this as an elimination: the target remains in play, and cards borne by it remain with it.
+
+Then check the company structure. The card names the target character, not its followers. A controller separated from its followers breaks their direct-influence relationship; a follower split away from its controller is also no longer co-located with that controller. The affected followers are not immediately charged to general influence, but must be reassigned under general or eligible direct influence by the end of the next Organization Phase or be discarded. Check Fellowship separately: its own text discards it whenever a character or ally leaves the company, so a successful split discards any Fellowship copy in play on that company.
+
+The split-off company returns to the origin, not the declared destination. Under the return-to-origin rule it is not considered to have moved to the new site and cannot initiate actions during its Site Phase. The original company's base Hazard Limit was fixed at the start of its Movement/Hazard Phase; do not recalculate it after the split. The remaining company continues its declared journey unless another effect returns it. The two companies cannot rejoin until they are at the same site. Work through the full consequences in the [Seized by Terror Aftermath Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}) and its [model answer]({{ '/scenarios/seized-terror-aftermath/answer-key/' | relative_url }}).
+
+
+## Promptings of Wisdom: check before choosing a Seized target
+
+The active Hero deck contains Promptings of Wisdom. CoE Rulings Digest #210, Question 6, is explicit: if Seized by Terror targets the Ranger who bears Promptings, the split still occurs but Promptings follows that Ranger and can cancel the return-to-origin effect if Promptings was already activated earlier in the turn, or the Ranger taps in response and the effect resolves first. The Ranger then continues to the new site without a separate Movement/Hazard Phase and rejoins before the Site Phase. The original company loses Promptings' protection for the rest of the turn.
+
+If Seized targets a different character, that character splits and returns to the origin; Promptings remains with the Ranger's original company and does not cancel the target's return. This is a target-selection decision, not a blanket immunity. Promptings also does not cancel River. If the Ranger taps to use Promptings, he makes a corruption check and is no longer available to tap for River that Site Phase. Fellowship still discards when the split character leaves the company, even if it rejoins later.
+
+Read the full [Seized by Terror Aftermath Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}) and its [model answer]({{ '/scenarios/seized-terror-aftermath/answer-key/' | relative_url }}) before treating a successful Seized play as an automatic return to origin.
+
+
+## Seized by Terror: the second copy can retry
+
+Seized by Terror has no Cannot be Duplicated clause in the current card text. Because it is a short-event that resolves and is discarded, a failed first roll does not prevent a second copy being played on the same eligible Ranger during the same Movement/Hazard Phase. Against one Ranger, retry the same target after a failure. Against two Rangers and one River, both Rangers must be split; after the first success, use the second copy on the other Ranger. If the first attempt fails, retrying that same Ranger cannot deny the Site Phase.

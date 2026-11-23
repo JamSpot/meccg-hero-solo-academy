@@ -63,8 +63,13 @@ Once you can run the Dwarven company through the first Moria expedition, learn h
 
 **Prepare → Organise → Move → Draw and resolve Hazards → Enter the site → Attempt the objective → Recover or continue → Debrief**
 
-If you get stuck, return to [Step 1: Start Here]({{ '/academy/' | relative_url }}). Use [Course Path]({{ '/academy/learning-path/' | relative_url }}) for the full sequence and [All Pages]({{ '/navigation/' | relative_url }}) only when looking up a specific reference.
+If you get stuck, return to [Step 1: Start Here]({{ '/academy/' | relative_url }}). Use [Course Path](/meccg-hero-solo-academy/academy/learning-path/) for the full sequence and [All Pages]({{ '/navigation/' | relative_url }}) only when looking up a specific reference.
 
 ---
 
 **Scope:** This site teaches conventional Hero solo play only. Arda has separate card pools, rules and solo adaptations and is maintained as a separate project; none of the decklists or procedures in this Academy are Arda rules.
+
+
+## Advanced Hazard aftermath
+
+After the [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}), complete the [Seized by Terror — Aftermath, Followers & Recovery Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}) and its [model answer]({{ '/scenarios/seized-terror-aftermath/answer-key/' | relative_url }}). It explains what travels with a split character, how followers lose direct-influence control when separated from their controller, why Fellowship is discarded, and how the companies can reunite. It also teaches the official Promptings of Wisdom ruling: it cancels the return only when the targeted character is the Ranger bearing it, and it does not cancel River. The Hero and Hazard lists remain unchanged.

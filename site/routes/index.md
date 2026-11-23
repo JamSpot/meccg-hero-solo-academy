@@ -35,3 +35,8 @@ For normal Region Movement, count the origin and destination regions. Four is th
 3. Use the [Route Risk Workshop]({{ '/scenarios/route-risk-workshop/' | relative_url }}) to compare the full expedition, not only the immediate movement.
 4. Check any uncertain adjacency against the physical region cards.
 5. After the Movement/Hazard Phase, record the company's actual condition and reassess before entering the site.
+
+
+## Seized by Terror aftermath
+
+The [Seized by Terror Aftermath Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}) extends the route atlas beyond legality: compare the Wind Throne and Iron Hill paths, then follow the split through Promptings of Wisdom, followers, Fellowship, bearer cards and later regrouping.

@@ -58,7 +58,7 @@ The three Orc strikes at 7 are a **Site Phase automatic attack**. They do not co
 
 ## Why Seized by Terror is legal here
 
-Seized by Terror is playable on a non-Wizard character moving in a Shadow-land or Dark-domain. The Wind Throne Starter Movement path contains a Shadow-land, and the destination region Grey Mountain Narrows is also a Shadow-land.
+Seized by Terror is playable on a non-Wizard, non-Ringwraith character moving in a Shadow-land or Dark-domain. The Wind Throne Starter Movement path contains a Shadow-land, and the destination region Grey Mountain Narrows is also a Shadow-land.
 
 This is a **region-type** condition. Do not confuse it with the site's Ruins & Lairs type:
 
@@ -77,7 +77,7 @@ The Book of Mazarbûl is **not** playable here. It is a Special Item playable on
 | Lesser Spiders | **Yes** | The path contains a Shadow-land; the destination is also Ruins & Lairs. |
 | Neeker-breekers | **Yes** | Its printed keys include Shadow-land and Ruins & Lairs. Remember the Hero card's special one-strike-per-character wording and Wizard exclusion. |
 | Wargs | **Yes** | The path contains Border-land and Shadow-land. |
-| Seized by Terror | **Yes** | An eligible non-Wizard character is moving in a Shadow-land. |
+| Seized by Terror | **Yes** | An eligible non-Wizard, non-Ringwraith character is moving in a Shadow-land. |
 | River | **Yes** | It can be played on the new site; one Ranger must be tapped for each River. |
 | Despair of the Heart | **Yes, conditionally** | It needs an eligible non-Wizard, non-Hobbit character. The starting Dwarves qualify. |
 | Full of Froth and Rage | **Yes, conditionally** | A Spider or Animal attack must be available. |
@@ -195,3 +195,8 @@ Gildor is therefore a situational route-support recruit, not an automatic additi
 - [Middle-earth CCG Full Spoiler List (PDF)](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf) — Hero The Wind Throne, Grey Mountain Narrows, Seized by Terror, River, Book of Mazarbûl and creature card text.
 
 [Open the model answer]({{ '/scenarios/shadowland-route-lab/answer-key/' | relative_url }}) · [Return to the Practice Scenarios index]({{ '/scenarios/' | relative_url }})
+
+
+## Promptings of Wisdom overlay
+
+The active Hero deck contains Promptings of Wisdom. If the Seized target is the Ranger bearing it, the split still occurs but the Ranger may tap (and make a corruption check) to cancel the return-to-origin effect; he continues to the new site without a separate Movement/Hazard Phase and rejoins before the Site Phase. If a different character is targeted, that character returns and Promptings stays with the Ranger's original company. Promptings does not cancel River. See [CoE Rulings Digest #210, Question 6](https://councilofelrond.org/forum/viewtopic.php?f=194&t=5241) and the [Aftermath Lab]({{ '/scenarios/seized-terror-aftermath/' | relative_url }}).

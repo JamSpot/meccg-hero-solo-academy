@@ -69,7 +69,7 @@ For Gildor (mind 4):
 - There are 21 such outcomes out of 36.
 - Split probability: **21/36 = 58.3%**.
 
-A successful split is not a wound and does not tap the character. The targeted character is separated and returned to the origin; the rest of the company continues its movement.
+A successful split is not a wound and does not itself tap the character. Normally the target is separated and returned to the origin; if the target is the Ranger bearing Promptings of Wisdom and he taps it in time, the return is canceled but the Ranger is tapped and rejoins at the destination before the Site Phase. The rest of the company continues its movement.
 
 ## 4. River timing and Site Phase denial
 
@@ -93,7 +93,7 @@ Therefore:
 
 The company has only Óin as a Ranger. If the Hazard player has one River and Seized by Terror, target Óin.
 
-If Óin splits (72.2%), no Ranger remains. River then prevents the company's Site Phase. If the Seized roll fails, Óin remains and can tap at the beginning of the Site Phase to satisfy River.
+If Óin splits (72.2%), no untapped Ranger remains for River. If Promptings on Óin was already activated earlier in the turn, or he taps it in response and it resolves first, he cancels the return but is tapped and still cannot satisfy River; he rejoins the company at the destination before the Site Phase. Without Promptings, or if he does not activate it, he returns to the origin. In either case River prevents the Site Phase. If the Seized roll fails, Óin remains untapped and can tap at the beginning of the Site Phase to satisfy River.
 
 ### Five Dwarves, two Rivers, one Ranger
 

@@ -29,7 +29,7 @@ The Site Phase automatic attack is three Orc strikes at 7. It is separate from t
 
 ## 2. Seized by Terror target
 
-There is no universal target. **Dori is the best probability target** when the Hazard side wants the highest chance of separating a non-Wizard character and River is absent or already guarantees a skipped Site Phase. But if River is in the Hazard hand, first count the number of Rivers and the company's untapped Rangers.
+There is no universal target. **Dori is the best probability target** when the Hazard side wants the highest chance of separating a non-Wizard, non-Ringwraith character and River is absent or already guarantees a skipped Site Phase. But if River is in the Hazard hand, first count the number of Rivers and the company's untapped Rangers.
 
 - With one River and only Óin as an untapped Ranger, target **Óin**. If he splits off, no Ranger remains to satisfy River and the Site Phase is skipped. Óin's split chance is 26/36 (72.2%).
 - With two Rivers and Óin plus Gildor as the only two untapped Rangers, target **Óin**. If he splits off, only Gildor remains; one Ranger cannot satisfy two Rivers, so the Site Phase is skipped. Óin is more vulnerable than Gildor (72.2% versus 58.3%).
@@ -61,7 +61,7 @@ All six are legal:
 
 | Card | Why it is legal |
 |---|---|
-| Seized by Terror | The site path contains a Shadow-land and the company has eligible non-Wizard characters. |
+| Seized by Terror | The site path contains a Shadow-land and the company has eligible non-Wizard, non-Ringwraith characters. |
 | Cave Worm | Grey Mountain Narrows is a named-region key. |
 | Lesser Spiders | The route contains a Shadow-land and the destination is Ruins & Lairs. |
 | River ×2 | Each copy can be played on the new site, where the company has moved this turn. |
@@ -166,3 +166,8 @@ His Ranger skill is normally redundant beside Óin. The Wind Throne route reveal
 - [Council of Elrond Official Game Rules](https://www.councilofelrond.org/rules/) — movement, Hazard Limit, draws, keying, event Hazards and Site Phase.
 - [Council of Elrond Ruling Digest archive](https://meccg.es/meta/rules/MeCCG%20Rulings%20Digests%20v1.0.pdf) — Digest #89: one Ranger per River and the tap timing; Digest #106: a company forced to do nothing has its entire Site Phase skipped and cannot enter.
 - [Middle-earth CCG Full Spoiler List](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf) — site and card text.
+
+
+## Promptings of Wisdom ruling
+
+If the company has Promptings of Wisdom on a Ranger, check who Seized by Terror targets. If it targets that Ranger, the split still occurs, but Promptings may already have been activated earlier in the turn, or the Ranger may tap it in response and make a corruption check to cancel the return effect; he continues to the new site without a separate Movement/Hazard Phase and rejoins before the Site Phase. If Seized targets another character, that character returns to the origin and Promptings remains with the Ranger's original company. This is CoE Rulings Digest #210, Question 6. Promptings does not cancel River.
