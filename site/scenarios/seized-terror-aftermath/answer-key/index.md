@@ -23,7 +23,7 @@ At the next Organization Phase, Óin must be placed under general influence or u
 
 Dori and Kíli remain with the travelling company; they are not automatically carried away with Thorin. Thorin is now at the origin while they remain at the destination, so they are no longer stacked with their controller and cannot remain under his direct influence there.
 
-Their combined mind is 1 + 3 = 4. The untouched starting company has 7 points of unused general influence, so both can be moved under general influence at the next Organization Phase. If other recruits have consumed that reserve, calculate the actual remaining influence and find another eligible controller or discard any follower still uncontrolled at the end of the phase.
+Their combined mind is 1 + 3 = 4. The untouched starting company has 7 points of unused general influence, so both can be moved under general influence at the next Organization Phase. Thorin's starting Cram goes with Thorin to the origin; it does not stay with Dori or Kíli. If other recruits have consumed that reserve, calculate the actual remaining influence and find another eligible controller or discard any follower still uncontrolled at the end of the phase.
 
 The key timing point is that their mind is not immediately charged against general influence when direct influence is broken outside the Organization Phase. The reassignment deadline is the end of the next Organization Phase.
 
