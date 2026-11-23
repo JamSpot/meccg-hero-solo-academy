@@ -55,6 +55,15 @@ The target Ranger splits into a different company. Promptings' effect follows hi
 
 The Ranger must tap to use the effect and then makes a corruption check. Include Promptings' 2 corruption points and every other corruption point the Ranger controls. If the Ranger is Óin in the starting company, also account for his Cram (1 corruption point) and his -1 corruption-check modifier.
 
+For the untouched starting loadout, the check risk differs by Ranger:
+
+| Promptings bearer | Corruption points | Check modifier | Failed natural 2D6 results | Failure chance |
+|---|---:|---:|---|---:|
+| Óin with Cram | 3 | -1 | 2, 3, 4 | 6/36 = 16.7% |
+| Gildor with no other corruption points | 2 | 0 | 2 | 1/36 = 2.8% |
+
+This is one reason to consider Gildor as the Promptings bearer if he is recruited. The trade-off is that adding Gildor increases the company's Hazard Limit, and Promptings can be on only one Ranger in a given company. These are check-risk examples, not a recommendation to change the 36-card list.
+
 ### Seized targets a different character
 
 The target character splits and returns to the original company's site of origin. Promptings remains with the Ranger's original company and does not cancel the return of the other character. The Ranger's company remains protected from other qualifying Hazard effects that force a return to origin or tap the current/new site.
