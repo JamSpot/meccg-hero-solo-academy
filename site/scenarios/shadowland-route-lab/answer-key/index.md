@@ -29,7 +29,7 @@ The Site Phase automatic attack is three Orc strikes at 7. It is separate from t
 
 ## 2. Seized by Terror target
 
-There is no universal target. **Dori is the best probability target** when the Hazard side wants the highest chance of separating a non-Wizard character and River is absent or already guarantees a skipped Site Phase. But if River is in the Hazard hand, first count the number of Rivers and the company's untapped Rangers.
+There is no universal target. **Dori is the best probability target** when the Hazard side wants the highest chance of separating a non-Wizard, non-Ringwraith character and River is absent or already guarantees a skipped Site Phase. But if River is in the Hazard hand, first count the number of Rivers and the company's untapped Rangers.
 
 - With one River and only Óin as an untapped Ranger, target **Óin**. If he splits off, no Ranger remains to satisfy River and the Site Phase is skipped. Óin's split chance is 26/36 (72.2%).
 - With two Rivers and Óin plus Gildor as the only two untapped Rangers, target **Óin**. If he splits off, only Gildor remains; one Ranger cannot satisfy two Rivers, so the Site Phase is skipped. Óin is more vulnerable than Gildor (72.2% versus 58.3%).
@@ -61,7 +61,7 @@ All six are legal:
 
 | Card | Why it is legal |
 |---|---|
-| Seized by Terror | The site path contains a Shadow-land and the company has eligible non-Wizard characters. |
+| Seized by Terror | The site path contains a Shadow-land and the company has eligible non-Wizard, non-Ringwraith characters. |
 | Cave Worm | Grey Mountain Narrows is a named-region key. |
 | Lesser Spiders | The route contains a Shadow-land and the destination is Ruins & Lairs. |
 | River ×2 | Each copy can be played on the new site, where the company has moved this turn. |
