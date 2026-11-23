@@ -35,13 +35,13 @@ The same principle applies to cards played on or placed with the target characte
 
 ## 5. What happens to Fellowship?
 
-Discard it. Fellowship's own text says to discard it if a character or ally joins or leaves the company for any reason. The split character has left the original company. If more than one Fellowship copy was in play on that company, each copy with that condition is discarded.
+Discard it. Fellowship's own text says to discard it if a character or ally joins or leaves the company for any reason. The split character has left the original company. If more than one Fellowship copy was in play on that company, each copy with that condition is discarded. This still happens if Promptings of Wisdom later allows the split-off Ranger to rejoin; rejoining does not undo the departure.
 
 This is a direct card-text consequence, not a general rule that every company permanent-event is discarded when a company splits.
 
 ## 6. Can the split-off character enter the destination site this turn?
 
-No. The new company returns to the original company's site of origin; it does not arrive at the destination. Under the consolidated return-to-origin rule (2.IV.4), a company returned to its site of origin is not considered to have moved to a new site and cannot initiate actions during its Site Phase.
+Normally, no. Without Promptings of Wisdom canceling the return, the new company returns to the original company's site of origin; it does not arrive at the destination. Under the consolidated return-to-origin rule (2.IV.4), a company returned to its site of origin is not considered to have moved to a new site and cannot initiate actions during its Site Phase. If the target is the Ranger bearing Promptings and he taps to cancel the return, he instead continues to the destination and rejoins before the Site Phase; see section 6A.
 
 The remaining company is still the company that continues to the declared destination, unless another effect returns it too. Its base Hazard Limit was fixed at the beginning of the phase and is not recalculated after the split.
 
@@ -77,7 +77,7 @@ This is CoE Rulings Digest #210, Question 6 (9 August 2025). The ruling also con
 
 ## 7. Can the companies rejoin while at different sites?
 
-No. They must first be at the same site. Companies at the same site can be joined during an Organization Phase. At the end of all Movement/Hazard Phases, companies at the same non-Haven site must join; joining at a Haven is optional.
+Normally, no: they must first be at the same site. Companies at the same site can be joined during an Organization Phase. At the end of all Movement/Hazard Phases, companies at the same non-Haven site must join; joining at a Haven is optional. The specific Promptings of Wisdom exception lets the split-off Ranger continue to the destination and rejoin at the end of all Movement/Hazard Phases, before the Site Phase.
 
 A character returned to the origin cannot be treated as if it were already with the company at the destination.
 
@@ -109,7 +109,9 @@ There is no universal answer. Use the objective and the company state:
 - **Óin or Kíli** split on 26/36 (72.2%). Óin may also be important when River is present, because he is the starting company's only Ranger.
 - **Glóin** splits on 15/36 (41.7%). If he is split, Óin is left without his controller.
 - **Thorin II** splits on only 3/36 (8.3%), but if it succeeds, both Dori and Kíli lose their controller at once.
-- If Fellowship is in play, any successful split can discard it, so the most likely target may be better than a low-probability controller target.
+- If the target is the Ranger bearing Promptings of Wisdom, the split still happens but the Ranger may tap and make a corruption check to cancel the return. He then rejoins at the destination; he is tapped and cannot satisfy River.
+- If the target is a different character, Promptings stays with the Ranger's original company and does not cancel that character's return.
+- If Fellowship is in play, any successful split can discard it, even if the target Ranger later rejoins, so the most likely target may be better than a low-probability controller target.
 
 Choose the line that most damages the current objective, not simply the character with the lowest mind.
 
