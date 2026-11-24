@@ -420,10 +420,10 @@ For a fresh draw from the 30-card Hazard deck, the chance that the Hazard player
 
 | Moving company | Six-card Wind Throne draw | Eight-card Iron Hill draw |
 |---|---:|---:|
-| One untapped Ranger | **11.35%** | **19.42%** |
-| Two untapped Rangers | **1.05%** | **2.80%** |
+| One untapped Ranger (Óin) | **11.53%** | **19.87%** |
+| Two untapped Rangers (Óin + Gildor) | **1.05%** | **2.81%** |
 
-These are probabilities of a complete denial line, including the required Seized split rolls—not merely the chance of drawing both card names. They assume a fresh deck, no prior discard/recycle state, and no other effect tapping or protecting Rangers. The two-Ranger line is much harder to assemble: with one River, both Rangers must split; with two Rivers, at least one must split. When both Seized by Terror copies are available, use them differently: against two Rivers, target the lower-mind Ranger twice in separate actions (a failed first roll leaves him moving and targetable); against one River, target each Ranger once, because both must split. Seized by Terror has no printed cannot-be-duplicated restriction, and each play counts separately against the Hazard Limit.
+These are probabilities of a complete denial line, including the required Seized split rolls—not merely the chance of drawing both card names. They assume a fresh deck, no prior discard/recycle state, and no other effect tapping or protecting Rangers. The two-Ranger line is much harder to assemble: with one River, both Rangers must split; with two Rivers, at least one must split. When both Seized by Terror copies are available, use them differently: against two Rivers, target the lower-mind Ranger twice in separate actions (a failed first roll leaves him moving and targetable); against one River, target each Ranger once, because both must split. Seized by Terror has no printed cannot-be-duplicated restriction, and each play counts separately against the Hazard Limit. The corrected exact figures and assumptions are in the [Ranger Capacity Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}).
 
 The full calculation and decision table are in the [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/ranger-capacity-lab/answer-key/' | relative_url }}). No card substitution is recommended; use the current 30-card baseline for the first three recorded games.
 
