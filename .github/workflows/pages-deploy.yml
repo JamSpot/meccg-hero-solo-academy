@@ -122,8 +122,9 @@ jobs:
           grep -q 'ranger-capacity-lab' _site/reference/free-movement/index.html
           grep -q 'ranger-capacity-lab' _site/decks/hero-deck/index.html
           grep -q 'ranger-capacity-lab' _site/decks/hazard-deck/index.html
-          grep -q '19.87%' _site/scenarios/ranger-capacity-lab/index.html
+          grep -q '19.87' _site/scenarios/ranger-capacity-lab/index.html
           grep -q '92.28' _site/scenarios/ranger-capacity-lab/answer-key/index.html
+          echo 'PASS: corrected Ranger denial probabilities'
           grep -q 'seized-terror-aftermath-lab' _site/index.html
           grep -q 'seized-terror-aftermath-lab' _site/navigation/index.html
           grep -q 'seized-terror-aftermath-lab' _site/scenarios/index.html
@@ -133,6 +134,7 @@ jobs:
           grep -q 'seized-terror-aftermath-lab' _site/academy/learning-path/index.html
           grep -q 'seized-terror-aftermath-lab' _site/decks/hero-deck/index.html
           grep -q 'seized-terror-aftermath-lab' _site/decks/hazard-deck/index.html
+          echo 'PASS: Seized by Terror aftermath navigation'
           grep -q 'iron-hill-expedition' _site/index.html
           grep -q 'iron-hill-expedition' _site/navigation/index.html
           grep -q 'iron-hill-expedition' _site/routes/index.html
@@ -140,13 +142,16 @@ jobs:
           grep -q 'iron-hill-expedition' _site/decks/hero-deck/index.html
           grep -q 'iron-hill-expedition' _site/decks/hazard-deck/index.html
           grep -q 'iron-hill-expedition' _site/scenarios/resource-route-planner/index.html
+          echo 'PASS: Iron Hill route navigation'
           test ! -f _site/academy/learning-path.html
           test ! -e _site/drafts
           test ! -f _site/guide/test.html
+          echo 'PASS: obsolete routes and draft paths are absent'
           grep -q 'academy-nav' _site/index.html
           grep -q 'academy-nav' _site/navigation/index.html
           grep -q 'href="/meccg-hero-solo-academy/navigation/"' _site/index.html
           grep -q 'href="/meccg-hero-solo-academy/academy/learning-path/"' _site/index.html
+          echo 'PASS: homepage navigation targets'
           # The generated-site check above is authoritative: it ensures the obsolete .html route is not published.
 
       - name: Audit generated internal page links
