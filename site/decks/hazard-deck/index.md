@@ -418,7 +418,7 @@ The active deck has River ×2 and Seized by Terror ×2. A five-Dwarf company has
 
 For a fresh draw from the 30-card Hazard deck, the chance that the Hazard player can force a Site Phase denial with River/Seized alone is:
 
-| Moving company | Six-card Wind Throne draw | Eight-card Iron Hill draw |
+| Moving company | Six-card Wind Throne draw | Eight-card Shadow-land leg to Iron Hill via Eagles’ Eyrie |
 |---|---:|---:|
 | One untapped Ranger (Óin) | **11.53%** | **19.87%** |
 | Two untapped Rangers (Óin + Gildor) | **1.05%** | **2.81%** |
