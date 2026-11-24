@@ -151,8 +151,8 @@ A direct Starter Movement route can be strategically safer even if it draws the 
 2. The same company faces two Rivers. How many Rangers are required, and can it take Site Phase actions?
 3. The company adds Gandalf but not Gildor. What changes about the Hazard Limit? What changes about River?
 4. The company adds Gildor instead. How many Rangers are now available?
-5. Óin and Gildor are both untapped. One River and Seized by Terror are played. Can the Hazard player deny the Site Phase by splitting Óin?
-6. Óin and Gildor are both untapped. Two Rivers and Seized by Terror are played. Which Ranger is the stronger target?
+5. Óin and Gildor are both untapped. One River and one Seized by Terror are played. Can the Hazard player deny the Site Phase by splitting Óin? What changes if the second Seized copy is also drawn?
+6. Óin and Gildor are both untapped. Two Rivers and one Seized by Terror are played. Which Ranger is the stronger target? What is the best use of a second Seized copy if the first roll against Óin fails?
 7. The company has seven characters, but only Óin and Gildor are Rangers. Does the seventh character help satisfy a third River?
 8. One Ranger is already tapped when the Site Phase begins. How many additional untapped Rangers are available for two Rivers?
 9. Why is Seized by Terror illegal on the direct Lórien → Iron Hill Starter Movement path but legal on the final Eagles’ Eyrie → Iron Hill Region Movement leg?
