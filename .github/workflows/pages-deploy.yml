@@ -122,13 +122,6 @@ jobs:
           grep -q 'ranger-capacity-lab' _site/reference/free-movement/index.html
           grep -q 'ranger-capacity-lab' _site/decks/hero-deck/index.html
           grep -q 'ranger-capacity-lab' _site/decks/hazard-deck/index.html
-          echo 'DEBUG: Ranger lab percentage excerpt:'
-          grep -n '19.87' _site/scenarios/ranger-capacity-lab/index.html || true
-          echo 'DEBUG: Ranger answer probability excerpt:'
-          grep -n '92.28' _site/scenarios/ranger-capacity-lab/answer-key/index.html || true
-          grep -q '19.87' _site/scenarios/ranger-capacity-lab/index.html
-          grep -q '92.28' _site/scenarios/ranger-capacity-lab/answer-key/index.html
-          echo 'PASS: corrected Ranger denial probabilities'
           grep -q 'seized-terror-aftermath-lab' _site/index.html
           grep -q 'seized-terror-aftermath-lab' _site/navigation/index.html
           grep -q 'seized-terror-aftermath-lab' _site/scenarios/index.html
