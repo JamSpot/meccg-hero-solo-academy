@@ -83,7 +83,7 @@ On a route containing a Shadow-land or Dark-domain, Seized by Terror can target 
 
 Seized by Terror is a short-event and its current card text has no “cannot be duplicated” restriction. The Hazard player may take actions as many times as desired until the Hazard Limit is reached. Each copy must be played as a separate action/chain and counts as one Hazard play.
 
-- **Two Rivers, two Rangers:** only one Ranger needs to split. If the first Seized attempt against Óin fails, he is still moving and can be targeted by the second copy. The chance of at least one success is \\(1-(10/36)^2=92.28\\%\\), not the 88.43% obtained by assigning one attempt to each Ranger.
+- **Two Rivers, two Rangers:** only one Ranger needs to split. If the first Seized attempt against Óin fails, he is still moving and can be targeted by the second copy. The chance of at least one success is \(1-(10/36)^2=92.28\%\), not the 88.43% obtained by assigning one attempt to each Ranger.
 - **One River, two Rangers:** both Rangers must split. The two copies must target different Rangers; a second attempt on the same Ranger cannot remove the other Ranger who could still satisfy River.
 
 If the first attempt succeeds in the two-River case, the denial is already secured; the second copy may be used on another eligible character if doing so is worthwhile and remains legal.
