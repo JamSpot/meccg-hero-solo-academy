@@ -22,7 +22,7 @@ The Route Atlas treats each trip as a decision, not just a line on a map.
 - [Route Workshop]({{ '/reference/route-workshop/' | relative_url }}) — reusable route scorecard and legality drills.
 - [Free / Player-Directed Movement]({{ '/reference/free-movement/' | relative_url }}) — the movement and site-path rules behind the examples.
 
-- [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) — compare one- and two-Ranger companies against River and Seized by Terror.
+- [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) — compare one- and two-Ranger companies against River and Seized by Terror, including repeat attempts against one Ranger and the two-success requirement when denying one River with two Rangers.
 
 ## The route rule
 
