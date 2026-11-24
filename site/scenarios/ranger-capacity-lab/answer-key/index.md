@@ -101,7 +101,7 @@ A Site Phase denial is available if either:
 For Óin (mind 3), one attempt succeeds on 26/36 rolls (72.2%). If both Seized copies are drawn with one River, the Hazard player can target Óin twice in separate actions. The chance that at least one attempt succeeds is:
 
 \[
-1-\left(\frac{10}{36}\right)^2=\frac{607}{648}=93.67\%.
+1-\left(\frac{10}{36}\right)^2=\frac{299}{324}=92.28\%.
 \]
 
 | Draw size | Chance of denial |
@@ -119,7 +119,7 @@ A Site Phase denial is available if either:
 For two Rivers and two Seized copies, target Óin twice. The chance of at least one successful split is:
 
 \[
-1-\left(\frac{10}{36}\right)^2=93.67\%.
+1-\left(\frac{10}{36}\right)^2=92.28\%.
 \]
 
 For one River and two Seized copies, target Óin and Gildor separately. Both must split:
