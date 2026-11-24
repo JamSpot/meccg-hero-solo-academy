@@ -53,7 +53,8 @@ Use the visible header menu on every page to switch sections. This map also link
 
 ## Practice
 - [Practice Scenarios]({{ '/scenarios/' | relative_url }})
-- [First Session Practice Workbook]({{ '/scenarios/first-session/' | relative_url }})\n- [Hero Opening Hand & Access Lab]({{ '/scenarios/hero-opening-hand-lab/' | relative_url }}) · [Model answer]({{ '/scenarios/hero-opening-hand-lab/answer-key/' | relative_url }})
+- [First Session Practice Workbook]({{ '/scenarios/first-session/' | relative_url }})
+- [Hero Opening Hand & Access Lab]({{ '/scenarios/hero-opening-hand-lab/' | relative_url }}) · [Model answer]({{ '/scenarios/hero-opening-hand-lab/answer-key/' | relative_url }})
 - [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practice/' | relative_url }})
 - [Hero Resource Timing Workshop — model answers]({{ '/scenarios/hero-resource-practice/answer-key/' | relative_url }})
 - [Resource Route Planner]({{ '/scenarios/resource-route-planner/' | relative_url }})
