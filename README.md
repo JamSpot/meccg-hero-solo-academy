@@ -39,7 +39,7 @@ The Dáin II / Gimli Iron Hill specialist cards and the Arouse Minions / Arouse 
 - [Iron Hill — River & Seized by Terror Lab](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/iron-hill-river-lab/) and [model answer](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/iron-hill-river-lab/answer-key/) — compare direct Starter Movement with a staged four-region route through Grey Mountain Narrows; calculate River denial and Seized by Terror target probabilities without changing either deck.
 - [Shadow-land Route & Seized by Terror Lab](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/shadowland-route-lab/) and [model answer](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/shadowland-route-lab/answer-key/) — a worked Lórien → Wind Throne route, exact 2D6 + mind probabilities, one-Ranger-per-River ruling, and Gildor's situational second-Ranger role. The active decks remain unchanged.
 
-## Core learning loop
+- [Ranger Capacity & River Denial Lab](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/ranger-capacity-lab/) and [model answer](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/ranger-capacity-lab/answer-key/) — audited River/Seized denial probabilities, including the optimal second-copy sequence: retry the same Ranger when two Rivers need one split, but split both Rangers when one River is faced by a two-Ranger company.\n\n## Core learning loop
 Prepare → Travel → Marshal → Grow Stronger → Travel Further → Recover → Repeat
 
 The companion website is in `site/` and is deployed with GitHub Pages.
