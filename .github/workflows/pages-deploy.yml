@@ -43,6 +43,7 @@ jobs:
 
       - name: Verify homepage, navigation, and core learning pages
         run: |
+          set -x
           test -f _site/index.html
           test -f _site/navigation/index.html
           test -f _site/academy/index.html
