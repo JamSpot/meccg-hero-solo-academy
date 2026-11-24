@@ -101,9 +101,9 @@ The table is the chance that the Hazard player can create a Site Phase denial us
 
 Why the two-Ranger figure is much lower:
 
-- With two Rivers, both Rangers can normally tap and proceed. The Hazard player needs Seized by Terror to split at least one Ranger.
-- With one River, the Hazard player needs both Seized by Terror copies and must split both Rangers.
-- With one Ranger, two Rivers deny the Site Phase automatically; alternatively, one River plus a successful Seized split is enough.
+- With two Rivers, both Rangers can normally tap and proceed. The Hazard player needs at least one successful Seized split. If both Seized copies are drawn, the strongest line is to target Óin twice in separate actions: if the first roll fails, he is still moving and the second copy can try again.
+- With one River, the Hazard player needs both Seized copies and must split both Rangers. The copies must target different Rangers; both rolls must succeed.
+- With one Ranger, two Rivers deny the Site Phase automatically. With one River and two Seized copies, the Hazard player can try the same Ranger twice.
 
 The probability that a fresh draw contains at least one River **and** at least one Seized by Terror is 11.88% for six cards and 20.49% for eight cards. That is not the same as the denial probability: the target's split roll and the number of Rangers still matter.
 
