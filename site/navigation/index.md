@@ -89,7 +89,7 @@ Use the visible header menu on every page to switch sections. This map also link
 - [Solo Playtest Protocol]({{ '/scenarios/solo-playtest/' | relative_url }})
 - [Full Solo Scoring Trial — Second Deck Exhaustion]({{ '/scenarios/full-solo-scoring-trial/' | relative_url }})
 
-- [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) · [Model answer]({{ '/scenarios/ranger-capacity-lab/answer-key/' | relative_url }})
+- [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) · [Model answer]({{ '/scenarios/ranger-capacity-lab/answer-key/' | relative_url }}) — corrected repeat-Seized probabilities
 
 ## Return to the homepage
 - [MECCG Hero Solo Academy home]({{ '/' | relative_url }})
