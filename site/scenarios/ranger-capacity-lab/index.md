@@ -90,11 +90,11 @@ If the first attempt succeeds in the two-River case, the denial is already secur
 
 ## ## Fresh-draw probability: how often is a denial line available?
 
-The active Hazard deck has 30 cards, including River ×2 and Seized by Terror ×2. The following calculations use a **fresh, shuffled deck** and the six-card Wind Throne solo draw or eight-card Iron Hill solo draw.
+The active Hazard deck has 30 cards, including River ×2 and Seized by Terror ×2. The following calculations use a **fresh, shuffled deck** and the six-card Lórien → Wind Throne Starter Movement draw or the eight-card Eagles’ Eyrie → Iron Hill Region Movement draw via Grey Mountain Narrows.
 
 The table is the chance that the Hazard player can create a Site Phase denial using only River and Seized by Terror, including the required Seized split roll. It is not a win probability.
 
-| Moving company | 6-card draw (Wind Throne) | 8-card draw (Iron Hill) |
+| Moving company | 6-card Wind Throne draw | 8-card Iron Hill leg via Eagles’ Eyrie |
 |---|---:|---:|
 | One Ranger (Óin) | **11.53%** | **19.87%** |
 | Two untapped Rangers (Óin + Gildor) | **1.05%** | **2.81%** |
