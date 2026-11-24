@@ -67,39 +67,43 @@ Assume the Rangers are untapped when the Site Phase begins.
 
 ## Second decision table: add Seized by Terror
 
-On a route containing a Shadow-land or Dark-domain, Seized by Terror can target an eligible non-Wizard character in the moving company. The target rolls 2D6 and adds mind. A result below 12 splits that character into a separate company and returns him to the original company's site of origin.
+On a route containing a Shadow-land or Dark-domain, Seized by Terror can target an eligible non-Wizard, non-Ringwraith character moving with the company. The target's player rolls 2D6 and adds the character's mind. A result below 12 splits that character into a different company and returns that company to the original company's site of origin.
 
-| Target | Mind | Split probability |
-|---|---:|---:|
-| Óin | 3 | 26/36 = **72.2%** |
-| Gildor | 4 | 21/36 = **58.3%** |
-| Dori | 1 | 33/36 = **91.7%** |
+| Moving company and Hazard hand | Strongest River-denial line |
+|---|---|
+| One Ranger; one River; one Seized | Target the only Ranger. If the split succeeds, no Ranger remains to satisfy River. |
+| One Ranger; one River; two Seized | Target the same Ranger with the first copy; if it fails, try the second copy on that still-moving Ranger. Either success denies the Site Phase. |
+| One Ranger; two Rivers | River already denies the Site Phase. Use Seized on a different valuable eligible character, such as Dori, rather than spending it on the only Ranger. |
+| Two Rangers; one River; one Seized | One split is not enough: the other Ranger can still tap. Target another valuable character. |
+| Two Rangers; one River; two Seized | To deny the Site Phase, target both Rangers, one with each copy. Both split rolls must succeed. |
+| Two Rangers; two Rivers; one Seized | Split either Ranger. One remaining Ranger cannot satisfy two River costs. Óin is the better target than Gildor because his mind is lower. |
+| Two Rangers; two Rivers; two Seized | Target Óin first; if he remains with the company after the first roll, target Óin again with the second copy. One successful split is enough to deny the Site Phase. |
 
-The best target is determined by the River requirement:
+### Why the second Seized copy changes the decision
 
-- **One Ranger in the company, one River:** target the only Ranger. If he splits, no Ranger remains to satisfy River.
-- **Two Rangers, one River:** splitting one Ranger is not enough; the other can still tap. Target a different valuable character instead.
-- **Two Rangers, two Rivers:** splitting either Ranger leaves too few Rangers. Óin is the better target because his split chance is 72.2%, compared with Gildor's 58.3%.
-- **Two Rivers and only one Ranger:** River already denies the Site Phase. Seized by Terror can target Dori or another valuable character rather than being spent on the only Ranger.
+Seized by Terror is a short-event and its current card text has no “cannot be duplicated” restriction. The Hazard player may take actions as many times as desired until the Hazard Limit is reached. Each copy must be played as a separate action/chain and counts as one Hazard play.
 
-If one of the two Rangers is already tapped before the Site Phase, count only the remaining untapped Ranger. If all Rangers are already tapped, River alone prevents the Site Phase.
+- **Two Rivers, two Rangers:** only one Ranger needs to split. If the first Seized attempt against Óin fails, he is still moving and can be targeted by the second copy. The chance of at least one success is (1-(10/36)^2=92.28\%\), not the 88.43% obtained by assigning one attempt to each Ranger.
+- **One River, two Rangers:** both Rangers must split. The two copies must target different Rangers; a second attempt on the same Ranger cannot remove the other Ranger who could still satisfy River.
 
-## Fresh-draw probability: how often is a denial line available?
+If the first attempt succeeds in the two-River case, the denial is already secured; the second copy may be used on another eligible character if doing so is worthwhile and remains legal.
 
-The active Hazard deck has 30 cards, including River ×2 and Seized by Terror ×2. The following calculations use a **fresh, shuffled deck** and the six-card Wind Throne solo draw or eight-card Iron Hill solo draw.
+## ## Fresh-draw probability: how often is a denial line available?
+
+The active Hazard deck has 30 cards, including River ×2 and Seized by Terror ×2. The following calculations use a **fresh, shuffled deck** and the six-card Lórien → Wind Throne Starter Movement draw or the eight-card Eagles’ Eyrie → Iron Hill Region Movement draw via Grey Mountain Narrows.
 
 The table is the chance that the Hazard player can create a Site Phase denial using only River and Seized by Terror, including the required Seized split roll. It is not a win probability.
 
-| Moving company | 6-card draw (Wind Throne) | 8-card draw (Iron Hill) |
+| Moving company | 6-card Wind Throne draw | 8-card Iron Hill leg via Eagles’ Eyrie |
 |---|---:|---:|
-| One Ranger; all other characters irrelevant to River | **11.35%** | **19.42%** |
-| Two untapped Rangers | **1.05%** | **2.80%** |
+| One Ranger (Óin) | **11.53%** | **19.87%** |
+| Two untapped Rangers (Óin + Gildor) | **1.05%** | **2.81%** |
 
 Why the two-Ranger figure is much lower:
 
-- With two Rivers, both Rangers can normally tap and proceed. The Hazard player needs Seized by Terror to split at least one Ranger.
-- With one River, the Hazard player needs both Seized by Terror copies and must split both Rangers.
-- With one Ranger, two Rivers deny the Site Phase automatically; alternatively, one River plus a successful Seized split is enough.
+- With two Rivers, both Rangers can normally tap and proceed. The Hazard player needs at least one successful Seized split. If both Seized copies are drawn, the strongest line is to target Óin twice in separate actions: if the first roll fails, he is still moving and the second copy can try again.
+- With one River, the Hazard player needs both Seized copies and must split both Rangers. The copies must target different Rangers; both rolls must succeed.
+- With one Ranger, two Rivers deny the Site Phase automatically. With one River and two Seized copies, the Hazard player can try the same Ranger twice.
 
 The probability that a fresh draw contains at least one River **and** at least one Seized by Terror is 11.88% for six cards and 20.49% for eight cards. That is not the same as the denial probability: the target's split roll and the number of Rangers still matter.
 
@@ -147,8 +151,8 @@ A direct Starter Movement route can be strategically safer even if it draws the 
 2. The same company faces two Rivers. How many Rangers are required, and can it take Site Phase actions?
 3. The company adds Gandalf but not Gildor. What changes about the Hazard Limit? What changes about River?
 4. The company adds Gildor instead. How many Rangers are now available?
-5. Óin and Gildor are both untapped. One River and Seized by Terror are played. Can the Hazard player deny the Site Phase by splitting Óin?
-6. Óin and Gildor are both untapped. Two Rivers and Seized by Terror are played. Which Ranger is the stronger target?
+5. Óin and Gildor are both untapped. One River and one Seized by Terror are played. Can the Hazard player deny the Site Phase by splitting Óin? What changes if the second Seized copy is also drawn?
+6. Óin and Gildor are both untapped. Two Rivers and one Seized by Terror are played. Which Ranger is the stronger target? What is the best use of a second Seized copy if the first roll against Óin fails?
 7. The company has seven characters, but only Óin and Gildor are Rangers. Does the seventh character help satisfy a third River?
 8. One Ranger is already tapped when the Site Phase begins. How many additional untapped Rangers are available for two Rivers?
 9. Why is Seized by Terror illegal on the direct Lórien → Iron Hill Starter Movement path but legal on the final Eagles’ Eyrie → Iron Hill Region Movement leg?

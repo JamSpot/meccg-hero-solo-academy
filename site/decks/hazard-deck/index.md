@@ -407,7 +407,7 @@ Use the [Shadow-land Route & Seized by Terror Lab]({{ '/scenarios/shadowland-rou
 
 The two River copies and two Seized by Terror copies are not a universal combination: Seized by Terror requires a Shadow-land or Dark-domain in the company's site path, while River is playable on the destination site. On the direct Lórien → Iron Hill Starter Movement path, Seized is illegal. On the supplementary Eagles’ Eyrie → Iron Hill Region Movement path through Grey Mountain Narrows, it is legal.
 
-Against five Dwarves, Óin is the only Ranger. If one River and Seized are both drawn on the Shadow-land route, target Óin: his 2D6 + mind result splits him on 26/36 outcomes (72.2%), leaving no Ranger to satisfy River. If two Rivers are drawn, the five-Dwarf company already lacks the two Rangers required; target Dori for the higher 91.7% split chance unless another tactical consideration matters. With Óin and Gildor both untapped, one River can still be satisfied after one Ranger splits, but two Rivers cannot. See the [Iron Hill River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/iron-hill-river-lab/answer-key/' | relative_url }}).
+Against five Dwarves, Óin is the only Ranger. If one River and one Seized are both drawn on the Shadow-land route, target Óin: his 2D6 + mind result splits him on 26/36 outcomes (72.2%), leaving no Ranger to satisfy River. If both Seized copies are drawn, a failed first roll can be followed by a second attempt against Óin, raising the chance of at least one split to 92.28%. If two Rivers are drawn, the five-Dwarf company already lacks the two Rangers required; target Dori for the higher 91.7% split chance unless another tactical consideration matters. With Óin and Gildor both untapped, one River can still be satisfied after one Ranger splits; to deny that single River, both Rangers must split. Two Rivers require both Rangers to tap, so one successful split is enough to deny the Site Phase. See the [Iron Hill River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/iron-hill-river-lab/answer-key/' | relative_url }}).
 
 
 For an isolated fresh eight-card sample, the chance of drawing at least one River and at least one Seized by Terror is **802/3915 = 20.5%**. This gives a useful stress-test frequency for the Iron Hill Shadow-land route, but it is not the exact probability of the second leg in a continuous staged expedition because the first leg changes the Hazard deck's draw/discard state. The [Iron Hill River & Seized by Terror Lab]({{ '/scenarios/iron-hill-river-lab/' | relative_url }}) keeps that distinction explicit.
@@ -418,12 +418,12 @@ The active deck has River ×2 and Seized by Terror ×2. A five-Dwarf company has
 
 For a fresh draw from the 30-card Hazard deck, the chance that the Hazard player can force a Site Phase denial with River/Seized alone is:
 
-| Moving company | Six-card Wind Throne draw | Eight-card Iron Hill draw |
+| Moving company | Six-card Wind Throne draw | Eight-card Shadow-land leg to Iron Hill via Eagles’ Eyrie |
 |---|---:|---:|
-| One untapped Ranger | **11.35%** | **19.42%** |
-| Two untapped Rangers | **1.05%** | **2.80%** |
+| One untapped Ranger (Óin) | **11.53%** | **19.87%** |
+| Two untapped Rangers (Óin + Gildor) | **1.05%** | **2.81%** |
 
-These are probabilities of a complete denial line, including the required Seized split rolls—not merely the chance of drawing both card names. They assume a fresh deck, no prior discard/recycle state, and no other effect tapping or protecting Rangers. The two-Ranger line is much harder to assemble: with one River, both Rangers must split; with two Rivers, at least one must split.
+These are probabilities of a complete denial line, including the required Seized split rolls—not merely the chance of drawing both card names. They assume a fresh deck, no prior discard/recycle state, and no other effect tapping or protecting Rangers. The two-Ranger line is much harder to assemble: with one River, both Rangers must split; with two Rivers, at least one must split. When both Seized by Terror copies are available, use them differently: against two Rivers, target the lower-mind Ranger twice in separate actions (a failed first roll leaves him moving and targetable); against one River, target each Ranger once, because both must split. Seized by Terror has no printed cannot-be-duplicated restriction, and each play counts separately against the Hazard Limit. The corrected exact figures and assumptions are in the [Ranger Capacity Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}).
 
 The full calculation and decision table are in the [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/ranger-capacity-lab/answer-key/' | relative_url }}). No card substitution is recommended; use the current 30-card baseline for the first three recorded games.
 

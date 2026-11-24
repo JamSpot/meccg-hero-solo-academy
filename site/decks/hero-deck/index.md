@@ -631,7 +631,7 @@ The five starting Dwarves contain one Ranger: Óin. Gandalf adds no Ranger skill
 | Five Dwarves + Gildor | 2 | 6 |
 | Five Dwarves + Gandalf + Gildor | 2 | 7 |
 
-A larger company can face a larger Hazard Limit without gaining any extra ability to satisfy River. Gildor gives genuine redundancy: one Ranger can satisfy a single River if the other is split by Seized by Terror. Two Rivers still require two untapped Rangers.
+A larger company can face a larger Hazard Limit without gaining any extra ability to satisfy River. Gildor gives genuine redundancy only when he is in the same moving company and remains untapped. With one River and one Seized by Terror, splitting either Ranger still leaves the other able to tap; if both Seized copies are drawn, the Hazard player can try to split both Rangers, but both rolls must succeed to deny that one River. With two Rivers, splitting either Ranger denies the Site Phase; if both Seized copies are drawn, the Hazard player can target Óin twice, retrying only if the first roll fails. The exact probabilities are in the [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}).
 
 The [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-lab/' | relative_url }}) calculates how often the current Hazard deck can exploit each company profile. Keep the 36-card Hero list unchanged until the first three baseline games are recorded.
 

@@ -32,18 +32,30 @@ This six-character example is the Dwarf/Gildor moving company while Gandalf is i
 
 ## 5. One River, Seized by Terror, and two untapped Rangers
 
-If Seized by Terror splits Óin, Gildor remains and can tap for River. If it splits Gildor, Óin remains. One split cannot remove both Rangers, so the Hazard player cannot guarantee Site Phase denial with one River and one Seized by Terror.
+With one Seized by Terror, splitting Óin leaves Gildor available to tap for River; splitting Gildor leaves Óin. One copy cannot deny the Site Phase.
 
-The Hazard player should usually target a different valuable character, such as Dori, if the aim is to maximise the chance of a split rather than deny the Site Phase.
+With **both** Seized copies, the Hazard player can try to deny it by targeting Óin and Gildor separately. Both rolls must succeed:
+
+\[
+\frac{26}{36}\times\frac{21}{36}=\frac{546}{1296}=42.13\%.
+\]
+
+If either Ranger remains with the company, that Ranger can satisfy the single River. Whether this line is preferable to splitting another valuable character depends on the company's actual state and the value of denying the objective.
 
 ## 6. Two Rivers, Seized by Terror, and two untapped Rangers
 
-Two Rivers require both Rangers. If Seized by Terror splits either Ranger, only one remains and the company cannot satisfy both River costs. Óin is the stronger target:
+Two Rivers require both Rangers. If Seized by Terror splits either Ranger, only one remains and the company cannot satisfy both River costs. Óin is the stronger first target:
 
 - Óin, mind 3: 26/36 = **72.2%** split chance.
 - Gildor, mind 4: 21/36 = **58.3%** split chance.
 
-The Hazard player should normally target Óin.
+If the Hazard player has **two** Seized copies, the best River-denial sequence is to target Óin with the first copy and, if that roll fails, target Óin again with the second. A successful first split already denies the Site Phase; a failed first roll leaves Óin moving and eligible for the second attempt.
+
+\[
+1-\left(\frac{10}{36}\right)^2=92.28\%.
+\]
+
+This is stronger than assigning one Seized copy to each Ranger (88.43% chance of at least one split), because only one Ranger needs to be removed when two Rivers are in play.
 
 ## 7. Seven characters but only two Rangers
 
@@ -65,12 +77,15 @@ The route does not change the number of Hazards drawn: Iron Hill's normal Hazard
 
 A River and Seized by Terror in the Hazard hand create an opportunity, not an automatic denial.
 
-- With one Ranger and one River, the Seized split must succeed against that Ranger.
-- With two Rangers and one River, one Ranger can still satisfy River after the other splits.
-- With two Rangers and two Rivers, splitting either Ranger is enough to leave too few Rangers.
-- With two Rivers and only one Ranger, River already denies the Site Phase without a split roll.
+- **One Ranger + one River + one Seized:** one successful split denies the Site Phase.
+- **One Ranger + one River + two Seized:** the Hazard player may try the same Ranger twice; either successful roll denies the Site Phase.
+- **Two Rangers + one River + one Seized:** one split is not enough.
+- **Two Rangers + one River + two Seized:** both Rangers must be split, one by each copy; both rolls must succeed.
+- **Two Rangers + two Rivers + one Seized:** one successful split denies the Site Phase.
+- **Two Rangers + two Rivers + two Seized:** one Ranger can be targeted twice; at least one of the two rolls must succeed.
+- **Two Rivers + only one Ranger:** River already denies the Site Phase without a split roll.
 
-Always count the Rangers who can actually tap at the beginning of the Site Phase.
+Always count the Rangers who can actually tap at the beginning of the Site Phase, and count how many Seized attempts the Hazard player can afford within the fixed Hazard Limit.
 
 ## Probability calculations
 
@@ -81,34 +96,42 @@ The active 30-card Hazard deck has two River, two Seized by Terror and 26 other 
 A Site Phase denial is available if either:
 
 - both River copies are drawn (automatic denial with one Ranger), or
-- exactly one River and at least one Seized by Terror are drawn, and the Seized split roll succeeds against the sole Ranger.
+- at least one River and at least one Seized by Terror are drawn, and a Seized split succeeds against the sole Ranger.
 
-For Óin, the split chance is 26/36.
+For Óin (mind 3), one attempt succeeds on 26/36 rolls (72.2%). If both Seized copies are drawn with one River, the Hazard player can target Óin twice in separate actions. The chance that at least one attempt succeeds is:
+
+\[
+1-\left(\frac{10}{36}\right)^2=\frac{299}{324}=92.28\%.
+\]
 
 | Draw size | Chance of denial |
 |---|---:|
-| 6 cards | 1867/16443 = **11.35%** |
-| 8 cards | 236/1215 = **19.42%** |
+| 6 cards | 17063/147987 = **11.53%** |
+| 8 cards | 63026/317115 = **19.87%** |
 
 ### Two untapped Rangers
 
 A Site Phase denial is available if either:
 
-- both Rivers and at least one Seized are drawn, with at least one Ranger successfully split; or
+- both Rivers and at least one Seized are drawn, and at least one Ranger is successfully split; or
 - one River and both Seized copies are drawn, and both Rangers are successfully split.
 
-For two Seized attempts against Óin and Gildor, the chance that at least one Ranger splits is:
+For two Rivers and two Seized copies, target Óin twice. The chance of at least one successful split is:
 
-**1 − (10/36 × 15/36) = 88.43%.**
+\[
+1-\left(\frac{10}{36}\right)^2=92.28\%.
+\]
 
-The chance both split is:
+For one River and two Seized copies, target Óin and Gildor separately. Both must split:
 
-**26/36 × 21/36 = 42.13%.**
+\[
+\frac{26}{36}\times\frac{21}{36}=42.13\%.
+\]
 
 | Draw size | Chance of denial |
 |---|---:|
-| 6 cards | 1381/131544 = **1.05%** |
-| 8 cards | 3941/140940 = **2.80%** |
+| 6 cards | 6227/591948 = **1.05%** |
+| 8 cards | 17797/634230 = **2.81%** |
 
 These figures assume both Rangers begin untapped, no other effect changes the company, the Hazard player chooses the River/Seized line, no sideboard access has halved the Hazard Limit, and all cards come from a fresh shuffled deck. They are not the probability of winning the game, nor the exact probability of a later draw in a continuous expedition.
 
