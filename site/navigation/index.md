@@ -23,7 +23,8 @@ Use the visible header menu on every page to switch sections. This map also link
 
 ## Build and check the decks
 - [Decks overview]({{ '/decks/' | relative_url }})
-- [Hero Deck Construction]({{ '/decks/hero-deck/' | relative_url }})\n- [Hero Opening Hand & Access Lab]({{ '/scenarios/hero-opening-hand-lab/' | relative_url }}) · [Model answer]({{ '/scenarios/hero-opening-hand-lab/answer-key/' | relative_url }})
+- [Hero Deck Construction]({{ '/decks/hero-deck/' | relative_url }})
+- [Hero Opening Hand & Access Lab]({{ '/scenarios/hero-opening-hand-lab/' | relative_url }}) · [Model answer]({{ '/scenarios/hero-opening-hand-lab/answer-key/' | relative_url }})
 - [Location Deck Legality & Wind Throne Lab]({{ '/scenarios/location-deck-legality-lab/' | relative_url }}) — correct the historical Minion Dead Marshes entry and verify the Hero Location deck.
 - [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }})
 - [Hazard Deck Construction]({{ '/decks/hazard-deck/' | relative_url }})
