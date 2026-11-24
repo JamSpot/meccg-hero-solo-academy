@@ -96,8 +96,8 @@ The table is the chance that the Hazard player can create a Site Phase denial us
 
 | Moving company | 6-card draw (Wind Throne) | 8-card draw (Iron Hill) |
 |---|---:|---:|
-| One Ranger; all other characters irrelevant to River | **11.35%** | **19.42%** |
-| Two untapped Rangers | **1.05%** | **2.80%** |
+| One Ranger (Óin) | **11.53%** | **19.87%** |
+| Two untapped Rangers (Óin + Gildor) | **1.05%** | **2.81%** |
 
 Why the two-Ranger figure is much lower:
 
