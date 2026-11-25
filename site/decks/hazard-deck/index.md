@@ -9,7 +9,7 @@ title: Hazard Deck Construction
 
 For Game 1 and the first Academy lessons, use the 30-card Hazard portion of the historical **Dwarven Quest / Pallando Challenge Deck C**, adapted for the Gandalf-led Academy. This is a teaching baseline, not a claim that it is the strongest possible Hazard deck.
 
-These are genuine physical cards. No proxies are intended.
+These are genuine physical cards. No proxies are intended. The list draws from The Wizards, The Dragons, Dark Minions and Against the Shadow; the [Physical Card Acquisition Checklist]({{ '/decks/acquisition-checklist/' | relative_url }}) gives the exact expansion-by-expansion card counts.
 
 | Quantity | Card |
 |---:|---|

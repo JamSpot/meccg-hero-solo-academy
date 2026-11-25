@@ -14,7 +14,7 @@ https://jamspot.github.io/meccg-hero-solo-academy/
 - Current working first-play Hero play deck: 36 cards (30 Resources, five non-Wizard characters and one Gandalf); separate 30-card Hazard deck and 15-card **Hero-only** Location deck. The historical Dead Marshes entry was Minion-alignment and has been replaced by the Hero version of The Wind Throne.
 - Hero only.
 - Gandalf as the Academy Wizard.
-- Primary card pool: The Wizards + The Dragons.
+- The Challenge Deck C-derived baseline uses The Wizards, The Dragons, Dark Minions and Against the Shadow. The [88-card physical acquisition checklist](https://jamspot.github.io/meccg-hero-solo-academy/decks/acquisition-checklist/) lists every required copy by expansion.
 - Genuine physical cards only; no proxies.
 - Historical Dwarven Quest / Pallando Challenge Deck C strategy as the learning baseline.
 - Dragon content is environmental/advanced rather than Dragon-heavy beginner play.
@@ -25,6 +25,8 @@ This repository is **not** the Arda format project. Its active 36-card Gandalf-l
 Arda card pools, Arda rules and Arda-specific solitaire variants are maintained in a separate project and are intentionally outside this repository's scope.
 
 ## Latest research modules
+
+- [Physical Card Acquisition Checklist](https://jamspot.github.io/meccg-hero-solo-academy/decks/acquisition-checklist/) — all 88 cards in the first-play setup, grouped by expansion, with the corrected Hero-only Location deck and physical assembly steps.
 
 - [Hazard Deck Balance Lab](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/hazard-deck-balance-lab/) and [model answer](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/hazard-deck-balance-lab/answer-key/) — route-specific draw probabilities, baseline audit and a controlled two-card Hazard experiment.
 - [Location Deck Legality & Wind Throne Lab](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/location-deck-legality-lab/) and [model answer](https://jamspot.github.io/meccg-hero-solo-academy/scenarios/location-deck-legality-lab/answer-key/) — corrects the historical Minion-site entry, audits the Hero The Wind Throne card, and works through its Starter Movement route and Hazard keys.
