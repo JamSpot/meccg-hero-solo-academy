@@ -74,11 +74,21 @@ That extra limit slot can let the Hazard side play one more limit-counting card.
 
 ## Drill 7 — Great-road or normal Region Movement?
 
-Normal Region Movement is the general rule that lets you travel between sites when the region route is legal. It does not require a Haven stop after every expedition.
+Normal Region Movement remains the general movement rule. Great-road is a separate short-event that can be played at the end of the Organization Phase on a company at a Haven. It does **not** make an otherwise illegal route legal.
 
-Great-road is a specific short-event played at the end of the Organization Phase on a company at a Haven. It allows the Hazard side to draw up to twice the normal number of cards during that company's Movement/Hazard Phase, then permits the company to return to its starting Haven at the end of the turn without another Movement/Hazard Phase.
+For the Academy's working interpretation, apply Great-road to the normal site-card Hazard draw **before** applying the printed solitaire formula:
 
-The card does not remove the need for a legal journey to the destination. It is a special sortie-and-return option with a substantial Hazard-side cost. Because the solitaire rules do not expressly resolve how its doubled draw interacts with the solo 2 + twice-normal formula, do not use it in the Academy's baseline Game 1.
+- Moria's normal Hazard draw: **3**.
+- Great-road permits up to twice that normal draw: **6**.
+- Solitaire draw: **2 + (2 × 6) = 14 Hazard cards**.
+- Five-Dwarf Hazard Limit: still **5**.
+- Hero draw from Moria: still up to **2**; Great-road modifies the opponent's draw, not the Hero draw.
+
+This order follows the CRF ruling that Great-road modifies the normal site-card draw. I found no published ruling that explicitly combines Great-road with the solitaire formula, so the 14-card result is an Academy interpretation rather than a direct official solo ruling. Do not double the final eight-card solo draw to get 16.
+
+At the end of the turn, the company may return to the Haven where it began, with no second Movement/Hazard Phase. If Book of Mazarbul was successfully played, it stays with its bearer; Moria is tapped and is discarded when the company leaves. If the company did not tap Moria, the untapped site returns to the Location deck.
+
+**Keep Great-road in the fixed 30-card Resource list.** For baseline Game 1, do not play it; if drawn and not part of a planned later expedition, discard it at a normal hand reset. Use the [Great-road Solo Draw Lab]({{ '/scenarios/great-road-solo-lab/' | relative_url }}) before trying the sortie-and-return option.
 
 ## Drill 8 — Moria to Goblin-gate without a Haven
 
