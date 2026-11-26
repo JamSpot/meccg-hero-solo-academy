@@ -115,12 +115,20 @@ Answer:
 
 ## Drill 7 — Great-road or normal Region Movement?
 
-You are at Rivendell and want to reach Moria. Compare:
+You are at Rivendell with five Dwarves and want to reach Moria. Great-road is in your hand. Use the legal Region Movement path **Rhudaur → Hollin → Redhorn Gate**.
 
-- using normal Region Movement to travel to Moria and remain there;
-- playing Great-road and using its special return-to-Haven option.
+Work out:
 
-State what Great-road requires, what extra opportunity it gives the Hazard side, and why the Academy does not use it in baseline Game 1 until its solitaire draw interaction is clarified.
+1. What does Great-road require, and when must it be played?
+2. Moria's normal Hazard draw number is 3. What is the maximum normal draw after Great-road?
+3. Apply the Academy's printed solo formula to that modified number. How many Hazard cards are drawn?
+4. What remains the five-Dwarf company's Hazard Limit?
+5. Does Great-road change the Hero player's draw from Moria?
+6. If you enter Moria and successfully play Book of Mazarbul, what happens to the Book and Moria site card when Great-road returns the company to Rivendell?
+7. Does the return create another Movement/Hazard Phase?
+8. Compare the risk with simply moving to Moria and staying there.
+
+The [Great-road Solo Draw Lab]({{ '/scenarios/great-road-solo-lab/' | relative_url }}) contains the full rules chain and a probability comparison. Treat its Great-road calculation as the Academy's clearly labelled working interpretation, not as a separate official ruling for the solitaire combination.
 
 ## Drill 8 — Moria to Goblin-gate without a Haven
 
