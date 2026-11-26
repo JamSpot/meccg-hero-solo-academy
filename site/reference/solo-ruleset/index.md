@@ -73,7 +73,13 @@ For the Game 1 journey to Moria, the normal Hazard draw number is **3**, so:
 
 **2 + (2 × 3) = 8 Hazard cards.**
 
-The number used for the normal draw depends on the standard rules for that movement. For example, when moving to a non-Haven site, the draw is normally based on the new site; when moving to a Haven, the normal rules use the site of origin. Apply the normal rule first, then double that number and add two for the solo draw.
+The number used for the normal draw depends on the standard rules for that movement. For example, when moving to a non-Haven site, the draw is normally based on the new site; when moving to a Haven, the normal rules use the site of origin. Apply the normal rule first, then apply any card-draw modifiers to that normal number, and finally double that number and add two for the solo draw.
+
+### Great-road and other draw modifiers
+
+Great-road says the Hazard player may draw up to twice the normal number of cards for the company. The CRF ruling for Great-road clarifies that it modifies the normal draw number shown on the site card. The Academy therefore applies it **before** the solo formula. On the Rivendell → Moria teaching route, Moria's normal Hazard draw of 3 becomes up to 6 under Great-road, then the solo draw is **2 + (2 × 6) = 14**. This is not 16: Great-road modifies the normal site draw, not the already-calculated eight-card solo hand.
+
+The five-Dwarf Hazard Limit remains **5** and the Hero draw remains up to **2**. Great-road's end-of-turn return to the starting Haven is movement with no second Movement/Hazard Phase, so it creates no second Hazard draw. I found no published ruling that explicitly combines Great-road with the solitaire formula; treat the 14-card result as the Academy's working interpretation. See the [Great-road Solo Draw Lab]({{ '/scenarios/great-road-solo-lab/' | relative_url }}) for the full calculation and source chain.
 
 ### Companies that do not move
 
