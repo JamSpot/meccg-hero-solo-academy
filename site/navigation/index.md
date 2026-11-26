@@ -58,6 +58,7 @@ Use the visible header menu on every page to switch sections. This map also link
 - [Hero Opening Hand & Access Lab]({{ '/scenarios/hero-opening-hand-lab/' | relative_url }}) · [Model answer]({{ '/scenarios/hero-opening-hand-lab/answer-key/' | relative_url }})
 - [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practice/' | relative_url }})
 - [Hero Resource Timing Workshop — model answers]({{ '/scenarios/hero-resource-practice/answer-key/' | relative_url }})
+- [Great-road Solo Draw Lab]({{ '/scenarios/great-road-solo-lab/' | relative_url }}) · [Model answer]({{ '/scenarios/great-road-solo-lab/answer-key/' | relative_url }})
 - [Resource Route Planner]({{ '/scenarios/resource-route-planner/' | relative_url }})
 - [Resource Route Planner — model answer]({{ '/scenarios/resource-route-planner/answer-key/' | relative_url }})
 - [Location Deck Legality & Wind Throne Lab — model answer]({{ '/scenarios/location-deck-legality-lab/answer-key/' | relative_url }})
