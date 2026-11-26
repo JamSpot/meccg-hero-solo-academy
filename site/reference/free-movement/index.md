@@ -342,14 +342,17 @@ See [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | rel
 
 **Region Movement** is the normal movement option that lets a company travel between sites—including non-Haven sites—when the region sequence is legal. You do not have to return to a Haven after every expedition.
 
-**Great-road** is a separate Resource short-event. It can be played at the end of the Organization Phase on a company at a Haven. It allows the opponent to draw up to twice the normal number of cards for that company during the Movement/Hazard Phase; at the end of the turn the company may return to the Haven where it began, with no second Movement/Hazard Phase.
+**Great-road** is a separate Resource short-event. It can be played at the end of the Organization Phase on a company at a Haven. It allows the Hazard side to draw up to twice the normal number of cards for that company during the Movement/Hazard Phase; at the end of the turn the company may return to the Haven where it began, with no second Movement/Hazard Phase.
 
 Therefore:
 
 - Great-road is a special return-to-origin option, not a general permission to move anywhere.
 - The company must still make a legal movement to its destination.
 - The extra Hazard draw is a serious cost.
-- The published solitaire formula does not explicitly explain how to combine Great-road's doubled normal draw with the solo **2 + twice-normal** draw. Until that interaction is resolved, leave Great-road out of the Academy's baseline Game 1.
+- The Academy's working interpretation is to apply Great-road to the normal site-card Hazard draw **before** the printed solo formula. At Moria, the normal number 3 becomes up to 6; the solo draw is then **2 + (2 × 6) = 14**. The five-Dwarf Hazard Limit remains 5 and the Hero draw remains up to 2.
+- The Great-road ruling confirms that the card modifies the normal site-card draw, but I found no published ruling that explicitly combines it with the solitaire formula. Treat 14 as the Academy's best-supported interpretation, not a direct solo-specific ruling.
+
+For baseline Game 1, do not play Great-road; **keep it in the fixed Hero deck**. If drawn and not planned for a later sortie, discard it at a normal hand reset. Work through the [Great-road Solo Draw Lab]({{ '/scenarios/great-road-solo-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/great-road-solo-lab/answer-key/' | relative_url }}) before using the card.
 
 Do not confuse **not needing a Haven stop** with **using Great-road**. The former comes from legal Region Movement; the latter is a specific card with a substantial Hazard-side drawback.
 
