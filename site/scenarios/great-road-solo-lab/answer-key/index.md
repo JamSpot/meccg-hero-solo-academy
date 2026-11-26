@@ -53,10 +53,7 @@ For a fresh shuffled deck, the probability of drawing at least five creatures is
 
 The probability is calculated without replacement:
 
-\[
-P(X\geq 5)=\sum_{k=5}^{\min(16,n)}
-\frac{\binom{16}{k}\binom{14}{n-k}}{\binom{30}{n}}
-\]
+`P(X ≥ 5) = sum from k = 5 to min(16, n) of [C(16, k) × C(14, n − k)] / C(30, n).`
 
 It means the 14-card Great-road draw almost always provides at least five creature cards from which the Hazard side can choose. It does not mean that five creatures must be played: the solo player should still choose the most disadvantageous **legal** combination, which may include support events. It also does not increase the five-card Hazard Limit.
 
