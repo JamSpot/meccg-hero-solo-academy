@@ -508,3 +508,23 @@ The split-off character does not receive a separate Movement/Hazard Phase, Hazar
 
 
 A successful return to site of origin also has a site-card safeguard: if the origin site card has already left play, CoE Digest #125 Q6 requires it (or the resource card acting as the site) to return to play in the same orientation, even from the discard or out-of-play pile. This is why the return effect is not treated as an ordinary loss of the site card. See the [Seized by Terror — Aftermath & Regrouping Lab]({{ '/scenarios/seized-terror-aftermath-lab/' | relative_url }}).
+
+
+## Return-route example — Blue Mountain Dwarf-hold to Rivendell
+
+After storing Book of Mazarbûl at Blue Mountain Dwarf-hold, you can return directly to Rivendell by Region Movement:
+
+**Númeriador → Arthedain → Rhudaur**
+
+This is a legal three-region route. The Hero Region cards show the required adjacencies, and all three regions are Wilderness. The fact that Blue Mountain Dwarf-hold lists Grey Havens as its nearest Haven restricts the relevant Starter Movement choice; it does not prevent a legal Region Movement to Rivendell.
+
+Compare the two options:
+
+- **Direct Region Movement to Rivendell:** one phase, three Wilderness regions, normal Hazard draw from the Blue Mountain origin (1), solo Hazard draw **4**, Hero draw up to **1**.
+- **Starter Movement via Grey Havens:** first leg Blue Mountain → Grey Havens uses the Blue Mountain origin draw (1), solo draw **4**; the later Grey Havens → Rivendell leg uses Grey Havens' origin draw (2), solo draw **6**. Total: two phases and **10 Hazard cards**.
+
+The direct route exposes Cave Worm through Númeriador and Giant Spiders through double Wilderness. The first Starter leg exposes Cave Worm but not Giant Spiders; the second exposes Giant Spiders but not Cave Worm. Neither route contains a Shadow-land or Dark-domain, so Seized by Terror is not legal.
+
+**Teaching point:** a nearest-Haven relationship governs Starter Movement, not Region Movement. You can choose a different Haven by a legal Region Movement route. For the complete card-by-card comparison, see [Blue Mountain Dwarf-hold → Rivendell]({{ '/routes/blue-mountain-rivendell/' | relative_url }}) and the [Return & Haven Choice Lab]({{ '/scenarios/blue-mountain-return-lab/' | relative_url }}).
+
+The draw numbers are based on the site of origin whenever the company moves to a Haven. The four- and six-card solo draws are separate Movement/Hazard Phases; do not combine their Hazard Limits.
