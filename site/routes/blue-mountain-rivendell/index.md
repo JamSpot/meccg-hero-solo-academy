@@ -16,7 +16,6 @@ The example is important because Blue Mountain Dwarf-hold's printed nearest Have
 **Company:** the five starting Dwarves.  
 **Book:** already stored; it is no longer being carried.
 
-<AsyncImage query="Middle-earth CCG Blue Mountain Dwarf-hold site card The Wizards" />
 
 ## Option A — direct to Rivendell by Region Movement
 
