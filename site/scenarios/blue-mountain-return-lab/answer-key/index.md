@@ -27,6 +27,9 @@ Rivendell is a Haven. The normal draw numbers therefore come from the site of or
 
 The company draws four Hazard cards. It cannot play more than the cards it drew, even though its base Hazard Limit is five.
 
+The five-card Hazard Limit assumes only the five Dwarves. If Gandalf joins the company, he counts as a character for company-size purposes: six characters means a base Hazard Limit of **6**. The site-card draw numbers remain unchanged.
+
+
 ## 2. Plan B — Starter Movement via Grey Havens
 
 ### First leg: Blue Mountain Dwarf-hold → Grey Havens
