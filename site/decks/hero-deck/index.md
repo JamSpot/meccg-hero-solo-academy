@@ -651,3 +651,12 @@ This matters for the current Dwarf company:
 - If the target is a controller, its followers remain stacked under it and accompany it into the returning company.
 
 Items borne by the target stay with that character; CoE Digest #119 specifically confirms that a Palantír is not discarded merely because Seized by Terror returns its bearer. The full card/effect and regrouping procedure is in the [Seized by Terror — Aftermath & Regrouping Lab]({{ '/scenarios/seized-terror-aftermath-lab/' | relative_url }}).
+
+
+## Post-Book return: no Hero deck change yet
+
+The fixed 36-card Hero list does not need a new Resource merely to return from Blue Mountain Dwarf-hold to Rivendell. The movement choice comes from the Region cards and the site-card draw rules, not from adding a special travel card.
+
+Keep Great-road in the locked baseline for testing, but do not treat it as the Blue Mountain return solution: Great-road requires the company to start at a Haven, and Blue Mountain Dwarf-hold is a Free-hold. It remains an optional Haven-based sortie card. Do not remove or add copies until the first three baseline games provide evidence.
+
+Use the [Blue Mountain → Rivendell route example]({{ '/routes/blue-mountain-rivendell/' | relative_url }}) to plan the return and the [Return & Haven Choice Lab]({{ '/scenarios/blue-mountain-return-lab/' | relative_url }}) to test its implications.
