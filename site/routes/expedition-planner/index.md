@@ -364,3 +364,14 @@ When a route exposes a Shadow-land or Dark-domain, do not merely mark Seized by 
 - whether a character-specific effect such as Promptings of Wisdom or Stealth changes which company remains protected.
 
 A successful split does not give the target a second Movement/Hazard Phase or new Hazard Limit. The original company continues with its fixed limit; the returned company cannot take Site Phase actions that turn. Use the [Seized by Terror — Aftermath & Regrouping Lab]({{ '/scenarios/seized-terror-aftermath-lab/' | relative_url }}) before using a split as a route-denial tactic.
+
+
+## Worked plan — return to Rivendell after storing the Book
+
+Once Book of Mazarbûl is stored at Blue Mountain Dwarf-hold, decide whether the company needs Rivendell or whether Grey Havens itself has a purpose.
+
+**Direct route:** Region Movement Númeriador → Arthedain → Rhudaur. This is three regions, all Wilderness. Rivendell is a Haven, so use the Blue Mountain origin draw of 1/1: Hero draw up to 1, normal Hazard draw 1, Academy solo Hazard draw **4**, five-Dwarf base Hazard Limit 5.
+
+**Starter route:** Blue Mountain Dwarf-hold → Grey Havens is legal because Grey Havens is the printed nearest Haven. The first leg uses the same 1/1 origin draw and solo Hazard draw 4. Grey Havens → Rivendell is a later Haven-to-Haven movement; use Grey Havens' 2/2 origin draw, Hero draw up to 2 and solo Hazard draw **6**. The two phases total ten Hazard cards, each with its own five-card company limit.
+
+The direct route is the default when the mission is simply to recover at Rivendell. The extra Grey Havens stop is justified only when that stop itself has a purpose. See the [full route comparison]({{ '/routes/blue-mountain-rivendell/' | relative_url }}) and complete the [practice lab]({{ '/scenarios/blue-mountain-return-lab/' | relative_url }}) before using the route in a scored game.
