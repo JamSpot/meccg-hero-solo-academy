@@ -71,6 +71,17 @@ The second Starter path has two Wilderness regions, so Giant Spiders is legal. C
 | Wargs ×2 | Yes — Wilderness | Yes — Wilderness | Yes — Wilderness |
 | Watcher in the Water ×3 | No — no Coastal Sea or Moria | No | No |
 
+### Fixed four-card Hazard hand
+
+| Card | Direct Region route | Blue Mountain → Grey Havens | Grey Havens → Rivendell |
+|---|---|---|---|
+| Cave Worm | Playable — Númeriador | Playable — Númeriador | Not playable — no named-region key |
+| Giant Spiders | Playable — three Wilderness | Not playable — only one Wilderness | Playable — two Wilderness |
+| Watcher in the Water | Not playable — no Coastal Sea or Moria | Not playable | Not playable |
+| Seized by Terror | Not playable — no Shadow-land or Dark-domain | Not playable | Not playable |
+
+With this fixed four-card hand, the Hazard player can play two cards on the direct route (Cave Worm and Giant Spiders), one on the first Starter leg (Cave Worm), and one on the second Starter leg (Giant Spiders). All other cards in the sample hand fail their active conditions. Each playable creature still counts against that phase's Hazard Limit.
+
 That produces these route-legal creature-copy counts:
 
 - Direct Region Movement: **13 of 16**.
