@@ -437,3 +437,20 @@ The Hazard player should then continue the current Movement/Hazard Phase against
 Do not assume all company effects follow the same group. Character-specific “his company” effects can follow the named character, while generic company effects can spread across the split companies. Promptings of Wisdom has a specific 2025 clarification when its Ranger is the target.
 
 The [Seized by Terror — Aftermath & Regrouping Lab]({{ '/scenarios/seized-terror-aftermath-lab/' | relative_url }}) covers the target's carried items, followers, Palantír ruling, company effects, no-new-Hazard-Limit ruling and the Promptings of Wisdom exception.
+
+
+## New route audit — Blue Mountain Dwarf-hold return to Rivendell
+
+The return leg after storing Book of Mazarbûl is a useful test of whether the fixed Hazard deck is too dependent on the Moria route.
+
+| Route | Solo draw | Route-legal creature copies | Key distinction |
+|---|---:|---:|---|
+| Blue Mountain → Rivendell by Region Movement (Númeriador → Arthedain → Rhudaur) | **4** | **13/16** | Cave Worm via Númeriador and Giant Spiders via three Wilderness regions |
+| Blue Mountain → Grey Havens by Starter Movement | **4** | **10/16** | Cave Worm via Númeriador; only one Wilderness, so no Giant Spiders |
+| Grey Havens → Rivendell by Starter Movement | **6** | **10/16** | Two Wilderness regions permit Giant Spiders; no Númeriador key for Cave Worm |
+
+The counts are copies in the fixed 16-creature package, not probabilities and not guaranteed draws. The Hazard player can only use cards actually drawn and must check every card's other conditions.
+
+This route also confirms two non-creature limits in the current package: Seized by Terror has no Shadow-land or Dark-domain to key to, and Watcher in the Water has neither its Coastal Sea requirement nor its explicit Moria permission. Despair of the Heart remains conditional on an eligible target; Full of Froth and Rage and Wake of War need their required creature attack.
+
+**Deck decision:** do not alter the 30-card Hazard baseline for this route. It still offers a meaningful set of legal creatures on the direct return, but the four-card draw limits how many can be presented in one phase. Record the route in the first three games before considering any card-count change. See the [route explanation]({{ '/routes/blue-mountain-rivendell/' | relative_url }}) and [practice lab]({{ '/scenarios/blue-mountain-return-lab/' | relative_url }}).
