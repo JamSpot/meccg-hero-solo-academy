@@ -43,6 +43,7 @@ Use the visible header menu on every page to switch sections. This map also link
 - [Expedition Planner]({{ '/routes/expedition-planner/' | relative_url }})
 - [Rivendell → Moria]({{ '/routes/rivendell-moria/' | relative_url }})
 - [Moria → Blue Mountain Dwarf-hold]({{ '/routes/moria-blue-mountain/' | relative_url }})
+- [Blue Mountain Dwarf-hold → Rivendell]({{ '/routes/blue-mountain-rivendell/' | relative_url }})
 - [Iron Hill Dwarf-hold Expedition]({{ '/routes/iron-hill-expedition/' | relative_url }}) — Starter versus Region Movement and route-dependent Hazard keys
 - [Site Path Tactics Lab]({{ '/scenarios/site-path-tactics-lab/' | relative_url }}) — Starter vs Region Movement and Hazard keying
 - [Gandalf's Grey Havens → Lórien route and company plan]({{ '/decks/gandalf-support-company/' | relative_url }})
@@ -55,6 +56,7 @@ Use the visible header menu on every page to switch sections. This map also link
 ## Practice
 - [Practice Scenarios]({{ '/scenarios/' | relative_url }})
 - [First Session Practice Workbook]({{ '/scenarios/first-session/' | relative_url }})
+- [Blue Mountain Return & Haven Choice Lab]({{ '/scenarios/blue-mountain-return-lab/' | relative_url }}) · [Model answer]({{ '/scenarios/blue-mountain-return-lab/answer-key/' | relative_url }})
 - [Hero Opening Hand & Access Lab]({{ '/scenarios/hero-opening-hand-lab/' | relative_url }}) · [Model answer]({{ '/scenarios/hero-opening-hand-lab/answer-key/' | relative_url }})
 - [Hero Resource Timing Workshop]({{ '/scenarios/hero-resource-practice/' | relative_url }})
 - [Hero Resource Timing Workshop — model answers]({{ '/scenarios/hero-resource-practice/answer-key/' | relative_url }})
