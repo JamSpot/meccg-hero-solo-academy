@@ -103,7 +103,7 @@ For the stated objective—return to Rivendell—the default is **Plan A**:
 
 Plan A does expose more creature copies in its one phase, including both Cave Worm and Giant Spiders. Plan B has a narrower first leg, but its second leg draws six cards and exposes Giant Spiders. The extra stop is justified only if Grey Havens itself is part of the next plan.
 
-For example, if the Hero player wants to bring Gandalf into play at his home site, reaching Grey Havens can provide a reason to stop there and use a later Organization Phase. It is not a free shortcut: it costs another turn and another Movement/Hazard Phase.
+If Grey Havens itself is part of the next objective, the extra stop may be justified. It is not a free shortcut: it costs another turn and another Movement/Hazard Phase.
 
 ## 5. Haven healing
 
