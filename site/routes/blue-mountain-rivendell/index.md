@@ -47,6 +47,9 @@ Rivendell is a Haven. When a company moves to a Haven, the normal draw numbers c
 
 The company draws four cards from the separate Hazard deck. Its five-card Hazard Limit does not turn those four cards into five plays.
 
+These Hazard Limit figures assume the five starting Dwarves only. If Gandalf joins them, he counts as a character for company-size purposes: the company has six characters and its base Hazard Limit becomes **6**. The site-card draw numbers do not change.
+
+
 ### What can the Hazard deck key?
 
 The declared path is three Wilderness regions and includes the names Númeriador, Arthedain and Rhudaur.
