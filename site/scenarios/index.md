@@ -80,3 +80,6 @@ Use the new [Ranger Capacity & River Denial Lab]({{ '/scenarios/ranger-capacity-
 
 
 Use the new [Seized by Terror — Aftermath & Regrouping Lab]({{ '/scenarios/seized-terror-aftermath-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/seized-terror-aftermath-lab/answer-key/' | relative_url }}) to follow the target back to the site of origin, distinguish the moving company from the returned company, resolve carried items and followers, apply the no-new-Hazard-Limit ruling, and understand the Promptings of Wisdom exception.
+
+
+Complete the new [Blue Mountain Return & Haven Choice Lab]({{ '/scenarios/blue-mountain-return-lab/' | relative_url }}) and its [model answer]({{ '/scenarios/blue-mountain-return-lab/answer-key/' | relative_url }}) after storing Book of Mazarbûl. It compares a direct Númeriador → Arthedain → Rhudaur Region Movement to Rivendell with the two-leg Starter Movement via Grey Havens, including the correct Haven draw numbers and route-specific creature keys.
