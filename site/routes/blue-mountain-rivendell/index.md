@@ -125,7 +125,7 @@ Across the two phases the Hazard side draws **10 cards in total** (four, then si
 
 **Default recommendation:** if the mission is simply to return to Rivendell, use the direct three-region Region Movement. It reaches the desired Haven in one movement and uses only four solo Hazard draws.
 
-Choose Grey Havens first when the stop itself has a purpose—for example, you want to spend a later Organization Phase there to bring Gandalf into play at his home site, or you deliberately prefer the first leg's narrower site path. That extra stop costs another turn and a separate six-card solo Hazard draw on the way to Rivendell.
+Choose Grey Havens first only when the stop itself has a specific campaign purpose, or when you deliberately prefer the first leg's narrower site path. That extra stop costs another turn and a separate six-card solo Hazard draw on the way to Rivendell.
 
 Neither route is risk-free. The direct route gives the Hazard side a wider creature-key set in one phase; the Starter route draws more cards over two phases but exposes fewer creature copies on each individual leg.
 
