@@ -10,6 +10,7 @@ The Route Atlas treats each trip as a decision, not just a line on a map.
 - [Rivendell → Moria](rivendell-moria/) — the first objective route and its three-Wilderness exposure.
 - [Gandalf's Grey Havens → Lórien route]({{ '/decks/gandalf-support-company/' | relative_url }}) — a Haven-to-Haven Starter Movement example, with its own solo Hazard draw and company limit.
 - [Moria → Blue Mountain Dwarf-hold](moria-blue-mountain/) — compare the Haven recovery route with the two-leg non-Haven route through Goblin-gate.
+- [Blue Mountain Dwarf-hold → Rivendell](blue-mountain-rivendell/) — compare direct three-region Region Movement with the two-leg Starter Movement via Grey Havens after storing the Book.
 - [Book of Mazarbul — Second Expedition workbook]({{ '/scenarios/book-journey/' | relative_url }}) — practise the two route legs, Hazard keying, site-entry choice and next-turn storage timing.
 - [Integrated Campaign Walkthrough]({{ '/games/campaign-walkthrough/' | relative_url }}) — follow the entire first campaign arc, including normal Hero draws, solo Hazard draws, site attacks, Haven recovery and Book storage.
 - [Gandalf and the Support Company]({{ '/decks/gandalf-support-company/' | relative_url }}) — compare one company with two separate companies and plan the Wizard's routes.
