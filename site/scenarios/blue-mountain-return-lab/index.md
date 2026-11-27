@@ -53,6 +53,17 @@ For each route, mark each creature as legal or not legal. A creature must still 
 5. Wargs — Wilderness key.
 6. Watcher in the Water — two Wilderness plus Coastal Sea, or its explicit Moria permission.
 
+### Fixed four-card Hazard hand
+
+For this drill only, assume the Hazard player has drawn exactly these four cards:
+
+- Cave Worm
+- Giant Spiders
+- Watcher in the Water
+- Seized by Terror
+
+This is a deliberately fixed exercise hand, not a prediction of what a shuffled deck will produce. Apply the site path separately to each leg and mark which cards are actually playable.
+
 Then answer:
 
 - Why can Cave Worm be played on the first Starter leg but not the Grey Havens → Rivendell leg?
